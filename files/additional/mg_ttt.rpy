@@ -16,7 +16,7 @@ translate ru mg_ttt_s_comment_4e02270b:
 translate ru mg_ttt_s_comment_8062643d:
 
     # s abfcao "Three in a row!"
-    s abfcao "Три подряд!"
+    s abfcao "Три в ряд!"
 
 # game/additional/mg_ttt.rpy:251
 translate ru mg_ttt_s_comment_2f0c788a:
