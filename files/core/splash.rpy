@@ -46,13 +46,13 @@ translate ru strings:
 
     # game/core/splash.rpy:294
     old "{=gui_text}This mod is not a substitute for a real relationship and should not be treated as such."
-    new ""
+    new "{=gui_text}Этот мод не следует рассматривать как полноценные отношения."
 
     # game/core/splash.rpy:312
     old "By playing [config.name] you agree that you have completed Doki Doki Literature Club and accept any spoilers contained within."
-    new ""
+    new "Играя в [config.name] вы подтверждаете, что прошли оригинальную DDLC и принимаете любые спойлеры."
 
     # game/core/splash.rpy:314
     old "I agree."
-    new ""
+    new "Я согласен."
 
