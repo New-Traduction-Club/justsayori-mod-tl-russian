@@ -4,19 +4,19 @@
 translate ru reaction_hairstyle_fae_bowless_fb2dcf1b:
 
     # s abhhcob "It feels a little weird without my bow... but I think I like it!"
-    s abhhcob ""
+    s abhhcob "Я чувствую себя немного необычно без бантика... но кажется мне это нравится!"
 
 # game/core/outfit_reactions.rpy:7
 translate ru reaction_hairstyle_fae_bow_6f121f8c:
 
     # s abhfaoa "There we go, my classic bow! It feels just right."
-    s abhfaoa ""
+    s abhfaoa "Вот и он, мой классический бант! Ощущается прямо как надо."
 
 # game/core/outfit_reactions.rpy:11
 translate ru reaction_clothes_fae_hoodie_86d3c529:
 
     # s abgbaoa "This hoodie is so comfy! I could wear it all day."
-    s abgbaoa ""
+    s abgbaoa "Такое уютное худи! Буду носить его целый день."
 
 # game/core/outfit_reactions.rpy:15
 translate ru reaction_clothes_fae_uniform_0519c52f:
