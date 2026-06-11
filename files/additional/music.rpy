@@ -4,91 +4,91 @@
 translate ru music_menu_2fc0ee37:
 
     # s "Ummm..."
-    s ""
+    s "Ээммм..."
 
 # game/additional/music.rpy:47
 translate ru music_menu_a0b65927:
 
     # s "Something isn't right."
-    s ""
+    s "Что-то не так."
 
 # game/additional/music.rpy:49
 translate ru music_menu_c75378ab:
 
     # s "If you don't remember, anything you want me to play has to be in {a=[location]}custom_bgm{/a} folder."
-    s ""
+    s "Ты должен поместить музыку в {a=[location]}custom_bgm{/a}, чтобы я могла её воспроизвести."
 
 # game/additional/music.rpy:57
 translate ru music_menu_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/additional/music.rpy:58
 translate ru music_menu_e4cbf22c:
 
     # s "The sound is off, silly."
-    s ""
+    s "Звук отключён, дурашка."
 
 # game/additional/music.rpy:61
 translate ru music_menu_a3774311:
 
     # s "Shall I turn the sound on?" nointeract
-    s "" nointeract
+    s "Хочешь включу?" nointeract
 
 # game/additional/music.rpy:64
 translate ru music_menu_53d5932b:
 
     # s "Give me a sec."
-    s ""
+    s "Один момент."
 
 # game/additional/music.rpy:66
 translate ru music_menu_d976f4aa:
 
     # s "There we go."
-    s ""
+    s "Вот так."
 
 # game/additional/music.rpy:67
 translate ru music_menu_ca7ed685:
 
     # "What did you want to listen to?"
-    ""
+    "Что бы ты хотел послушать?"
 
 # game/additional/music.rpy:71
 translate ru music_menu_e043d770:
 
     # s "Okay."
-    s ""
+    s "Окей."
 
 # game/additional/music.rpy:91
 translate ru music_menu_7599c034:
 
     # s "There you go."
-    s ""
+    s "Наслаждайся."
 
 translate ru strings:
 
     # game/additional/music.rpy:24
     old "Why didn't this change?"
-    new ""
+    new "Почему она не изменилась?"
 
     # game/additional/music.rpy:40
     old "No music"
-    new ""
+    new "Нет музыки."
 
     # game/additional/music.rpy:63
     old "Yes, please."
-    new ""
+    new "Да, давай."
 
     # game/additional/music.rpy:70
     old "No thanks."
-    new ""
+    new "Не, спасибо."
 
     # game/additional/music.rpy:78
     old "Nevermind."
-    new ""
+    new "Забудь."
 
     # game/additional/music.rpy:112
     old "Now playing: {0}"
-    new ""
+    new "Сейчас играет: {0}"
 
