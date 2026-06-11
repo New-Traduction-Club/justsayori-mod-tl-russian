@@ -10,7 +10,7 @@ translate ru reaction_hairstyle_fae_bowless_fb2dcf1b:
 translate ru reaction_hairstyle_fae_bow_6f121f8c:
 
     # s abhfaoa "There we go, my classic bow! It feels just right."
-    s abhfaoa "Вот и он, мой классический бант! Ощущается прямо как надо."
+    s abhfaoa "Вот и он, мой классический бант! Ощущается прям как надо."
 
 # game/core/outfit_reactions.rpy:11
 translate ru reaction_clothes_fae_hoodie_86d3c529:
@@ -22,11 +22,11 @@ translate ru reaction_clothes_fae_hoodie_86d3c529:
 translate ru reaction_clothes_fae_uniform_0519c52f:
 
     # s abagaoa "Back in my school uniform. Ready for another day at the club!"
-    s abagaoa ""
+    s abagaoa "Моя школьная форма, классика. Пора провести ещё один прекрасный денёк в клубе!"
 
 # game/core/outfit_reactions.rpy:19
 translate ru reaction_necklace_fae_scarf_c61fbbc6:
 
     # s eahcaob "Ooh, a scarf! It's so warm and cozy."
-    s eahcaob ""
+    s eahcaob "Ооо, шарфик! Так тепло и уютно..."
 
