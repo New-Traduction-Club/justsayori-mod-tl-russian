@@ -4,53 +4,53 @@
 translate ru renpystein_game_7d968efe:
 
     # s "You survived [renpy.store.last_arena_round] rounds and collected [stein_session_coins] Coins."
-    s ""
+    s "Вы пережили [renpy.store.last_arena_round] волн и получили [stein_session_coins] монет."
 
 # game/additional/renpystein/main.rpy:518
 translate ru renpystein_game_0e5dab40:
 
     # s "Now you have a total of [persistent.tradu_coins] Tradu-Coins."
-    s ""
+    s "Суммарно у вас [persistent.tradu_coins] Традукоинов."
 
 # game/additional/renpystein/main.rpy:520
 translate ru renpystein_game_7b658c2f:
 
     # s "You have [persistent.tradu_coins] Tradu-Coins."
-    s ""
+    s "У вас [persistent.tradu_coins] Традукоинов."
 
 # game/additional/renpystein/main.rpy:523
 translate ru renpystein_game_e861930e:
 
     # s "A new high score!"
-    s ""
+    s "Новый рекорд!"
 
 # game/additional/renpystein/main.rpy:525
 translate ru renpystein_game_c9f0d7f5:
 
     # s "You have a high score of [persistent.sayoristein_arena_highscore]."
-    s ""
+    s "Ваш рекорд - [persistent.sayoristein_arena_highscore]"
 
 # game/additional/renpystein/main.rpy:526
 translate ru renpystein_game_f8fd91a9:
 
     # s "Try next time!"
-    s ""
+    s "Попробуйте снова!"
 
 # game/additional/renpystein/main.rpy:528
 translate ru renpystein_game_b5bad448:
 
     # s "You died."
-    s ""
+    s "Вы погибли."
 
 # game/additional/renpystein/main.rpy:537
 translate ru renpystein_game_c20d30e8:
 
     # s "You found exit [_return]!"
-    s ""
+    s "Вы нашли выход [_return]!"
 
 translate ru strings:
 
     # game/additional/renpystein/main.rpy:55
     old "Sayoristein 3D is unavailable in this build."
-    new ""
+    new "Сайориштейн 3D не поддерживается в этой версии игры."
 
