@@ -620,27 +620,27 @@ translate ru strings:
 
     # renpy/common/00preferences.rpy:382
     old "auto-forward time"
-    new ""
+    new "время автопропуска"
 
     # renpy/common/00preferences.rpy:396
     old "auto-forward"
-    new ""
+    new "автопропуск"
 
     # renpy/common/00preferences.rpy:403
     old "Auto forward"
-    new ""
+    new "Автопропуск"
 
     # renpy/common/00preferences.rpy:406
     old "auto-forward after click"
-    new ""
+    new "автопропуск по клику"
 
     # renpy/common/00preferences.rpy:415
     old "automatic move"
-    new ""
+    new "автодвижение"
 
     # renpy/common/00preferences.rpy:424
     old "wait for voice"
-    new ""
+    new "ожидать голоса"
 
     # renpy/common/00preferences.rpy:433
     old "voice sustain"
