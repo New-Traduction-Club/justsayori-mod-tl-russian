@@ -10,15 +10,15 @@ translate ru strings:
 
     # game/core/poetry.rpy:234
     old "Hi\nNot dead\nTaking a very long nap\n\n-Sayori (alive)"
-    new ""
+    new "Привет\nЖивая\nПросто очень долго дремлю\n\n-Сайори (не мёртвая)"
 
     # game/core/poetry.rpy:245
     old "Dear Sunshine"
-    new ""
+    new "Дорогое Солнышко"
 
     # game/core/poetry.rpy:245
     old "The way you glow through my blinds in the morning\nIt makes me feel like you missed me.\nKissing my forehead to help me out of bed.\nMaking me rub the sleepy from my eyes.\nAre you asking me to come out and play?\nAre you trusting me to wish away a rainy day?\nI look above. The sky is blue.\nIt's a secret, but I trust you too.\nIf it wasn't for you, I could sleep forever.\nBut I'm not mad.\nI want breakfast."
-    new ""
+    new "То, как свет твой сияет сквозь жалюзи по утрам\nНамекает мне на то, что ты скучала.\nЦелуешь мой лоб, помогая вставать.\nМысли сонные развенчала.\nСкажи, ты желаешь со мной поиграть?\nВеришь, что тучки дождливые мы сможем прогнать?\nПосмотрю я наверх. Чистое, синее небо.\nЗнаешь, может это секрет, но я тоже тебе верю.\nИ не будь бы ты здесь, спать, наверное, я продолжил бы вечно.\nНо совсем я не злюсь.\nЛишь завтрак желаю отведать."
 
     # game/core/poetry.rpy:263
     old "Bottles"
