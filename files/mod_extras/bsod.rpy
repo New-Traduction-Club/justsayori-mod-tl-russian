@@ -4,55 +4,55 @@ translate ru strings:
 
     # game/mod_extras/bsod.rpy:73
     old "A problem has been detected and Windows has been shut down to prevent damage to your computer."
-    new ""
+    new "Возникла критическая ошибка. Windows была отключена во избежание повреждения  компьютера."
 
     # game/mod_extras/bsod.rpy:74
     old "The problem seems to be caused by the following file: "
-    new ""
+    new "Проблема вызыана следующим файлом: "
 
     # game/mod_extras/bsod.rpy:76
     old "If this is the first time you've seen this Stop error screen, restart your computer. If this screens appears again, follow these steps:"
-    new ""
+    new "Если Синий экран смерти появляется впервые, перезапустите компьютер. Если он появится снова, выполните следующие шаги:"
 
     # game/mod_extras/bsod.rpy:77
     old "Check to make sure any new hardware or software is properly installed. If this is a new installation, ask your hardware or software manufacturer for any Windows updates you might need."
-    new ""
+    new "Убедитесь, что новое недавно подключённое оборудование/установленное ПО работает исправно. Узнайте у производителя обо всех обновлениях Windows, которые необходимы для корректной работы оборудования."
 
     # game/mod_extras/bsod.rpy:78
     old "If problems continue, disable or remove any newly installed hardware or software. Disable BIOS memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced Startup Options, and then select Safe Mode."
-    new ""
+    new "Если проблема сохраняется, отключите всё недавно установленное оборудование или ПО. Отключите опции памяти BIOS, такие как кэширование или теневую память. Если вам необходимо войти в Безопасный Режим или отключить некоторые компоненты, перезапустите компьютер, нажмите F8, чтобы выбрать Дополнительные Параметры Запуска, и затем выберите Безопасный Режим."
 
     # game/mod_extras/bsod.rpy:79
     old "Technical information:"
-    new ""
+    new "Технические детали:"
 
     # game/mod_extras/bsod.rpy:80
     old "*** STOP: 0x00000051 (OXFD69420, 0x00000005, OXFBF92317"
-    new ""
+    new "*** STOP: 0x00000051 (OXFD69420, 0x00000005, OXFBF92317"
 
     # game/mod_extras/bsod.rpy:81
     old "*** "
-    new ""
+    new "*** "
 
     # game/mod_extras/bsod.rpy:81
     old "  -  Address FBF92317 base at FBF102721, Datestamp 3d6dd67c"
-    new ""
+    new "  -  Address FBF92317 base at FBF102721, Datestamp 3d6dd67c"
 
     # game/mod_extras/bsod.rpy:94
     old ":("
-    new ""
+    new ":("
 
     # game/mod_extras/bsod.rpy:95
     old "Your PC ran into a problem and needs to restart."
-    new ""
+    new "Ваш ПК столкнулся с ошибкой и будет перезагружен."
 
     # game/mod_extras/bsod.rpy:96
     old "We're just collecting some error info, and then"
-    new ""
+    new "Мы соберём некоторую информацию об ошибке, а затем"
 
     # game/mod_extras/bsod.rpy:98
     old "If you'd like to know more, you can search online later for this error: "
-    new ""
+    new "Если вы хотите узнать подробности, вы можете найти в интернете следующую ошибку: "
 
     # game/mod_extras/bsod.rpy:131
     old "Your PC ran into a problem and needs to restart. We're"
@@ -60,67 +60,67 @@ translate ru strings:
 
     # game/mod_extras/bsod.rpy:132
     old "just collecting some error info, and then we'll restart for"
-    new ""
+    new "соберём некоторую информацию об ошибке, а затем перезапустим ПК для"
 
     # game/mod_extras/bsod.rpy:133
     old "you."
-    new ""
+    new "тебя."
 
     # game/mod_extras/bsod.rpy:137
     old "Your device ran into a problem and needs to restart."
-    new ""
+    new "Ваше устройство столкнулось с ошибкой и будет перезагружено."
 
     # game/mod_extras/bsod.rpy:138
     old "We're just collecting some error info, and then you can"
-    new ""
+    new "Мы соберём некоторую информацию об ошибке, а затем вы сможете"
 
     # game/mod_extras/bsod.rpy:139
     old "restart."
-    new ""
+    new "перезапустить."
 
     # game/mod_extras/bsod.rpy:153
     old "For more information about this issue and possible fixes, visit https://www.windows.com/stopcode"
-    new ""
+    new "Для получения дополнительной информации об ошибке и возможных способах её устранения, посетите https://www.windows.com/stopcode"
 
     # game/mod_extras/bsod.rpy:154
     old "If you call a support person, give them this info:"
-    new ""
+    new "Если вы позвоните в службу поддержки, сообщите им следующее:"
 
     # game/mod_extras/bsod.rpy:155
     old "Stop code: "
-    new ""
+    new "Код ошибки: "
 
     # game/mod_extras/bsod.rpy:165
     old "For more information about this issue and possible fixes, visit"
-    new ""
+    new "Для получения дополнительной информации об ошибке и возможных способах её устранения, посетите"
 
     # game/mod_extras/bsod.rpy:166
     old "https://www.windows.com/stopcode\n"
-    new ""
+    new "https://www.windows.com/stopcode\n"
 
     # game/mod_extras/bsod.rpy:181
     old "You need to restart your computer. Hold down the Power\n"
-    new ""
+    new "Вам необходимо перезапустить ПК. Удерживайте Кнопку\n"
 
     # game/mod_extras/bsod.rpy:182
     old "button until it turns off, then press the Power button again."
-    new ""
+    new "питания до тех пор, пока компьютер не выключится, затем нажмите на неё ещё раз."
 
     # game/mod_extras/bsod.rpy:183
     old "Redémarrez l'ordinateur. Enfoncez le bouton de démarrage\n"
-    new ""
+    new "Перезагрузите компьютер. Удерживайте Кнопку питания.\n"
 
     # game/mod_extras/bsod.rpy:184
     old "jusqu'à l'extinction, puis appuyez dessus une nouvelle fois."
-    new ""
+    new "пока ПК не выключится, затем нажмите на неё ещё раз."
 
     # game/mod_extras/bsod.rpy:185
     old "Debe reiniciar el ordenador. Mantenga pulsado el botón de\n"
-    new ""
+    new "Вам необходимо перезапустить ПК. Удерживайте Кнопку\n"
 
     # game/mod_extras/bsod.rpy:186
     old "arranque hasta que se apague y luego vuelva a pulsarlo."
-    new ""
+    new "питания до тех пор, пока компьютер не выключится, затем нажмите на неё ещё раз."
 
     # game/mod_extras/bsod.rpy:187
     old "Sie müssen den Computer neu starten. Halten Sie den\n"
