@@ -4,7 +4,7 @@ translate ru strings:
 
     # renpy/common/000statements.rpy:28
     old "Click to play the video."
-    new "Нажми, чтобы воспроизвести."
+    new "Нажмите, чтобы воспроизвести."
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
@@ -824,75 +824,75 @@ translate ru strings:
 
     # renpy/common/00speechbubble.rpy:436
     old "(clear retained bubbles)"
-    new ""
+    new "(очистить содержимое пузырька)"
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new ""
+    new "Выполнено скачивание синхронизации."
 
     # renpy/common/00sync.rpy:184
     old "Could not connect to the Ren'Py Sync server."
-    new ""
+    new "Не удалось подключиться к серверу Ren'Py Sync."
 
     # renpy/common/00sync.rpy:186
     old "The Ren'Py Sync server timed out."
-    new ""
+    new "Превышено время ожидания ответа Ren'Py Sync."
 
     # renpy/common/00sync.rpy:188
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new ""
+    new "При подключении к серверу Ren'Py Sync возникла неизвестная ошибка."
 
     # renpy/common/00sync.rpy:204
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new ""
+    new "На сервере Ren'Py Sync отсутствует копия текущей синхронизации. Sync ID может быть некорректным или мог истечь."
 
     # renpy/common/00sync.rpy:305
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new ""
+    new "Пожалуйста, введите ваш Sync ID.\nНикогда не вводите чужие ID."
 
     # renpy/common/00sync.rpy:324
     old "The sync ID is not in the correct format."
-    new ""
+    new "Формат Sync ID некорректен."
 
     # renpy/common/00sync.rpy:344
     old "The sync could not be decrypted."
-    new ""
+    new "Не удалось расшифровать файлы синхронизации."
 
     # renpy/common/00sync.rpy:367
     old "The sync belongs to a different game."
-    new ""
+    new "Файлы синхронизации предназначены для другой игры."
 
     # renpy/common/00sync.rpy:372
     old "The sync contains a file with an invalid name."
-    new ""
+    new "Синхронизация содержит файл с неверным именем."
 
     # renpy/common/00sync.rpy:425
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new ""
+    new "Ваши сохранения будут загружены на сервер {a=https://sync.renpy.org}Ren'Py Sync{/a}. Продолжить?"
 
     # renpy/common/00sync.rpy:433
     old "Yes"
-    new ""
+    new "Да"
 
     # renpy/common/00sync.rpy:434
     old "No"
-    new ""
+    new "Нет"
 
     # renpy/common/00sync.rpy:457
     old "Enter Sync ID"
-    new ""
+    new "Введите Sync ID"
 
     # renpy/common/00sync.rpy:468
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new ""
+    new "Будет отправлен запрос серверу {a=https://sync.renpy.org}Ren'Py Sync{/a}."
 
     # renpy/common/00sync.rpy:498
     old "Sync Success"
-    new ""
+    new "Синхронизация успешна"
 
     # renpy/common/00sync.rpy:501
     old "The Sync ID is:"
-    new ""
+    new "Ваш Sync ID:"
 
     # renpy/common/00sync.rpy:507
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
