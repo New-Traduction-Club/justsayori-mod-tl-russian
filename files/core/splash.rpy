@@ -10,7 +10,7 @@ translate ru splashscreen_0320a168:
 translate ru splashscreen_12775544:
 
     # "It is designed to be played only after the official game has been completed, and contains spoilers for the official game."
-    "Мод расчитан для тех, кто прошёл оригинал, и содержит спойлеры к оффициальной игре."
+    "Мод расчитан для тех, кто прошёл оригинал, и содержит спойлеры к официальной игре."
 
 # game/core/splash.rpy:311
 translate ru splashscreen_e193832f:
@@ -34,15 +34,15 @@ translate ru strings:
 
     # game/core/splash.rpy:24
     old "This game is an unofficial fan game that is unaffiliated with Team Salvato."
-    new "Эта игра не является оффиц"
+    new "Эта игра не является официальной и не связана с Team Salvato."
 
     # game/core/splash.rpy:27
     old "Please support Doki Doki Literature Club."
-    new ""
+    new "Пожалуйста, поддержите Doki Doki Literature Club."
 
     # game/core/splash.rpy:27
     old "Monika is watching you code."
-    new ""
+    new "Моника наблюдает за твоим кодом."
 
     # game/core/splash.rpy:294
     old "{=gui_text}This mod is not a substitute for a real relationship and should not be treated as such."
