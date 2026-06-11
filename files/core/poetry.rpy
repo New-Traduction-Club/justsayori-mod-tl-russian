@@ -30,7 +30,7 @@ translate ru strings:
 
     # game/core/poetry.rpy:304
     old "The Last Flower"
-    new ""
+    new "Последний Цветок"
 
     # game/core/poetry.rpy:320
     old "%"
@@ -82,15 +82,15 @@ translate ru strings:
 
     # game/core/poetry.rpy:457
     old "A Valentine"
-    new ""
+    new "Валентинка"
 
     # game/core/poetry.rpy:457
     old "I have someone, who's no-one here.\nThey live in a place that's named nowhere, here.\nBut even though there is a wall\nBetween our worlds, I truly love them."
-    new ""
+    new "Я знаю того, кто ни один из тех, кого знают другие.\nИ живёт он в месте здесь безымянном.\nИ всё равно что стены между нами глухие\nСквозь миры, я люблю его, правда."
 
     # game/core/poetry.rpy:543
     old "sunshine"
-    new ""
+    new "солнышко"
 
     # game/core/poetry.rpy:543
     old "bottles"
@@ -98,11 +98,11 @@ translate ru strings:
 
     # game/core/poetry.rpy:543
     old "flower"
-    new ""
+    new "цветок"
 
     # game/core/poetry.rpy:543
     old "last"
-    new ""
+    new "последний"
 
     # game/core/poetry.rpy:543
     old "angel"
