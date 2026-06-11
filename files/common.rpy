@@ -696,131 +696,131 @@ translate ru strings:
 
     # renpy/common/00preferences.rpy:496
     old "gl powersave"
-    new ""
+    new "энергосбережение ГЛ"
 
     # renpy/common/00preferences.rpy:502
     old "gl framerate"
-    new ""
+    new "FPS ГЛ"
 
     # renpy/common/00preferences.rpy:505
     old "gl tearing"
-    new ""
+    new "Разрыв ГЛ"
 
     # renpy/common/00preferences.rpy:508
     old "font transform"
-    new ""
+    new "измерения шрифта"
 
     # renpy/common/00preferences.rpy:511
     old "font size"
-    new ""
+    new "размер шрифта"
 
     # renpy/common/00preferences.rpy:519
     old "font line spacing"
-    new ""
+    new "межстрочный интервал"
 
     # renpy/common/00preferences.rpy:527
     old "system cursor"
-    new ""
+    new "системный курсор"
 
     # renpy/common/00preferences.rpy:536
     old "renderer menu"
-    new ""
+    new "рендер меню"
 
     # renpy/common/00preferences.rpy:539
     old "accessibility menu"
-    new ""
+    new "меню доступности"
 
     # renpy/common/00preferences.rpy:542
     old "high contrast text"
-    new ""
+    new "высококонтрастный текст"
 
     # renpy/common/00preferences.rpy:551
     old "audio when minimized"
-    new ""
+    new "аудио когда свёрнуто"
 
     # renpy/common/00preferences.rpy:560
     old "audio when unfocused"
-    new ""
+    new "аудио когда не основное окно"
 
     # renpy/common/00preferences.rpy:569
     old "web cache preload"
-    new ""
+    new "предзагрузка веб-кэша"
 
     # renpy/common/00preferences.rpy:584
     old "voice after game menu"
-    new ""
+    new "голос после игрового меню"
 
     # renpy/common/00preferences.rpy:593
     old "restore window position"
-    new ""
+    new "восстановить окно"
 
     # renpy/common/00preferences.rpy:602
     old "mono audio"
-    new ""
+    new "моно звук"
 
     # renpy/common/00preferences.rpy:611
     old "font kerning"
-    new ""
+    new "кернинг шрифта"
 
     # renpy/common/00preferences.rpy:619
     old "reset"
-    new ""
+    new "сброс"
 
     # renpy/common/00preferences.rpy:632
     old "main volume"
-    new ""
+    new "общая громкость"
 
     # renpy/common/00preferences.rpy:633
     old "music volume"
-    new ""
+    new "громкость музыки"
 
     # renpy/common/00preferences.rpy:634
     old "sound volume"
-    new ""
+    new "громкость звуков"
 
     # renpy/common/00preferences.rpy:635
     old "voice volume"
-    new ""
+    new "громкость голоса"
 
     # renpy/common/00preferences.rpy:636
     old "mute main"
-    new ""
+    new "заглушить основное"
 
     # renpy/common/00preferences.rpy:637
     old "mute music"
-    new ""
+    new "заглушить музыку"
 
     # renpy/common/00preferences.rpy:638
     old "mute sound"
-    new ""
+    new "заглушить звуки"
 
     # renpy/common/00preferences.rpy:639
     old "mute voice"
-    new ""
+    new "заглушить голос"
 
     # renpy/common/00preferences.rpy:640
     old "mute all"
-    new ""
+    new "заглушить всё"
 
     # renpy/common/00preferences.rpy:723
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new ""
+    new "Автокопирование в буфер включено. Нажмите 'shift+C' чтобы отключить."
 
     # renpy/common/00preferences.rpy:725
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new ""
+    new "Самоозвучка сказала бы \"[renpy.display.tts.last]\". Нажмите 'alt+shift+V' чтобы отключить"
 
     # renpy/common/00preferences.rpy:727
     old "Self-voicing enabled. Press 'v' to disable."
-    new ""
+    new "Самоозвучка включена. Нажмите 'v' чтобы отключить."
 
     # renpy/common/00speechbubble.rpy:420
     old "Speech Bubble Editor"
-    new ""
+    new "Редактор Пузырька Диалогов"
 
     # renpy/common/00speechbubble.rpy:425
     old "(hide)"
-    new ""
+    new "(скрыть)"
 
     # renpy/common/00speechbubble.rpy:436
     old "(clear retained bubbles)"
