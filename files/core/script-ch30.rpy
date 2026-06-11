@@ -4,5 +4,5 @@
 translate ru force_quit_5a6d1a43:
 
     # s ebgchga "YOU CAN'T LEAVE LIKE THAT!"
-    s ebgchga ""
+    s ebgchga "ТЫ НЕ МОЖЕШЬ ПРОСТО УЙТИ!"
 
