@@ -4,7 +4,7 @@
 translate ru boop_90f0707f:
 
     # s "Did you just boop me?"
-    s "Ты меня в нос тыкнул?"
+    s "Ты что, в нос меня тыкнул?"
 
 # game/core/main-gui.rpy:96
 translate ru boop_0661005f:
