@@ -34,11 +34,11 @@ translate ru strings:
 
     # game/core/poetry.rpy:320
     old "%"
-    new ""
+    new "%"
 
     # game/core/poetry.rpy:320
     old "Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of\nGet.\nOut.\nOf.\nMy.\nHead.\n\n\n\nGet out of my head before I do what I know is best for you.\nGet out of my head before I listen to everything she said to me.\nGet out of my head before I show you how much I love you.\nGet out of my head before I finish writing this poem.\n\n\n\n\n\n\n\nBut a poem is never actually finished.\nIt just stops moving."
-    new ""
+    new "Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из\nПрочь.\nИз.\nМоей.\nГоловы.\n\n\n\nПрочь из моей головы, пока я не сделала то, что для тебя будет лучше.\nПрочь из моей головы, пока я не поверила всему, что она рассказала.\nПрочь из моей головы, пока любви своей силу тебе я не показала.\nУйди из моей головы, до того, как стих этот писать я закончу.\n\n\n\n\n\n\n\nНо стих никогда и не закончится по-настоящему.\nОна просто замрёт."
 
     # game/core/poetry.rpy:339
     old "Fruits of life"
