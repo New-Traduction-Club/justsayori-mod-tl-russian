@@ -4,9 +4,9 @@ translate ru strings:
 
     # game/api/tl-backend.rpy:21
     old "Please select a language"
-    new ""
+    new "Выбери язык"
 
     # game/api/tl-backend.rpy:27
     old "Language"
-    new ""
+    new "Язык"
 
