@@ -4,25 +4,25 @@ translate ru strings:
 
     # game/core/new_outfits.rpy:43
     old "Hairstyle"
-    new ""
+    new "Причёска"
 
     # game/core/new_outfits.rpy:43
     old "Eyewear"
-    new ""
+    new "Очки"
 
     # game/core/new_outfits.rpy:43
     old "Accessory"
-    new ""
+    new "Аксессуары"
 
     # game/core/new_outfits.rpy:43
     old "Clothes"
-    new ""
+    new "Одежда"
 
     # game/core/new_outfits.rpy:43
     old "Headgear"
-    new ""
+    new "Головной убор"
 
     # game/core/new_outfits.rpy:43
     old "Necklace"
-    new ""
+    new "Ожерелье"
 
