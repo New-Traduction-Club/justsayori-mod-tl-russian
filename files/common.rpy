@@ -644,55 +644,55 @@ translate ru strings:
 
     # renpy/common/00preferences.rpy:433
     old "voice sustain"
-    new ""
+    new "поддержка голоса" #context?
 
     # renpy/common/00preferences.rpy:442
     old "self voicing"
-    new ""
+    new "самоозвучка"
 
     # renpy/common/00preferences.rpy:445
     old "self voicing enable"
-    new ""
+    new "самоозвучка включена"
 
     # renpy/common/00preferences.rpy:447
     old "self voicing disable"
-    new ""
+    new "самоозвучка выключена"
 
     # renpy/common/00preferences.rpy:451
     old "self voicing volume drop"
-    new ""
+    new "понижение громкости самоозвучки"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing"
-    new ""
+    new "автокопирование в буфер"
 
     # renpy/common/00preferences.rpy:462
     old "clipboard voicing enable"
-    new ""
+    new " автокопирование в буфер включено"
 
     # renpy/common/00preferences.rpy:464
     old "clipboard voicing disable"
-    new ""
+    new "автокопирование в буфер выключено"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing"
-    new ""
+    new "отладка голоса"
 
     # renpy/common/00preferences.rpy:471
     old "debug voicing enable"
-    new ""
+    new "отладка голоса включенв"
 
     # renpy/common/00preferences.rpy:473
     old "debug voicing disable"
-    new ""
+    new "отладка голоса выключена"
 
     # renpy/common/00preferences.rpy:477
     old "emphasize audio"
-    new ""
+    new "акцент на аудио"
 
     # renpy/common/00preferences.rpy:486
     old "rollback side"
-    new ""
+    new "сторона перемотки"
 
     # renpy/common/00preferences.rpy:496
     old "gl powersave"
