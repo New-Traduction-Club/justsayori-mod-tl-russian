@@ -4,19 +4,19 @@
 translate ru mg_reversi_s_comment_fbd3ea82:
 
     # s ebbccea "Yay! I won this game!"
-    s ebbccea ""
+    s ebbccea "Ура! Я победила!"
 
 # game/additional/mg_reversi.rpy:445
 translate ru mg_reversi_s_comment_2070dca7:
 
     # s abgcaoa "Don't worry, you'll have better luck next time~"
-    s abgcaoa ""
+    s abgcaoa "Не волнуйся, тебе обязательно повезёт в следующий раз~"
 
 # game/additional/mg_reversi.rpy:447
 translate ru mg_reversi_s_comment_41de7e3e:
 
     # s abgckda "Oh, the board is full."
-    s abgckda ""
+    s abgckda "Ой, поле заполнено."
 
 # game/additional/mg_reversi.rpy:448
 translate ru mg_reversi_s_comment_2addebe5:
