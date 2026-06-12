@@ -130,13 +130,13 @@ translate ru compliment_love_eyes_d9556964:
 translate ru compliment_love_eyes_39d74fb7:
 
     # s abbbkoa "I think blue suits me really well! It represents happiness and sensitivity, and I always try my best to connect with others in a positive way."
-    s abbbkoa "Мне кажется, что синий цвет мне очень идёт! Он означает счастье и чувствительность, а я всегда пытаюсь быть с другими на позитивной ноте."
+    s abbbkoa "По-моему, голубой цвет мне очень идёт! Он означает счастье и чувствительность, а я всегда пытаюсь быть с другими на позитивной ноте."
 
 # game/dialogs/script-compliments.rpy:173
 translate ru compliment_love_eyes_09319dc6:
 
     # s abbbcqa "And I think they make me unique and give me something to be confident about!"
-    s abbbcqa "И я думаю, что эти отношения это то, что делает меня уникальнее и увереннее!"
+    s abbbcqa "И ещё я думаю, что мои глаза это то, что делает меня уникальнее и увереннее!"
 
 # game/dialogs/script-compliments.rpy:195
 translate ru compliment_kind_eec63bc6:
