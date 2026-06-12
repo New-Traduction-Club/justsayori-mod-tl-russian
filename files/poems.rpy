@@ -3,29 +3,29 @@ init 1 python:
         author_s,
         title=_(""),
         text=_("""\
-Hi
-Not dead
-Taking a very long nap\n
--Sayori (alive)"""
+Привет
+Живая
+Просто очень долго дремлю\n
+-Сайори (не мёртвая)"""
         )
     )
 
 
     ru_poem_sunshine = Poem(
         author_s,
-        title =_("Dear Sunshine"),
+        title =_("Дорогое Солнышко"),
         text = _("""\
-The way you glow through my blinds in the morning
-It makes me feel like you missed me.
-Kissing my forehead to help me out of bed.
-Making me rub the sleepy from my eyes.
-Are you asking me to come out and play?
-Are you trusting me to wish away a rainy day?
-I look above. The sky is blue.
-It's a secret, but I trust you too.
-If it wasn't for you, I could sleep forever.
-But I'm not mad.
-I want breakfast."""
+То, как свет твой сияет сквозь жалюзи по утрам
+Намекает мне на то, что по мне ты скучала.
+Целуешь мой лоб, помогая вставать.
+Мысли сонные развенчала.
+Скажи, ты желаешь со мной поиграть?
+Веришь, что тучки дождливые мы сможем прогнать?
+Посмотрю я наверх. Чистое, синее небо.
+Знаешь, может это секрет, но я тоже тебе верю.
+И не будь бы ты здесь, спать, наверное, я продолжил бы вечно.
+Но совсем я не злюсь.
+Лишь завтрак желаю отведать."""
         )
     )
 
@@ -74,16 +74,16 @@ Inside my head."""
 
     ru_poem_flower = Poem(
         author_s,
-        title = _("The Last Flower"),
+        title = _("Последний Цветок"),
         text=("""\
-Between my feet
-The last remaining flower beckons me.
-I twist the stem, freeing it from its clinging roots
-Caressing the final joyous moment between my fingers.
-But to what ends have I summoned this joy?
-For now when I look in every direction
-The once-prosperous field before me
-Is but a barren wasteland!"""
+Между ногами моими
+Последний цветок меня манит.
+Стебель его от цепучих корней я освобождаю
+Пальцами ног в последний раз утешая.
+Для чего я даю эту ласку?
+Ведь куда я свой взор не бросаю
+Луг огромный, что когда-то сиял, процветая,
+Превратися в серую пустошь!"""
         )
     )
 
@@ -93,18 +93,17 @@ Is but a barren wasteland!"""
         author_s,
         title = _("%"),
         text = _("""\
-Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of
-Get.
-Out.
-Of.
-My.
-Head.\n\n\n
-Get out of my head before I do what I know is best for you.
-Get out of my head before I listen to everything she said to me.
-Get out of my head before I show you how much I love you.
-Get out of my head before I finish writing this poem.\n\n\n\n\n\n\n
-But a poem is never actually finished.
-It just stops moving."""
+Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из моей головы. Прочь из\n
+Прочь.
+Из.
+Моей.
+Головы.\n\n\n
+Прочь из моей головы, пока я не сделала то, что для тебя будет лучше.
+Прочь из моей головы, пока я не поверила всему, что она рассказала.
+Прочь из моей головы, пока любви своей силу тебе я не показала.
+Уйди из моей головы, до того, как стих этот писать я закончу.
+\n\n\n\n\n\n\nНо стих никогда и не закончится по-настоящему.
+Он просто замрёт."""
         )
     )
 
@@ -241,12 +240,12 @@ Where nobody can avoid the pain."""
 
     ru_poem_val = Poem(
         author_s,
-        title = _("A Valentine"),
+        title = _("Валентинка"),
         text = _("""\
-I have someone, who's no-one here.
-They live in a place that's named nowhere, here.
-But even though there is a wall
-Between our worlds, I truly love them."""
+Я знаю того, кто ни один из тех, кого знают другие.
+И живёт он в месте здесь безымянном.
+И всё равно что стены между нами глухие
+Сквозь миры, я люблю его, правда."""
         )
     )
 
