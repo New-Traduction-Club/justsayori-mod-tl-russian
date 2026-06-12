@@ -723,7 +723,7 @@ translate ru strings:
     new "системный курсор"
 
     # renpy/common/00preferences.rpy:536
-    old "renderer menu"
+    old "отрисовщик menu"
     new "рендер меню"
 
     # renpy/common/00preferences.rpy:539
@@ -896,365 +896,365 @@ translate ru strings:
 
     # renpy/common/00sync.rpy:507
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new ""
+    new "Вы можете использовать этот ID чтобы скачать своё сохранение на другом устройстве.\nID истечёт через час.\nRen'Py Sync работает благодаря {a=https://www.renpy.org/sponsors.htmlСпонсорам }Ren'Py{/a}."
 
     # renpy/common/00sync.rpy:511
     old "Continue"
-    new ""
+    new "Продолжить"
 
     # renpy/common/00sync.rpy:536
     old "Sync Error"
-    new ""
+    new "Ошибка Синхроницзации"
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new ""
+    new "ID перевода: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new ""
+    new " переводит [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new ""
+    new "\n{color=#fff}Скопировано в буфер обмена.{/color}"
 
     # renpy/common/00iap.rpy:231
     old "Contacting App Store\nPlease Wait..."
-    new ""
+    new "Пытаемся Связаться с App Store\nПожалуйста Подождите..."
 
     # renpy/common/00updater.rpy:415
     old "No update methods found."
-    new ""
+    new "Не обнаружены методы обновления."
 
     # renpy/common/00updater.rpy:462
     old "Could not download file list: "
-    new ""
+    new "Не удалось скачать список файлов: "
 
     # renpy/common/00updater.rpy:465
     old "File list digest does not match."
-    new ""
+    new "Неожиданное содержимое списка файлов."
 
     # renpy/common/00updater.rpy:675
     old "An error is being simulated."
-    new ""
+    new "Ошибка имитируется."
 
     # renpy/common/00updater.rpy:863
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""
+    new "Этот проект не поддерживает обновления, либо файл состояния обновления был удалён."
 
     # renpy/common/00updater.rpy:877
     old "This account does not have permission to perform an update."
-    new ""
+    new "У вас нет прав на обновление."
 
     # renpy/common/00updater.rpy:880
     old "This account does not have permission to write the update log."
-    new ""
+    new "У вас нет прав на запись лога обновлений."
 
     # renpy/common/00updater.rpy:966
     old "Could not verify update signature."
-    new ""
+    new "Не удалось проверить подпись обновления."
 
     # renpy/common/00updater.rpy:1289
     old "The update file was not downloaded."
-    new ""
+    new "Файл обновления не был скачан."
 
     # renpy/common/00updater.rpy:1307
     old "The update file does not have the correct digest - it may have been corrupted."
-    new ""
+    new "Неожиданное содержимое файла обновления - возможно он повреждён."
 
     # renpy/common/00updater.rpy:1457
     old "While unpacking {}, unknown type {}."
-    new ""
+    new "При распаковке {}, обнаружен неизвестный тип {}."
 
     # renpy/common/00updater.rpy:1928
     old "Updater"
-    new ""
+    new "Загрузчик Обновлений"
 
     # renpy/common/00updater.rpy:1935
     old "An error has occurred:"
-    new ""
+    new "Произошла ошибка:"
 
     # renpy/common/00updater.rpy:1937
     old "Checking for updates."
-    new ""
+    new "Проверяем наличие обновлений."
 
     # renpy/common/00updater.rpy:1939
     old "This program is up to date."
-    new ""
+    new "Установлена новейшая версия."
 
     # renpy/common/00updater.rpy:1941
     old "[u.version] is available. Do you want to install it?"
-    new ""
+    new "Доступна версия [u.version]. Установить?"
 
     # renpy/common/00updater.rpy:1943
     old "Preparing to download the updates."
-    new ""
+    new "Подготовка к установке обновлений."
 
     # renpy/common/00updater.rpy:1945
     old "Downloading the updates."
-    new ""
+    new "Скачиваем обновления."
 
     # renpy/common/00updater.rpy:1947
     old "Unpacking the updates."
-    new ""
+    new "Распаковываем обновления."
 
     # renpy/common/00updater.rpy:1949
     old "Finishing up."
-    new ""
+    new "Последние штрихи."
 
     # renpy/common/00updater.rpy:1951
     old "The updates have been installed. The program will restart."
-    new ""
+    new "Обновления установлены. Программа будет перезапущена."
 
     # renpy/common/00updater.rpy:1953
     old "The updates have been installed."
-    new ""
+    new "Обновления установлены."
 
     # renpy/common/00updater.rpy:1955
     old "The updates were cancelled."
-    new ""
+    new "Обновление отменено."
 
     # renpy/common/00updater.rpy:1970
     old "Proceed"
-    new ""
+    new "{color=#cf0000}Продолжить{/color}"
 
     # renpy/common/00updater.rpy:1986
     old "Preparing to download the game data."
-    new ""
+    new "Подготовка к установке файлов игры."
 
     # renpy/common/00updater.rpy:1988
     old "Downloading the game data."
-    new ""
+    new "Скачиваем игровые файлы."
 
     # renpy/common/00updater.rpy:1990
     old "The game data has been downloaded."
-    new ""
+    new "Файлы игры были скачаны."
 
     # renpy/common/00updater.rpy:1992
     old "An error occurred when trying to download game data:"
-    new ""
+    new "При загрузке файлов игры возникла ошибка:"
 
     # renpy/common/00updater.rpy:1997
     old "This game cannot be run until the game data has been downloaded."
-    new ""
+    new "Невозможно запустить игру во время скачивания обновления."
 
     # renpy/common/00updater.rpy:2004
     old "Retry"
-    new ""
+    new "Попробовать Снова"
 
     # renpy/common/00gallery.rpy:676
     old "Image [index] of [count] locked."
-    new ""
+    new "Изображение [index] из [count] заблокировано." #context?
 
     # renpy/common/00gallery.rpy:696
     old "prev"
-    new ""
+    new "пред"
 
     # renpy/common/00gallery.rpy:697
     old "next"
-    new ""
+    new "след"
 
     # renpy/common/00gallery.rpy:698
     old "slideshow"
-    new ""
+    new "слайд-шоу"
 
     # renpy/common/00gallery.rpy:699
     old "return"
-    new ""
+    new "назад"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
-    new ""
+    new "Отрисовщик"
 
     # renpy/common/00gltest.rpy:91
     old "Automatically Choose"
-    new ""
+    new "Выбрать Автоматически"
 
     # renpy/common/00gltest.rpy:96
     old "Force GL2 Renderer"
-    new ""
+    new "Форсировать Отрисовщик GL2"
 
     # renpy/common/00gltest.rpy:101
     old "Force ANGLE2 Renderer"
-    new ""
+    new "Форсировать Отрисовщик ANGLE2"
 
     # renpy/common/00gltest.rpy:106
     old "Force GLES2 Renderer"
-    new ""
+    new "Форсировать Отрисовщик GLES2"
 
     # renpy/common/00gltest.rpy:110
     old "Gamepad"
-    new ""
+    new "Геймпад"
 
     # renpy/common/00gltest.rpy:112
     old "Enable (No Blocklist)"
-    new ""
+    new "Включить (Без Блоклиста)"
 
     # renpy/common/00gltest.rpy:126
     old "Calibrate"
-    new ""
+    new "Откалибровать"
 
     # renpy/common/00gltest.rpy:135
     old "Powersave"
-    new ""
+    new "Энергосбережение"
 
     # renpy/common/00gltest.rpy:145
     old "Framerate"
-    new ""
+    new "FPS"
 
     # renpy/common/00gltest.rpy:147
     old "Screen"
-    new ""
+    new "Экран"
 
     # renpy/common/00gltest.rpy:151
     old "60"
-    new ""
+    new "60"
 
     # renpy/common/00gltest.rpy:155
     old "30"
-    new ""
+    new "30"
 
     # renpy/common/00gltest.rpy:159
     old "Tearing"
-    new ""
+    new "Разрывы"
 
     # renpy/common/00gltest.rpy:171
     old "Changes will take effect the next time this program is run."
-    new ""
+    new "Изменения вступят в силу при перезапуске."
 
     # renpy/common/00gltest.rpy:207
     old "Performance Warning"
-    new ""
+    new "Предупреждение о Производительности"
 
     # renpy/common/00gltest.rpy:212
     old "This computer is using software rendering."
-    new ""
+    new "Этот ПК использует программную отрисовку."
 
     # renpy/common/00gltest.rpy:214
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "GL2, необходимый для этой игры, не может быть установлен."
 
     # renpy/common/00gltest.rpy:216
     old "This computer has a problem displaying graphics: [problem]."
-    new ""
+    new "ПК столкнулся с проблемой при отображении графики: [problem]."
 
     # renpy/common/00gltest.rpy:220
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new ""
+    new "Его графические драйверы, возможно, устарели или работают неправильно. Это может привести к медленному или некорректному изображению."
 
     # renpy/common/00gltest.rpy:224
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "Файл {a=edit:1:log.txt}log.txt{/a} может содержать информацию, которая позволит вам определить причину ошибки."
 
     # renpy/common/00gltest.rpy:229
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Больше читайте в {a=[url]}документации{/a}."
 
     # renpy/common/00gltest.rpy:234
     old "Continue, Show this warning again"
-    new ""
+    new "Продолжить, Показывать предупреждение в следующий раз"
 
     # renpy/common/00gltest.rpy:238
     old "Continue, Don't show warning again"
-    new ""
+    new "Продолжить, Больше не показывать предупреждение"
 
     # renpy/common/00gltest.rpy:246
     old "Change render options"
-    new ""
+    new "Изменить параметры отрисовки"
 
     # renpy/common/00gamepad.rpy:33
     old "Select Gamepad to Calibrate"
-    new ""
+    new "Выбрать Геймпад для Калибровки"
 
     # renpy/common/00gamepad.rpy:36
     old "No Gamepads Available"
-    new ""
+    new "Нет Активных Геймпадов"
 
     # renpy/common/00gamepad.rpy:56
     old "Calibrating [name] ([i]/[total])"
-    new ""
+    new "Калибровка [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:60
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Нажмите и перемещайте '[control!s]' [kind]."
 
     # renpy/common/00gamepad.rpy:70
     old "Skip (A)"
-    new ""
+    new "Пропустить (A)"
 
     # renpy/common/00gamepad.rpy:73
     old "Back (B)"
-    new ""
+    new "Назад (B)"
 
     # renpy/common/_errorhandling.rpym:757
     old "Open"
-    new ""
+    new "Открыть"
 
     # renpy/common/_errorhandling.rpym:759
     old "Opens the traceback.txt file in a text editor."
-    new ""
+    new "Открыть traceback.txt в текстовом редакторе."
 
     # renpy/common/_errorhandling.rpym:761
     old "Copy BBCode"
-    new ""
+    new "Скопировать как BBCode"
 
     # renpy/common/_errorhandling.rpym:763
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new ""
+    new "Копирует traceback.txt в формате BBCode для форумов по типу https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:765
     old "Copy Markdown"
-    new ""
+    new "Копировать как Markdown"
 
     # renpy/common/_errorhandling.rpym:767
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new ""
+    new "Копирует traceback.txt в формате Markdown для отправки в Discord."
 
     # renpy/common/_errorhandling.rpym:799
     old "An exception has occurred."
-    new ""
+    new "Возникло исключение."
 
     # renpy/common/_errorhandling.rpym:828
     old "Rollback"
-    new ""
+    new "Перемотка"
 
     # renpy/common/_errorhandling.rpym:830
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new ""
+    new "Предпринимает попытку отката к предыдущему состоянию, позволяя сохранить изменения или выбрать другой вариант."
 
     # renpy/common/_errorhandling.rpym:833
     old "Ignore"
-    new ""
+    new "Игнорировать"
 
     # renpy/common/_errorhandling.rpym:837
     old "Ignores the exception, allowing you to continue."
-    new ""
+    new "Игнорирует исключение, позволяя продолжить игру."
 
     # renpy/common/_errorhandling.rpym:839
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new ""
+    new "Игнорирует исключение, позволяя продолжить игру. Часто приводит к новым ошибкам."
 
     # renpy/common/_errorhandling.rpym:843
     old "Reload"
-    new ""
+    new "Перезагрузить"
 
     # renpy/common/_errorhandling.rpym:845
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new ""
+    new "Перезагружает игру с диска, сохраняя и восстанавливая игру, если возможно."
 
     # renpy/common/_errorhandling.rpym:848
     old "Console"
-    new ""
+    new "Консоль"
 
     # renpy/common/_errorhandling.rpym:850
     old "Opens a console to allow debugging the problem."
-    new ""
+    new "Открывает консоль отладки."
 
     # renpy/common/_errorhandling.rpym:863
     old "Quits the game."
-    new ""
+    new "Выходит из игры"
 
     # renpy/common/_errorhandling.rpym:885
     old "Parsing the script failed."
-    new ""
+    new "Не удалось обработать скрипт."
 
