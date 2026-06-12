@@ -4,7 +4,7 @@
 translate ru compliment_best_girl_51fa6b97:
 
     # s abagcea "I'm the best girl? Aww, you're so sweet, [player]!"
-    s abagcea "Я лучшая девочка? Ооо, ты такой хороший, [player]!"
+    s abagcea "Я - лучшая девочка? Аввь, ты такой хороший, [player]!"
 
 # game/dialogs/script-compliments.rpy:63
 translate ru compliment_best_girl_f4535cc3:
@@ -76,7 +76,7 @@ translate ru compliment_pretty_22824ab9:
 translate ru compliment_love_hair_d9d14b3c:
 
     # s ebaacqa "Ehehehe, even when it's a little messy? You're such a sweetheart, [player]~"
-    s ebaacqa ""
+    s ebaacqa "Ахахаха, даже когда он немножко набок? Ты такой милый, [player]~"
 
 # game/dialogs/script-compliments.rpy:143
 translate ru compliment_love_hair_db5e9f30:
