@@ -1,3 +1,4 @@
+#not completed yet!
 init 1 python:
     ru_long_wait = Poem(
         author_s,
