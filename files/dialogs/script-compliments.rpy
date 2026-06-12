@@ -4,73 +4,73 @@
 translate ru compliment_best_girl_51fa6b97:
 
     # s abagcea "I'm the best girl? Aww, you're so sweet, [player]!"
-    s abagcea ""
+    s abagcea "Я лучшая девочка? Ооо, ты такой хороший, [player]!"
 
 # game/dialogs/script-compliments.rpy:63
 translate ru compliment_best_girl_f4535cc3:
 
     # s abagdka "I'm really happy you think so! It means a lot to me, ehehehe~"
-    s abagdka ""
+    s abagdka "Я очень рада, что так думаешь! Это много для меня значит, ахахаха~"
 
 # game/dialogs/script-compliments.rpy:64
 translate ru compliment_best_girl_2934d886:
 
     # s bbfclfc "After all, I always thought that I might be the least likable given the fact most would choose one of my friends over me, but..."
-    s bbfclfc ""
+    s bbfclfc "Знаешь, мне всегда казалось, что я была худшей среди моих друзей, и что бы ты скорее выбрал кого-то из них, но..."
 
 # game/dialogs/script-compliments.rpy:67
 translate ru compliment_best_girl_40f87437:
 
     # s abfbcqa "I'm glad you care so much about me! I love you, [player]~"
-    s abfbcqa ""
+    s abfbcqa "Люблю тебя, [player]~"
 
 # game/dialogs/script-compliments.rpy:69
 translate ru compliment_best_girl_19d2ddbd:
 
     # s abfbcqa "I'm glad you care so much about me!"
-    s abfbcqa ""
+    s abfbcqa "Мне так приятна твоя забота!"
 
 # game/dialogs/script-compliments.rpy:92
 translate ru compliment_beautiful_f94f581b:
 
     # s abhfmkb "You think so, [player]? Aww, I don't know what to say, ehehehe~"
-    s abhfmkb ""
+    s abhfmkb "Ты и вправду так считаешь, [player]? Аввь, не знаю что и сказать, ахахаха~"
 
 # game/dialogs/script-compliments.rpy:93
 translate ru compliment_beautiful_c64a72cf:
 
     # s bbhfmebj "Especially since I'm pretty messy sometimes, ahahaha..."
-    s bbhfmebj ""
+    s bbhfmebj "Особенно учитывая то, что иногда я не слишком опрятна, ахаха..."
 
 # game/dialogs/script-compliments.rpy:94
 translate ru compliment_beautiful_fc4fa1e7:
 
     # s abfccea "But that means so much to me coming from you, [player]!"
-    s abfccea ""
+    s abfccea "Но для меня действительно много значит, что ты так думаешь, [player]!"
 
 # game/dialogs/script-compliments.rpy:96
 translate ru compliment_beautiful_105f1009:
 
     # s abfcdqa "Remember that you're the most beautiful person in the world to me too!"
-    s abfcdqa ""
+    s abfcdqa "Не забывай, что для меня ты тоже самый прекрасный и любимый человек!"
 
 # game/dialogs/script-compliments.rpy:118
 translate ru compliment_pretty_65ad3ed5:
 
     # s abaacka "Aww [player], your words always flatter me~"
-    s abaacka ""
+    s abaacka "Оо, [player], опять ты мне льстишь~"
 
 # game/dialogs/script-compliments.rpy:119
 translate ru compliment_pretty_a5d98775:
 
     # s abaacoa "It makes me so happy knowing you think so!"
-    s abaacoa ""
+    s abaacoa "Я так рада, что ты так считаешь!"
 
 # game/dialogs/script-compliments.rpy:120
 translate ru compliment_pretty_22824ab9:
 
     # s abfcjoa "And I always think you're pretty too!"
-    s abfcjoa ""
+    s abfcjoa "И мне тоже всегда казалось, что ты милый!"
 
 # game/dialogs/script-compliments.rpy:142
 translate ru compliment_love_hair_d9d14b3c:
