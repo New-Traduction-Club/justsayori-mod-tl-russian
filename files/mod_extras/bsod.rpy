@@ -172,81 +172,81 @@ translate ru strings:
 
     # game/mod_extras/bsod.rpy:207
     old "fd0: METAVERSE ENTERPRISE VIRTUAL FLOPPY, ATA FLOPPY drive"
-    new ""
+    new "ВИРТУАЛЬНАЯ ДИСКЕТА METAVERSE ENTERPRISE, ATA ДИСКЕТНЫЙ накопитель"
 
     # game/mod_extras/bsod.rpy:208
     old "ide2 at 0x7363-0x6e6565, 0x4569 on irq 16"
-    new ""
+    new "ide2 at 0x7363-0x6e6565, 0x4569 on irq 16"
 
     # game/mod_extras/bsod.rpy:209
     old "ACPI: PCI Interrupt Link [[LNKC] ebabked at IRQ 10"
-    new ""
+    new "ACPI: PCI Разорвал ссылку [[LNKC] ebabked в IRQ 10"
 
     # game/mod_extras/bsod.rpy:210
     old "ACPI: PCI Interrupt 0000:00:03:.0[[A] -> Link [[LNKC] -> GSI 10 (level, low) -> IRQ 10"
-    new ""
+    new "ACPI: PCI Прерывание 0000:00:03:.0[[A] -> Ссылка [[LNKC] -> GSI 10 (уровень, низкий) -> IRQ 10"
 
     # game/mod_extras/bsod.rpy:211
     old "eno1: Metaverse Enterprise LIB-0922 found at 0xc453, IRQ 10, 09:10:21:86:75:30"
-    new ""
+    new "eno1: Metaverse Enterprise LIB-0922 обнаружен в 0xc453, IRQ 10, 09:10:21:86:75:30"
 
     # game/mod_extras/bsod.rpy:212
     old "hda: max request size: 512KiB"
-    new ""
+    new "hda: предельный размер запроса: 512KiB"
 
     # game/mod_extras/bsod.rpy:213
     old "hda: 2147483648 sectors (1 TB) w/256KiB Cache, CHS=178/255/63, (U)DMA"
-    new ""
+    new "hda: 2147483648 секторов (1 TB) w/256KiB Кэша, CHS=178/255/63, (U)DMA"
 
     # game/mod_extras/bsod.rpy:214
     old "hda: hda1"
-    new ""
+    new "hda: hda1"
 
     # game/mod_extras/bsod.rpy:215
     old "hdc: ATAPI 4x CD-ROM drive, 512kB Cache, (U)DMA"
-    new ""
+    new "hdc: ATAPI 4x CD-ROM накопитель, 512kB Кэша, (U)DMA"
 
     # game/mod_extras/bsod.rpy:216
     old "Uniform CD-ROM driver Revision: 3.20"
-    new ""
+    new "Единая версия драйвера CD-ROM: 3.20"
 
     # game/mod_extras/bsod.rpy:217
     old "Done."
-    new ""
+    new "Готово."
 
     # game/mod_extras/bsod.rpy:218
     old "Begin: DDLC.so"
-    new ""
+    new "Begin: DDLC.so"
 
     # game/mod_extras/bsod.rpy:220
     old "DDLC.so[[3352]: Importing _renpysteam: ImportError('No module named _renpysteam',)"
-    new ""
+    new "DDLC.so[[3352]: Importing _renpysteam: ImportError('No module named _renpysteam',)" 
 
     # game/mod_extras/bsod.rpy:221
     old "DDLC.so[[3352]: nvdrs: Loaded, about to disable thread optimizations."
-    new ""
+    new "DDLC.so[[3352]: nvdrs: Подгружено, отключаем оптимизацию потоков.."
 
     # game/mod_extras/bsod.rpy:222
     old "DDLC.so[[3352]: nvdrs: Disabled thread optimizations."
-    new ""
+    new ""DDLC.so[[3352]: nvdrs: Оптимизация потоков отключена."
 
     # game/mod_extras/bsod.rpy:223
     old "DDLC.so: SUCCESS."
-    new ""
+    new "DDLC.so: УСПЕХ."
 
     # game/mod_extras/bsod.rpy:225
     old "Begin: DDLC.so -> linux-4.12.14"
-    new ""
+    new "Begin: DDLC.so -> linux-4.12.14"
 
     # game/mod_extras/bsod.rpy:226
     old "/init: /init: 151: "
-    new ""
+    new "/init: /init: 151: "
 
     # game/mod_extras/bsod.rpy:226
     old ": 0xforce=panic"
-    new ""
+    new ": 0xforce=panic"
 
     # game/mod_extras/bsod.rpy:227
     old "Kernel panic - not syncing: Attempted to kill init!"
-    new ""
+    new "Ядро нестабильно - отсутствует синхронизация: Выполнена попытка убить init-процесс!"
 
