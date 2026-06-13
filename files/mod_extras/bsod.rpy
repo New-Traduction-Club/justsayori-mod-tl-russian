@@ -108,51 +108,51 @@ translate ru strings:
 
     # game/mod_extras/bsod.rpy:183
     old "Redémarrez l'ordinateur. Enfoncez le bouton de démarrage\n"
-    new "Перезагрузите компьютер. Удерживайте Кнопку питания.\n"
+    new "Redémarrez l'ordinateur. Enfoncez le bouton de démarrage\n"
 
     # game/mod_extras/bsod.rpy:184
     old "jusqu'à l'extinction, puis appuyez dessus une nouvelle fois."
-    new "пока ПК не выключится, затем нажмите на неё ещё раз."
+    new "jusqu'à l'extinction, puis appuyez dessus une nouvelle fois."
 
     # game/mod_extras/bsod.rpy:185
     old "Debe reiniciar el ordenador. Mantenga pulsado el botón de\n"
-    new "Вам необходимо перезапустить ПК. Удерживайте Кнопку\n"
+    new "Debe reiniciar el ordenador. Mantenga pulsado el botón de\n"
 
     # game/mod_extras/bsod.rpy:186
     old "arranque hasta que se apague y luego vuelva a pulsarlo."
-    new "питания до тех пор, пока компьютер не выключится, затем нажмите на неё ещё раз."
+    new "arranque hasta que se apague y luego vuelva a pulsarlo."
 
     # game/mod_extras/bsod.rpy:187
     old "Sie müssen den Computer neu starten. Halten Sie den\n"
-    new ""
+    new "Sie müssen den Computer neu starten. Halten Sie den\n"
 
     # game/mod_extras/bsod.rpy:188
     old "Ein-/Ausschalter gedrückt bis das Gerät ausgeschaltet ist\n"
-    new ""
+    new ""Ein-/Ausschalter gedrückt bis das Gerät ausgeschaltet ist\n"
 
     # game/mod_extras/bsod.rpy:189
     old "und drücken Sie ihn dann erneut."
-    new ""
+    new "und drücken Sie ihn dann erneut."
 
     # game/mod_extras/bsod.rpy:190
     old "Devi riavviare il computer. Tieni premuto il pulsante di\n"
-    new ""
+    new "Devi riavviare il computer. Tieni premuto il pulsante di\n"
 
     # game/mod_extras/bsod.rpy:191
     old "accensione finché non si spegne, quindi premi di nuovo il\n"
-    new ""
+    new "accensione finché non si spegne, quindi premi di nuovo il\n"
 
     # game/mod_extras/bsod.rpy:192
     old "pulsante di accensione."
-    new ""
+    new "pulsante di accensione."
 
     # game/mod_extras/bsod.rpy:201
     old "metaverse-pci.c:v[config.version] 9/22/2017 Metaverse Enterprise Solutions\n"
-    new ""
+    new "metaverse-pci.c:v[config.version] 9/22/2017 Metaverse Enterprise Solutions\n"
 
     # game/mod_extras/bsod.rpy:202
     old "  https://www.metaverse-enterprise.com/network/metaverse-pci.html"
-    new ""
+    new "https://www.metaverse-enterprise.com/network/metaverse-pci.html"
 
     # game/mod_extras/bsod.rpy:203
     old "hda0: METAVERSE ENTERPRISE VIRTUAL HARDDISK, ATA DISK drive"
