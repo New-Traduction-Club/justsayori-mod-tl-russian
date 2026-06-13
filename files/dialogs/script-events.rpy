@@ -4,61 +4,61 @@
 translate ru event_interlude_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-events.rpy:109
 translate ru fae_event_mr_cow_transform_17e6f8d7:
 
     # s "[player], heeeeeeelp!!!"
-    s ""
+    s "[player], спасииииии!!!"
 
 # game/dialogs/script-events.rpy:110
 translate ru fae_event_mr_cow_transform_76f6d3af:
 
     # s "I was messing with the code and accidentally turned myself into Mr. Cow!"
-    s ""
+    s "Я игралась с кодом и случайно превратила себя в Мистера Корову!"
 
 # game/dialogs/script-events.rpy:111
 translate ru fae_event_mr_cow_transform_f5deb510:
 
     # s "Noooooooo!!!!"
-    s ""
+    s "Нееееееееет!!!!"
 
 # game/dialogs/script-events.rpy:115
 translate ru fae_event_mr_cow_transform_9ea123f2:
 
     # s "Pffffftt-"
-    s ""
+    s "Пфффффффф-"
 
 # game/dialogs/script-events.rpy:119
 translate ru fae_event_mr_cow_transform_e8d1c002:
 
     # s "Bwahahahahah- I'm sorry, [player]!"
-    s ""
+    s "Вахахахахаха- Прости, [player]!"
 
 # game/dialogs/script-events.rpy:120
 translate ru fae_event_mr_cow_transform_fc556d18:
 
     # s "I'm fine- I just couldn't resist that one!"
-    s ""
+    s "Всё в порядке- Просто не могла удержаться!"
 
 # game/dialogs/script-events.rpy:121
 translate ru fae_event_mr_cow_transform_2d1610e5:
 
     # s "I'll go put him away now, I'll be back in a sec!"
-    s ""
+    s "Сейчас уберу его и вернусь!"
 
 # game/dialogs/script-events.rpy:137
 translate ru fae_event_mr_cow_transform_a65615b7:
 
     # s abhfcqa "There we go, ehehehe~"
-    s abhfcqa ""
+    s abhfcqa "Вот так, ахахаха~"
 
 # game/dialogs/script-events.rpy:138
 translate ru fae_event_mr_cow_transform_39ff76eb:
 
     # s abhfcoa "Welcome back, [player]!"
-    s abhfcoa ""
+    s abhfcoa "С возвращением, [player]!"
 
 # game/dialogs/script-events.rpy:139
 translate ru fae_event_mr_cow_transform_1445702f:
