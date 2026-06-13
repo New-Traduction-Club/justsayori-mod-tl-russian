@@ -156,19 +156,19 @@ translate ru strings:
 
     # game/mod_extras/bsod.rpy:203
     old "hda0: METAVERSE ENTERPRISE VIRTUAL HARDDISK, ATA DISK drive"
-    new ""
+    new "hda0: ВИРТУАЛЬНЫЙ ДИСК METAVERSE ENTERPRISE, ATA ДИСКОВЫЙ накопитель"
 
     # game/mod_extras/bsod.rpy:204
     old "ide0 at 0x1f0 - 0x1f7, 0x3f6 on irq 14"
-    new ""
+    new "ide0 at 0x1f0 - 0x1f7, 0x3f6 on irq 14"
 
     # game/mod_extras/bsod.rpy:205
     old "hdc: METAVERSE ENTERPRISE VIRTUAL CD-ROM, ATAPI CD/DVD-ROM drive"
-    new ""
+    new "ВИРТУАЛЬНЫЙ ОБРАЗ CD-ДИСКА METAVERSE ENTERPRISE, ATAPI CD/DVD-ROM накопитель"
 
     # game/mod_extras/bsod.rpy:206
     old "ide1 at 0x444 - 0x910, 0x211 on irq 15"
-    new ""
+    new "ide1 at 0x444 - 0x910, 0x211 on irq 15"
 
     # game/mod_extras/bsod.rpy:207
     old "fd0: METAVERSE ENTERPRISE VIRTUAL FLOPPY, ATA FLOPPY drive"
