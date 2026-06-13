@@ -220,165 +220,165 @@ translate ru compliment_look_up_to_you_1dcdf8d7:
 translate ru compliment_like_seeing_happy_eed2e789:
 
     # s abhfcka "Aww! That's so cute of you to say, [player]! Thank you so much!"
-    s abhfcka ""
+    s abhfcka "Авв! Так приятно это слышать, [player]! Спасибо огромное!"
 
 # game/dialogs/script-compliments.rpy:252
 translate ru compliment_like_seeing_happy_55b0fa54:
 
     # s ebbckea "I am {i}happy{/i} to make you {i}happy{/i} when you see me {i}happy{/i}, ehehehe~"
-    s ebbckea ""
+    s ebbckea "И я {i}рада{/i}, что ты {i}рад{/i}, когда я {i}рада{/i}, ихихихи~"
 
 # game/dialogs/script-compliments.rpy:253
 translate ru compliment_like_seeing_happy_9b02be1f:
 
     # s ebbbcka "I like seeing you happy as well! It makes all the time we spend together worth it."
-    s ebbbcka ""
+    s ebbbcka "Мне тоже нравится видеть тебя счастливым! Это доказывает, что мы не зря проводим время."
 
 # game/dialogs/script-compliments.rpy:275
 translate ru compliment_thank_for_being_here_238f2245:
 
     # s ebbbcka "Of course, [player]! I'll always be here for you when you need me!"
-    s ebbbcka ""
+    s ebbbcka "Не за что, [player]! Я всегда буду здесь, с тобой, когда ты только захочешь!"
 
 # game/dialogs/script-compliments.rpy:276
 translate ru compliment_thank_for_being_here_6b671562:
 
     # s abhfaoa "And thank you for being here for me too, it means a lot to me."
-    s abhfaoa ""
+    s abhfaoa "И знаешь, я тоже очень благодарна за то, что ты у меня есть."
 
 # game/dialogs/script-compliments.rpy:277
 translate ru compliment_thank_for_being_here_fd546a04:
 
     # s abbcmoaj "You know, you've done so much to help me and you've always been by my side, {w=0.5}{nw}"
-    s abbcmoaj ""
+    s abbcmoaj "Ты всегда поддерживаешь меня и помогаешь разобраться в этом мире, {w=0.5}{nw}"
 
 # game/dialogs/script-compliments.rpy:278
 translate ru compliment_thank_for_being_here_21e0de2f:
 
     # extend bbbciaa "despite everything that happened..."
-    extend bbbciaa ""
+    extend bbbciaa "даже несмотря на всё то, что произошло..."
 
 # game/dialogs/script-compliments.rpy:279
 translate ru compliment_thank_for_being_here_bc791c52:
 
     # s abaacaa "And I really can't thank you enough for that."
-    s abaacaa ""
+    s abaacaa "Не думаю, что когда-то смогу достаточно тебя отблагодарить, но..."
 
 # game/dialogs/script-compliments.rpy:281
 translate ru compliment_thank_for_being_here_d0262008:
 
     # s "I love you so much, [player]."
-    s ""
+    s "Я так люблю тебя, [player]."
 
 # game/dialogs/script-compliments.rpy:303
 translate ru compliment_like_your_writing_8971b054:
 
     # s abaanea "Aww, that means a lot to me, [player]! Thank you so much!"
-    s abaanea ""
+    s abaanea "Авв, так рада это слышать, [player]! Спасибки!"
 
 # game/dialogs/script-compliments.rpy:304
 translate ru compliment_like_your_writing_e274b22b:
 
     # s abaamoaj "You know, since there isn't much else for me to do in here, I try to put a lot of effort into my poetry..."
-    s abaamoaj ""
+    s abaamoaj "Мне толком ничем другим и не заняться, поэтому я вкладываю в стихи немало сил..."
 
 # game/dialogs/script-compliments.rpy:305
 translate ru compliment_like_your_writing_11ed3750:
 
     # s abbbmhaj "Sometimes it's hard for me to think of what to write, {w=0.5}{nw}"
-    s abbbmhaj ""
+    s abbbmhaj "Иногда мне трудно придумать, о чём писать, {w=0.5}{nw}"
 
 # game/dialogs/script-compliments.rpy:306
 translate ru compliment_like_your_writing_3af5ea76:
 
     # extend bbbbaaaj "or I get a bit too insecure about my abilities..."
-    extend bbbbaaaj ""
+    extend bbbbaaaj "или я просто чувствую себя не очень уверенно..."
 
 # game/dialogs/script-compliments.rpy:307
 translate ru compliment_like_your_writing_b6bbe82e:
 
     # s abbbcka "But if you really look forward to seeing my creations, I think it's worth it!"
-    s abbbcka ""
+    s abbbcka "Но если ты правда ждёшь моих работ, думаю оно того стоит!"
 
 # game/dialogs/script-compliments.rpy:308
 translate ru compliment_like_your_writing_3b3c11df:
 
     # s abbbksa "Do you write, [player]? I'd love to see your work someday if you do!"
-    s abbbksa ""
+    s abbbksa "А ты пробовал писать, [player]? Если да, то я с удовольствием бы почитала!"
 
 # game/dialogs/script-compliments.rpy:309
 translate ru compliment_like_your_writing_08157ef5:
 
     # s abhfcka "I'm sure you can write some amazing things too, ehehehe~"
-    s abhfcka ""
+    s abhfcka "Уверена, у тебя бы тоже хорошо получалось, ихихи~"
 
 # game/dialogs/script-compliments.rpy:331
 translate ru compliment_ball_of_sunshine_5b81713d:
 
     # s abgccea "[player]! That was so cute!"
-    s abgccea ""
+    s abgccea "[player]! Это так мило!"
 
 # game/dialogs/script-compliments.rpy:332
 translate ru compliment_ball_of_sunshine_00b25538:
 
     # s abbcnka "Thank you! I hope I can continue making you happy, and brightening up your days, {w=0.5}{nw}"
-    s abbcnka ""
+    s abbcnka "Спасибо! Надеюсь, что я смогу и дальше делать твои дни ярче и счастливее, {w=0.5}{nw}"
 
 # game/dialogs/script-compliments.rpy:333
 translate ru compliment_ball_of_sunshine_f42c8b76:
 
     # extend abgccaa "just like you do for me!"
-    extend abgccaa ""
+    extend abgccaa "совсем как для меня это делаешь ты!"
 
 # game/dialogs/script-compliments.rpy:334
 translate ru compliment_ball_of_sunshine_d346cb55:
 
     # s abaacqa "Ehehehe~"
-    s abaacqa ""
+    s abaacqa "Ахахаха~"
 
 translate ru strings:
 
     # game/dialogs/script-compliments.rpy:46
     old "I think you're best girl!"
-    new ""
+    new "Я думаю, что ты лучшая девочка!"
 
     # game/dialogs/script-compliments.rpy:76
     old "I think you're beautiful."
-    new ""
+    new "Мне кажется, что ты очень красивая."
 
     # game/dialogs/script-compliments.rpy:102
     old "I think you're pretty."
-    new ""
+    new "Мне кажется, что ты очень милая."
 
     # game/dialogs/script-compliments.rpy:126
     old "I love your hair!"
-    new ""
+    new "Твои волосы прекрасны!"
 
     # game/dialogs/script-compliments.rpy:152
     old "I love your eyes."
-    new ""
+    new "Твои глаза прекрасны."
 
     # game/dialogs/script-compliments.rpy:179
     old "You're so kind..."
-    new ""
+    new "Ты такая добрая..."
 
     # game/dialogs/script-compliments.rpy:207
     old "I look up to you."
-    new ""
+    new "Я хочу быть похожим на тебя."
 
     # game/dialogs/script-compliments.rpy:235
     old "I like seeing you happy."
-    new ""
+    new "Мне нравится, когда ты счастлива."
 
     # game/dialogs/script-compliments.rpy:259
     old "Thanks for being here for me."
-    new ""
+    new "Спасибо, что ты у меня есть."
 
     # game/dialogs/script-compliments.rpy:287
     old "I like your writing."
-    new ""
+    new "Мне нравятся твои стихи."
 
     # game/dialogs/script-compliments.rpy:315
     old "You're a ball of sunshine!"
-    new ""
+    new "Ты просто клочок солнышка!"
 
