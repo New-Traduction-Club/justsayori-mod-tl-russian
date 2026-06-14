@@ -22,7 +22,7 @@ translate ru s_fun_fact_arts_8fe4b7ed:
 translate ru s_fun_fact_arts_11b2671e:
 
     # s "Like in some games and movies, you can find a poster or something that shows other characters. Maybe they're from a past work, or just there to fill in space."
-    s "Например, в некоторых играх и фильмах, можно заметить постер или что-то подобное, изображающее других персонажей. Они могут отсылать к предыдущим работам, ну или просто висеть для украшения."
+    s "Например, в некоторых играх и фильмах, можно заметить постер или что-то подобное, изображающее других персонажей. Они могут отсылать к предыдущим работам создателя, ну или просто висеть для украшения."
 
 # game/dialogs/script-fun-facts.rpy:81
 translate ru s_fun_fact_arts_2f647053:
@@ -34,37 +34,37 @@ translate ru s_fun_fact_arts_2f647053:
 translate ru s_fun_fact_arts_e55c4e58:
 
     # s abbbaca "But some of them hide stuff in small things that could refer to a whole other universe, with different details and all."
-    s abbbaca "Но иногда создатель прячет отсылки на целые вселенные в совсем незаметных деталях."
+    s abbbaca "Но иногда автор прячет отсылки на целые вселенные в совсем незаметных деталях."
 
 # game/dialogs/script-fun-facts.rpy:83
 translate ru s_fun_fact_arts_7b9ed9f7:
 
     # s "For example, do you remember {i}Parfait Girls{/i}?"
-    s "Например, знаешь {i}Parfait Girls{/i}?"
+    s "Например, помнишь {i}Parfait Girls{/i}?"
 
 # game/dialogs/script-fun-facts.rpy:84
 translate ru s_fun_fact_arts_20d4e53f:
 
     # s bbbbbaa "You've probably seen people talk about it around the community."
-    s bbbbbaa "Возможно ты натыкался на обсуждения этой вселенной."
+    s bbbbbaa "Возможно ты натыкался на обсуждения этой манги внутри фандома DDLC."
 
 # game/dialogs/script-fun-facts.rpy:85
 translate ru s_fun_fact_arts_4cadcfb7:
 
     # s "This manga's plot isn't really known, is it?"
-    s ""
+    s "О её сюжете известно совсем немного, так ведь?"
 
 # game/dialogs/script-fun-facts.rpy:86
 translate ru s_fun_fact_arts_724f88d3:
 
     # s abaaaoa "Nat tells you a little of what it's about, then that's pretty much it."
-    s abaaaoa ""
+    s abaaaoa "Всё немногое, что ты о ней знаешь тебе рассказала Натцуки."
 
 # game/dialogs/script-fun-facts.rpy:87
 translate ru s_fun_fact_arts_f12c56fc:
 
     # s abbcaoa "But who knows! Maybe it’s alluding to an upcoming game or manga!"
-    s abbcaoa ""
+    s abbcaoa "Но кто его знает! Может быть это намёк на предстоящую игру или мангу!"
 
 # game/dialogs/script-fun-facts.rpy:101
 translate ru s_fun_fact_number4_7ac61b72:
