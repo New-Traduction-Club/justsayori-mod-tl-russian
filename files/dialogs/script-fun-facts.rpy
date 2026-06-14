@@ -4,49 +4,49 @@
 translate ru s_fun_fact_beginning_test_0b4ce13c:
 
     # s abbcaoa "Do you want to hear a fun fact, [player]?"
-    s abbcaoa ""
+    s abbcaoa "Хочешь интересный факт, [player]?"
 
 # game/dialogs/script-fun-facts.rpy:66
 translate ru fae_fun_facts_end_bd524804:
 
     # s abbccoa "I hope you enjoyed that one!"
-    s abbccoa ""
+    s abbccoa "Надеюсь тебе понравилось!"
 
 # game/dialogs/script-fun-facts.rpy:79
 translate ru s_fun_fact_arts_8fe4b7ed:
 
     # s abaaaoa "Some artists add little details referring to different people or universes in their works."
-    s abaaaoa ""
+    s abaaaoa "Некоторые художники добавляют маленькие детали, отсылающие к другим людям или произведениям того же автора."
 
 # game/dialogs/script-fun-facts.rpy:80
 translate ru s_fun_fact_arts_11b2671e:
 
     # s "Like in some games and movies, you can find a poster or something that shows other characters. Maybe they're from a past work, or just there to fill in space."
-    s ""
+    s "Например, в некоторых играх и фильмах, можно заметить постер или что-то подобное, изображающее других персонажей. Они могут отсылать к предыдущим работам, ну или просто висеть для украшения."
 
 # game/dialogs/script-fun-facts.rpy:81
 translate ru s_fun_fact_arts_2f647053:
 
     # s abhaaca "We wouldn't know unless it was that obvious or they told us outright."
-    s abhaaca ""
+    s abhaaca "Эти вещи было бы трудно заметить, не будь они расположены на очевидных местах."
 
 # game/dialogs/script-fun-facts.rpy:82
 translate ru s_fun_fact_arts_e55c4e58:
 
     # s abbbaca "But some of them hide stuff in small things that could refer to a whole other universe, with different details and all."
-    s abbbaca ""
+    s abbbaca "Но иногда создатель прячет отсылки на целые вселенные в совсем незаметных деталях."
 
 # game/dialogs/script-fun-facts.rpy:83
 translate ru s_fun_fact_arts_7b9ed9f7:
 
     # s "For example, do you remember {i}Parfait Girls{/i}?"
-    s ""
+    s "Например, знаешь {i}Parfait Girls{/i}?"
 
 # game/dialogs/script-fun-facts.rpy:84
 translate ru s_fun_fact_arts_20d4e53f:
 
     # s bbbbbaa "You've probably seen people talk about it around the community."
-    s bbbbbaa ""
+    s bbbbbaa "Возможно ты натыкался на обсуждения этой вселенной."
 
 # game/dialogs/script-fun-facts.rpy:85
 translate ru s_fun_fact_arts_4cadcfb7:
