@@ -70,25 +70,25 @@ translate ru s_fun_fact_arts_f12c56fc:
 translate ru s_fun_fact_number4_7ac61b72:
 
     # s abhfcaa "Hey [player]! Can you guess what my favorite number is?"
-    s abhfcaa ""
+    s abhfcaa "Эй, [player]! Угадаешь, какое у меня любимое число?"
 
 # game/dialogs/script-fun-facts.rpy:102
 translate ru s_fun_fact_number4_d2528a79:
 
     # s abbccoa "It's {i}four{/i}!"
-    s abbccoa ""
+    s abbccoa "{i}Четыре{/i}!"
 
 # game/dialogs/script-fun-facts.rpy:103
 translate ru s_fun_fact_number4_b1b5b2c8:
 
     # s abhfaoa "I really like this number, It's a pretty magical one."
-    s abhfaoa ""
+    s abhfaoa "Оно мне очень нравится. В нём будто есть что-то волшебное."
 
 # game/dialogs/script-fun-facts.rpy:104
 translate ru s_fun_fact_number4_f651d9ec:
 
     # s abhaaca "And I recently noticed that it's weirdly connected to this game too."
-    s abhaaca ""
+    s abhaaca "А недавно я заметила, что оно странным образом связано с DDLC."
 
 # game/dialogs/script-fun-facts.rpy:105
 translate ru s_fun_fact_number4_2816a078:
