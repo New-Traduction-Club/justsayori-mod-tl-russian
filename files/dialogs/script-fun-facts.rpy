@@ -238,45 +238,45 @@ translate ru s_fun_fact_Binary_d135352b:
 translate ru s_fun_fact_dreams_83778c25:
 
     # s abhfaoa "Hey [player], have you ever woken up from an amazing dream and, no matter how hard you try, you just completely forget it?"
-    s abhfaoa ""
+    s abhfaoa "О, [player], у тебя когда-нибудь был офигенный сон, который ты мгновенно забывал сразу после того, как проснёшься?"
 
 # game/dialogs/script-fun-facts.rpy:166
 translate ru s_fun_fact_dreams_5163eeef:
 
     # s abbbaca "Well, I did a little research and found something super interesting!"
-    s abbbaca ""
+    s abbbaca "В общем, я немного покопалась и нашла кое-что интересное об этом феномене!!"
 
 # game/dialogs/script-fun-facts.rpy:167
 translate ru s_fun_fact_dreams_a74a457c:
 
     # s abbcaoa "Apparently, most people forget 90%% of their dreams within 10 minutes of waking up!"
-    s abbcaoa ""
+    s abbcaoa "Как правило, большинство людей забывает 90% своих снов в первые 10 минут после пробуждения!"
 
 # game/dialogs/script-fun-facts.rpy:168
 translate ru s_fun_fact_dreams_864c3d37:
 
     # s bbhfaca "It's a little sad, don't you think? Sometimes I have really happy dreams and I wish I could remember them forever..."
-    s bbhfaca ""
+    s bbhfaca "Довольно грустно, не правда ли? Иногда сны бывают такими счастливыми, что мне вообще не хотелось бы их когда-то забывать."
 
 # game/dialogs/script-fun-facts.rpy:169
 translate ru s_fun_fact_dreams_3d94394a:
 
     # s bbfclfc "Especially if they're dreams with you in them, ehehe~"
-    s bbfclfc ""
+    s bbfclfc "Особенно когда они про тебя, хихихи~"
 
 # game/dialogs/script-fun-facts.rpy:170
 translate ru s_fun_fact_dreams_55cd5b35:
 
     # s abaaaoa "I guess that's why we should treasure the good moments, whether they're dreams or memories, while they last!"
-    s abaaaoa ""
+    s abaaaoa "Я думаю поэтому мы должны ценить хорошее тогда, когда оно ещё с нами, неважно сон это или явь!"
 
 translate ru strings:
 
     # game/dialogs/script-fun-facts.rpy:36
     old "Can you tell me a fun fact?"
-    new ""
+    new "Можешь рассказать интересный факт?"
 
     # game/dialogs/script-fun-facts.rpy:36
     old "Misc"
-    new ""
+    new "Прочее"
 
