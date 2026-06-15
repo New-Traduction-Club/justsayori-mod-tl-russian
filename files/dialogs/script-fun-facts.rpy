@@ -130,109 +130,109 @@ translate ru s_fun_fact_number4_f74576ac:
 translate ru s_fun_fact_interpretingWords_7aed8b31:
 
     # s abaaaoa "Hey [player], do you ever read a word without even noticing it's spelled wrong?"
-    s abaaaoa ""
+    s abaaaoa "Слушай, [player], ты когда-нибудь читал слово, даже не замечая, что оно написано с ошибкой?"
 
 # game/dialogs/script-fun-facts.rpy:124
 translate ru s_fun_fact_interpretingWords_7af09cca:
 
     # s abaacoa "And it always happens with the tiny obvious words!"
-    s abaacoa ""
+    s abaacoa "И что интересно, это всегда происходит с маленькими очевидными словами!"
 
 # game/dialogs/script-fun-facts.rpy:125
 translate ru s_fun_fact_interpretingWords_2343dd3e:
 
     # s abbbaoa "{i}So I bet you can't find the mistake in tihs text! {/i}{#Y'see the mistake in 'tihs'} Ehehehe~"
-    s abbbaoa ""
+    s abbbaoa "{i}Готова поспроить, что ты не заметил ошибку в этом предложении! {/i}{Она была в 'поспроить} Ахахах~"
 
 # game/dialogs/script-fun-facts.rpy:126
 translate ru s_fun_fact_interpretingWords_1aa28f13:
 
     # s abhaaca "So I did some googling and apparently it's because your lazy brain often only reads the letters at the start and the end of common words, without even considering the letters in between."
-    s abhaaca ""
+    s abhaaca "В общем я погуглила, и кажется это происходит из-за того, что твоему ленивому мозгу удобнее читать только первую и последнюю буквы в известных ему словах, не обращая никакого внимания на всё остальное."
 
 # game/dialogs/script-fun-facts.rpy:127
 translate ru s_fun_fact_interpretingWords_582ebd01:
 
     # s abbcaaa "And that's why we make silly mistakes while writing from time to time."
-    s abbcaaa ""
+    s abbcaaa "Именно поэтому мы иногда допускаем глупые ошибки при письме."
 
 # game/dialogs/script-fun-facts.rpy:128
 translate ru s_fun_fact_interpretingWords_3ffb105e:
 
     # s "There’s some funny and not so funny examples of misspellings in the past because someone didn't go back to fix a word or two."
-    s ""
+    s "Есть много смешных и не очень примеров неправильного написания, и возникают они из-за того, что кто-то забыл перепроверить текст."
 
 # game/dialogs/script-fun-facts.rpy:129
 translate ru s_fun_fact_interpretingWords_1300b5d6:
 
     # s abbccaa "But y’know, we’re people. We all make mistakes occasionally."
-    s abbccaa ""
+    s abbccaa "Но знаешь, все мы люди. Допусквть ошибки - нормальная практика для нас."
 
 # game/dialogs/script-fun-facts.rpy:130
 translate ru s_fun_fact_interpretingWords_d3a1ac35:
 
     # s abaaaoa "In the end, no one's perfect."
-    s abaaaoa ""
+    s abaaaoa "В конце концов, никто не идеален."
 
 # game/dialogs/script-fun-facts.rpy:143
 translate ru s_fun_fact_Binary_44f9d909:
 
     # s abhaaca "Did you know that you can show numbers much bigger than 5 with just one hand?"
-    s abhaaca ""
+    s abhaaca "Знаешь ли ты, что можешь показывать числа намного больше пяти, используя лишь одну руку?"
 
 # game/dialogs/script-fun-facts.rpy:144
 translate ru s_fun_fact_Binary_296e2f36:
 
     # s "And that’s with the binary system!"
-    s ""
+    s "Используя двоичную систему счисления!"
 
 # game/dialogs/script-fun-facts.rpy:145
 translate ru s_fun_fact_Binary_eeb90e16:
 
     # s "Just look at your fingers, they’re a perfect match for the classic 0/1 pair!"
-    s ""
+    s "Твои пальцы - идеальный способ представить 0 и 1!"
 
 # game/dialogs/script-fun-facts.rpy:146
 translate ru s_fun_fact_Binary_a9c3ea5e:
 
     # s "And it works pretty cleverly too!"
-    s ""
+    s "Это достаточно хитрая система!"
 
 # game/dialogs/script-fun-facts.rpy:147
 translate ru s_fun_fact_Binary_acbf1062:
 
     # s "The first number in the unit’s place represents 1, then the next represents 2, and 4, and 8, and so on."
-    s ""
+    s "Первая цифра в разряде числа означает 1, следующая 2, дальше 4, потом 8 и так далее."
 
 # game/dialogs/script-fun-facts.rpy:148
 translate ru s_fun_fact_Binary_415152c0:
 
     # s "And by adding them up, you can work out the number in decimal form."
-    s ""
+    s "Продолжая их добавлять, ты сможешь представить десятичное число."
 
 # game/dialogs/script-fun-facts.rpy:149
 translate ru s_fun_fact_Binary_e8b7ebc1:
 
     # s "Just like a computer would!"
-    s ""
+    s "Прям как компьютер!"
 
 # game/dialogs/script-fun-facts.rpy:150
 translate ru s_fun_fact_Binary_ef5020bb:
 
     # s "It’s really cool how they compact giant numbers to make calculations easier."
-    s ""
+    s "Довольно круто, что он может упрощать вычисления, делая числа компактнее."
 
 # game/dialogs/script-fun-facts.rpy:151
 translate ru s_fun_fact_Binary_f5e256fe:
 
     # s "I wish I could’ve done that in math class, ehehehe~"
-    s ""
+    s "Хотела бы я так уметь на уроках математики, ахахаха~"
 
 # game/dialogs/script-fun-facts.rpy:152
 translate ru s_fun_fact_Binary_d135352b:
 
     # s abaaaoa "If you use both hands, you can even calculate numbers up to {i}1023{/i}!"
-    s abaaaoa ""
+    s abaaaoa "А если ты используешь обе руки, то сможешь оперировать числами вплоть до {i}1023{/i}!"
 
 # game/dialogs/script-fun-facts.rpy:165
 translate ru s_fun_fact_dreams_83778c25:
