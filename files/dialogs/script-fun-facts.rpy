@@ -94,37 +94,37 @@ translate ru s_fun_fact_number4_f651d9ec:
 translate ru s_fun_fact_number4_2816a078:
 
     # s "You know, {i}4{/i} girls, {i}4{/i} acts."
-    s ""
+    s "Типа, {i}4{/i} девушки, {i}4{/i} акта."
 
 # game/dialogs/script-fun-facts.rpy:107
 translate ru s_fun_fact_number4_29615905:
 
     # s bbheboa "...And {i}4{/i} club meetings too..."
-    s bbheboa ""
+    s bbheboa "...И {i}4{/i} собрания клуба..."
 
 # game/dialogs/script-fun-facts.rpy:108
 translate ru s_fun_fact_number4_0cf90460:
 
     # s abbbaca "Maybe it's because it’s an unlucky number in East Asian culture."
-    s abbbaca ""
+    s abbbaca "Может всё потому, что это несчастливое число в азиатской культуре."
 
 # game/dialogs/script-fun-facts.rpy:109
 translate ru s_fun_fact_number4_adec5fcc:
 
     # s abbbbca "But that's just superstition, right?"
-    s abbbbca ""
+    s abbbbca "Но это просто суеверия, верно?"
 
 # game/dialogs/script-fun-facts.rpy:110
 translate ru s_fun_fact_number4_e1e403ff:
 
     # s abbbaoa "Ironically for me it was always a lucky number!"
-    s abbbaoa ""
+    s abbbaoa "Иронично что для меня {i}4{/i} всегда было счастливой цифрой!"
 
 # game/dialogs/script-fun-facts.rpy:111
 translate ru s_fun_fact_number4_f74576ac:
 
     # s abbccoa "Is it your lucky number too? That'd be such a funny coincidence, ehehe~"
-    s abbccoa ""
+    s abbccoa "А тебе {i}четвёрка{/i} не приносит удачу? Вышло бы забавное совпадение, будь это так, ахаха~"
 
 # game/dialogs/script-fun-facts.rpy:123
 translate ru s_fun_fact_interpretingWords_7aed8b31:
