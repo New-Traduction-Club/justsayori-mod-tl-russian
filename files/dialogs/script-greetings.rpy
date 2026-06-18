@@ -838,505 +838,505 @@ translate ru s_greeting_long_away_ebd60002:
 translate ru s_greeting_long_away_03bf5b6e:
 
     # s abfcaoa "Hey, [player]!"
-    s abfcaoa ""
+    s abfcaoa "Эй, [player]!"
 
 # game/dialogs/script-greetings.rpy:493
 translate ru s_greeting_long_away_29b605e9:
 
     # s abfcaca "You’ve been gone a bit longer than a week."
-    s abfcaca ""
+    s abfcaca "Тебя не был несколько больше, чем неделю."
 
 # game/dialogs/script-greetings.rpy:494
 translate ru s_greeting_long_away_bea06472:
 
     # s abfcaca "But that’s okay, {w=0.5}{nw}"
-    s abfcaca ""
+    s abfcaca "Но ничего страшного, {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:495
 translate ru s_greeting_long_away_4d5ffb16:
 
     # extend bbgcaaa "you came back eventually!"
-    extend bbgcaaa ""
+    extend bbgcaaa "ведь ты всё-таки вернулся!"
 
 # game/dialogs/script-greetings.rpy:496
 translate ru s_greeting_long_away_f1e94be6:
 
     # s bbgcmoaj "Though you’re a little late, ehehehe~"
-    s bbgcmoaj ""
+    s bbgcmoaj "Хотя и немного поздно, эхехехе~"
 
 # game/dialogs/script-greetings.rpy:497
 translate ru s_greeting_long_away_e40b2bf8:
 
     # s abgccoa "Let’s spend some more time together."
-    s abgccoa ""
+    s abgccoa "Давай проведём вместе ещё немного времени."
 
 # game/dialogs/script-greetings.rpy:499
 translate ru s_greeting_long_away_a03b3d31:
 
     # s ebgchca "Oh! {w=0.5}{nw}"
-    s ebgchca ""
+    s ebgchca "О! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:500
 translate ru s_greeting_long_away_6f94b6eb:
 
     # extend abgccoa "Back already, [player]?"
-    extend abgccoa ""
+    extend abgccoa "Уже вернулся, [player]?"
 
 # game/dialogs/script-greetings.rpy:501
 translate ru s_greeting_long_away_4b697f40:
 
     # s bbhemoaj "Not that I’m complaining, ehehehe~"
-    s bbhemoaj ""
+    s bbhemoaj "Не то что бы я была против, эхехехе~"
 
 # game/dialogs/script-greetings.rpy:502
 translate ru s_greeting_long_away_1cd304ff:
 
     # s abheaaaj "You’re a little early, but that’s okay!"
-    s abheaaaj ""
+    s abheaaaj "Немного рановато, но ничего страшного!"
 
 # game/dialogs/script-greetings.rpy:503
 translate ru s_greeting_long_away_6eec8f8b:
 
     # s abfccaa "Let’s spend some more time together."
-    s abfccaa ""
+    s abfccaa "Повеселимся вместе, [player]!"
 
 # game/dialogs/script-greetings.rpy:505
 translate ru s_greeting_long_away_dc3518d7:
 
     # s ebfchsa "Oh! [player]!"
-    s ebfchsa ""
+    s ebfchsa "О! [player]!"
 
 # game/dialogs/script-greetings.rpy:506
 translate ru s_greeting_long_away_21c0aeb3:
 
     # s abfcaoa "I didn’t expect you back {i}this{/i} soon."
-    s abfcaoa ""
+    s abfcaoa "Не думала, что ты вернёшься {i}настолько{/i} быстро."
 
 # game/dialogs/script-greetings.rpy:507
 translate ru s_greeting_long_away_a050a3db:
 
     # s bbfcmoaj "I’m not complaining though, ehehehe~"
-    s bbfcmoaj ""
+    s bbfcmoaj "Но я, конечно, не против."
 
 # game/dialogs/script-greetings.rpy:508
 translate ru s_greeting_long_away_f58972c5:
 
     # s abfccoa "Let’s spend some more time together."
-    s abfccoa ""
+    s abfccoa "Теперь мне есть с кем посидеть и поболтать."
 
 # game/dialogs/script-greetings.rpy:513
 translate ru s_greeting_long_away_c0f63b48:
 
     # s cbaahca "[player]!"
-    s cbaahca ""
+    s cbaahca "[player]!"
 
 # game/dialogs/script-greetings.rpy:514
 translate ru s_greeting_long_away_8056d140:
 
     # s cbaaapa "You’re late!"
-    s cbaaapa ""
+    s cbaaapa "Ты пришёл позже, чем обещал!"
 
 # game/dialogs/script-greetings.rpy:515
 translate ru s_greeting_long_away_9d32432f:
 
     # s cbbbaca "You said you’d only be a few days!"
-    s cbbbaca ""
+    s cbbbaca "Ты сказал что уйдёшь на пару дней!"
 
 # game/dialogs/script-greetings.rpy:516
 translate ru s_greeting_long_away_cbef4102:
 
     # s cbbbaha "And it’s been a whole week!"
-    s cbbbaha ""
+    s cbbbaha "А прошла целая неделя!"
 
 # game/dialogs/script-greetings.rpy:517
 translate ru s_greeting_long_away_57406b4c:
 
     # s abgbcoa "Ehehehe, just kidding, [player]!"
-    s abgbcoa ""
+    s abgbcoa "Ахахаха, просто шучу, [player]!"
 
 # game/dialogs/script-greetings.rpy:518
 translate ru s_greeting_long_away_30e9ce8c:
 
     # s bbhfaaa "I’m just glad to see you again."
-    s bbhfaaa ""
+    s bbhfaaa "Рада видеть тебя вновь."
 
 # game/dialogs/script-greetings.rpy:519
 translate ru s_greeting_long_away_082218b7:
 
     # s bbhfaoa "I understand if you find yourself a little busier than you expected to be from time to time."
-    s bbhfaoa ""
+    s bbhfaoa "Ничего страшного, если иногда ты занят больше обычного."
 
 # game/dialogs/script-greetings.rpy:520
 translate ru s_greeting_long_away_c26e6ab9:
 
     # s cbaamc "Ugh!"
-    s cbaamc ""
+    s cbaamc "Угх!"
 
 # game/dialogs/script-greetings.rpy:522
 translate ru s_greeting_long_away_fd25c8c8:
 
     # s cbaamp "Boys. Honestly."
-    s cbaamp ""
+    s cbaamp "Мальчишки. Блин."
 
 # game/dialogs/script-greetings.rpy:523
 translate ru s_greeting_long_away_7b04cfec:
 
     # s abgbcaa "Let’s spend some more time together."
-    s abgbcaa ""
+    s abgbcaa "Рассказывай уже, как у тебя дела."
 
 # game/dialogs/script-greetings.rpy:525
 translate ru s_greeting_long_away_8f1a4cfc_1:
 
     # s abgccoa "Welcome back, [player]!"
-    s abgccoa ""
+    s abgccoa "С возвращением, [player]!"
 
 # game/dialogs/script-greetings.rpy:526
 translate ru s_greeting_long_away_46311804_1:
 
     # s abgcaoa "I missed you!"
-    s abgcaoa ""
+    s abgcaoa "Я скучала!"
 
 # game/dialogs/script-greetings.rpy:527
 translate ru s_greeting_long_away_867a8ac8:
 
     # s abgccaa "Right on time too, ehehehe~"
-    s abgccaa ""
+    s abgccaa "Ты как раз вовремя, эхехехе~"
 
 # game/dialogs/script-greetings.rpy:528
 translate ru s_greeting_long_away_8a6f5f38:
 
     # s abgcaaa "Let’s spend some more time together!"
-    s abgcaaa ""
+    s abgcaaa "Давай немного позависаем!"
 
 # game/dialogs/script-greetings.rpy:530
 translate ru s_greeting_long_away_03d9539a:
 
     # s abgcaoa "Oh, hi [player]!"
-    s abgcaoa ""
+    s abgcaoa "О, привет, [player]!"
 
 # game/dialogs/script-greetings.rpy:531
 translate ru s_greeting_long_away_e276b0bb:
 
     # s abgcaaa "I wasn’t expecting to see you so soon!"
-    s abgcaaa ""
+    s abgcaaa "Ты вернулся раньше, чем я ожидала!"
 
 # game/dialogs/script-greetings.rpy:532
 translate ru s_greeting_long_away_ddbd9e16:
 
     # s abfccaa "I’m glad you’re back though!"
-    s abfccaa ""
+    s abfccaa "Но, конечно, я рада тебя видеть!"
 
 # game/dialogs/script-greetings.rpy:533
 translate ru s_greeting_long_away_856fd3d8:
 
     # s abfcaaa "Let’s spend some more time together."
-    s abfcaaa ""
+    s abfcaaa "Проведём же вместе немного времени."
 
 # game/dialogs/script-greetings.rpy:535
 translate ru s_greeting_long_away_83e15cb0:
 
     # s abfcaaa "Oh, hey [player]!"
-    s abfcaaa ""
+    s abfcaaa "О, приветик, [player]!"
 
 # game/dialogs/script-greetings.rpy:536
 translate ru s_greeting_long_away_38d165bf:
 
     # s bbfccoaj "Back so soon? Ehehehe~"
-    s bbfccoaj ""
+    s bbfccoaj "Уже вернулся? Эхехехе~"
 
 # game/dialogs/script-greetings.rpy:537
 translate ru s_greeting_long_away_dea12259:
 
     # s abfcaoa "Well I’m not complaining!"
-    s abfcaoa ""
+    s abfcaoa "Что ж, я не жалуюсь!"
 
 # game/dialogs/script-greetings.rpy:538
 translate ru s_greeting_long_away_856fd3d8_1:
 
     # s abfcaaa "Let’s spend some more time together."
-    s abfcaaa ""
+    s abfcaaa "Посидим и поболтаем, ахахаха~"
 
 # game/dialogs/script-greetings.rpy:541
 translate ru s_greeting_long_away_d5dc317a:
 
     # s abfcaaa "Welcome back, [player]!"
-    s abfcaaa ""
+    s abfcaaa "С возвращением, [player]!"
 
 # game/dialogs/script-greetings.rpy:542
 translate ru s_greeting_long_away_9e6a5bd3:
 
     # s bbfcaaa "Thanks for telling me how long you’d be out."
-    s bbfcaaa ""
+    s bbfcaaa "Спасибо что предупредил, сколько тебя не будет."
 
 # game/dialogs/script-greetings.rpy:543
 translate ru s_greeting_long_away_a78e83b4:
 
     # s abgccaa "I’m glad you’re back!"
-    s abgccaa ""
+    s abgccaa "Рада видеть тебя вновь!"
 
 # game/dialogs/script-greetings.rpy:544
 translate ru s_greeting_long_away_e8f20a48:
 
     # s abgcaaa "Let’s spend some more time together."
-    s abgcaaa ""
+    s abgcaaa "Давай хорошо проведём время."
 
 # game/dialogs/script-greetings.rpy:546
 translate ru s_greeting_long_away_b3b66116:
 
     # s abgccoa "[player]!"
-    s abgccoa ""
+    s abgccoa "[player]!"
 
 # game/dialogs/script-greetings.rpy:547
 translate ru s_greeting_long_away_9ecf534c:
 
     # s abgcmoaj "You’re a little early! Ehehehe~"
-    s abgcmoaj ""
+    s abgcmoaj "Ты вернулся чуточку раньше! Эхехехе~"
 
 # game/dialogs/script-greetings.rpy:548
 translate ru s_greeting_long_away_c3e15099:
 
     # s abgcmoaj "But I’m not complaining!"
-    s abgcmoaj ""
+    s abgcmoaj "Но я не жалуюсь!"
 
 # game/dialogs/script-greetings.rpy:549
 translate ru s_greeting_long_away_836b1404:
 
     # s abfcaaa "I guess you didn’t expect to be gone for such a short time ehehehe~"
-    s abfcaaa ""
+    s abfcaaa "Думаю ты и сам не думал, что так быстро вернёшься ахахаха~"
 
 # game/dialogs/script-greetings.rpy:550
 translate ru s_greeting_long_away_f58972c5_1:
 
     # s abfccoa "Let’s spend some more time together."
-    s abfccoa ""
+    s abfccoa "Давай проведём время вместе."
 
 # game/dialogs/script-greetings.rpy:552
 translate ru s_greeting_long_away_a43815bf:
 
     # s abgcaoa "Oh! Hi [player]!"
-    s abgcaoa ""
+    s abgcaoa "О! Привет, [player]!"
 
 # game/dialogs/script-greetings.rpy:553
 translate ru s_greeting_long_away_75758a55:
 
     # s "I didn’t expect you to return so soon!"
-    s ""
+    s "Не думала, что ты вернёшься так быстро!"
 
 # game/dialogs/script-greetings.rpy:554
 translate ru s_greeting_long_away_fc82aeb4:
 
     # s "But that’s fine by me! Ehehehe~"
-    s ""
+    s "Но я не против! Эхехехе~"
 
 # game/dialogs/script-greetings.rpy:555
 translate ru s_greeting_long_away_e40b2bf8_1:
 
     # s abgccoa "Let’s spend some more time together."
-    s abgccoa ""
+    s abgccoa "Рассказывай, [player]."
 
 # game/dialogs/script-greetings.rpy:557
 translate ru s_greeting_long_away_3e990e2d:
 
     # s abgchsa "Oh! [player]!"
-    s abgchsa ""
+    s abgchsa "О! [player]!"
 
 # game/dialogs/script-greetings.rpy:558
 translate ru s_greeting_long_away_edc648ec:
 
     # s bbgcaaa "I didn’t expect you to return so soon!"
-    s bbgcaaa ""
+    s bbgcaaa "Я не ожидала увидеть тебя так скоро!"
 
 # game/dialogs/script-greetings.rpy:559
 translate ru s_greeting_long_away_8fd27be6:
 
     # s bbgcmoaj "But I guess you didn’t either, ehehehe~"
-    s bbgcmoaj ""
+    s bbgcmoaj "Но думаю, что и ты этого не предвидел, эхехехе~"
 
 # game/dialogs/script-greetings.rpy:560
 translate ru s_greeting_long_away_a0d89c25:
 
     # s abfcaaaj "Let’s spend some more time together."
-    s abfcaaaj ""
+    s abfcaaaj "Давай проведём время вместе."
 
 # game/dialogs/script-greetings.rpy:580
 translate ru s_greeting_weather_1ceb30ad:
 
     # s abgbaoa "Hi again, [player]!"
-    s abgbaoa ""
+    s abgbaoa "Снова привет, [player]!"
 
 # game/dialogs/script-greetings.rpy:581
 translate ru s_greeting_weather_f1f88b08:
 
     # s abgbcaa "Guess who’s been tinkering with the files again? {w=0.5}{nw}"
-    s abgbcaa ""
+    s abgbcaa "Угадай, кто снова игрался с файлами? {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:582
 translate ru s_greeting_weather_c16a329c:
 
     # extend abgccoa "Me! Ehehehe~"
-    extend abgccoa ""
+    extend abgccoa "Я! Ахахаха~"
 
 # game/dialogs/script-greetings.rpy:583
 translate ru s_greeting_weather_655c2ae1:
 
     # s abgcaaa "Don’t worry though! {w=0.5}{nw}"
-    s abgcaaa ""
+    s abgcaaa "Не переживай! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:584
 translate ru s_greeting_weather_17fc8792:
 
     # extend abbcaoa "I haven’t broken anything!"
-    extend abbcaoa ""
+    extend abbcaoa "Я ничего не сломала!"
 
 # game/dialogs/script-greetings.rpy:585
 translate ru s_greeting_weather_74b19f7d:
 
     # s abegbibj "Hopefully… ehehehe~"
-    s abegbibj ""
+    s abegbibj "Надеюсь… эхехехе~"
 
 # game/dialogs/script-greetings.rpy:586
 translate ru s_greeting_weather_f9fa4794:
 
     # s abgbaoa "You know, the more time I spend here, {w=0.5}{nw}"
-    s abgbaoa ""
+    s abgbaoa "Знаешь, чем больше я тут нахожусь, {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:587
 translate ru s_greeting_weather_c45fcc39:
 
     # extend abbbcaa "the more control I realise I have over the environment!"
-    extend abbbcaa ""
+    extend abbbcaa "тем больше понимаю, как сильно я способна менять это место!"
 
 # game/dialogs/script-greetings.rpy:588
 translate ru s_greeting_weather_bbfd02db:
 
     # s abgcaoa "I found some files about weather, {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "Я нашла файлы, отвечающие за смену погоды, {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:589
 translate ru s_greeting_weather_ddfc7323:
 
     # extend abbccaa "and when I bring them to mind, the weather changes!"
-    extend abbccaa ""
+    extend abbccaa "и как только я думаю о каком-нибудь из них, погода меняется!"
 
 # game/dialogs/script-greetings.rpy:590
 translate ru s_greeting_weather_0b263425:
 
     # s abgcaoa "I feel like a superhero! {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "Я чувствую себя волшебником! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:591
 translate ru s_greeting_weather_7537962d:
 
     # extend abgccaa "Ehehehe~"
-    extend abgccaa ""
+    extend abgccaa "Эхехехе~"
 
 # game/dialogs/script-greetings.rpy:592
 translate ru s_greeting_weather_e52722dc:
 
     # s abgbaoa "Here, I’ll show you."
-    s abgbaoa ""
+    s abgbaoa "Вот, посмотри."
 
 # game/dialogs/script-greetings.rpy:593
 translate ru s_greeting_weather_7a3f5369:
 
     # s nbgblaa "Let’s say I wanted it to be sunny..."
-    s nbgblaa ""
+    s nbgblaa "Допустим я хочу, чтобы вышло солнце..."
 
 # game/dialogs/script-greetings.rpy:594
 translate ru s_greeting_weather_1a89d96b:
 
     # s gbgbloa "Aaaand... {w=0.5}{nw}"
-    s gbgbloa ""
+    s gbgbloa "Иииииии... {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:595
 translate ru s_greeting_weather_156a9ac5:
 
     # extend ebgcaea "Abracadabra!"
-    extend ebgcaea ""
+    extend ebgcaea "Абракадабра!"
 
 # game/dialogs/script-greetings.rpy:599
 translate ru s_greeting_weather_dfc61d78:
 
     # s ebgcbga "Wah! No that’s not right!"
-    s ebgcbga ""
+    s ebgcbga "Ой! Нет, это не то!"
 
 # game/dialogs/script-greetings.rpy:600
 translate ru s_greeting_weather_e6d02bf1:
 
     # s gbgdbca "Which one was it again…"
-    s gbgdbca ""
+    s gbgdbca "Может быть вот этот…"
 
 # game/dialogs/script-greetings.rpy:604
 translate ru s_greeting_weather_b3375ebd:
 
     # s ebgcega "Nope, no, that’s definitely not it either!"
-    s ebgcega ""
+    s ebgcega "Не-а, точно не то, снова!"
 
 # game/dialogs/script-greetings.rpy:608
 translate ru s_greeting_weather_c05c37c3:
 
     # s gbbbbca "I’ll just flick through them all! I’ll find it eventually!"
-    s gbbbbca ""
+    s gbbbbca "Я просто переберу их все! Нужный найдётся сам собой!"
 
 # game/dialogs/script-greetings.rpy:618
 translate ru s_greeting_weather_82187cb0:
 
     # s ebgcega "Uwaaaa!"
-    s ebgcega ""
+    s ebgcega "Увааааа!"
 
 # game/dialogs/script-greetings.rpy:625
 translate ru s_greeting_weather_1c4acf30:
 
     # s abfbaoa "There! At last!"
-    s abfbaoa ""
+    s abfbaoa "Вот! Наконец!"
 
 # game/dialogs/script-greetings.rpy:626
 translate ru s_greeting_weather_98a4d597:
 
     # s gbegbjbj "It was much easier when you weren’t looking…"
-    s gbegbjbj ""
+    s gbegbjbj "Куда легче, когда ты не смотришь…"
 
 # game/dialogs/script-greetings.rpy:627
 translate ru s_greeting_weather_a4164fb9:
 
     # s abgbcoa "Oh well, it’s sunny now anywho! I win!"
-    s abgbcoa ""
+    s abgbcoa "Ладно, в любом случае вышло солнце! Победа!"
 
 # game/dialogs/script-greetings.rpy:628
 translate ru s_greeting_weather_971ad319:
 
     # s abegaabj "I do need to practise it a little more though… ehehehe~"
-    s abegaabj ""
+    s abegaabj "Впрочем, мне стоит попрактиковаться немного больше… эехехехе~"
 
 # game/dialogs/script-greetings.rpy:629
 translate ru s_greeting_weather_135a89e9:
 
     # s abfccoa "So if you ever want me to change the weather, just ask!"
-    s abfccoa ""
+    s abfccoa "В общем, если тебе захочется изменить погоду, просто попроси!"
 
 # game/dialogs/script-greetings.rpy:630
 translate ru s_greeting_weather_efa9095e:
 
     # s abbcaaa "I might get it right first time if you’re lucky! {w=0.5}{nw}"
-    s abbcaaa ""
+    s abbcaaa "Возможно у меня даже получится с первого раза! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:631
 translate ru s_greeting_weather_a4a61bc4:
 
     # extend abgccoa "Ehehehe~"
-    extend abgccoa ""
+    extend abgccoa "Эхехехе~"
 
 translate ru strings:
 
     # game/dialogs/script-greetings.rpy:66
     old "Turn on the lights."
-    new ""
+    new "Включить свет."
 
     # game/dialogs/script-greetings.rpy:313
     old "Call out for Sayori"
-    new ""
+    new "Позвать Сайори."
 
     # game/dialogs/script-greetings.rpy:319
     old "Call out for Sayori again"
-    new ""
+    new "Позвать Сайори ещё раз."
 
