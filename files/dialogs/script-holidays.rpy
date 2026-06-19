@@ -4,283 +4,283 @@
 translate ru fae_player_bday_autoload_10ca24c7:
 
     # s abgbaoa "Happy birthday to you~"
-    s abgbaoa ""
+    s abgbaoa "С днём рождения~"
 
 # game/dialogs/script-holidays.rpy:11
 translate ru fae_player_bday_autoload_bf15027c:
 
     # s abgcaaa "Happy birthday to you~"
-    s abgcaaa ""
+    s abgcaaa "С днём рождения~"
 
 # game/dialogs/script-holidays.rpy:12
 translate ru fae_player_bday_autoload_cfdeb421:
 
     # s abgccob "Happy birthday dear [player]~"
-    s abgccob ""
+    s abgccob "С днём рождения, дорогой [player]~"
 
 # game/dialogs/script-holidays.rpy:13
 translate ru fae_player_bday_autoload_5b551de8:
 
     # s abgbaaa "Happy birthday to you!"
-    s abgbaaa ""
+    s abgbaaa "С днём рождения!"
 
 # game/dialogs/script-holidays.rpy:14
 translate ru fae_player_bday_autoload_0208da83:
 
     # s abgbcoa "Ehehehe~"
-    s abgbcoa ""
+    s abgbcoa "Эхехехе~"
 
 # game/dialogs/script-holidays.rpy:15
 translate ru fae_player_bday_autoload_5cead02e:
 
     # s abhfaaa "Today’s your special day, [player]!"
-    s abhfaaa ""
+    s abhfaaa "Сегодня твой особый день, [player]!"
 
 # game/dialogs/script-holidays.rpy:16
 translate ru fae_player_bday_autoload_ed95453b:
 
     # s abhfcoa "I hope you’ve got lots of nice gifts and birthday wishes from your friends and family!"
-    s abhfcoa ""
+    s abhfcoa "Надеюсь ты получил кучу приятных подарков от семьи и друзей!"
 
 # game/dialogs/script-holidays.rpy:17
 translate ru fae_player_bday_autoload_5f900cac:
 
     # s abgbaaa "And maybe something fun planned! Ehehehe~"
-    s abgbaaa ""
+    s abgbaaa "И может ты запланировал что-то весёлое на сегодня! Эхехехе~"
 
 # game/dialogs/script-holidays.rpy:18
 translate ru fae_player_bday_autoload_21c506b8:
 
     # s bbegbobj "Sadly I haven’t figured out how to get any decorations here yet..."
-    s bbegbobj ""
+    s bbegbobj "Жаль что я пока не разобралась, как достать каких-нибудь украшений..."
 
 # game/dialogs/script-holidays.rpy:19
 translate ru fae_player_bday_autoload_29bc008e:
 
     # s fbegbjbj "I tried my best! But I ran into lots of silly errors and stuff..."
-    s fbegbjbj ""
+    s fbegbjbj "Я пыталась как могла! Но столкнулась с кучей ошибок и всем таким..."
 
 # game/dialogs/script-holidays.rpy:20
 translate ru fae_player_bday_autoload_ea802812:
 
     # s abfcaoa "But that’s okay, I’ll try to set them up for next year!"
-    s abfcaoa ""
+    s abfcaoa "Но ничего, может быть в следующем году у меня получится!"
 
 # game/dialogs/script-holidays.rpy:21
 translate ru fae_player_bday_autoload_d0647731:
 
     # s bbgbbabj "I always found decorating hard anyways, ehehehe~"
-    s bbgbbabj ""
+    s bbgbbabj "И вообще, я не слишком-то хороша в декорациях, ахахаха~"
 
 # game/dialogs/script-holidays.rpy:22
 translate ru fae_player_bday_autoload_576e151f:
 
     # s bbegbobj "You know how clumsy I can be..."
-    s bbegbobj ""
+    s bbegbobj "Ты знаешь, какой неуклюжей я бываю..."
 
 # game/dialogs/script-holidays.rpy:23
 translate ru fae_player_bday_autoload_43f37f5e:
 
     # s abgbaaa "But if you were here to help, I’m sure we could have made this place ready to party!"
-    s abgbaaa ""
+    s abgbaaa "Но думаю что с твоей помощью у нас бы точно получилось подготовить всё к празднику!"
 
 # game/dialogs/script-holidays.rpy:24
 translate ru fae_player_bday_autoload_c0df2e97:
 
     # s abgbcoa "I hope we can make that a reality someday."
-    s abgbcoa ""
+    s abgbcoa "Надеюсь когда-нибудь это случится."
 
 # game/dialogs/script-holidays.rpy:25
 translate ru fae_player_bday_autoload_730d9dd1:
 
     # s abhfaaa "But anyways, I’m so glad I could spend some time with you today, [player]!"
-    s abhfaaa ""
+    s abhfaaa "Но как бы то ни было, я буду рада провести с тобой сегодняшний день, [player]!"
 
 # game/dialogs/script-holidays.rpy:26
 translate ru fae_player_bday_autoload_6f1cf145:
 
     # s abhfcoa "You truly mean so much to me, so let’s make today the best it can be."
-    s abhfcoa ""
+    s abhfcoa "Ты очень много для меня значишь, и поэтому я хочу, чтобы твой день прошёл как можно лучше."
 
 # game/dialogs/script-holidays.rpy:29
 translate ru fae_player_bday_autoload_725ce9d8:
 
     # s abgcaoa "Oh! And that isn’t the only event on the calendar for today!"
-    s abgcaoa ""
+    s abgcaoa "А! И кстати это не единственное событие на сегодня!"
 
 # game/dialogs/script-holidays.rpy:56
 translate ru fae_f14_autoload_a7275f36:
 
     # s abhfaoa "Hey [player], {w=0.5}{nw}"
-    s abhfaoa ""
+    s abhfaoa "Привет, [player], {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:57
 translate ru fae_f14_autoload_9d7812fd:
 
     # extend abfccaa "happy Valentine’s Day!"
-    extend abfccaa ""
+    extend abfccaa "с Днём Святого Валентина!"
 
 # game/dialogs/script-holidays.rpy:58
 translate ru fae_f14_autoload_0c254841:
 
     # s abegbobj "I know it’s usually a celebration between couples..."
-    s abegbobj ""
+    s abegbobj "Я знаю, что обычно его отмечают влюблённые..."
 
 # game/dialogs/script-holidays.rpy:59
 translate ru fae_f14_autoload_2645b292:
 
     # s abegacbj "And we don’t feel that way about each other..."
-    s abegacbj ""
+    s abegacbj "А нас так назвать пока что нельзя..."
 
 # game/dialogs/script-holidays.rpy:60
 translate ru fae_f14_autoload_0894dd82:
 
     # s abgbcaa "But I think it’s just as good an opportunity to express our appreciation and love for our family and friends!"
-    s abgbcaa ""
+    s abgbcaa "Но я думаю, что этот день - прекрасная возможность выразить свои любовь и привязанность к семье и друзьям!"
 
 # game/dialogs/script-holidays.rpy:61
 translate ru fae_f14_autoload_889c70a4:
 
     # s bbhfaca "You know... we’ve been through a lot, haven’t we, [player]? {w=0.5}{nw}"
-    s bbhfaca ""
+    s bbhfaca "Знаешь... мы с тобой через многое прошли, не так ли, [player]? {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:62
 translate ru fae_f14_autoload_c56e9791:
 
     # extend bbhfbra "and adjusting to my life and circumstances here has been really difficult."
-    extend bbhfbra ""
+    extend bbhfbra "Мне было очень непросто привыкнуть к новым реалиям моей жизни."
 
 # game/dialogs/script-holidays.rpy:63
 translate ru fae_f14_autoload_2f6b71a5:
 
     # s bbhflca "There’s been a lot to take in, as I’m sure you know."
-    s bbhflca ""
+    s bbhflca "Нужно было многое принять и осознать, как ты знаешь."
 
 # game/dialogs/script-holidays.rpy:64
 translate ru fae_f14_autoload_20b516d9:
 
     # s bbhfaabg "But having you by my side has made things much easier."
-    s bbhfaabg ""
+    s bbhfaabg "Но когда ты был рядом, мне было намного легче с этим справиться."
 
 # game/dialogs/script-holidays.rpy:65
 translate ru fae_f14_autoload_fa4786b9:
 
     # s bbhflobg "You always make me feel happy and cared for, {w=0.5}{nw}"
-    s bbhflobg ""
+    s bbhflobg "Ты всегда делал меня счастливее, давал понять, что я кому-то нужна, {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:66
 translate ru fae_f14_autoload_9dfd17f5:
 
     # extend bbgbaabg "and that truly means so much to me."
-    extend bbgbaabg ""
+    extend bbgbaabg "и это значит для меня очень многое."
 
 # game/dialogs/script-holidays.rpy:67
 translate ru fae_f14_autoload_47834268:
 
     # s abgccob "So I’ll take any opportunity to tell you just how much I appreciate you!"
-    s abgccob ""
+    s abgccob "Так что я воспользуюсь возможностью и скажу, что ты для меня - самое дорогое!"
 
 # game/dialogs/script-holidays.rpy:68
 translate ru fae_f14_autoload_1848cb3e:
 
     # s abgcaia "Couple or not, you can still expect lots of hugs and heart shaped chocolates from me every year! Ehehehe~"
-    s abgcaia ""
+    s abgcaia "Пара мы или нет, я всё равно буду каждый год дарить тебе обнимашки и шоколадки в форме сердца! Эхехехе~"
 
 # game/dialogs/script-holidays.rpy:73
 translate ru fae_f14_autoload_a7275f36_1:
 
     # s abhfaoa "Hey [player], {w=0.5}{nw}"
-    s abhfaoa ""
+    s abhfaoa "Привет, [player], {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:74
 translate ru fae_f14_autoload_9d7812fd_1:
 
     # extend abfccaa "happy Valentine’s Day!"
-    extend abfccaa ""
+    extend abfccaa "с Днём Святого Валентина!"
 
 # game/dialogs/script-holidays.rpy:75
 translate ru fae_f14_autoload_bfe3a114:
 
     # s abegbob "I’ve really been looking forward to today..."
-    s abegbob ""
+    s abegbob "Я очень ждала этого дня..."
 
 # game/dialogs/script-holidays.rpy:77
 translate ru fae_f14_autoload_4145108f:
 
     # s abegaab "Since we confessed our feelings for each other..."
-    s abegaab ""
+    s abegaab "С тех пор, как мы признались друг другу в чувствах..."
 
 # game/dialogs/script-holidays.rpy:78
 translate ru fae_f14_autoload_679c9393:
 
     # s abgbcaa "Because it’s the perfect opportunity for me to express just how much I love you, [player]."
-    s abgbcaa ""
+    s abgbcaa "Ведь это прекрасная возможность выразить мою к тебе любовь, [player]."
 
 # game/dialogs/script-holidays.rpy:79
 translate ru fae_f14_autoload_889c70a4_1:
 
     # s bbhfaca "You know... we’ve been through a lot, haven’t we, [player]? {w=0.5}{nw}"
-    s bbhfaca ""
+    s bbhfaca "Знаешь... мы через многое прошли, не так ли, [player]? {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:80
 translate ru fae_f14_autoload_c56e9791_1:
 
     # extend bbhfbra "and adjusting to my life and circumstances here has been really difficult."
-    extend bbhfbra ""
+    extend bbhfbra "Мне было совсем непросто привыкнуть к новым реалиям моей жизни."
 
 # game/dialogs/script-holidays.rpy:81
 translate ru fae_f14_autoload_2f6b71a5_1:
 
     # s bbhflca "There’s been a lot to take in, as I’m sure you know."
-    s bbhflca ""
+    s bbhflca "Нужно было многое принять и осознать, как ты знаешь."
 
 # game/dialogs/script-holidays.rpy:82
 translate ru fae_f14_autoload_20b516d9_1:
 
     # s bbhfaabg "But having you by my side has made things much easier."
-    s bbhfaabg ""
+    s bbhfaabg "Но когда ты был рядом, мне было намного лечге с этим справиться.."
 
 # game/dialogs/script-holidays.rpy:83
 translate ru fae_f14_autoload_fa4786b9_1:
 
     # s bbhflobg "You always make me feel happy and cared for, {w=0.5}{nw}"
-    s bbhflobg ""
+    s bbhflobg "Благодаря тебе, я чувствую себя счастливой и нужной, {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:84
 translate ru fae_f14_autoload_9dfd17f5_1:
 
     # extend bbgbaabg "and that truly means so much to me."
-    extend bbgbaabg ""
+    extend bbgbaabg "и это значит для меня очень многое."
 
 # game/dialogs/script-holidays.rpy:85
 translate ru fae_f14_autoload_5a7bbdf4:
 
     # s abgccobf "We’ve loved through it all, and we’re stronger together!"
-    s abgccobf ""
+    s abgccobf "Любовь через многое помогла нам пройти, она сделала нас сильнее!"
 
 # game/dialogs/script-holidays.rpy:86
 translate ru fae_f14_autoload_e991584f:
 
     # s bbhfaabg "And my heart belongs to you today and always."
-    s bbhfaabg ""
+    s bbhfaabg "И моё сердце всегда будет принадлежать тебе."
 
 # game/dialogs/script-holidays.rpy:87
 translate ru fae_f14_autoload_796d72d2:
 
     # s abhflobg "I love you, [player]."
-    s abhflobg ""
+    s abhflobg "Люблю тебя, [player]."
 
 # game/dialogs/script-holidays.rpy:91
 translate ru fae_f14_autoload_e45111c1:
 
     # s abfccab "Ehehehe~"
-    s abfccab ""
+    s abfccab "Эхехехе~"
 
 # game/dialogs/script-holidays.rpy:92
 translate ru fae_f14_autoload_09b5ce28:
 
     # s abgcaia "And as soon as I get better at coding, you can expect lots of hugs and heart shaped chocolates from me every year! Ehehehe~"
-    s abgcaia ""
+    s abgcaia "Как только я научусь кодить получше, я стану заваливать тебя обнимашками и шоколадками в форме сердца каждый год! Эхехехе~"
 
 # game/dialogs/script-holidays.rpy:96
 translate ru fae_f14_autoload_47f27801:
