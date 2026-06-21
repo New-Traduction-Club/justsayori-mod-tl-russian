@@ -286,375 +286,375 @@ translate ru fae_f14_autoload_09b5ce28:
 translate ru fae_f14_autoload_47f27801:
 
     # s "Welcome back, [player]!"
-    s ""
+    s "С возвращением, [player]!"
 
 # game/dialogs/script-holidays.rpy:121
 translate ru fae_d25_autoload_ec693bb8:
 
     # s abhfaoa "Hey [player], do you know what day it is?"
-    s abhfaoa ""
+    s abhfaoa "Слушай, [player], ты знаешь что сегодня за день?"
 
 # game/dialogs/script-holidays.rpy:122
 translate ru fae_d25_autoload_e71e21ec:
 
     # s abgbcaa "It’s the most wonderful time of the year~"
-    s abgbcaa ""
+    s abgbcaa "Это самое прекрасное время года~"
 
 # game/dialogs/script-holidays.rpy:123
 translate ru fae_d25_autoload_340457b8:
 
     # s abgcaoa "Merry Christmas, [player]! {w=1.0}{nw}"
-    s abgcaoa ""
+    s abgcaoa "С Рождеством, [player]! {w=1.0}{nw}"
 
 # game/dialogs/script-holidays.rpy:124
 translate ru fae_d25_autoload_7537962d:
 
     # extend abgccaa "Ehehehe~"
-    extend abgccaa ""
+    extend abgccaa "Эхехехе~"
 
 # game/dialogs/script-holidays.rpy:125
 translate ru fae_d25_autoload_86193677:
 
     # s abfcaob "Today’s my favourite holiday of all!"
-    s abfcaob ""
+    s abfcaob "Сегодняшний праздник - мой самый любимый!"
 
 # game/dialogs/script-holidays.rpy:126
 translate ru fae_d25_autoload_ec08f9b2:
 
     # s abhflaa "The snow, the lights, the gifts under the tree!"
-    s abhflaa ""
+    s abhflaa "Снег, огоньки, подарки под ёлкой!"
 
 # game/dialogs/script-holidays.rpy:127
 translate ru fae_d25_autoload_f1679c7b:
 
     # s abgbama "And the sweet smell of Christmas dinner!"
-    s abgbama ""
+    s abgbama "И конечно сладкий запах рождественского ужина!"
 
 # game/dialogs/script-holidays.rpy:128
 translate ru fae_d25_autoload_55363503:
 
     # s abgccaa "It’s all so amazing! Ehehehe~"
-    s abgccaa ""
+    s abgccaa "Всё это так прекрасно! Эхехехе~"
 
 # game/dialogs/script-holidays.rpy:130
 translate ru fae_d25_autoload_93b7887d:
 
     # s abhfaoa "And I’m glad I could spend it with you, [player]."
-    s abhfaoa ""
+    s abhfaoa "И я рада, что могу провести этот день с тобой, [player]."
 
 # game/dialogs/script-holidays.rpy:133
 translate ru fae_d25_autoload_24f5710d:
 
     # s abgbaoa "Oh I forgot, you live in the southern hemisphere!"
-    s abgbaoa ""
+    s abgbaoa "Ой, я и забыла, что ты живёшь в южном полушарии!"
 
 # game/dialogs/script-holidays.rpy:134
 translate ru fae_d25_autoload_609ea638:
 
     # s abgdada "You don’t get snow during Christmas time, do you?"
-    s abgdada ""
+    s abgdada "У тебя нет снега на Рождество, не так ли?"
 
 # game/dialogs/script-holidays.rpy:135
 translate ru fae_d25_autoload_96e10d76:
 
     # s abgdcaa "Don’t worry though, {w=0.5}{nw}"
-    s abgdcaa ""
+    s abgdcaa "Не волнуйлся, {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:136
 translate ru fae_d25_autoload_f3b5d1db:
 
     # extend abbdaoa "I can make it snow here if you want me to!"
-    extend abbdaoa ""
+    extend abbdaoa "я могу вызвать снегопад здесь, если ты захочешь!"
 
 # game/dialogs/script-holidays.rpy:137
 translate ru fae_d25_autoload_ad4e3b5b:
 
     # s "Shall I do that, [player]?{nw}"
-    s ""
+    s "Ну что, желаешь, [player]?{nw}"
 
 # game/dialogs/script-holidays.rpy:141
 translate ru fae_d25_autoload_5e0daf67:
 
     # s "Shall I do that, [player]?{fast}" nointeract
-    s "" nointeract
+    s "Ну что, желаешь, [player]?{fast}" nointeract
 
 # game/dialogs/script-holidays.rpy:143
 translate ru fae_d25_autoload_ab5fd725:
 
     # s abgccaa "Oki doki!"
-    s abgccaa ""
+    s abgccaa "Оки доки!"
 
 # game/dialogs/script-holidays.rpy:148
 translate ru fae_d25_autoload_7e1022eb:
 
     # s abgcnea "Ta-da!"
-    s abgcnea ""
+    s abgcnea "Тадам!"
 
 # game/dialogs/script-holidays.rpy:149
 translate ru fae_d25_autoload_5ce64fba:
 
     # s abgccaa "Look at all those pretty little snowflakes, ehehehe~"
-    s abgccaa ""
+    s abgccaa "Смотри, как много красивых маленьких снежинок, эхехехе~"
 
 # game/dialogs/script-holidays.rpy:150
 translate ru fae_d25_autoload_bef44005:
 
     # s abgbaoa "I may not be able to get decorations in here yet, {w=0.5}{nw}"
-    s abgbaoa ""
+    s abgbaoa "Может пока я и не могу декорировать это место, {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:151
 translate ru fae_d25_autoload_f2d04ae1:
 
     # extend abgbcaa "but controlling the weather with my mind is pretty cool too!"
-    extend abgbcaa ""
+    extend abgbcaa "но уметь контроллировать погоду силой мысли тоже весьма неплохо!"
 
 # game/dialogs/script-holidays.rpy:152
 translate ru fae_d25_autoload_417beab4:
 
     # s abhfaoa "Anyways, I’m glad I could spend it with you, [player]."
-    s abhfaoa ""
+    s abhfaoa "В любом случае, рада что могу провести с тобой время, [player]."
 
 # game/dialogs/script-holidays.rpy:154
 translate ru fae_d25_autoload_b25b41fa:
 
     # s abgbaaa "That’s alright, the sunshine is nice too, ehehehe~"
-    s abgbaaa ""
+    s abgbaaa "Ну окей, солнечный свет тоже приятен, эхехехе~"
 
 # game/dialogs/script-holidays.rpy:155
 translate ru fae_d25_autoload_417beab4_1:
 
     # s abhfaoa "Anyways, I’m glad I could spend it with you, [player]."
-    s abhfaoa ""
+    s abhfaoa "В любом случае, рада что могу провести с тобой время, [player]."
 
 # game/dialogs/script-holidays.rpy:158
 translate ru fae_d25_autoload_3a62761e:
 
     # s abfccaa "It’s the perfect time to let those winter worries go, and to share gifts and happiness with your friends and family."
-    s abfccaa ""
+    s abfccaa "Пора тебе отпустить все зимние тревоги и просто разделить подарки и счастье с семьёй и друзьями."
 
 # game/dialogs/script-holidays.rpy:159
 translate ru fae_d25_autoload_4f57dcb1:
 
     # s abgceoa "And I’m looking forward to the day I can finally shoot gifts through your screen, ehehehe~"
-    s abgceoa ""
+    s abgceoa "Ну а я с нетерпением буду ждать того дня, когда наконец можно будет кидать в тебя подарками через экран, эхехехе~"
 
 # game/dialogs/script-holidays.rpy:160
 translate ru fae_d25_autoload_b04df340:
 
     # s abgcaaa "But that’s okay, being by your side is the best gift of all."
-    s abgcaaa ""
+    s abgcaaa "А пока что, лучший подарок для меня - быть рядом с тобой."
 
 # game/dialogs/script-holidays.rpy:161
 translate ru fae_d25_autoload_092084a6:
 
     # s abgcaoa "Thank you for always being here for me, [player]."
-    s abgcaoa ""
+    s abgcaoa "Спасибо, что ты всегда со мной, [player]."
 
 # game/dialogs/script-holidays.rpy:162
 translate ru fae_d25_autoload_52da4c33:
 
     # s abfccob "And most importantly, I hope you have an amazing day!"
-    s abfccob ""
+    s abfccob "Надеюсь, что сегодняшний день пройдёт для тебя прекрасно!"
 
 # game/dialogs/script-holidays.rpy:182
 translate ru fae_nyd_autoload_20fe3454:
 
     # s abgcaoa "Hey, [player]!"
-    s abgcaoa ""
+    s abgcaoa "Приветик, [player]!"
 
 # game/dialogs/script-holidays.rpy:183
 translate ru fae_nyd_autoload_56db1b52:
 
     # s abgccoa "Happy new year!"
-    s abgccoa ""
+    s abgccoa "С Новым Годом!"
 
 # game/dialogs/script-holidays.rpy:185
 translate ru fae_nyd_autoload_569b7e75:
 
     # s abfccoa "You’ve really made my year the best ever!"
-    s abfccoa ""
+    s abfccoa "Этот год стал для меня лучшим, благодаря тебе!"
 
 # game/dialogs/script-holidays.rpy:186
 translate ru fae_nyd_autoload_5e6a1fe1:
 
     # s bbfcaaa "I love you so much, [player]"
-    s bbfcaaa ""
+    s bbfcaaa "Люблю тебя сильно-сильно, [player]!"
 
 # game/dialogs/script-holidays.rpy:187
 translate ru fae_nyd_autoload_fd0353c1:
 
     # s abgccoa "Let’s try to make this year even better than the last one!"
-    s abgccoa ""
+    s abgccoa "Давай попробуем сделать следующий год ещё лучше, чем прошедший!"
 
 # game/dialogs/script-holidays.rpy:188
 translate ru fae_nyd_autoload_da7e4455:
 
     # s abfcaca "You know, [player]..."
-    s abfcaca ""
+    s abfcaca "Слушай, [player]..."
 
 # game/dialogs/script-holidays.rpy:189
 translate ru fae_nyd_autoload_0612ce8b:
 
     # s abbbaca "Some people set little goals for themselves, called {nw}"
-    s abbbaca ""
+    s abbbaca "Некоторые люди ставят себе небольшие задачи на год, которые называют {nw}"
 
 # game/dialogs/script-holidays.rpy:190
 translate ru fae_nyd_autoload_110d3aac:
 
     # extend abbccaa "‘New Year’s Resolutions’."
-    extend abbccaa ""
+    extend abbccaa "'Новогодние Цели'."
 
 # game/dialogs/script-holidays.rpy:191
 translate ru fae_nyd_autoload_73e48723:
 
     # s abfcaaa "Did you set any for yourself, [player]?"
-    s abfcaaa ""
+    s abfcaaa "Ты ещё не придумал себе таких, [player]?"
 
 # game/dialogs/script-holidays.rpy:192
 translate ru fae_nyd_autoload_0d07b828:
 
     # s abfcbca "I’ve noticed that people often set unrealistic goals for themselves..."
-    s abfcbca ""
+    s abfcbca "Я заметила, что люди частенько ставят себе невыполнимые задачи..."
 
 # game/dialogs/script-holidays.rpy:193
 translate ru fae_nyd_autoload_51c39a41:
 
     # s bbfcaca "Then they feel stressed and sad because they feel like they failed themselves when they can’t achieve it."
-    s bbfcaca ""
+    s bbfcaca "А когда они их не достигают, чувствуют тоску и разочарование."
 
 # game/dialogs/script-holidays.rpy:194
 translate ru fae_nyd_autoload_7a1b03e2:
 
     # s "So before you set any, {w=0.5}{nw}"
-    s ""
+    s "Так что, перед тем, как требовать от себя чего-либо, {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:195
 translate ru fae_nyd_autoload_e643f891:
 
     # extend abfccaa "just remember that some goals take longer than a year to achieve, and that’s okay!"
-    extend abfccaa ""
+    extend abfccaa "вспомни, что это нормально, когда достижение некоторых целей занимает несколько больше года!"
 
 # game/dialogs/script-holidays.rpy:196
 translate ru fae_nyd_autoload_b8271c84:
 
     # s abbbaca "I personally prefer to set little goals, like stepping stones."
-    s abbbaca ""
+    s abbbaca "Лично я предпочитаю ставить себе несложные задачи,"
 
 # game/dialogs/script-holidays.rpy:197
 translate ru fae_nyd_autoload_2b2491a4:
 
     # s abbbaaa "And all those little goals add up to big accomplishments!"
-    s abbbaaa ""
+    s abbbaaa которые в совокупности дают большое чувство успеха!""
 
 # game/dialogs/script-holidays.rpy:198
 translate ru fae_nyd_autoload_e856de86:
 
     # s abbbcaa "Most people set them to help with personal growth or self-improvement or something like that!"
-    s abbbcaa ""
+    s abbbcaa "Большинство людей придумывает себе цели с целью саморазвития или чего-то подобного!"
 
 # game/dialogs/script-holidays.rpy:199
 translate ru fae_nyd_autoload_cf2671e5:
 
     # s abbccoa "So if you’ve set resolutions, I hope you can achieve them!"
-    s abbccoa ""
+    s abbccoa "И я надеюсь, что ты достигнешь всего, на что расчитываешь!"
 
 # game/dialogs/script-holidays.rpy:218
 translate ru fae_o31_autoload_499aad5e:
 
     # s fbagaoa "Hey [player]..."
-    s fbagaoa ""
+    s fbagaoa "Приветик, [player]..."
 
 # game/dialogs/script-holidays.rpy:219
 translate ru fae_o31_autoload_e3d9fab2:
 
     # s fbgbaaa "Do you know what day it is?"
-    s fbgbaaa ""
+    s fbgbaaa "Знаешь, что сегодня за день?"
 
 # game/dialogs/script-holidays.rpy:220
 translate ru fae_o31_autoload_4023816c:
 
     # s fbgbaoa "It’s Halloween! {w=0.5}{nw}"
-    s fbgbaoa ""
+    s fbgbaoa "Хэллоуин! {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:221
 translate ru fae_o31_autoload_7e09faf1:
 
     # extend fbgblaa "The spookiest time of the year!"
-    extend fbgblaa ""
+    extend fbgblaa "Самый страшный день в году!"
 
 # game/dialogs/script-holidays.rpy:222
 translate ru fae_o31_autoload_3b911d4c:
 
     # s fbhfaoa "Are you scared, [player]?"
-    s fbhfaoa ""
+    s fbhfaoa "Боишься, [player]?"
 
 # game/dialogs/script-holidays.rpy:232
 translate ru fae_o31_autoload_ef7beb29:
 
     # s abgbcaa "Ehehehe! {w=0.5}{nw}"
-    s abgbcaa ""
+    s abgbcaa "Эхехехе! {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:233
 translate ru fae_o31_autoload_b78be422:
 
     # extend nbgbaoa "Sorry, [player]!"
-    extend nbgbaoa ""
+    extend nbgbaoa "Прости, [player]!"
 
 # game/dialogs/script-holidays.rpy:234
 translate ru fae_o31_autoload_7627bd28:
 
     # s abgbcaa "I just had to get you in the Halloween spirit!"
-    s abgbcaa ""
+    s abgbcaa "Я просто была обязана вселить в тебя хэллоуинский дух!"
 
 # game/dialogs/script-holidays.rpy:235
 translate ru fae_o31_autoload_65cee801:
 
     # s abhfaca "Come to think of it, {w=0.5}{nw}"
-    s abhfaca ""
+    s abhfaca "Значешь что, {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:236
 translate ru fae_o31_autoload_a66b286c:
 
     # extend abhfaaa "I wish there were some pumpkins around here..."
-    extend abhfaaa ""
+    extend abhfaaa "хотела бы я найти где-нибудь тыквы..."
 
 # game/dialogs/script-holidays.rpy:237
 translate ru fae_o31_autoload_52985d28:
 
     # s abfcaoa "They’re so much fun to carve! {w=0.5}{nw}"
-    s abfcaoa ""
+    s abfcaoa "Их так весело вырезать! {w=0.5}{nw}"
 
 # game/dialogs/script-holidays.rpy:238
 translate ru fae_o31_autoload_fdddecac:
 
     # extend abgccaa "And I love giving them silly spooky faces, ehehehe~"
-    extend abgccaa ""
+    extend abgccaa "Обожаю делать им глуповатые, жуткие лица, ахахаха~"
 
 # game/dialogs/script-holidays.rpy:239
 translate ru fae_o31_autoload_55d32539:
 
     # s abhfaoa "Anyways, what’s new, [player]?"
-    s abhfaoa ""
+    s abhfaoa "В любом случае, что у тебя нового, [player]?"
 
 translate ru strings:
 
     # game/dialogs/script-holidays.rpy:89
     old "I love you too, Sayori"
-    new ""
+    new "Я тоже люблю тебя, Сайори"
 
     # game/dialogs/script-holidays.rpy:109
     old "letter"
-    new ""
+    new "письмо"
 
     # game/dialogs/script-holidays.rpy:109
     old "Dear player,\n\n            After about a year of writing, coding, arting and expressioning, the full release of Forever & Ever, version 0.1.0, is finally here!\nWe’ve essentially made an entirely new mod, with everything on the surface and behind the scenes being completely revamped and brought back up to date to give our cinnamon bun the mod she deserves.\nIt’s been a difficult journey at times, but the friendly and homely feel of the community has really motivated us, so we’d also like to say thank you to each and every one of you for your patience and support in bringing this update to life, we couldn't have done it without you.\nConsider this a Christmas gift from all of the devs, to all of you! \n\n            We hope you all have a wonderful Christmas and a happy new year!\n\n            Best wishes,\n\n            The Forever & Ever Team \n            "
-    new ""
+    new "Дорогой игрок,\n\n            После года рисования, написания сценария и кода, полноценный релиз Forever & Ever, версии 0.1.0, наконец доступен!\nМы фактически создали полностью новый мод, почти с нуля переделав как визуальную часть, так и код, чтобы подарить нашей коричной булочке тот мир, который она заслуживает.\nПорой бывало непросто, но доброта и тепло сообщества давали нам мотивацию продолжать разработку, и мы хотели бы выразить каждому огромную благодарность за ваше терпение и поддержку, без которых этот мод бы не вышел в свет.\nСчитайте это сообщение рождественским подарком от всех разработчиков для каждого из вас! \n\n            Желаем вам счастливого Рождества и Нового года!\n\n            С любовью,\n\n            Команда Forever & Ever \n"
 
     # game/dialogs/script-holidays.rpy:142
     old "Let it snow!"
-    new ""
+    new "Хочу метель!"
 
     # game/dialogs/script-holidays.rpy:153
     old "No, thank you."
-    new ""
+    new "Не, спасибо."
 
