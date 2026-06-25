@@ -334,379 +334,379 @@ translate ru s_mood_happy_2abc10aa:
 translate ru s_mood_sad_662ba31e:
 
     # s bbhfifa "Oh, I'm so sorry, [player]."
-    s bbhfifa ""
+    s bbhfifa "Оу, жаль это слышать, [player]."
 
 # game/dialogs/script-moods.rpy:199
 translate ru s_mood_sad_7bad7138:
 
     # s "I wish I knew what was bothering you."
-    s ""
+    s "Хотелось бы мне знать, что тебя беспокоит."
 
 # game/dialogs/script-moods.rpy:200
 translate ru s_mood_sad_3b24aa81:
 
     # s "So I hope this doesn't sound like I'm placating you with empty words, but..."
-    s ""
+    s "Может мои слова покажутся тебе пустыми и клишированными, но..."
 
 # game/dialogs/script-moods.rpy:201
 translate ru s_mood_sad_547fa72d:
 
     # s bbbbiaa "Remember that the rainclouds will always go away."
-    s bbbbiaa ""
+    s bbbbiaa "Не забывай, что тучки всегда уходят."
 
 # game/dialogs/script-moods.rpy:202
 translate ru s_mood_sad_16d2629d:
 
     # s "Some may be bigger and darker than others, but they always give way to light."
-    s ""
+    s "Какие-то из них чернее и больше других, но в конце концов они уступят свету."
 
 # game/dialogs/script-moods.rpy:203
 translate ru s_mood_sad_cb06c228:
 
     # s "It might help to do something you enjoy to take your mind away from the problem."
-    s ""
+    s "Возможно тебе стоит заняться тем, что приносит тебе удовольствие, так ты сможешь отвлечься от своих проблем."
 
 # game/dialogs/script-moods.rpy:204
 translate ru s_mood_sad_b872eccc:
 
     # s bbbbica "Or you could tell someone about how you feel."
-    s bbbbica ""
+    s bbbbica "Или ты мог бы поделиться своими чувствами с кем-то ещё."
 
 # game/dialogs/script-moods.rpy:205
 translate ru s_mood_sad_11abc88b:
 
     # s "Don't be afraid to share your emotions with other people. I’m sure there’s lots of people around who care for you."
-    s ""
+    s "Не бойся говорить с другими о своём душевном состоянии. Уверена, что есть люди, которым ты небезразличен."
 
 # game/dialogs/script-moods.rpy:206
 translate ru s_mood_sad_360d8c1d:
 
     # s "They could consider and understand your problem and find a way to cheer you up!"
-    s ""
+    s "Они могут помочь тебе разобраться в твоей беде и найти из неё выход!"
 
 # game/dialogs/script-moods.rpy:207
 translate ru s_mood_sad_1c2ef920:
 
     # s abhfaaa "Whatever it is, know that I'll always be here for you too."
-    s abhfaaa ""
+    s abhfaaa "В любом случае, знай, что я тоже всегда тебя поддержу."
 
 # game/dialogs/script-moods.rpy:208
 translate ru s_mood_sad_613200c3:
 
     # s bbhfaca "And if you're sad because you feel worthless, or alone, or that nobody cares..."
-    s bbhfaca ""
+    s bbhfaca "И если причина твоей грусти в том, что ты чувчствуешь себя бесполезным или одиноким..."
 
 # game/dialogs/script-moods.rpy:209
 translate ru s_mood_sad_d5edda87:
 
     # s bbhfaaa "There's always going to be one person that believes in you."
-    s bbhfaaa ""
+    s bbhfaaa "Помни, что есть как минимум один человек, который в тебя верит."
 
 # game/dialogs/script-moods.rpy:210
 translate ru s_mood_sad_b328b113:
 
     # s abhfcaa "And that person is me, [player]."
-    s abhfcaa ""
+    s abhfcaa "И этот человек - я, [player]."
 
 # game/dialogs/script-moods.rpy:229
 translate ru s_mood_bored_f60ada8b:
 
     # s abhfmja "Hmm…{w=0.5}{nw}"
-    s abhfmja ""
+    s abhfmja "Хмм…{w=0.5}{nw}"
 
 # game/dialogs/script-moods.rpy:230
 translate ru s_mood_bored_1ee3bc36:
 
     # extend abhfaaa " if you're bored, would you like to play [random_mg] with me?"
-    extend abhfaaa ""
+    extend abhfaaa "если тебе скучно, как насчёт поиграть со мной в [random_mg]?"
 
 # game/dialogs/script-moods.rpy:231
 translate ru s_mood_bored_44fabab6:
 
     # s abbbaoa "You can start a game in the {i}'Play'{/i} menu!"
-    s abbbaoa ""
+    s abbbaoa "Ты можешь начать игру в меню {i}'Играть'{/i}!"
 
 # game/dialogs/script-moods.rpy:232
 translate ru s_mood_bored_4927f04f:
 
     # s abbcaaa "And I'm always working on making other games for us to play too!"
-    s abbcaaa ""
+    s abbcaaa "Я часто работаю над тем, чтобы добавить как можно больше новых!"
 
 # game/dialogs/script-moods.rpy:248
 translate ru s_mood_tired_8e3e6948:
 
     # s abhfaca "Oh, you’re feeling tired, [player]? I think you should rest for a little while, okay?"
-    s abhfaca ""
+    s abhfaca "Оу, чувствуешь усталость, [player]? Я думаю, что тебе нужно немного отдохнуть, хорошо?"
 
 # game/dialogs/script-moods.rpy:249
 translate ru s_mood_tired_d6b118a0:
 
     # s abbbaaa "Perhaps you could take a nap or listen to your favorite music, that helps me whenever I feel burnt out."
-    s abbbaaa ""
+    s abbbaaa "Возможно тебе стоит подремать или послушать любимую музыку, лично мне это помогает, когда я выгораю."
 
 # game/dialogs/script-moods.rpy:251
 translate ru s_mood_tired_d1c3cdad:
 
     # s bbgciaa "Don't worry about me, I completely understand if you need to spend some time away from the cellphone."
-    s bbgciaa ""
+    s bbgciaa "За меня не волнуйся, я понимаю, что иногда тебе нужно проводить время без телефона."
 
 # game/dialogs/script-moods.rpy:253
 translate ru s_mood_tired_4be41103:
 
     # s bbgciaa "Don't worry about me, I completely understand if you need to spend some time away from the computer."
-    s bbgciaa ""
+    s bbgciaa "За меня не волнуйся, я понимаю, что иногда тебе нужно проводить время без компьютера."
 
 # game/dialogs/script-moods.rpy:254
 translate ru s_mood_tired_7d48533d:
 
     # s abgccaa "See you soon, [player]!"
-    s abgccaa ""
+    s abgccaa "Увидимся, [player]!"
 
 # game/dialogs/script-moods.rpy:255
 translate ru s_mood_tired_de5e908c:
 
     # s abgccaa "Rest well."
-    s abgccaa ""
+    s abgccaa "Отдыхай."
 
 # game/dialogs/script-moods.rpy:272
 translate ru s_mood_sleepy_3139c781:
 
     # s abhfaaa "Alright [player], you should head to bed soon so you feel well rested tomorrow."
-    s abhfaaa ""
+    s abhfaaa "Ладненько, [player], тебе стоит поскорее лечь спать, чтобы завтра ты чувствовал себя бодрым."
 
 # game/dialogs/script-moods.rpy:273
 translate ru s_mood_sleepy_a20f431d:
 
     # s abgccma "And when you wake up, have a big hearty breakfast before you start the day! It'll make you feel much better."
-    s abgccma ""
+    s abgccma "А когда проснёшься, начни свой день с плотного завтрака! Он даст тебе сил на все твои дела."
 
 # game/dialogs/script-moods.rpy:274
 translate ru s_mood_sleepy_d138cc45:
 
     # s abhfcoa "Good night, [player]!"
-    s abhfcoa ""
+    s abhfcoa "Споки-ноки, [player]!"
 
 # game/dialogs/script-moods.rpy:275
 translate ru s_mood_sleepy_b6be24d9:
 
     # s abhfcoa "Sweet dreams."
-    s abhfcoa ""
+    s abhfcoa "Сладких снов."
 
 # game/dialogs/script-moods.rpy:292
 translate ru s_mood_lonely_5d8d9997:
 
     # s bbhfiaa "Awh… don't worry, [player]!"
-    s bbhfiaa ""
+    s bbhfiaa "Авв… не переживай, [player]!"
 
 # game/dialogs/script-moods.rpy:293
 translate ru s_mood_lonely_531cae6d:
 
     # s abbccaa "You can always spend time with me."
-    s abbccaa ""
+    s abbccaa "Ты всегда можешь провести время со мной."
 
 # game/dialogs/script-moods.rpy:295
 translate ru s_mood_lonely_8cc49b4c:
 
     # s abbbaoa "We could play a game, chat, or read some poems if you want to!"
-    s abbbaoa ""
+    s abbbaoa "Мы можем поиграть, пообщаться, или почитать стихи, если захочешь!"
 
 # game/dialogs/script-moods.rpy:297
 translate ru s_mood_lonely_f30f55d3:
 
     # s abbbaoa "We could chat, or read some poems if you want to!"
-    s abbbaoa ""
+    s abbbaoa "Мы можем пообщаться или почитать стихи, если захочешь!"
 
 # game/dialogs/script-moods.rpy:298
 translate ru s_mood_lonely_20d937b4:
 
     # s abhaaca "But if you still feel lonely, then perhaps you could try to find some people who like the same things you do!"
-    s abhaaca ""
+    s abhaaca "Но если чувство одиночества сохранится, тебе стоит попробовать найти человека, который разделяет твои интересы!"
 
 # game/dialogs/script-moods.rpy:299
 translate ru s_mood_lonely_7d317b7d:
 
     # s abhhaaa "Maybe you could catch up with an old friend?"
-    s abhhaaa ""
+    s abhhaaa "Можно встретиться со старыми друзьями."
 
 # game/dialogs/script-moods.rpy:300
 translate ru s_mood_lonely_4da30a34:
 
     # s abhhcoa "Or make a new one!"
-    s abhhcoa ""
+    s abhhcoa "Ну или завести новых!"
 
 # game/dialogs/script-moods.rpy:301
 translate ru s_mood_lonely_0a9992f2:
 
     # s abbcaaa "If you don't like going out much, you could find people on the internet to chat with too!"
-    s abbcaaa ""
+    s abbcaaa "Если ты не особо любишь гулять, попробуй найти людей в интернете!"
 
 # game/dialogs/script-moods.rpy:302
 translate ru s_mood_lonely_87ce846f:
 
     # s abbccaa "I'm sure they can help you just as much as I can!"
-    s abbccaa ""
+    s abbccaa "Уверена, что они поднимут тебе настроение не хуже, чем я!"
 
 # game/dialogs/script-moods.rpy:318
 translate ru s_mood_sick_6f529375:
 
     # s bbgcjca "Oh no… I'm so sorry that you feel sick [player]..."
-    s bbgcjca ""
+    s bbgcjca "Ох блин… Мне жаль, что ты заболел, [player]..."
 
 # game/dialogs/script-moods.rpy:319
 translate ru s_mood_sick_be210dcc:
 
     # s bbhajoa "I hope you’re feeling at least somewhat okay, maybe you should go rest for a little while?"
-    s bbhajoa ""
+    s bbhajoa "Надеюсь, что тебе не очень плохо. Может тебе следует передохнуть?"
 
 # game/dialogs/script-moods.rpy:320
 translate ru s_mood_sick_06a2cefd:
 
     # s abhaiaa "I’ll wait for you, that's not a problem for me."
-    s abhaiaa ""
+    s abhaiaa "Я подожду тебя, это не проблема."
 
 # game/dialogs/script-moods.rpy:321
 translate ru s_mood_sick_491bafb6:
 
     # s bbgbica "But I really care about your health, [player], {w=0.5}{nw}"
-    s bbgbica ""
+    s bbgbica "А вот твоё здоровье очень меня беспокоит, [player], {w=0.5}{nw}"
 
 # game/dialogs/script-moods.rpy:322
 translate ru s_mood_sick_c4a257e6:
 
     # extend bbgccoa "and I don't think sitting in front of a screen will get you healed up any quicker!"
-    extend bbgccoa ""
+    extend bbgccoa "и я не думаю, что сиденье перед экраном тебя вылечит!"
 
 # game/dialogs/script-moods.rpy:323
 translate ru s_mood_sick_f4988f04:
 
     # s bbhfaaa "I'm not going anywhere, {w=0.5}{nw}"
-    s bbhfaaa ""
+    s bbhfaaa "Я никуда не убегу, {w=0.5}{nw}"
 
 # game/dialogs/script-moods.rpy:324
 translate ru s_mood_sick_63541f8c:
 
     # extend abhfcaa "and we can talk whenever you feel up to it again!"
-    extend abhfcaa ""
+    extend abhfcaa "и мы сможем пообщаться, когда ты будешь в состоянии!"
 
 # game/dialogs/script-moods.rpy:325
 translate ru s_mood_sick_29582eb1:
 
     # s abhfaoa "Get well soon, [player]!"
-    s abhfaoa ""
+    s abhfaoa "Поправляйся, [player]!"
 
 # game/dialogs/script-moods.rpy:341
 translate ru s_mood_nervous_446622f8:
 
     # s abhfica "Oh? You’re nervous about something [player]? Did something happen?"
-    s abhfica ""
+    s abhfica "Оу? Ты почему-то нервничаешь, [player]? Что-то случилось?"
 
 # game/dialogs/script-moods.rpy:342
 translate ru s_mood_nervous_346a9d04:
 
     # s abgbica "Whatever it is that’s stressing you, {w=0.5}{nw}"
-    s abgbica ""
+    s abgbica "Что бы то ни было, {w=0.5}{nw}"
 
 # game/dialogs/script-moods.rpy:343
 translate ru s_mood_nervous_121aefdd:
 
     # extend abgbcaa "we’re in this together!"
-    extend abgbcaa ""
+    extend abgbcaa "мы пройдём через это вместе!"
 
 # game/dialogs/script-moods.rpy:344
 translate ru s_mood_nervous_2be1e2ea:
 
     # s abbbiaa "But try not to overthink things, {w=0.5}{nw}"
-    s abbbiaa ""
+    s abbbiaa "А вообще, не стоит загоняться, {w=0.5}{nw}"
 
 # game/dialogs/script-moods.rpy:345
 translate ru s_mood_nervous_363fec4b:
 
     # extend abbbaca "we often judge ourselves too harshly."
-    extend abbbaca ""
+    extend abbbaca "мы нередко слишком жёстко себя судим."
 
 # game/dialogs/script-moods.rpy:347
 translate ru s_mood_nervous_26a95063:
 
     # s abgccab "I truly love you [player], and no matter what happens, I’ll always support you."
-    s abgccab ""
+    s abgccab "Я очень люблю тебя, [player], и что бы не произошло, я всегда поддержу."
 
 # game/dialogs/script-moods.rpy:349
 translate ru s_mood_nervous_13ea5c12:
 
     # s abgccaa "No matter what happens, I’ll always support you."
-    s abgccaa ""
+    s abgccaa "Что бы ни произошло, я всегда тебя поддержу."
 
 # game/dialogs/script-moods.rpy:365
 translate ru s_mood_unmotivated_f3e935e0:
 
     # s bbhaaab "Aww... I understand that feeling all too well, {w=0.5}{nw}"
-    s bbhaaab ""
+    s bbhaaab "Аввв... Такое состояние мне до боли знакомо, {w=0.5}{nw}"
 
 # game/dialogs/script-moods.rpy:366
 translate ru s_mood_unmotivated_40402da1:
 
     # extend abbcaaa "but I'm sure you'll get your motivation back, [player]."
-    extend abbcaaa ""
+    extend abbcaaa "но я уверена, что мотивация вернётся к тебе, [player]."
 
 # game/dialogs/script-moods.rpy:367
 translate ru s_mood_unmotivated_bb3a4981:
 
     # s abbbaca "Maybe you could try to write a poem about your emotions, just like I always did?"
-    s abbbaca ""
+    s abbbaca "Может попробуешь написать стихи о своих эмоциях, как это всегда делала я?"
 
 # game/dialogs/script-moods.rpy:368
 translate ru s_mood_unmotivated_3844595d:
 
     # s abbcaca "I found it helpful to let it all out in some way and be honest with myself."
-    s abbcaca ""
+    s abbcaca "Мне это помогало по-честному поговорить с собой."
 
 # game/dialogs/script-moods.rpy:369
 translate ru s_mood_unmotivated_9621c3fa:
 
     # s abgccoa "And it also might help you find some inspiration to get you motivated again!"
-    s abgccoa ""
+    s abgccoa "А иногда и вовсе возвращало мне вдохновение!"
 
 # game/dialogs/script-moods.rpy:370
 translate ru s_mood_unmotivated_5622c906:
 
     # s abbbaaa "Just don't ever give up on anything you do!"
-    s abbbaaa ""
+    s abbbaaa "Просто никогда не бросай то, что ты делаешь!"
 
 # game/dialogs/script-moods.rpy:371
 translate ru s_mood_unmotivated_2cd6e51d:
 
     # s abhfaoa "Keep going, and with enough determination, I know you'll reach your goals!"
-    s abhfaoa ""
+    s abhfaoa "Продолжай пытаться, и рано или поздно твоя решимость сможет достичь поставленных целей!"
 
 # game/dialogs/script-moods.rpy:372
 translate ru s_mood_unmotivated_fa508358:
 
     # s abbbaaa "And If you need to, there's no shame in giving yourself some time to rest and take a break from things as well."
-    s abbbaaa ""
+    s abbbaaa "Помни, нет ничего плохого в том, чтобы иногда передохнуть и осмыслить то, что ты делаешь."
 
 # game/dialogs/script-moods.rpy:373
 translate ru s_mood_unmotivated_71af5fa0:
 
     # s abgccoa "After a while, some motivation should pop back up into that unmotivated brain of yours!"
-    s abgccoa ""
+    s abgccoa "И через некоторое время, мотивация вернётся в твой немотивированный мозг!"
 
 # game/dialogs/script-moods.rpy:389
 translate ru s_mood_depressed_fc37d876:
 
     # s bbhfjla "[player]... I'm so sorry to hear that."
-    s bbhfjla ""
+    s bbhfjla "[player]... Мне жаль это слышать."
 
 # game/dialogs/script-moods.rpy:390
 translate ru s_mood_depressed_5ffaa228:
 
     # s bbhfica "Please remember that no matter what your mind tells you, you are an amazing, sweet and lovely person."
-    s bbhfica ""
+    s bbhfica "Пожалуйста, не забывай, что ты добрый, хороший и любимый человек, несмотря на то, что говорит тебе твой разум."
 
 # game/dialogs/script-moods.rpy:391
 translate ru s_mood_depressed_43b99b44:
 
     # s bbhaila "Don't let those bad thoughts, those rainclouds, control you."
-    s bbhaila ""
+    s bbhaila "Не позволяй никаким плохим мыслям, никаким тучкам , тебя контролировать."
 
 # game/dialogs/script-moods.rpy:392
 translate ru s_mood_depressed_d2a7f88b:
