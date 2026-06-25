@@ -4,331 +4,331 @@
 translate ru s_mood_angry_8ce23526:
 
     # s bbaaaca "Awh, [player]."
-    s bbaaaca ""
+    s bbaaaca "Авв, [player]."
 
 # game/dialogs/script-moods.rpy:64
 translate ru s_mood_angry_46e2eab1:
 
     # s "I think you should try to breathe slowly, so you calm down a little bit."
-    s ""
+    s "Думаю тебе стоит попробовать глубоко подышать, чтобы немного успокоиться."
 
 # game/dialogs/script-moods.rpy:65
 translate ru s_mood_angry_518a7ce8:
 
     # s "I promise, no matter what's wrong, being angry won't solve the problem."
-    s ""
+    s "Какой бы ни была твоя проблема, злость не поможет её решить."
 
 # game/dialogs/script-moods.rpy:66
 translate ru s_mood_angry_babd80ba:
 
     # s bbaacoa "It's easy to make impulsive decisions when you're mad, so let's make sure not to do that first!"
-    s bbaacoa ""
+    s bbaacoa "Злясь, мы можем принимать необдуманные решения, поэтому очень важно сохранять голову холодной!"
 
 # game/dialogs/script-moods.rpy:67
 translate ru s_mood_angry_5cf8d136:
 
     # s "That way, you don't end up doing something you'll regret when you've calmed down."
-    s ""
+    s "Так ты не наделаешь того, о чём пожалеешь, когда успокоишься."
 
 # game/dialogs/script-moods.rpy:68
 translate ru s_mood_angry_83164dc5:
 
     # s bbaacoa "Do you need to vent for a bit? I'm here for you if you need to."
-    s bbaacoa ""
+    s bbaacoa "Может тебе нужно высказаться? Я готова, если это так."
 
 # game/dialogs/script-moods.rpy:71
 translate ru s_mood_angry_419f3b90:
 
     # s abhfcoa "Alright, I'm listening."
-    s abhfcoa ""
+    s abhfcoa "Хорошо, я слушаю."
 
 # game/dialogs/script-moods.rpy:73
 translate ru s_mood_angry_8d876043:
 
     # s "{w}"
-    s ""
+    s "{w}"
 
 # game/dialogs/script-moods.rpy:74
 translate ru s_mood_angry_bc6143d7:
 
     # s gbhabfa "Yeah, I can see why that would make you angry."
-    s gbhabfa ""
+    s gbhabfa "Да, понимаю, почему это тебя разозлило."
 
 # game/dialogs/script-moods.rpy:75
 translate ru s_mood_angry_0abc36ee:
 
     # s bbhaica "I'm sorry that happened, [player]."
-    s bbhaica ""
+    s bbhaica "Жаль что такое произошло, [player]."
 
 # game/dialogs/script-moods.rpy:77
 translate ru s_mood_angry_d80d187b:
 
     # s bbaaaoa "That's alright, we can do something else."
-    s bbaaaoa ""
+    s bbaaaoa "Ладно, тогда займёмся чем-то другим."
 
 # game/dialogs/script-moods.rpy:78
 translate ru s_mood_angry_a372cc50:
 
     # s fbaalhaj "Hmmmm... Lemme think..."
-    s fbaalhaj ""
+    s fbaalhaj "Хмммм... Дай подумать..."
 
 # game/dialogs/script-moods.rpy:80
 translate ru s_mood_angry_5a1adc3c:
 
     # s ebbcaea "Oh, I know! Do you want to play a game with me? It will help distract you from whatever is making you feel like this, even if just for a little while."
-    s ebbcaea ""
+    s ebbcaea "О, придумала! Не хочешь поиграть со мной? Это должно помочь тебе отвлечься от твоих проблем, даже если и ненадолго."
 
 # game/dialogs/script-moods.rpy:83
 translate ru s_mood_angry_b2e8c211:
 
     # s fbgciea "Alright, give me your best!"
-    s fbgciea ""
+    s fbgciea "Хорошо, выложись во всю!"
 
 # game/dialogs/script-moods.rpy:88
 translate ru s_mood_angry_dc788912:
 
     # s abfcaca "Not in the mood? That's okay too."
-    s abfcaca ""
+    s abfcaca "Не хочешь? Тоже хорошо."
 
 # game/dialogs/script-moods.rpy:89
 translate ru s_mood_angry_5823aa0e:
 
     # s bbhfmoaj "In that case, I have one last suggestion, but it might sound a bit silly..."
-    s bbhfmoaj ""
+    s bbhfmoaj "В таком случае, у меня есть ещё одна идея, но она может показаться тебе глуповатой..."
 
 # game/dialogs/script-moods.rpy:90
 translate ru s_mood_angry_39ed9768:
 
     # s ebbbcoaj "Have you had the time to do one biiiiiig stretch today yet?"
-    s ebbbcoaj ""
+    s ebbbcoaj "Было ли у тебя сегодня время на то, чтобы хорошееееенько так потянуться?"
 
 # game/dialogs/script-moods.rpy:91
 translate ru s_mood_angry_9c7b5be9:
 
     # s fbgcipbj "Hey, I know it sounds silly, but it works!!!"
-    s fbgcipbj ""
+    s fbgcipbj "Эй, я знаю, звучит по-дурацки, но это работает!!"
 
 # game/dialogs/script-moods.rpy:92
 translate ru s_mood_angry_5e391b5d:
 
     # s ebgccaa "Try getting one of those good stretches that make all the right places pop~"
-    s ebgccaa ""
+    s ebgccaa "Попробуй добиться того самого потягивания, которое вызовет хруст в некоторых местах~"
 
 # game/dialogs/script-moods.rpy:93
 translate ru s_mood_angry_f261ad5b:
 
     # s gbgcmjaj "It really does help!"
-    s gbgcmjaj ""
+    s gbgcmjaj "Правда помогает!"
 
 # game/dialogs/script-moods.rpy:94
 translate ru s_mood_angry_89acd01d:
 
     # s bbhaaoa "I hope you're feeling a little better, [player]."
-    s bbhaaoa ""
+    s bbhaaoa "Надеюсь, что тебе немного полегчало, [player]."
 
 # game/dialogs/script-moods.rpy:95
 translate ru s_mood_angry_53b2c98b:
 
     # s ebhacoa "Remember, you can always come talk to me."
-    s ebhacoa ""
+    s ebhacoa "Помни, что я всегда здесь, чтобы выслушать."
 
 # game/dialogs/script-moods.rpy:112
 translate ru s_mood_hungry_742d2309:
 
     # s bbfcaa "Aw… Well, I wish I could give you a cookie right now!"
-    s bbfcaa ""
+    s bbfcaa "Оу... Что ж, хотела бы я сейчас накормить тебя печенькой!"
 
 # game/dialogs/script-moods.rpy:113
 translate ru s_mood_hungry_8841104a:
 
     # s bbhemma "I'm sure it would be super tasty, ehehe!"
-    s bbhemma ""
+    s bbhemma "Думаю она бы тебе очень понравилась!"
 
 # game/dialogs/script-moods.rpy:114
 translate ru s_mood_hungry_9b230d72:
 
     # s bbfdmoaj "Though…{nw} "
-    s bbfdmoaj ""
+    s bbfdmoaj "А вообще…{nw} "
 
 # game/dialogs/script-moods.rpy:115
 translate ru s_mood_hungry_366b8343:
 
     # extend bbfcaaa "That wouldn’t be a very good meal now, would it?{w=1.5}{nw}"
-    extend bbfcaaa ""
+    extend bbfcaaa "Это был бы не самый сытный перекус, не так ли?{w=1.5}{nw}"
 
 # game/dialogs/script-moods.rpy:116
 translate ru s_mood_hungry_d6614f15:
 
     # extend bbfcmoa " Sorry, ehehehe~"
-    extend bbfcmoa ""
+    extend bbfcmoa "Прости, ахахаха~"
 
 # game/dialogs/script-moods.rpy:117
 translate ru s_mood_hungry_f579b820:
 
     # s abhfaaa "You should go eat something, [player]."
-    s abhfaaa ""
+    s abhfaaa "Тебе стоит поесть, [player]."
 
 # game/dialogs/script-moods.rpy:118
 translate ru s_mood_hungry_c4c73a84:
 
     # s abbcaaa "If you have to cook something yourself, I can wait till you're done!"
-    s abbcaaa ""
+    s abbcaaa "Я подожду, если ты будешь сам готовить себе еду!"
 
 # game/dialogs/script-moods.rpy:119
 translate ru s_mood_hungry_4dfec68c:
 
     # s abfcaca "After all, skipping meals is a bad idea!"
-    s abfcaca ""
+    s abfcaca "В конце концов, пропускать приём пищи - плохая идея!"
 
 # game/dialogs/script-moods.rpy:120
 translate ru s_mood_hungry_99bf3106:
 
     # s "Take as long as you need, and then let me know when you’re back!"
-    s ""
+    s "Не стремись съесть всё побыстрее, наслаждайся трапезой!"
 
 # game/dialogs/script-moods.rpy:121
 translate ru s_mood_hungry_e6f1a5b8:
 
     # s abhfaoa "I'll be waiting for you, [player]."
-    s abhfaoa ""
+    s abhfaoa "Я буду ждать, [player]."
 
 # game/dialogs/script-moods.rpy:139
 translate ru s_mood_excited_02acc9e0:
 
     # s ebfbnsa "Ohhhh! Now that's the kind of news I like to hear!"
-    s ebfbnsa ""
+    s ebfbnsa "Ооооо! Таких вот новостей я и жду от тебя!"
 
 # game/dialogs/script-moods.rpy:140
 translate ru s_mood_excited_36ccbec9:
 
     # s ebagkoa "I hope that it's because you have something fun coming up soon!"
-    s ebagkoa ""
+    s ebagkoa "Надеюсь это потому что надвигается нечто весёлое!"
 
 # game/dialogs/script-moods.rpy:141
 translate ru s_mood_excited_59904cd7:
 
     # s eahdada "Is there anything in particular you're looking forward to?"
-    s eahdada ""
+    s eahdada "Может ты ждёшь чего-то конкретного?"
 
 # game/dialogs/script-moods.rpy:142
 translate ru s_mood_excited_699b19ec:
 
     # s ebhhcqa "Ooooor~"
-    s ebhhcqa ""
+    s ebhhcqa "Оооооо~"
 
 # game/dialogs/script-moods.rpy:143
 translate ru s_mood_excited_4d471b01:
 
     # s ebbddia "Maybe, you're just excited to spend some time with me today, ehehehe~"
-    s ebbddia ""
+    s ebbddia "Возможно тебе просто хочется немного со мной посидеть, эхехехе~"
 
 # game/dialogs/script-moods.rpy:144
 translate ru s_mood_excited_7b2fe99a:
 
     # s bbheijb "Can you tell me a little bit about it? I'm curious~"
-    s bbheijb ""
+    s bbheijb "Расскажешь подробнее? Мне интересно."
 
 # game/dialogs/script-moods.rpy:147
 translate ru s_mood_excited_f81ed3de:
 
     # s ebgcnea "Yayyy! Thank you!"
-    s ebgcnea ""
+    s ebgcnea "Урааа! Спасибки!"
 
 # game/dialogs/script-moods.rpy:148
 translate ru s_mood_excited_d40a2b99:
 
     # s ebbccqa "Go on~"
-    s ebbccqa ""
+    s ebbccqa "Начинай~"
 
 # game/dialogs/script-moods.rpy:150
 translate ru s_mood_excited_8d876043:
 
     # s "{w}"
-    s ""
+    s "{w}"
 
 # game/dialogs/script-moods.rpy:151
 translate ru s_mood_excited_c8de09f8:
 
     # s abbcnea "Ohhh, that does sound really nice!"
-    s abbcnea ""
+    s abbcnea "Оооо, звучит круто!"
 
 # game/dialogs/script-moods.rpy:152
 translate ru s_mood_excited_4c8f87b0:
 
     # s abgccea "I'm already excited for you, [player]!"
-    s abgccea ""
+    s abgccea "Я рада за тебя, [player]!"
 
 # game/dialogs/script-moods.rpy:153
 translate ru s_mood_excited_2ef5dce0:
 
     # s abhfaoa "Thank you for telling me about it!"
-    s abhfaoa ""
+    s abhfaoa "Спасибо что рассказал!"
 
 # game/dialogs/script-moods.rpy:155
 translate ru s_mood_excited_14ee1429:
 
     # s bahcjga "Whaaaat??? Not fair!!"
-    s bahcjga ""
+    s bahcjga "Чегооооо??? Нечестно!!"
 
 # game/dialogs/script-moods.rpy:156
 translate ru s_mood_excited_5d1a0723:
 
     # s gbhajja "I wanna know too! You're such a meanie..."
-    s gbhajja ""
+    s gbhajja "Я тоже хочу знать! Ты такая бука..."
 
 # game/dialogs/script-moods.rpy:158
 translate ru s_mood_excited_6ddbb977:
 
     # s abhadia "Just kidding!"
-    s abhadia ""
+    s abhadia "Шучу!"
 
 # game/dialogs/script-moods.rpy:159
 translate ru s_mood_excited_0f69ea65:
 
     # s abhfboa "It's alright if you don't feel like telling anyone."
-    s abhfboa ""
+    s abhfboa "Ничего страшного, если тебе не хочется этим делиться."
 
 # game/dialogs/script-moods.rpy:160
 translate ru s_mood_excited_2914e271:
 
     # s abhfcaa "Whatever it is that made you excited, I am glad it did! I like seeing you happy!"
-    s abhfcaa ""
+    s abhfcaa "Что бы то ни было, я рада, что ты рад! Видеть тебя счастливым так замечательно!"
 
 # game/dialogs/script-moods.rpy:161
 translate ru s_mood_excited_1f31aa32:
 
     # s abhhcoa "Knowing that you're having a good day always makes me happy, too!"
-    s abhhcoa ""
+    s abhhcoa "Когда я осознаю, что твой день проходит хорошо, мне тоже становится лучше!"
 
 # game/dialogs/script-moods.rpy:162
 translate ru s_mood_excited_4e355430:
 
     # s abgccoa "Well, I hope things keep going well for you, and that today gets even better, [player]!"
-    s abgccoa ""
+    s abgccoa "В общем, надеюсь 'сегодня' для тебя будет просто замечательным, [player]!"
 
 # game/dialogs/script-moods.rpy:179
 translate ru s_mood_happy_94654717:
 
     # s abgccoa "That's wonderful, [player]!"
-    s abgccoa ""
+    s abgccoa "Замечательно, [player]!"
 
 # game/dialogs/script-moods.rpy:180
 translate ru s_mood_happy_1b77c685:
 
     # s abgcaoa "You know how important it is to me that you're happy."
-    s abgcaoa ""
+    s abgcaoa "Ты знаешь, как для меня важно твоё счастье."
 
 # game/dialogs/script-moods.rpy:181
 translate ru s_mood_happy_3929b8c0:
 
     # s bbfcaaa "And I feel happy too when you’re around!"
-    s bbfcaaa ""
+    s bbfcaaa "И мне тоже радостно, когда ты рядом!"
 
 # game/dialogs/script-moods.rpy:182
 translate ru s_mood_happy_2abc10aa:
 
     # s abgccaa "So I’ll try my best to keep it that way!"
-    s abgccaa ""
+    s abgccaa "В общем надеюсь, что так будет и дальше!"
 
 # game/dialogs/script-moods.rpy:198
 translate ru s_mood_sad_662ba31e:
