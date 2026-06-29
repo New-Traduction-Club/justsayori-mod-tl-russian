@@ -712,235 +712,235 @@ translate ru s_mood_depressed_43b99b44:
 translate ru s_mood_depressed_d2a7f88b:
 
     # s bbbbaca "Trust me when I say that there are people who care about you and want to help you."
-    s bbbbaca ""
+    s bbbbaca "Поверь, есть люди, которым ты небзеразличен, и которые хотят помочь тебе."
 
 # game/dialogs/script-moods.rpy:393
 translate ru s_mood_depressed_37471f34:
 
     # s "You are not alone, never ever, okay?"
-    s ""
+    s "Ты не один, никогда-никогда, понимаешь?"
 
 # game/dialogs/script-moods.rpy:394
 translate ru s_mood_depressed_61525718:
 
     # s bbbcjfag "Don't ever do the same horrible mistakes I did. Please reach out to someone and vent about your emotions… it really might help you feel better."
-    s bbbcjfag ""
+    s bbbcjfag "Ни за что не повторяй моих ошибок. Найди кого-то, кому ты можешь высказаться… это действительно может помочь."
 
 # game/dialogs/script-moods.rpy:396
 translate ru s_mood_depressed_b18701ef:
 
     # s bbgbacb "[player]... I love you so, so much. I’m always here for you, through the good times and the not-so-good times, and I’ll try my best to help you as much as I can from here."
-    s bbgbacb ""
+    s bbgbacb "[player]... Я люблю тебя очень, очень сильно. И я всегда буду с тобой, неважно в радостные времена или не особо, я всеми силами буду пытаться сделать твой день лучше."
 
 # game/dialogs/script-moods.rpy:397
 translate ru s_mood_depressed_1d573dd5:
 
     # s bbbbaaa "Just don't give up and keep going forward okay?"
-    s bbbbaaa ""
+    s bbbbaaa "Просто не сдавайся и продолжай идти вперёд, хорошо?"
 
 # game/dialogs/script-moods.rpy:398
 translate ru s_mood_depressed_e1de2c58:
 
     # s bbhfica "Because no matter how loud those rainclouds get and no matter how hard things seem to be… there is always a glimpse of hope. A light at the end of the tunnel."
-    s bbhfica ""
+    s bbhfica "Неважно насколько громко гремит гром, насколько сложной кажется ситуация… лучик надежды всегда останется. Как свет в конце туннеля."
 
 # game/dialogs/script-moods.rpy:399
 translate ru s_mood_depressed_fdd9f344:
 
     # s bbhfifa "Giving up is the worst thing you can do… I learned that myself..."
-    s bbhfifa ""
+    s bbhfifa "Сдаться - худшее, к чему ты можешь придти… Знаю по собственному опыту."
 
 # game/dialogs/script-moods.rpy:400
 translate ru s_mood_depressed_3c9029c2:
 
     # s bbbbica "So if you ever need to spend some time with me then go ahead and we can just talk, alright?"
-    s bbbbica ""
+    s bbbbica "В общем, если тебе захочется побыть со мной рядом, не стесняйся, хорошо?"
 
 # game/dialogs/script-moods.rpy:401
 translate ru s_mood_depressed_5f4e99c6:
 
     # s bbgcaaa "Remember I am always here if you need anything, no matter how small."
-    s bbgcaaa ""
+    s bbgcaaa "Неважно как незначительна причина твоих волнений, я всегда рада тебя выслушать."
 
 # game/dialogs/script-moods.rpy:403
 translate ru s_mood_depressed_6e370263:
 
     # s bbfcaab "I love you [player], forever and ever."
-    s bbfcaab ""
+    s bbfcaab "Люблю тебя, [player], сейчас и навечно."
 
 # game/dialogs/script-moods.rpy:418
 translate ru s_mood_nostalgic_e25cec73:
 
     # s abagaca "Nostalgic, huh? I know that feeling."
-    s abagaca ""
+    s abagaca "Настольгия значит? Мне знакомо это чувство."
 
 # game/dialogs/script-moods.rpy:419
 translate ru s_mood_nostalgic_6ae3a2d5:
 
     # s abhaaca "Sometimes I find myself thinking about the literature club. Even the bittersweet moments feel warm now, in a weird way."
-    s abhaaca ""
+    s abhaaca "Иногда я вспоминаю литературный клуб. Даже не самые радостные моменты теперь кажутся чем-то тёплым, как ни странно."
 
 # game/dialogs/script-moods.rpy:420
 translate ru s_mood_nostalgic_7d6e65e2:
 
     # s bbaaaoa "It's like... you know something is over, and you can't go back, but you're happy it happened."
-    s bbaaaoa ""
+    s bbaaaoa "Как когда... ты осознаёшь, что что-то закончилось навсегда, но ты счастлив, что оно было."
 
 # game/dialogs/script-moods.rpy:421
 translate ru s_mood_nostalgic_b8600718:
 
     # s "Do you ever feel that way about certain memories, [player]?{nw}"
-    s ""
+    s "Понимаешь о чём я, [player]?{nw}"
 
 # game/dialogs/script-moods.rpy:425
 translate ru s_mood_nostalgic_70a09f98:
 
     # s "Do you ever feel that way about certain memories, [player]?{fast}" nointeract
-    s "" nointeract
+    s "Понимаешь о чём я, [player]?{fast}" nointeract
 
 # game/dialogs/script-moods.rpy:428
 translate ru s_mood_nostalgic_e51972cc:
 
     # s abbbaca "Exactly! It's a little sad, but also comforting."
-    s abbbaca ""
+    s abbbaca "Именно! Немного грустно, но при этом так уютно!"
 
 # game/dialogs/script-moods.rpy:429
 translate ru s_mood_nostalgic_eb1837cc:
 
     # s abaaaca "It's proof that we've lived and felt things deeply. I think that's beautiful."
-    s abaaaca ""
+    s abaaaca "Это доказательство того, что мы жили и чувствовали по-настоящему. Разве не прекрасно?."
 
 # game/dialogs/script-moods.rpy:430
 translate ru s_mood_nostalgic_a624bad7:
 
     # s abhaaca "It makes me appreciate the now even more."
-    s abhaaca ""
+    s abhaaca "Этот факт делает текущий момент ещё более ценным."
 
 # game/dialogs/script-moods.rpy:433
 translate ru s_mood_nostalgic_a223117b:
 
     # s bbaaaoa "I can understand that. Sometimes looking back is hard."
-    s bbaaaoa ""
+    s bbaaaoa "Понимаю. Иногда непросто вспоминать о прошедшем."
 
 # game/dialogs/script-moods.rpy:434
 translate ru s_mood_nostalgic_8d6072ad:
 
     # s abhaaca "But it can also remind us of how far we've come, you know?"
-    s abhaaca ""
+    s abhaaca "Но эти воспоминания напоминают нам о том, как далеко мы прошли, не правда ли?"
 
 # game/dialogs/script-moods.rpy:435
 translate ru s_mood_nostalgic_ec22b94c:
 
     # s abhfaoa "Just know that it's okay to feel that way. We can make new memories to look back on, right here."
-    s abhfaoa ""
+    s abhfaoa "В любом случае, помни, что настольгия это нормально. Через время мы будем так же вспоминать и о текущем моменте."
 
 # game/dialogs/script-moods.rpy:439
 translate ru s_mood_nostalgic_8887d642:
 
     # s abhfmkb "Oh, [player]...!"
-    s abhfmkb ""
+    s abhfmkb "О, [player]...!"
 
 # game/dialogs/script-moods.rpy:440
 translate ru s_mood_nostalgic_addcb18a:
 
     # s abagcka "Ehehehe, you always know just what to say to make me blush~"
-    s abagcka ""
+    s abagcka "Эхехехе, ты всегда знаешь, как заставить меня покраснеть~"
 
 # game/dialogs/script-moods.rpy:441
 translate ru s_mood_nostalgic_918ccadc:
 
     # s abgccob "I feel the same way. Every moment with you feels special."
-    s abgccob ""
+    s abgccob "Я чувствую то же самое. С тобой каждая секунда кажется особенной."
 
 # game/dialogs/script-moods.rpy:442
 translate ru s_mood_nostalgic_505aebc9:
 
     # s abfccab "These are the memories I'll treasure the most... forever and ever."
-    s abfccab ""
+    s abfccab "И эти секунды я ценю больше всего остального... сейчас и навеки."
 
 # game/dialogs/script-moods.rpy:443
 translate ru s_mood_nostalgic_4029b35d:
 
     # s abgccaa "Thanks for sharing that with me. It feels like I can talk to you about anything."
-    s abgccaa ""
+    s abgccaa "Спасибо, что поделился. Мы и вправду можем общаться о чём угодно, эхехехе~"
 
 # game/dialogs/script-moods.rpy:446
 translate ru s_mood_nostalgic_6fc45aed:
 
     # s abgccaa "Thanks for sharing that with me. It's nice to know we can talk about these things."
-    s abgccaa ""
+    s abgccaa "Спасибо, что поделился со мной своими чувствами. Я рада, что мы можем говорить о подобном."
 
 translate ru strings:
 
     # game/dialogs/script-moods.rpy:52
     old "Angry"
-    new ""
+    new "Злость"
 
     # game/dialogs/script-moods.rpy:100
     old "Hungry"
-    new ""
+    new "Голод"
 
     # game/dialogs/script-moods.rpy:127
     old "Excited"
-    new ""
+    new "Возбуждение"
 
     # game/dialogs/script-moods.rpy:154
     old "It's a secret"
-    new ""
+    new "Это секрет"
 
     # game/dialogs/script-moods.rpy:167
     old "Happy"
-    new ""
+    new "Радость"
 
     # game/dialogs/script-moods.rpy:187
     old "Sad"
-    new ""
+    new "Грусть"
 
     # game/dialogs/script-moods.rpy:215
     old "Bored"
-    new ""
+    new "Скуку"
 
     # game/dialogs/script-moods.rpy:237
     old "Tired"
-    new ""
+    new "Усталость"
 
     # game/dialogs/script-moods.rpy:261
     old "Sleepy"
-    new ""
+    new "Сонливость"
 
     # game/dialogs/script-moods.rpy:281
     old "Lonely"
-    new ""
+    new "Одиночество"
 
     # game/dialogs/script-moods.rpy:307
     old "Sick"
-    new ""
+    new "Больным"
 
     # game/dialogs/script-moods.rpy:330
     old "Nervous"
-    new ""
+    new "Нервным"
 
     # game/dialogs/script-moods.rpy:354
     old "Unmotivated"
-    new ""
+    new "Демотивированным"
 
     # game/dialogs/script-moods.rpy:378
     old "Depressed"
-    new ""
+    new "Раздавленным"
 
     # game/dialogs/script-moods.rpy:407
     old "Nostalgic"
-    new ""
+    new "Ностальгию"
 
     # game/dialogs/script-moods.rpy:427
     old "Yes, some memories are bittersweet."
-    new ""
+    new "Да, иногда воспоминания неоднозначны."
 
     # game/dialogs/script-moods.rpy:432
     old "I try not to think about the past too much."
-    new ""
+    new "Я пытаюсь не думать о прошлом слишком много."
 
     # game/dialogs/script-moods.rpy:437
     old "The best memories are the ones I'm making with you."
-    new ""
+    new "Лучшие воспоминания это те, которые связаны с тобой."
 
