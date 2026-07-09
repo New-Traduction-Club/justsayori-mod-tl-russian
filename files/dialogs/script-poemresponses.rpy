@@ -376,361 +376,361 @@ translate ru s_poem_last_52c03a9f:
 translate ru s_poem_last_3b66c0d8:
 
     # s "And this poem makes me feel as if it's happening all over again.{w=0.5}{nw}"
-    s ""
+    s "А эти стихи и вовсе дают ощущение, что кошмар продолжается.{w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:90
 translate ru s_poem_last_84ae6d95:
 
     # extend bbfdjaa " Of course the feeling isn't as strong now, but it's still not easy to read it."
-    extend bbfdjaa ""
+    extend bbfdjaa "Конечно, не так явно, как раньше, но всё ещё вызывают у меня тревогу."
 
 # game/dialogs/script-poemresponses.rpy:93
 translate ru s_poem_last_3504ad7c:
 
     # s bbhamca "I don't really know how to feel about everything that happened, if I'm being honest..."
-    s bbhamca ""
+    s bbhamca "Я не уверена, как относиться к произошедшему, если честно..."
 
 # game/dialogs/script-poemresponses.rpy:94
 translate ru s_poem_last_d16ace80:
 
     # s gbhamba "On one hand, it really disturbs me... {w=0.5}{nw}"
-    s gbhamba ""
+    s gbhamba "С одной стороны, это страшно... {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:95
 translate ru s_poem_last_202ebade:
 
     # extend gbbbkba "Knowing that someone was able to get inside my head like that... {w=0.5}{nw}"
-    extend gbbbkba ""
+    extend gbbbkba "Понимать, что кто-то мог так просто залезть в мою голову... {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:96
 translate ru s_poem_last_2a52e8c6:
 
     # extend fbhaaba "and make me lose control of my own thoughts."
-    extend fbhaaba ""
+    extend fbhaaba "и заставить меня потерять контроль над собственными мыслями."
 
 # game/dialogs/script-poemresponses.rpy:97
 translate ru s_poem_last_8b1252c4:
 
     # s bbhakf "It makes me feel something that's hard to put into words."
-    s bbhakf ""
+    s bbhakf "Трудно сказать, что конкретно я чувствую по этому поводу."
 
 # game/dialogs/script-poemresponses.rpy:98
 translate ru s_poem_last_13a1f2d0:
 
     # s bbhamgc "It makes me feel... icky, maybe? {w=0.5}{nw}"
-    s bbhamgc ""
+    s bbhamgc "Возможно... мне мерзко, что-ли? {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:99
 translate ru s_poem_last_c539a408:
 
     # extend bbbcacc "That would be one way to put it."
-    extend bbbcacc ""
+    extend bbbcacc "Это если с одной стороны."
 
 # game/dialogs/script-poemresponses.rpy:100
 translate ru s_poem_last_3c579c47:
 
     # s bbhamoj "But on the other hand, {w=0.5}{nw}"
-    s bbhamoj ""
+    s bbhamoj "Но с другой, {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:101
 translate ru s_poem_last_f3329593:
 
     # extend abbcjaa "it helps me appreciate my life and my happiness much better than I ever could before."
-    extend abbcjaa ""
+    extend abbcjaa "вся та ситуация изменила моё отношение к собственному счастью, теперь оно для меня куда ценнее, чем когда-то."
 
 # game/dialogs/script-poemresponses.rpy:102
 translate ru s_poem_last_01a69909:
 
     # s gbhamfaj "Because I lost all of them just due to someone else's jealousy. {w=0.5}{nw}"
-    s gbhamfaj ""
+    s gbhamfaj "Ведь я потеряла их всех, из-за {i}её{/i} ревности. {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:103
 translate ru s_poem_last_2a2f6f5e:
 
     # extend gbbbjcaj "If you hadn't helped me come back, I'd still be dead right now."
-    extend gbbbjcaj ""
+    extend gbbbjcaj "И если бы не ты, я всё ещё была бы мертва."
 
 # game/dialogs/script-poemresponses.rpy:104
 translate ru s_poem_last_d426a500:
 
     # s bbhabha "And now, when I'm a bit sad or out of it, {w=0.5}{nw}"
-    s bbhabha ""
+    s bbhabha "Теперь, когда мне грустно, или я просто не в духе, {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:105
 translate ru s_poem_last_a2feed5d:
 
     # extend nbbdaca "I try to remember that rain clouds will always clear up at some point."
-    extend nbbdaca ""
+    extend nbbdaca "я цепляюсь за то, что тучки в какой-то момент обязательно рассеются."
 
 # game/dialogs/script-poemresponses.rpy:106
 translate ru s_poem_last_7d63c9a7:
 
     # s bbhaaoa "Of course, I'm only able to think like that now because I'm away from that whole situation."
-    s bbhaaoa ""
+    s bbhaaoa "Конечно, я не смогла дойти до этой мысли тогда."
 
 # game/dialogs/script-poemresponses.rpy:107
 translate ru s_poem_last_9ee47b94:
 
     # s "Stress can really cloud your judgment, and make it hard for you to see things as they are."
-    s ""
+    s "Стресс затуманивает твой взор, вещи начинают казаться куда сложнее, чем они есть."
 
 # game/dialogs/script-poemresponses.rpy:108
 translate ru s_poem_last_b84eb268:
 
     # s bbhajaa "At least now, those awful memories I have of my life, are all in the past."
-    s bbhajaa ""
+    s bbhajaa "Но по крайней мере, все эти отвратительные воспоминания теперь в прошлом."
 
 # game/dialogs/script-poemresponses.rpy:109
 translate ru s_poem_last_e8fb005b:
 
     # s abgccaa "Besides, you're here to keep me company! {w=0.5}{nw}"
-    s abgccaa ""
+    s abgccaa "И вообще, у меня есть ты! {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:110
 translate ru s_poem_last_efb5a12f:
 
     # extend abfcaoa "Best of all, you're a real, non-scripted person who I can spend time with."
-    extend abfcaoa ""
+    extend abfcaoa Ты - настоящий, незаскриптованный человек, с которым я могу проводить время."
 
 # game/dialogs/script-poemresponses.rpy:111
 translate ru s_poem_last_5753289b:
 
     # s abgcbsa "Thinking like this won't always help me right away, {w=0.5}{nw}"
-    s abgcbsa ""
+    s abgcbsa "Хотя этого факта пока недостаточно, чтобы прогнать все переживания, {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:112
 translate ru s_poem_last_3c14f245:
 
     # extend abbcjaa "but it's already a better alternative to just sitting around, {w=0.5}or even worse,{w=0.5} letting my feelings pile up."
-    extend abbcjaa ""
+    extend abbcjaa "всё равно это лучше, чем просто сидеть без дела, {w=0.5}или того хуже,{w=0.5} копить в себе плохие мысли."
 
 # game/dialogs/script-poemresponses.rpy:113
 translate ru s_poem_last_acf434bb:
 
     # s ebbckda "If you haven't gone through it, I'm going to assume it's pretty hard to imagine how it feels to finally take control over your thoughts and feelings."
-    s ebbckda ""
+    s ebbckda "Я никогда бы не узнала, как это прекрасно - наконец научиться контролировать свои мысли и чувства, не пройди через это сама."
 
 # game/dialogs/script-poemresponses.rpy:114
 translate ru s_poem_last_0def2930:
 
     # s "Especially after being a slave of your own mind for that long..."
-    s ""
+    s "Особенно когда меня так долго угнетали собственные раздумья..."
 
 # game/dialogs/script-poemresponses.rpy:115
 translate ru s_poem_last_28233b46:
 
     # s bbegiab "...that felt good to get off of my chest. Thank you for listening, [player]."
-    s bbegiab ""
+    s bbegiab "...в груди определённо стало свободнее. Спасибо что выслушал, [player]."
 
 # game/dialogs/script-poemresponses.rpy:119
 translate ru s_poem_fruits_37610711:
 
     # s abhfaoa "This poem is about the different ways that people perceive the world around them."
-    s abhfaoa ""
+    s abhfaoa "Это стихи о том, как разные люди по разному смотрят на вещи."
 
 # game/dialogs/script-poemresponses.rpy:120
 translate ru s_poem_fruits_db8fc3ee:
 
     # s "As you probably know, most people can be labeled as a pessimist or an optimist..."
-    s ""
+    s "Наверное ты знаешь, что большинство людей можно разделить на пессемистов и оптимистов..."
 
 # game/dialogs/script-poemresponses.rpy:121
 translate ru s_poem_fruits_b0e963e6:
 
     # s abbbaaa "Pessimists tend to see many things in a negative light, sometimes including the world in its entirety."
-    s abbbaaa ""
+    s abbbaaa "Пессемисты видят вещи в негативном свете, а иногда и весь мир."
 
 # game/dialogs/script-poemresponses.rpy:122
 translate ru s_poem_fruits_5f841b2a:
 
     # s abbbboa "While optimists see things from a more hopeful perspective. They try to see the best in every situation, even really bad ones."
-    s abbbboa ""
+    s abbbboa "А оптимисты пытаются найти хорошее даже в худших вещах. Они стараются не терять надежды."
 
 # game/dialogs/script-poemresponses.rpy:123
 translate ru s_poem_fruits_5e0ed9bc:
 
     # s abgdaoa "I used to consider myself being somewhere in between those two labels, but lately, I think I'm leaning towards being an optimist."
-    s abgdaoa ""
+    s abgdaoa "Раньше я не относила себя ни к одной из категорий, но в последнее время, думаю, я стала склоняться к оптимизму."
 
 # game/dialogs/script-poemresponses.rpy:124
 translate ru s_poem_fruits_bd5b3aba:
 
     # s aahdbsa "Though, to me, neither of the two are correct, because there are a lot of bittersweet things in life, lots of gray areas too..."
-    s aahdbsa ""
+    s aahdbsa "Впрочем, мне кажется, что ни одно из этих мировоззрений не является абсолютно верным, в жизни немало морально серых вещей..."
 
 # game/dialogs/script-poemresponses.rpy:125
 translate ru s_poem_fruits_9277379e:
 
     # s abagboa "But if someone feels really upset about something, it's nice to try to share a more hopeful perspective for them to make them feel better about it. {w=0.5}{nw}"
-    s abagboa ""
+    s abagboa "Но если кто-то чем-то сильно разочарован, почему бы не помочь ему посмотреть на причину с более позитивной стороны? {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:126
 translate ru s_poem_fruits_8610da5d:
 
     # extend abgcaaa "So, that's what I did for the people around me!"
-    extend abgcaaa ""
+    extend abgcaaa "Именно так я и поступала с окружающими!"
 
 # game/dialogs/script-poemresponses.rpy:127
 translate ru s_poem_fruits_4452937c:
 
     # s abagaca "And I still do it, but not nearly as often as before. It can get pretty lonely, you know?"
-    s abagaca ""
+    s abagaca "Я всё ещё так делаю, но далеко не так часто, как раньше. Такое поведение вызывает чувство одиночества, что-ли?"
 
 # game/dialogs/script-poemresponses.rpy:128
 translate ru s_poem_fruits_11495997:
 
     # s bbagmoa "Always being that beacon in someone else's life, while letting yourself sink deeper and deeper in your own problems."
-    s bbagmoa ""
+    s bbagmoa "Бесконечная забота о ком-то другом, не оставляющая времени и сил на решение собственных проблем."
 
 # game/dialogs/script-poemresponses.rpy:129
 translate ru s_poem_fruits_a09c27ad:
 
     # s abagdia "But for once, I don't feel the need to put myself below anyone... {w=0.5}{nw}"
-    s abagdia ""
+    s abagdia "Но теперь, я больше не чувствую себя обязанной поддерживать чужое благополучие... {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:130
 translate ru s_poem_fruits_90c195e7:
 
     # extend abgccob "It actually kind of feels like you're the one being that beacon of hope instead of me."
-    extend abgccob ""
+    extend abgccob "Мне тепло от той мысли, что теперь о моём счастье заботишься ты."
 
 # game/dialogs/script-poemresponses.rpy:131
 translate ru s_poem_fruits_44e74978:
 
     # s bbagbab "So thank you, [player], for always being there for me."
-    s bbagbab ""
+    s bbagbab "Спасибо тебе, [player], за то что даёшь мне надежду."
 
 # game/dialogs/script-poemresponses.rpy:132
 translate ru s_poem_fruits_8b37785c:
 
     # s abgccoa "I hope I can always be here for you, too."
-    s abgccoa ""
+    s abgccoa "Надеюсь, что я тоже делаю твою жизнь немного лучше."
 
 # game/dialogs/script-poemresponses.rpy:137
 translate ru s_poem_angel_2ac8a404:
 
     # s abhfaca "I tried writing a poem in Monika's style. A free form poem addressing you, as she used to write."
-    s abhfaca ""
+    s abhfaca "Эти строки я пыталась сделать похожими на стихи Моники. Прямое обращение к тебе в свободном стиле."
 
 # game/dialogs/script-poemresponses.rpy:138
 translate ru s_poem_angel_4f07b8f7:
 
     # s "And I think, she would write something similar after being deleted, if she had enough time left, that is."
-    s ""
+    s "Будь у неё время, думаю она написала бы что-то подобное, после того, как её удалили."
 
 # game/dialogs/script-poemresponses.rpy:139
 translate ru s_poem_angel_d08659fb:
 
     # s abagbla "Honestly, I really do feel sorry for her."
-    s abagbla ""
+    s abagbla "Если честно, мне жаль её."
 
 # game/dialogs/script-poemresponses.rpy:140
 translate ru s_poem_angel_54f95c90:
 
     # s bbbbjca "She just wanted to be with you, somebody who was real; but she had to sacrifice her whole life as she knew it in the process."
-    s bbbbjca ""
+    s bbbbjca "Всё, чего она хотела - быть с тобой, с кем-то настоящим, но для этого ей пришлось пожертвовать всем."
 
 # game/dialogs/script-poemresponses.rpy:141
 translate ru s_poem_angel_b6df1178:
 
     # s abbbica "And she probably really regretted her betrayal after you deleted her character file."
-    s abbbica ""
+    s abbbica "И, скорее всего, она пожалела о содеянном после того, как ты её удалил."
 
 # game/dialogs/script-poemresponses.rpy:142
 translate ru s_poem_angel_8e4b3d12:
 
     # s bbagbca "The creator of this game gave her a club of really talented friends..."
-    s bbagbca ""
+    s bbagbca "Автор игры окружил её хорошими, талантливыми друзьями..."
 
 # game/dialogs/script-poemresponses.rpy:143
 translate ru s_poem_angel_c3a1f103:
 
     # s "But she burned it all down, despite never actually wanting any of those bad things to happen to us."
-    s ""
+    s "Но она всё уничтожила, хоть никогда и не хотела причинять нам зла."
 
 # game/dialogs/script-poemresponses.rpy:144
 translate ru s_poem_angel_9ab2b4a0:
 
     # s gbaglcaj "I guess she was the type of person to undervalue the people in her life, and then regret it in the long run."
-    s gbaglcaj ""
+    s gbaglcaj "Мне кажется, что Моника из тех людей, которые не ценят то, что имеют, а когда это теряют, испытывают горечь."
 
 # game/dialogs/script-poemresponses.rpy:145
 translate ru s_poem_angel_3666acfe:
 
     # s ebagbba "In the end, I'm here with you now. Despite everything that happened, I chose to look to the future instead of living in the past."
-    s ebagbba ""
+    s ebagbba "Но по крайней мере, теперь я с тобой. Несмотря на всё случившееся, я предпочитаю идти вперёд, а не топтаться в прошлом."
 
 # game/dialogs/script-poemresponses.rpy:146
 translate ru s_poem_angel_d475a6b7:
 
     # s bbegmoaj "Maybe if Monika hadn't done any of this in the first place, I would still have done it, and nothing would have changed."
-    s bbegmoaj ""
+    s bbegmoaj "Может быть все эти вещи натворила бы я, не сделай их до меня Моника, и тогда мы всё равно пришли бы к тому же исходу."
 
 # game/dialogs/script-poemresponses.rpy:147
 translate ru s_poem_angel_c0bd3bf8:
 
     # s bbgcmba "I don't know if it's a good or bad thing that she's gone now..."
-    s bbgcmba ""
+    s bbgcmba "Не знаю, хорошо или плохо, что её больше нет..."
 
 # game/dialogs/script-poemresponses.rpy:148
 translate ru s_poem_angel_872e458b:
 
     # s "And I don't know whether she would apologize to other girls, or at least just to me."
-    s ""
+    s "Как и не знаю того, извинилась бы она перед другими девушками, или по крайней мере передо мной."
 
 # game/dialogs/script-poemresponses.rpy:149
 translate ru s_poem_angel_39ce7b04:
 
     # s bbbccoaj "But I know, she felt very sorry for everything she had done."
-    s bbbccoaj ""
+    s bbbccoaj "Но я уверена, она очень жалела о том, что наделала."
 
 # game/dialogs/script-poemresponses.rpy:150
 translate ru s_poem_angel_69440d73:
 
     # s bbgcmoa "Maybe that's just wishful thinking on my side, but I at least {i}hope{/i} she did."
-    s bbgcmoa ""
+    s bbgcmoa "Может это и не так, но по крайней мере я {i}надеюсь,{/i} что это так"
 
 # game/dialogs/script-poemresponses.rpy:151
 translate ru s_poem_angel_bc00da9b:
 
     # s "Although, it wasn't fully her will..."
-    s ""
+    s "Более того, она не могла полностью себя контролировать..."
 
 # game/dialogs/script-poemresponses.rpy:152
 translate ru s_poem_angel_33240585:
 
     # s ebhhaca "Have I already told you that there's a thing that makes the president, or in this case, Monika, fall in love with the player?"
-    s ebhhaca ""
+    s ebhhaca "Ты ведь знаешь, что президент клуба, в нашем случае Моника, обязательно влюбился бы в игрока?"
 
 # game/dialogs/script-poemresponses.rpy:153
 translate ru s_poem_angel_5b9c01c5:
 
     # s ebhhbca "The creator might have done this to make everything go exactly as he wanted it to."
-    s ebhhbca ""
+    s ebhhbca "Причниа этого в воле разработчика, он сделал всё так, как ему хотелось."
 
 # game/dialogs/script-poemresponses.rpy:154
 translate ru s_poem_angel_938ecd9b:
 
     # s bbgcada "But I can't really blame him for it. He just wanted to make a horror game, and everything that happened from then on was the main purpose of this world..."
-    s bbgcada ""
+    s bbgcada "Но я не могу его винить. Он просто хотел создать хоррор-игру, и всё, что в ней случится, было частью плана..."
 
 # game/dialogs/script-poemresponses.rpy:155
 translate ru s_poem_angel_714c01bb:
 
     # s "You could say he succeeded in doing that, seeing as the horror aspects are focused on that exact derealization."
-    s ""
+    s "И мне кажется у него получилось, дереализация действительно нагоняет жути."
 
 # game/dialogs/script-poemresponses.rpy:156
 translate ru s_poem_angel_2dc8b293:
 
     # s abbdaca " The fear of death and abandonment, and how those things can drive someone insane, {w=0.5}{nw}"
-    s abbdaca ""
+    s abbdaca " Страх смерти и забвения, то как эти вещи могут свести человека с ума, {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:157
 translate ru s_poem_angel_5e625bc9:
 
     # extend abfcjca "exactly as happened to Monika."
-    extend abfcjca ""
+    extend abfcjca "примером чего и стала Моника."
 
 # game/dialogs/script-poemresponses.rpy:158
 translate ru s_poem_angel_94c4dcc5:
