@@ -1036,47 +1036,47 @@ translate ru s_poem_val_47fbf4e8:
 translate ru s_poem_val_88bfaf42:
 
     # s cbgcnaa "I tried to show that my love for you has no dimensional limits."
-    s cbgcnaa "В них я хотела показать, что моей к тебе любви не страшны границы реальности!"
+    s cbgcnaa "В них я хотела показать, что моей к тебе любви не страшны границы реальности."
 
 # game/dialogs/script-poemresponses.rpy:230
 translate ru s_poem_val_0661005f:
 
     # s "Ehehehe~"
-    s ""
+    s "Эхехехе~"
 
 # game/dialogs/script-poemresponses.rpy:231
 translate ru s_poem_val_894c0802:
 
     # s abhfkda "Ironically, the card had a limit for how much I could write in it."
-    s abhfkda ""
+    s abhfkda "Иронично, что и у валентинки границы есть."
 
 # game/dialogs/script-poemresponses.rpy:232
 translate ru s_poem_val_0c3691b6:
 
     # s "So I had to try and express all of my love using as little words as possible..."
-    s ""
+    s "Из-за чего выразить всю свою любовь мне пришлось немногими словами."
 
 # game/dialogs/script-poemresponses.rpy:233
 translate ru s_poem_val_8b7f71a1:
 
     # s abaaaoa "I hope you can understand the meaning regardless."
-    s abaaaoa ""
+    s abaaaoa "Надеюсь, что их всё же достаточно."
 
 # game/dialogs/script-poemresponses.rpy:234
 translate ru s_poem_val_486df69b:
 
     # s abhhdia "Short but meaningful... Doesn't that sound really romantic?"
-    s abhhdia ""
+    s abhhdia "Коротко, но со смыслом... Разве не романтично?"
 
 # game/dialogs/script-poemresponses.rpy:235
 translate ru s_poem_val_6a26f1f8:
 
     # s bbagmda "But, I still feel a bit guilty because I think it's not good enough..."
-    s bbagmda ""
+    s bbagmda "Всё же, я чувствую себя немного виноватой, потому что мне кажется, что этого мало..."
 
 # game/dialogs/script-poemresponses.rpy:236
 translate ru s_poem_val_b23758a6:
 
     # s gbfcmpa "Hopefully for my next one, my skills will have improved a bit."
-    s gbfcmpa ""
+    s gbfcmpa "Надеюсь к следующему разу я научусь писать получше."
 
