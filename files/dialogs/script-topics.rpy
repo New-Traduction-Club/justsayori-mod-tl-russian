@@ -4,31 +4,31 @@
 translate ru fae_room_switch_ed1dfb9d:
 
     # s "Sure!"
-    s ""
+    s "Конечно!"
 
 # game/dialogs/script-topics.rpy:63
 translate ru fae_room_switch_return_ed1dfb9d:
 
     # s "Sure!"
-    s ""
+    s "Конечно!"
 
 # game/dialogs/script-topics.rpy:97
 translate ru fae_gift_ed1dfb9d:
 
     # s "Sure!"
-    s ""
+    s "Конечно!"
 
 # game/dialogs/script-topics.rpy:124
 translate ru s_topics_depression_760f0237:
 
     # s bbhfaaa "Hey, now that I think about it, I probably made you worry, didn't I..."
-    s bbhfaaa ""
+    s bbhfaaa "Слушай, я тут всё думаю, наверное я заставила тебя поволноваться, не так ли...."
 
 # game/dialogs/script-topics.rpy:125
 translate ru s_topics_depression_bbacc90a:
 
     # s bbhfbaa "When I told you about the... you know..."
-    s bbhfbaa ""
+    s bbhfbaa "Когда рассказала тебе о... ну..."
 
 # game/dialogs/script-topics.rpy:126
 translate ru s_topics_depression_a3521d80:
