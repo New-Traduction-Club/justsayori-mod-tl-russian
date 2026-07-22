@@ -316,7 +316,7 @@ translate ru s_topics_depression_7d19e151:
 translate ru s_topics_depression_db199411:
 
     # s abegcqa "Thank you again for being here for me, [player]. From here on out, neither of us will have to face anything alone, okay?"
-    s abegcqa "Ещё раз спасибо тебе за то, что ты есть, [player]. Отныне ни тебе, ни мне не придётся страдать в одиночку, ага?"
+    s abegcqa "Ещё раз спасибо тебе за то, что ты есть, [player]. Отныне ни ты, ни я не будет страдать в одиночку, ага?"
 
 # game/dialogs/script-topics.rpy:198
 translate ru s_topics_childhood_ce3ee7a5:
