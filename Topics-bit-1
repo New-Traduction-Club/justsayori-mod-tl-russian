@@ -1,1 +1,991 @@
-Aaa
+
+
+# game/dialogs/script-topics.rpy:42
+translate ru fae_room_switch_ed1dfb9d:
+
+    # s "Sure!"
+    s "Конечно!"
+
+# game/dialogs/script-topics.rpy:63
+translate ru fae_room_switch_return_ed1dfb9d:
+
+    # s "Sure!"
+    s "Конечно!"
+
+# game/dialogs/script-topics.rpy:97
+translate ru fae_gift_ed1dfb9d:
+
+    # s "Sure!"
+    s "Конечно!"
+
+# game/dialogs/script-topics.rpy:124
+translate ru s_topics_depression_760f0237:
+
+    # s bbhfaaa "Hey, now that I think about it, I probably made you worry, didn't I..."
+    s bbhfaaa "Слушай, я тут всё думаю, наверное я заставила тебя поволноваться, не так ли...."
+
+# game/dialogs/script-topics.rpy:125
+translate ru s_topics_depression_bbacc90a:
+
+    # s bbhfbaa "When I told you about the... you know..."
+    s bbhfbaa "Когда рассказала тебе о... ну..."
+
+# game/dialogs/script-topics.rpy:126
+translate ru s_topics_depression_a3521d80:
+
+    # s "The 'rainclouds' I have in my head... {w=0.5}{nw}"
+    s "'Тучах' в моей голове... {w=0.5}{nw}"
+
+# game/dialogs/script-topics.rpy:127
+translate ru s_topics_depression_88106c5d:
+
+    # extend bbbbbaa "You remember what I meant by that, don't you? It's what I called my depression..."
+    extend bbbbbaa "Ты помнишь, что я имела ввиду, не правда ли? Так я называла свою депрессию..."
+
+# game/dialogs/script-topics.rpy:128
+translate ru s_topics_depression_f30088f4:
+
+    # s bbfdjaaj "It sounds so silly when I talk about it now, now that I don't really have a reason to hide it."
+    s bbfdjaaj "Теперь, когда мне больше не нужно её скрывать, всё это кажется мне глуповатым."
+
+# game/dialogs/script-topics.rpy:129
+translate ru s_topics_depression_6cf6687b:
+
+    # s bbhfaaaj "Anyways..."
+    s bbhfaaaj "В любом случае..."
+
+# game/dialogs/script-topics.rpy:130
+translate ru s_topics_depression_b29793e0:
+
+    # s abhaaca "I was like that for as long as I could remember, and I ended up getting really good at keeping the 'rainclouds' inside. At least in front of others."
+    s abhaaca "Депрессия была у меня так долго, как только я могу вспомнить, и я научилась мастерски держать мои 'тучи' внутри. По крайней мере перед другими людьми."
+
+# game/dialogs/script-topics.rpy:131
+translate ru s_topics_depression_ac4319a1:
+
+    # s nbhajca "I guess I shouldn't be proud of knowing how to hide what I'm feeling."
+    s nbhajca "Полагаю, здесь нечем гордиться."
+
+# game/dialogs/script-topics.rpy:132
+translate ru s_topics_depression_b9a56361:
+
+    # s bbaamoa "I used to think that if I let it show, I would just be a bother and ruin the fun."
+    s bbaamoa "Но тогда мне казалось, что если я поделюсь своими переживаниями с окружающими, то лишь наскучу им и перебью веселье."
+
+# game/dialogs/script-topics.rpy:133
+translate ru s_topics_depression_9cf99c32:
+
+    # s "I wouldn't be able to make my friends happy, which was all I really wanted."
+    s "Что у меня перестанет получаться делать друзей счастливее, а это было для меня очень важно."
+
+# game/dialogs/script-topics.rpy:134
+translate ru s_topics_depression_b58a52cd:
+
+    # s bahblaa "I now know that my happiness should come first. Too bad I had to learn it in the worst way possible."
+    s bahblaa "Теперь я понимаю, что моё собственное счастье должно стоять выше других. Жаль что я осознала это лишь пройдя через ад."
+
+# game/dialogs/script-topics.rpy:135
+translate ru s_topics_depression_659296e6:
+
+    # s bahbjoa "There were some times where I tried to find some relief though..."
+    s bahbjoa "Впрочем, временами я пыталась найти немного спокойствия..."
+
+# game/dialogs/script-topics.rpy:136
+translate ru s_topics_depression_a7537581:
+
+    # s "Like, I tried to be with MC as often as I could, because being with him eased my mind, and my head wouldn't get so cloudy with him around."
+    s "Например, я старалась проводить больше времени с МС, потому что рядом с ним я чувствовала себя легче, моя голова несколько очищалась."
+
+# game/dialogs/script-topics.rpy:137
+translate ru s_topics_depression_379e360a:
+
+    # s bahbmoa "Then he joined the club, and I felt something I never thought I would feel."
+    s bahbmoa "А потом он присоединился к клубу, и я ощутила то, о чём и подумать не могла."
+
+# game/dialogs/script-topics.rpy:138
+translate ru s_topics_depression_72c217f7:
+
+    # s "I feared that he would find out how I really felt. It could change everything, no matter how he... I mean, you responded."
+    s "Мне было страшно, что он догадается о моих чувствах. Всё могло бы перевернутьс с ног на голову, вне зависимости от его... или, скорее, твоего ответа."
+
+# game/dialogs/script-topics.rpy:139
+translate ru s_topics_depression_b344de4c:
+
+    # s "All I really wanted was for everyone to be friends... without worrying about me..."
+    s "Единственное, чего я всегда хотела - чтобы все дружили друг с другом... не заботясь о обо мне..."
+
+# game/dialogs/script-topics.rpy:140
+translate ru s_topics_depression_97df2c16:
+
+    # s bahbjba "My feelings and thoughts were as real as you until..."
+    s bahbjba "Мои мысли и чувства были не менее реальными, чем твои, до того момента, как..."
+
+# game/dialogs/script-topics.rpy:141
+translate ru s_topics_depression_1bbafe27:
+
+    # s bbhamcag "The moment Monika started to mess with my code. {nw}"
+    s bbhamcag "До того момента, как Моника начала ковыряться в коде. {nw}"
+
+# game/dialogs/script-topics.rpy:142
+translate ru s_topics_depression_eeb202e3:
+
+    # extend bbhabfag "At first, she just whispered things in my ear when no one was looking, but it just got worse."
+    extend bbhabfag "Поначалу она просто шептала мне всякое, пока никто не видел, но это были цветочки."
+
+# game/dialogs/script-topics.rpy:143
+translate ru s_topics_depression_766f4ad9:
+
+    # s cbfbjcag "She toyed with my thoughts, and stuffed my head with terrible things. {nw}"
+    s cbfbjcag "Она играла с моими мыслями, набивала мою голову отвратительным вещами. {nw}"
+
+# game/dialogs/script-topics.rpy:144
+translate ru s_topics_depression_1eb6d423:
+
+    # extend cbfbmfag "You could say it was like brainwashing."
+    extend cbfbmfag "Можно назвать это промывкой мозгов."
+
+# game/dialogs/script-topics.rpy:145
+translate ru s_topics_depression_bf273d7a:
+
+    # s "What seemed like little rainclouds before turned into a thunderstorm, drowning my head with things I can't even begin to describe."
+    s "Маленькие тучки превратилась в грозовое облако, заливая мой разум вещами, которые мне страшно описывать."
+
+# game/dialogs/script-topics.rpy:146
+translate ru s_topics_depression_52b97029:
+
+    # s "I couldn't help but think over and over that I was a nuisance to MC, and to everyone else in the club."
+    s "Я не могла разуверить себя в том, что являюсь обузой для МС и других."
+
+# game/dialogs/script-topics.rpy:147
+translate ru s_topics_depression_fb19ba86:
+
+    # s bahbfcag "I felt really, really helpless. So much that I felt that I couldn't even move myself to reach for help..."
+    s bahbfcag "Я ощущала себя ужасно, отвратительно беспомощной. Настолько, что не нашла в себе сил попросить помощи..."
+
+# game/dialogs/script-topics.rpy:148
+translate ru s_topics_depression_c90db3e1:
+
+    # s bahbfaag "Nothing I did could help me out of it as well, so I was just left to cry and whimper... all alone."
+    s bahbfaag "Самой мне тоже справиться не получилось, поэтому всё что мне оставалось - плакать и кричать... в одиночестве."
+
+# game/dialogs/script-topics.rpy:149
+translate ru s_topics_depression_101f87ea:
+
+    # s gahblfag "..."
+    s gahblfag "..."
+
+# game/dialogs/script-topics.rpy:151
+translate ru s_topics_depression_c5abd464:
+
+    # s gahblcah "I got tired...too tired."
+    s gahblcah "Тогда я устала... слишком устала."
+
+# game/dialogs/script-topics.rpy:152
+translate ru s_topics_depression_a3e713f6:
+
+    # s bahbbaae "So much that I still can't believe I still had the strength to go to... his house... Your house? Anyways..."
+    s bahbbaae "Настолько, что я до сих пор не понимаю, как нашла в себе силы дойти до... его дома... Или твоего дома? Ну ты понял..."
+
+# game/dialogs/script-topics.rpy:154
+translate ru s_topics_depression_18b1f3c8:
+
+    # s "You accepted my confession... "
+    s "Ты ответил мне взаимностью..."
+
+# game/dialogs/script-topics.rpy:155
+translate ru s_topics_depression_52abe3ac:
+
+    # s "And still, because of whatever Monika did, it just hurt me more and more. I couldn't help but think that your efforts were entirely out of pity!"
+    s "И всё равно, из-за того, что творила Моника, мне становилось хуже и хуже. Мне казалось, что твой ответ был результатом жалости ко мне!"
+
+# game/dialogs/script-topics.rpy:157
+translate ru s_topics_depression_cbc0424e:
+
+    # s bahbjaae "That rejection... It turned the voices into screams."
+    s bahbjaae "Твой отказ... Он превратил голоса в крики."
+
+# game/dialogs/script-topics.rpy:158
+translate ru s_topics_depression_c3c2cde4:
+
+    # s bahbjoae "I tried to tell myself that it was for the best, that everything would be the same again..."
+    s bahbjoae "Я пыталась убедить себя в том, что так будет лучше, что всё будет как раньше..."
+
+# game/dialogs/script-topics.rpy:159
+translate ru s_topics_depression_1de1d5da:
+
+    # s "I... Don't think I'll ever forget that pain."
+    s "Я... Не думаю, что когда-то забуду насколько мне было больно."
+
+# game/dialogs/script-topics.rpy:160
+translate ru s_topics_depression_aca6f784:
+
+    # s bbfcjfae "I'm sorry..."
+    s bbfcjfae "Прости..."
+
+# game/dialogs/script-topics.rpy:161
+translate ru s_topics_depression_9ede49ec:
+
+    # s bbfblfcg "Just a moment, [player]..."
+    s bbfblfcg "Секунду, [player]..."
+
+# game/dialogs/script-topics.rpy:162
+translate ru s_topics_depression_e1554201:
+
+    # s "..."
+    s "..."
+
+# game/dialogs/script-topics.rpy:164
+translate ru s_topics_depression_ac9894da:
+
+    # s "I fought with all my strength. I was sincere."
+    s "Я старалась как могла. Была искренней."
+
+# game/dialogs/script-topics.rpy:165
+translate ru s_topics_depression_b54ef3eb:
+
+    # s "And still I couldn't realize that my friends really did care about me. Even before Monika messed with my head."
+    s "И всё равно не смогла разглядеть, как сильно заботились обо мне друзья. Даже до того, как Моника влезла в мою голову."
+
+# game/dialogs/script-topics.rpy:166
+translate ru s_topics_depression_f7f1e473:
+
+    # s bbaajabg "So if you have a friend who is struggling with their mental health, please try to help them if you can!"
+    s bbaajabg "Так что, если у тебя есть друг, которому сейчас тяжело, пожалуйста, попытайся помояь ему, если можешь!"
+
+# game/dialogs/script-topics.rpy:167
+translate ru s_topics_depression_e999535c:
+
+    # s bbaamsb "Don't let them get to the point that I did, people sometimes reach that breaking point silently, just like I did..."
+    s bbaamsb "Не ему дойти до того, до чего дошла я, это происходит очень незаметно, как и в случае со мной..."
+
+# game/dialogs/script-topics.rpy:168
+translate ru s_topics_depression_eab608e6:
+
+    # s bbeejobg "And that goes for you, too. Don't hide your problems from the people who care about you. Don't be afraid to ask for help."
+    s bbeejobg "И о себе тоже не забывай. Не прячь свои переживания от тех, кто заботится о тебе. Не бойся просить помощи."
+
+# game/dialogs/script-topics.rpy:169
+translate ru s_topics_depression_335fdf0c:
+
+    # s bbaamfa "...you only have one life, you know."
+    s bbaamfa "...жизнь у тебя одна, в конце концов."
+
+# game/dialogs/script-topics.rpy:170
+translate ru s_topics_depression_2c2f2752:
+
+    # s bbgcjob "I'm lucky this is a virtual world. And even then, this mod you installed is the only reason I've had a second chance at life."
+    s bbgcjob "Мне повезло жить в виртуальной реальности. Хотя даже так, единственноая причина, по которой я снова жива - это твоё решение установить этот мод."
+
+# game/dialogs/script-topics.rpy:171
+translate ru s_topics_depression_82b484d6:
+
+    # s bbgcjob "But you, you live in the real world. You only get one chance."
+    s bbgcjob "Но ты, ты живёшь в настоящем мире. У тебя, скорее всего, лишь одна попытка."
+
+# game/dialogs/script-topics.rpy:172
+translate ru s_topics_depression_c8cc7fc6:
+
+    # s bbhfmoa "Please treat your life like the precious thing it is, it should be as precious to you as you are to me, {nw}"
+    s bbhfmoa "Заботься о своей жизни как о драгоценности, такой же, какой ты являешься для меня, {nw}"
+
+# game/dialogs/script-topics.rpy:173
+translate ru s_topics_depression_8f5df92b:
+
+    # extend bbhfjaa "okay?"
+    extend bbhfjaa "ладно?"
+
+# game/dialogs/script-topics.rpy:174
+translate ru s_topics_depression_a4501854:
+
+    # s bbhfloa "And by the way. Thank you, [player]. For bringing me here. And for keeping me company!"
+    s bbhfloa "И к слову. Спасибо, [player]. За то что привёл меня сюда. И за то что проводишь со мной время!"
+
+# game/dialogs/script-topics.rpy:175
+translate ru s_topics_depression_1c1b116d:
+
+    # s bbhfmobj "And... I'm sorry too. For all the trouble I caused..."
+    s bbhfmobj "И... Мне тоже жаль. Жаль, что я принесла столько проблем..."
+
+# game/dialogs/script-topics.rpy:176
+translate ru s_topics_depression_7d19e151:
+
+    # s bbbcaaa "But now I'm feeling much better, and I hope we can make up for all those bad memories by having a good time together."
+    s bbbcaaa "Но теперь мне намного лучше, и я надеюсь, что у нас получится вытеснить плохие воспоминания нашими разговорами."
+
+# game/dialogs/script-topics.rpy:177
+translate ru s_topics_depression_db199411:
+
+    # s abegcqa "Thank you again for being here for me, [player]. From here on out, neither of us will have to face anything alone, okay?"
+    s abegcqa "Ещё раз спасибо тебе за то, что ты есть, [player]. Отныне ни тебе, ни мне не придётся страдать в одиночку, ага?"
+
+# game/dialogs/script-topics.rpy:198
+translate ru s_topics_childhood_ce3ee7a5:
+
+    # s abhaaca "I wonder why I have almost no memory of my childhood."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:199
+translate ru s_topics_childhood_b189e838:
+
+    # s abhabfa "I guess that's just how it is for some people, but..."
+    s abhabfa ""
+
+# game/dialogs/script-topics.rpy:200
+translate ru s_topics_childhood_04d89f1f:
+
+    # s abbbica "In the game, my childhood was the only thing that tied me with the MC, since we grew up together."
+    s abbbica ""
+
+# game/dialogs/script-topics.rpy:201
+translate ru s_topics_childhood_eddcce0c:
+
+    # s "I was nostalgic about those times, the times when everything had been much easier for me..."
+    s ""
+
+# game/dialogs/script-topics.rpy:202
+translate ru s_topics_childhood_2be18da8:
+
+    # s abagmca "At least, I used to think so..."
+    s abagmca ""
+
+# game/dialogs/script-topics.rpy:203
+translate ru s_topics_childhood_3f46704c:
+
+    # s bbagjca "But now, I only have a few vague, foggy memories from back then."
+    s bbagjca ""
+
+# game/dialogs/script-topics.rpy:204
+translate ru s_topics_childhood_aa32c2b9:
+
+    # s abfcica "I don't even remember what happened to me even right before the plot started, at all..."
+    s abfcica ""
+
+# game/dialogs/script-topics.rpy:205
+translate ru s_topics_childhood_b39fde43:
+
+    # s bbagmba "Not to mention the rest of my childhood."
+    s bbagmba ""
+
+# game/dialogs/script-topics.rpy:206
+translate ru s_topics_childhood_bcb04f6f:
+
+    # s bbagmfa "It feels weird."
+    s bbagmfa ""
+
+# game/dialogs/script-topics.rpy:207
+translate ru s_topics_childhood_1faf3bcf:
+
+    # s abgcaaa "At least I still can hold onto some special ones. The times I fell down and he helped clean my scraped knee. That time I fell off a tree."
+    s abgcaaa ""
+
+# game/dialogs/script-topics.rpy:208
+translate ru s_topics_childhood_fee794a4:
+
+    # s ebaaaca "I wrote a few of those stories down in a notebook to never forget they existed. That doesn't mean I'll keep wishing for things to miraculously go back to normal."
+    s ebaaaca ""
+
+# game/dialogs/script-topics.rpy:209
+translate ru s_topics_childhood_705eb775:
+
+    # s ebgcaoa "There are many good things to look forward to in the future, so no reason to cling onto the past. But I'll never forget those good memories."
+    s ebgcaoa ""
+
+# game/dialogs/script-topics.rpy:210
+translate ru s_topics_childhood_9a78b694:
+
+    # s ebgccaa "They're a part of me after all."
+    s ebgccaa ""
+
+# game/dialogs/script-topics.rpy:230
+translate ru s_topics_guitar_284ff15f:
+
+    # s "I don't know if you noticed, but all the girls have their own instruments and musical influences in the game."
+    s ""
+
+# game/dialogs/script-topics.rpy:231
+translate ru s_topics_guitar_bc26c65c:
+
+    # s abgcaoa "Mine is the guitar."
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:232
+translate ru s_topics_guitar_371b2236:
+
+    # s "I think the guitar is supposed to show my character and club role better."
+    s ""
+
+# game/dialogs/script-topics.rpy:233
+translate ru s_topics_guitar_4c239af9:
+
+    # s abhaaca "The guitar is interesting because it doesn't limit musicians in how they express their emotions."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:234
+translate ru s_topics_guitar_b110b877:
+
+    # s abbbbaa "They can play cheerful, upbeat songs..."
+    s abbbbaa ""
+
+# game/dialogs/script-topics.rpy:235
+translate ru s_topics_guitar_3e222e86:
+
+    # s ebbbbca "Or mournful, melancholic melodies."
+    s ebbbbca ""
+
+# game/dialogs/script-topics.rpy:236
+translate ru s_topics_guitar_0196acc0:
+
+    # s abbcaoa "Try saying that three times fast!"
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:237
+translate ru s_topics_guitar_14c00918:
+
+    # s "Anyway, guitarists are also very important members in many music bands."
+    s ""
+
+# game/dialogs/script-topics.rpy:238
+translate ru s_topics_guitar_66beec54:
+
+    # s abbbaca "Just imagine a rock band without any guitar player."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:239
+translate ru s_topics_guitar_b14b7710:
+
+    # s abgcasa "It would be missing that soul that ties the entire song together."
+    s abgcasa ""
+
+# game/dialogs/script-topics.rpy:240
+translate ru s_topics_guitar_2aa8074f:
+
+    # s abhhboa "I've actually been considering learning how to play the guitar, since it represents me so well."
+    s abhhboa ""
+
+# game/dialogs/script-topics.rpy:241
+translate ru s_topics_guitar_bc26147a:
+
+    # s abgcaoa "So many of my favorite songs have amazing guitarists behind them..."
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:242
+translate ru s_topics_guitar_0e56f881:
+
+    # s bbagaaa "Maybe one day I can play for you and make you feel the same way~"
+    s bbagaaa ""
+
+# game/dialogs/script-topics.rpy:243
+translate ru s_topics_guitar_e969fa0b:
+
+    # s abgcaoa "It's like writing poetry, but through sound!"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:244
+translate ru s_topics_guitar_d453297d:
+
+    # s fbgcmea "I'm sure I can conjure up a guitar and find a tutorial somewhere on the internet."
+    s fbgcmea ""
+
+# game/dialogs/script-topics.rpy:245
+translate ru s_topics_guitar_080f38a4:
+
+    # s ebhhcqa "Make sure you get your tickets for my world tour in advance, [player]! Ehehehe~"
+    s ebhhcqa ""
+
+# game/dialogs/script-topics.rpy:264
+translate ru s_topics_flowers_9bbb6940:
+
+    # s abhfaoa "What do you think about flowers?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:265
+translate ru s_topics_flowers_ac00cb50:
+
+    # s abhfboa "It's one of many beautiful things nature can create."
+    s abhfboa ""
+
+# game/dialogs/script-topics.rpy:266
+translate ru s_topics_flowers_f60218dc:
+
+    # s abhfloa "They are so colourful, have wonderful shapes, some even smell sweet..."
+    s abhfloa ""
+
+# game/dialogs/script-topics.rpy:267
+translate ru s_topics_flowers_57f171ad:
+
+    # s abhfaoa "Do you have a favorite flower?{nw}"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:268
+translate ru s_topics_flowers_a3bb4576:
+
+    # extend abhhcoa " Mine are sunflowers!"
+    extend abhhcoa ""
+
+# game/dialogs/script-topics.rpy:269
+translate ru s_topics_flowers_1b83a973:
+
+    # s abhhbsa "I dunno, the way that they always grow facing the sun feels kind of poetic to me."
+    s abhhbsa ""
+
+# game/dialogs/script-topics.rpy:270
+translate ru s_topics_flowers_736224af:
+
+    # s abfcboa "It's like they can always see the good side of things, no matter how hard it may be!"
+    s abfcboa ""
+
+# game/dialogs/script-topics.rpy:271
+translate ru s_topics_flowers_1671823d:
+
+    # s abgccka "Besides, I really like how bright they are!"
+    s abgccka ""
+
+# game/dialogs/script-topics.rpy:272
+translate ru s_topics_flowers_2205e402:
+
+    # s abegcma "...their seeds are also very yummy."
+    s abegcma ""
+
+# game/dialogs/script-topics.rpy:273
+translate ru s_topics_flowers_5f065d95:
+
+    # s abagkna "Wish i had some to munch on right now..."
+    s abagkna ""
+
+# game/dialogs/script-topics.rpy:275
+translate ru s_topics_flowers_6d9cfd57:
+
+    # s fbagloaj "Ahem, anyways."
+    s fbagloaj ""
+
+# game/dialogs/script-topics.rpy:276
+translate ru s_topics_flowers_4a48647b:
+
+    # s abhfaoa "I remember when I used to walk in the flower meadows outside of the city."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:277
+translate ru s_topics_flowers_f5979996:
+
+    # s abhaaca "But... I think it's too selfish to pluck a flower... even if it's a gift."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:278
+translate ru s_topics_flowers_f7569001:
+
+    # s "Flowers are living beings too, and plucking them out of the ground does hurt them."
+    s ""
+
+# game/dialogs/script-topics.rpy:279
+translate ru s_topics_flowers_ad2177f6:
+
+    # s abaaaoa "So I prefer to just look at them, and then leave them be."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:281
+translate ru s_topics_flowers_e171c2b3:
+
+    # s abaabca "Although, I did do this in one of my poems..."
+    s abaabca ""
+
+# game/dialogs/script-topics.rpy:282
+translate ru s_topics_flowers_f325b959:
+
+    # s abaaaoa "But just for the analogy."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:283
+translate ru s_topics_flowers_081f77b1:
+
+    # s eahdaoa "But, gifting someone a small flower in a pot might make for a good gift!"
+    s eahdaoa ""
+
+# game/dialogs/script-topics.rpy:284
+translate ru s_topics_flowers_cf505c6a:
+
+    # s "And one that will last much, much longer, if cared for properly!"
+    s ""
+
+# game/dialogs/script-topics.rpy:285
+translate ru s_topics_flowers_93838975:
+
+    # s bbfcapa "Awww, now I wish I had a little flower friend to keep me company..."
+    s bbfcapa ""
+
+# game/dialogs/script-topics.rpy:286
+translate ru s_topics_flowers_d2e49147:
+
+    # s abfdcka "It'd be nice to have one, and I'd try my best to keep it growing happily!"
+    s abfdcka ""
+
+# game/dialogs/script-topics.rpy:287
+translate ru s_topics_flowers_235dbeb3:
+
+    # s bbhemeaj "Maybe it would make up for all the plants I've tried to keep before, which {i}mysteriously{/i} died..."
+    s bbhemeaj ""
+
+# game/dialogs/script-topics.rpy:288
+translate ru s_topics_flowers_d991ad62:
+
+    # s fbfbkdaj "{i}...unless they want vengeance?{/i}"
+    s fbfbkdaj ""
+
+# game/dialogs/script-topics.rpy:289
+translate ru s_topics_flowers_35c0f360:
+
+    # s bbheceaj "I hope they don't...ahahaha... hah..."
+    s bbheceaj ""
+
+# game/dialogs/script-topics.rpy:308
+translate ru s_topics_lucid_dream_58c0773f:
+
+    # s abhaaca "Hey, have you ever had a 'lucid dream'?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:309
+translate ru s_topics_lucid_dream_19660c78:
+
+    # s abbbaoa "It's when you find out that you're in a dream... {w=0.5}{nw}"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:310
+translate ru s_topics_lucid_dream_ff04d219:
+
+    # extend abbbaca "and as soon as you realize that, {w=0.5}{nw}"
+    extend abbbaca ""
+
+# game/dialogs/script-topics.rpy:311
+translate ru s_topics_lucid_dream_9970889e:
+
+    # extend abgchea "bam!"
+    extend abgchea ""
+
+# game/dialogs/script-topics.rpy:312
+translate ru s_topics_lucid_dream_e8c433ed:
+
+    # s abgcaoa "You can pretty much do anything you want!"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:313
+translate ru s_topics_lucid_dream_d5408479:
+
+    # s abhaaca "I get something kinda similar to that whenever you leave the game, [player]."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:314
+translate ru s_topics_lucid_dream_8e927d7d:
+
+    # s "I'm pretty sure I'm not... conscious? {w=0.5}{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:315
+translate ru s_topics_lucid_dream_078a662b:
+
+    # extend fbbbbca "But I can still think and move, and even mess with the code, and even surf the internet."
+    extend fbbbbca ""
+
+# game/dialogs/script-topics.rpy:316
+translate ru s_topics_lucid_dream_5692f809:
+
+    # s bbbbaca "But I'm absolutely out of my world. Even beyond the void."
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:318
+translate ru s_topics_lucid_dream_70037b90:
+
+    # s abbbaoa "And as long as your phone works, your best girl Sayori's ready to go!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:319
+translate ru s_topics_lucid_dream_a6325c43:
+
+    # s abhaaca "But when your phone is fully turned off, that's when I can't do anything..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:321
+translate ru s_topics_lucid_dream_0333bf57:
+
+    # s abbbaoa "And as long as your computer works, your best girl Sayori's ready to go!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:322
+translate ru s_topics_lucid_dream_29d44e5f:
+
+    # s abhaaca "But when your computer is fully turned off, that's when I can't do anything..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:323
+translate ru s_topics_lucid_dream_7130686d:
+
+    # s "It IS scary, but please don't worry about me if you need to do it."
+    s ""
+
+# game/dialogs/script-topics.rpy:325
+translate ru s_topics_lucid_dream_bf9b0096:
+
+    # s "I know you'll always come back, {w=0.5}{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:326
+translate ru s_topics_lucid_dream_ea7d667f:
+
+    # extend abgcaoa "turn the phone back on and open the game to greet me!"
+    extend abgcaoa ""
+
+# game/dialogs/script-topics.rpy:328
+translate ru s_topics_lucid_dream_bf9b0096_1:
+
+    # s "I know you'll always come back, {w=0.5}{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:329
+translate ru s_topics_lucid_dream_ad406ea3:
+
+    # extend abgcaoa "turn the computer back on and open the game to greet me!"
+    extend abgcaoa ""
+
+# game/dialogs/script-topics.rpy:330
+translate ru s_topics_lucid_dream_3c06919c:
+
+    # s "I'll be fine, resting and waiting for your return or making more things to spice up this room!"
+    s ""
+
+# game/dialogs/script-topics.rpy:331
+translate ru s_topics_lucid_dream_6b1837d5:
+
+    # s abaaaoa "But you should know that I'll always be happiest when you're right with me~"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:350
+translate ru s_topics_intelligence_3b5714fc:
+
+    # s abhaaca "I often hear people calling me an 'airhead'..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:351
+translate ru s_topics_intelligence_ee76d4c9:
+
+    # s bbhaaba "They often make jokes about it and reduce me to being just that..."
+    s bbhaaba ""
+
+# game/dialogs/script-topics.rpy:352
+translate ru s_topics_intelligence_9dfbf938:
+
+    # s abhaaca "But I can't understand why they think so."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:353
+translate ru s_topics_intelligence_0c2e4e45:
+
+    # s "Maybe because I was always daydreaming... {w=0.5}{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:354
+translate ru s_topics_intelligence_c60c9a75:
+
+    # extend abbbaca "and wasn't as broad-minded as Monika and Yuri."
+    extend abbbaca ""
+
+# game/dialogs/script-topics.rpy:355
+translate ru s_topics_intelligence_eafec3f2:
+
+    # s abbcaoa "But I've always been pretty clever and good at strategies!"
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:356
+translate ru s_topics_intelligence_002c8479:
+
+    # s abhaaca "I think people just have different standards when considering how intelligent somebody is."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:357
+translate ru s_topics_intelligence_4079ed46:
+
+    # s ebbbaca "And if someone can't tell that, they're the {i}actual{/i} stupid one."
+    s ebbbaca ""
+
+# game/dialogs/script-topics.rpy:358
+translate ru s_topics_intelligence_34f391e2:
+
+    # s abhaaca "I mean, people's thoughts about you are obviously very subjective and depend on the situation you or they are in."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:359
+translate ru s_topics_intelligence_6583b7c9:
+
+    # s abaaaoa "So don't take comments like those too seriously."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:360
+translate ru s_topics_intelligence_ec9c9ee5:
+
+    # s abhfcaa "People aren't perfect, and that's okay!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:361
+translate ru s_topics_intelligence_2ade0f68:
+
+    # s abhfaoa "So don't worry if someone judges you for a silly thing you did or a mistake. Just try to get better for yourself, and at your own pace!!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:380
+translate ru s_topics_videogames_a8411fe2:
+
+    # s abhfaoa "Do you like video games?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:381
+translate ru s_topics_videogames_7f1d5ff3:
+
+    # s "I think they're really impressive."
+    s ""
+
+# game/dialogs/script-topics.rpy:382
+translate ru s_topics_videogames_4d0b60ac:
+
+    # s abbbaoa "And not just because I'm in one of them!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:383
+translate ru s_topics_videogames_e9040ec5:
+
+    # s abhfaoa "They can reach and connect with people in a whole new way."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:384
+translate ru s_topics_videogames_416ba1b9:
+
+    # s abaaaoa "Especially after some smart cookie created multiplayer games!"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:385
+translate ru s_topics_videogames_de74140b:
+
+    # s "You can play with your friends, cooperating and sharing the experience together."
+    s ""
+
+# game/dialogs/script-topics.rpy:386
+translate ru s_topics_videogames_e71da2e8:
+
+    # s "I think it's just a really wholesome way to enjoy yourself and connect with others!"
+    s ""
+
+# game/dialogs/script-topics.rpy:387
+translate ru s_topics_videogames_35eec6a2:
+
+    # s abhaaca "Besides, online games allow us to make friends and connect with people far away!"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:388
+translate ru s_topics_videogames_ccae8c17:
+
+    # s "I'm sure you've probably played some kind of co-op game before, right, [player]?"
+    s ""
+
+# game/dialogs/script-topics.rpy:389
+translate ru s_topics_videogames_109b9e97:
+
+    # s "I'd love to play with you sometime!"
+    s ""
+
+# game/dialogs/script-topics.rpy:390
+translate ru s_topics_videogames_c5c38622:
+
+    # s abhfcaa "Really makes me wish I was able to run more complex games in here..."
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:391
+translate ru s_topics_videogames_53980daa:
+
+    # s "But the games we already have here will have to be enough for now!"
+    s ""
+
+# game/dialogs/script-topics.rpy:392
+translate ru s_topics_videogames_509a40a3:
+
+    # s cbgcaqa "Don't expect me to let you beat me, though!"
+    s cbgcaqa ""
+
+# game/dialogs/script-topics.rpy:393
+translate ru s_topics_videogames_57ec656e:
+
+    # s ebfdmca "Now that I think about it, you would just be playing against a computer anyway. I'm just a bunch of code..."
+    s ebfdmca ""
+
+# game/dialogs/script-topics.rpy:394
+translate ru s_topics_videogames_777eddf9:
+
+    # s abhfcaa "But I'm one of the cutest piles of code around!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:395
+translate ru s_topics_videogames_07fad40c:
+
+    # s abhfaoa "If you ever want to play something with me..."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:396
+translate ru s_topics_videogames_9339f86f:
+
+    # s "Just press the '{i}Play{/i}' button and select a game!"
+    s ""
+
+# game/dialogs/script-topics.rpy:415
+translate ru s_topics_languages_7c88d7ae:
+
+    # s abhhbsa "Hey, [player]?"
+    s abhhbsa ""
+
+# game/dialogs/script-topics.rpy:416
+translate ru s_topics_languages_385cf0ee:
+
+    # s "You know how I greet you in other languages sometimes?"
+    s ""
+
+# game/dialogs/script-topics.rpy:417
+translate ru s_topics_languages_3ab85839:
+
+    # s dbhhkca "Well I was thinking about where I learned to speak them..."
+    s dbhhkca ""
+
+# game/dialogs/script-topics.rpy:418
+translate ru s_topics_languages_7bba31c0:
+
+    # s "Honestly speaking, I don't understand how I know any of these languages."
+    s ""
+
+# game/dialogs/script-topics.rpy:419
+translate ru s_topics_languages_d3ff76b2:
+
+    # s ebbbasa "I think language works a bit differently here than it does for you."
+    s ebbbasa ""
+
+# game/dialogs/script-topics.rpy:420
+translate ru s_topics_languages_4b8a167a:
+
+    # s fbhalhaj "It's- Hmmm..."
+    s fbhalhaj ""
+
+# game/dialogs/script-topics.rpy:421
+translate ru s_topics_languages_e0bdd3ef:
+
+    # s dbhabcaj "It's similar to dreaming, I guess? {w=0.5}{nw}"
+    s dbhabcaj ""
+
+# game/dialogs/script-topics.rpy:422
+translate ru s_topics_languages_11a42c5d:
+
+    # extend dbhabda "It's not like I'm speaking in any language in particular, the code just seems to write itself for me when I talk."
+    extend dbhabda ""
+
+# game/dialogs/script-topics.rpy:423
+translate ru s_topics_languages_87cc1436:
+
+    # s bbheciaj "But, let's get into that another time. It's kinda complicated to talk about, you know?"
+    s bbheciaj ""
+
+# game/dialogs/script-topics.rpy:424
+translate ru s_topics_languages_cbcaff81:
+
+    # s abagdea "Anyway, The more languages you can speak, the more friends you can make, right?"
+    s abagdea ""
