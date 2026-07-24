@@ -16,7 +16,7 @@ translate ru regret_cheat_game_0ac1d904:
 translate ru regret_cheat_game_5f4c2879:
 
     # s "You don't want Nathan to hunt you down."
-    s "Тебе не хотелось бы, чтобы за тобой охотился Натан."
+    s "Ты не хочешь, чтобы за тобой охотилась Натан."
 
 # game/dialogs/script-regrets.rpy:74
 translate ru regret_cheat_game_7b8e7a09:
