@@ -111,24 +111,24 @@ Inside my head."""
 
     ru_poem_fruits = Poem(
         author_s,
-        title = _("Fruits of life"),
+        title = _("Фрукты жизни"),
         text = _("""\
-The universe gives fruits of life to all of us.
-They all have diverse sizes and shapes.
-But no-one knows their real taste,
-Because each person tastes them in their own way.
-Some people can only feel a bitter taste,
-even if their fruit is one of the best ones.
-Others feel they are sweet and very tasty,
-Whatever fruit it may be that they have got in their hands.
-For me, they taste like liquorice sweets.
-I needed time to understand how sweet they really are,
-To get rid of those unpleasant feelings,
-Which I got after my first bites.
-Now, all I want is to eat my own fruit
-With the person who helped me find their real taste.
-But I shouldn’t forget to do my real job here:
-Finding a way to make others taste their fruits the same."""
+Всем нам вселенная даёт жизни фрукты.
+Разных цветов и форм.
+Их вкус настоящий мы не узнаем,
+Ведь каждый их чувствует на настрое своём.
+Для кого-то горьки они,
+Даже самые спелые.
+Другим - что ни фрукт, так услада,
+Неважно насколько тверда и мала.
+Для меня например - как конфеты лакричные.
+Чтоб почувствовать сладость, рассосать их должна.
+Чтоб прогнать ту невкусицу,
+От двух-трёх первых кусков.
+Я хотела бы фрукт разделить свой,
+С человеком, кто вкус мне помог разобрать.
+Но не следует забывать:
+И мне о других позаботиться стоит."""
         )
     )
 
