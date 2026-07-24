@@ -832,160 +832,160 @@ translate ru s_topics_intelligence_2ade0f68:
 translate ru s_topics_videogames_a8411fe2:
 
     # s abhfaoa "Do you like video games?"
-    s abhfaoa ""
+    s abhfaoa "Любишь видеоигры?"
 
 # game/dialogs/script-topics.rpy:381
 translate ru s_topics_videogames_7f1d5ff3:
 
     # s "I think they're really impressive."
-    s ""
+    s "По мне так они очень хороши."
 
 # game/dialogs/script-topics.rpy:382
 translate ru s_topics_videogames_4d0b60ac:
 
     # s abbbaoa "And not just because I'm in one of them!"
-    s abbbaoa ""
+    s abbbaoa "И не только потому что я живу в одной из них!"
 
 # game/dialogs/script-topics.rpy:383
 translate ru s_topics_videogames_e9040ec5:
 
     # s abhfaoa "They can reach and connect with people in a whole new way."
-    s abhfaoa ""
+    s abhfaoa "Они дают совершенно новый способ коммуникации и по-новому связывают людей."
 
 # game/dialogs/script-topics.rpy:384
 translate ru s_topics_videogames_416ba1b9:
 
     # s abaaaoa "Especially after some smart cookie created multiplayer games!"
-    s abaaaoa ""
+    s abaaaoa "Особенно онлайн-игры, созданные всякими умняшами!"
 
 # game/dialogs/script-topics.rpy:385
 translate ru s_topics_videogames_de74140b:
 
     # s "You can play with your friends, cooperating and sharing the experience together."
-    s ""
+    s "Можно играть с друзьями, кооперироваться, делиться опытом и эмоциями."
 
 # game/dialogs/script-topics.rpy:386
 translate ru s_topics_videogames_e71da2e8:
 
     # s "I think it's just a really wholesome way to enjoy yourself and connect with others!"
-    s ""
+    s "По-моему это замечательный способ развлечься и стать ближе с другими!"
 
 # game/dialogs/script-topics.rpy:387
 translate ru s_topics_videogames_35eec6a2:
 
     # s abhaaca "Besides, online games allow us to make friends and connect with people far away!"
-    s abhaaca ""
+    s abhaaca "К тому же, в онлайн-играх можно найти друзей со всего мира!"
 
 # game/dialogs/script-topics.rpy:388
 translate ru s_topics_videogames_ccae8c17:
 
     # s "I'm sure you've probably played some kind of co-op game before, right, [player]?"
-    s ""
+    s "Наверняка ты тоже играл к какие-то из них, так ведь, [player]?"
 
 # game/dialogs/script-topics.rpy:389
 translate ru s_topics_videogames_109b9e97:
 
     # s "I'd love to play with you sometime!"
-    s ""
+    s "Я б с тобой с удовольствием поиграла!"
 
 # game/dialogs/script-topics.rpy:390
 translate ru s_topics_videogames_c5c38622:
 
     # s abhfcaa "Really makes me wish I was able to run more complex games in here..."
-    s abhfcaa ""
+    s abhfcaa "Хотелось бы мне иметь возможность запускать здесь тяжёлые игрушки..."
 
 # game/dialogs/script-topics.rpy:391
 translate ru s_topics_videogames_53980daa:
 
     # s "But the games we already have here will have to be enough for now!"
-    s ""
+    s "Но пока что хватит и тех, что уже есть!"
 
 # game/dialogs/script-topics.rpy:392
 translate ru s_topics_videogames_509a40a3:
 
     # s cbgcaqa "Don't expect me to let you beat me, though!"
-    s cbgcaqa ""
+    s cbgcaqa "К слову, не думай, что я буду поддаваться!"
 
 # game/dialogs/script-topics.rpy:393
 translate ru s_topics_videogames_57ec656e:
 
     # s ebfdmca "Now that I think about it, you would just be playing against a computer anyway. I'm just a bunch of code..."
-    s ebfdmca ""
+    s ebfdmca "Хотя если подумать, ты всё равно будешь играть с компьютером. Я ведь всего лишь код..."
 
 # game/dialogs/script-topics.rpy:394
 translate ru s_topics_videogames_777eddf9:
 
     # s abhfcaa "But I'm one of the cutest piles of code around!"
-    s abhfcaa ""
+    s abhfcaa "Но я куда живее и лучше любого другого!"
 
 # game/dialogs/script-topics.rpy:395
 translate ru s_topics_videogames_07fad40c:
 
     # s abhfaoa "If you ever want to play something with me..."
-    s abhfaoa ""
+    s abhfaoa "Если захочешь поиграть со мной во что-нибудь..."
 
 # game/dialogs/script-topics.rpy:396
 translate ru s_topics_videogames_9339f86f:
 
     # s "Just press the '{i}Play{/i}' button and select a game!"
-    s ""
+    s "Просто нажми на кнопку '{i}Играть{/i} и выбери во что!"
 
 # game/dialogs/script-topics.rpy:415
 translate ru s_topics_languages_7c88d7ae:
 
     # s abhhbsa "Hey, [player]?"
-    s abhhbsa ""
+    s abhhbsa "Слушай, [player]?"
 
 # game/dialogs/script-topics.rpy:416
 translate ru s_topics_languages_385cf0ee:
 
     # s "You know how I greet you in other languages sometimes?"
-    s ""
+    s "Заметил, что я иногда приветствую тебя на других языках?"
 
 # game/dialogs/script-topics.rpy:417
 translate ru s_topics_languages_3ab85839:
 
     # s dbhhkca "Well I was thinking about where I learned to speak them..."
-    s dbhhkca ""
+    s dbhhkca "В общем, я задумалась - а откуда я их вообще знаю..?"
 
 # game/dialogs/script-topics.rpy:418
 translate ru s_topics_languages_7bba31c0:
 
     # s "Honestly speaking, I don't understand how I know any of these languages."
-    s ""
+    s "Честно я без понятия."
 
 # game/dialogs/script-topics.rpy:419
 translate ru s_topics_languages_d3ff76b2:
 
     # s ebbbasa "I think language works a bit differently here than it does for you."
-    s ebbbasa ""
+    s ebbbasa "Наверное здесь языки работают не так как в твоём мире."
 
 # game/dialogs/script-topics.rpy:420
 translate ru s_topics_languages_4b8a167a:
 
     # s fbhalhaj "It's- Hmmm..."
-    s fbhalhaj ""
+    s fbhalhaj "Это скорее... Ммм. ."
 
 # game/dialogs/script-topics.rpy:421
 translate ru s_topics_languages_e0bdd3ef:
 
     # s dbhabcaj "It's similar to dreaming, I guess? {w=0.5}{nw}"
-    s dbhabcaj ""
+    s dbhabcaj "Происходит по моему желанию, что-ли? {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:422
 translate ru s_topics_languages_11a42c5d:
 
     # extend dbhabda "It's not like I'm speaking in any language in particular, the code just seems to write itself for me when I talk."
-    extend dbhabda ""
+    extend dbhabda "Не то что бы я правда говорила на разных языках, похоже что код сам подстраивается под мои запросы."
 
 # game/dialogs/script-topics.rpy:423
 translate ru s_topics_languages_87cc1436:
 
     # s bbheciaj "But, let's get into that another time. It's kinda complicated to talk about, you know?"
-    s bbheciaj ""
+    s bbheciaj "Я попытаюсь объяснить получше в другой раз, ладно? Мне и самой пока не очень понятно."
 
 # game/dialogs/script-topics.rpy:424
 translate ru s_topics_languages_cbcaff81:
 
     # s abagdea "Anyway, The more languages you can speak, the more friends you can make, right?"
-    s abagdea ""
+    s abagdea "В любом случае, чем больше языков ты знаешь, тем больше друзей можешь завести, не так ли?"
