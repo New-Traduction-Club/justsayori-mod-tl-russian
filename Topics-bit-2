@@ -2,109 +2,109 @@
 translate ru s_player_colours_54c3c772:
 
     # s abgcbda "That's a hard one.{nw}"
-    s abgcbda ""
+    s abgcbda "Даже не знаю.{nw}"
 
 # game/dialogs/script-topics.rpy:444
 translate ru s_player_colours_c7dcb01c:
 
     # extend abbcaoa " There are so many pretty colours out there!"
-    extend abbcaoa ""
+    extend abbcaoa " Есть много красивых цветов!"
 
 # game/dialogs/script-topics.rpy:445
 translate ru s_player_colours_c42ac04d:
 
     # s abhaloa "The warm yellow of the sun that greeted me every morning."
-    s abhaloa ""
+    s abhaloa "Жёлтый, которым солнце тепло приветствовует меня по утрам."
 
 # game/dialogs/script-topics.rpy:446
 translate ru s_player_colours_9f9ab90f:
 
     # s abhacoa "Or a nice bright red, like the colour of my favorite bow!"
-    s abhacoa ""
+    s abhacoa "Или яркий красный, прямо как мой любимый бант!"
 
 # game/dialogs/script-topics.rpy:447
 translate ru s_player_colours_df98b171:
 
     # s abhhbsa "But pinks are also very pretty!"
-    s abhhbsa ""
+    s abhhbsa "Но розовый тоже довольно красивый!"
 
 # game/dialogs/script-topics.rpy:448
 translate ru s_player_colours_bd249c1d:
 
     # s abhhkca "Green as well... it reminds me of Monika..."
-    s abhhkca ""
+    s abhhkca "Как и зелёный... он напоминает мне о Монике..."
 
 # game/dialogs/script-topics.rpy:449
 translate ru s_player_colours_8e514670:
 
     # s aahdiba "I really love oranges, but I'm not sure I can pick only one as a favorite."
-    s aahdiba ""
+    s aahdiba "Ещё я люблю оранжевый... В общем, не уверена, что смогу назвать какой-то конкретный цвет."
 
 # game/dialogs/script-topics.rpy:450
 translate ru s_player_colours_729997f5:
 
     # s "Individual colours are really hard to pick, I like it when a bunch of colours are mixed together, {w=1.0}{nw}"
-    s ""
+    s "Непросто выбирать их по-отдельности, мне больше нравится когда несколько цветов дополняют друг друга, {w=1.0}{nw}"
 
 # game/dialogs/script-topics.rpy:451
 translate ru s_player_colours_ee48004d:
 
     # extend abhfaoa "like the sky at different times of day, for example!"
-    extend abhfaoa ""
+    extend abhfaoa "как например небо в разное время суток!"
 
 # game/dialogs/script-topics.rpy:452
 translate ru s_player_colours_37500abe:
 
     # s abhecqa "I would pick rainbow, but that's probably cheating, ehehe~"
-    s abhecqa ""
+    s abhecqa "Я бы выбрала радугу, но наверное это нечестно, эхехе~"
 
 # game/dialogs/script-topics.rpy:453
 translate ru s_player_colours_0c1bb900:
 
     # s abhfaja "Am I allowed to pick a range of colours instead of just one?"
-    s abhfaja ""
+    s abhfaja "Можно я выберу градиент вместо конкретного цвета?"
 
 # game/dialogs/script-topics.rpy:454
 translate ru s_player_colours_206b9c52:
 
     # s abhfcoa "Cause if I am, maybe I'd pick blue. I like pretty much all shades of blue!"
-    s abhfcoa ""
+    s abhfcoa "Если да, то наверное я остановлюсь на синем. Все его оттенки довольно красивы!"
 
 # game/dialogs/script-topics.rpy:455
 translate ru s_player_colours_3d38baf0:
 
     # s ebhfloa "The nice gentle sky blue... or the really dark purply blue from when it starts to turn dark...{nw}"
-    s ebhfloa ""
+    s ebhfloa "Нежный небесный голубой... или тёмно-тёмно синий с фиолетовым отливом, который видно по вечерам...{nw}"
 
 # game/dialogs/script-topics.rpy:456
 translate ru s_player_colours_a54b3b44:
 
     # extend abgcnoa " and that pretty greenish blue from tropical beaches, too! They're all soooo pretty!"
-    extend abgcnoa ""
+    extend abgcnoa " и ещё расслабляюший лазурный, прямо с тропических берегов. Все они ооооочень красивы!"
 
 # game/dialogs/script-topics.rpy:457
 translate ru s_player_colours_cba60818:
 
     # s abgcmeaj "It may not be a proper one colour answer, but hey, {nw}"
-    s abgcmeaj ""
+    s abgcmeaj "Может я не слишком понятно ответила на твой вопрос, но эй, {nw}"
 
 # game/dialogs/script-topics.rpy:458
 translate ru s_player_colours_e09a4496:
 
     # extend abbbdia "maybe we should start advocating for colour equality!"
-    extend abbbdia ""
+    extend abbbdia "может нам стоиь начать добиваться равенства для цветов!"
 
 # game/dialogs/script-topics.rpy:460
 translate ru s_player_colours_6ffcbf99:
 
     # s gbbbbca "...except for that weird greenish gray mixture. {w=1.0}{nw}"
-    s gbbbbca ""
+    s gbbbbca "...ну кроме того стрёмного серо-зелёнлго месива. {w=1.0}{nw}"
 
 # game/dialogs/script-topics.rpy:461
 translate ru s_player_colours_3a6d27a4:
 
     # extend ebhaodaj "That colour sucks."
-    extend ebhaodaj ""
+    extend ebhaodaj "Этот цвет - та ещё хрень."
 
 # game/dialogs/script-topics.rpy:482
 translate ru s_topic_pronouns_3a217447:
