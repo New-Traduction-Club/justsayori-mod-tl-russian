@@ -10,13 +10,13 @@ translate ru regret_cheat_game_34a7ffcd:
 translate ru regret_cheat_game_0ac1d904:
 
     # s "Cheating is bad, you know!"
-    s ""
+    s "Читерить нехорошо, знаешь ли!"
 
 # game/dialogs/script-regrets.rpy:73
 translate ru regret_cheat_game_5f4c2879:
 
     # s "You don't want Nathan to hunt you down."
-    s ""
+    s "Тебе не хотелось бы, чтобы за тобой охотился Натан."
 
 # game/dialogs/script-regrets.rpy:74
 translate ru regret_cheat_game_7b8e7a09:
