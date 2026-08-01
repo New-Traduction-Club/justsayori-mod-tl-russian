@@ -110,349 +110,349 @@ translate ru s_player_colours_3a6d27a4:
 translate ru s_topic_pronouns_3a217447:
 
     # s abhfaoa "Say [player], since I’m talking to the real {i}you{/i} now, I was wondering."
-    s abhfaoa ""
+    s abhfaoa "Слушай, [player], так как теперь я говорю с настоящим {i}{color=#ff0000}тобой{/i}{/color}, мне стоит спросить."
 
 # game/dialogs/script-topics.rpy:483
 translate ru s_topic_pronouns_4fd63eae:
 
     # s abgbaaa "Which pronouns would you like me to refer to you by?{nw}"
-    s abgbaaa ""
+    s abgbaaa "Какие местоимения я должна использовать, обращаясь к тебе?{nw}"
 
 # game/dialogs/script-topics.rpy:487
 translate ru s_topic_pronouns_a30a3f2f:
 
     # s "Which pronouns would you like me to refer to you by?{fast}" nointeract
-    s "" nointeract
+    s "Какие местоимения я должна использовать, обращаясь к тебе?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:489
 translate ru s_topic_pronouns_d19dd27c:
 
     # s abgbcoa "Alright! From now on I’ll use {i}He/Him{/i}."
-    s abgbcoa ""
+    s abgbcoa "Поняла! Буду говорить {i}Он/Его{/i}."
 
 # game/dialogs/script-topics.rpy:492
 translate ru s_topic_pronouns_49af7dcc:
 
     # s abgbcoa "Alright! From now on I’ll use {i}She/Her{/i}."
-    s abgbcoa ""
+    s abgbcoa "Поняла! Буду говорить {i}Она/Её{/i}."
 
 # game/dialogs/script-topics.rpy:495
 translate ru s_topic_pronouns_b618c53f:
 
     # s abgbcoa "Alright! From now on I’ll use {i}They/Them{/i}."
-    s abgbcoa ""
+    s abgbcoa "Поняла! Буду говорить {i}Они/Их{/i}."
 
 # game/dialogs/script-topics.rpy:497
 translate ru s_topic_pronouns_74f775bb:
 
     # s abhfaoa "And of course if you’d ever like me to use different ones, just ask!"
-    s abhfaoa ""
+    s abhfaoa "И конечно, если они изменятся, говори!"
 
 # game/dialogs/script-topics.rpy:498
 translate ru s_topic_pronouns_0a3324fa:
 
     # s abgbaaa "The most important thing for me is that you’re comfortable expressing yourself."
-    s abgbaaa ""
+    s abgbaaa "Для меня важно, чтобы ты мог выражать себя, не испытывая дискомфорта."
 
 # game/dialogs/script-topics.rpy:518
 translate ru s_topic_pronouns_redux_4fd63eae:
 
     # s abgbaaa "Which pronouns would you like me to refer to you by?{nw}"
-    s abgbaaa ""
+    s abgbaaa "Какие местоимения я должна использовать, обращаясь к тебе?{nw}"
 
 # game/dialogs/script-topics.rpy:522
 translate ru s_topic_pronouns_redux_a30a3f2f:
 
     # s "Which pronouns would you like me to refer to you by?{fast}" nointeract
-    s "" nointeract
+    s "Какие местоимения я должна использовать, обращаясь к тебе?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:524
 translate ru s_topic_pronouns_redux_d19dd27c:
 
     # s abgbcoa "Alright! From now on I’ll use {i}He/Him{/i}."
-    s abgbcoa ""
+    s abgbcoa "Поняла! Буду говорить {i}Он/Его{/i}."
 
 # game/dialogs/script-topics.rpy:527
 translate ru s_topic_pronouns_redux_49af7dcc:
 
     # s abgbcoa "Alright! From now on I’ll use {i}She/Her{/i}."
-    s abgbcoa ""
+    s abgbcoa "Поняла! Буду говорить {i}Она/Её{/i}."
 
 # game/dialogs/script-topics.rpy:530
 translate ru s_topic_pronouns_redux_b618c53f:
 
     # s abgbcoa "Alright! From now on I’ll use {i}They/Them{/i}."
-    s abgbcoa ""
+    s abgbcoa "Поняла! Буду говорить {i}Они/Их{/i}."
 
 # game/dialogs/script-topics.rpy:532
 translate ru s_topic_pronouns_redux_74f775bb:
 
     # s abhfaoa "And of course if you’d ever like me to use different ones, just ask!"
-    s abhfaoa ""
+    s abhfaoa "И конечно, если они изменятся, говори!"
 
 # game/dialogs/script-topics.rpy:533
 translate ru s_topic_pronouns_redux_0a3324fa:
 
     # s abgbaaa "The most important thing for me is that you’re comfortable expressing yourself."
-    s abgbaaa ""
+    s abgbaaa "Для меня важно, чтобы ты мог выражать себя, не испытывая дискомфорта."
 
 # game/dialogs/script-topics.rpy:552
 translate ru s_topics_dating_5aaed24a:
 
     # s abhfaoa "What would our first date be like?"
-    s abhfaoa ""
+    s abhfaoa "Каким могло быть наше первое свидание?"
 
 # game/dialogs/script-topics.rpy:553
 translate ru s_topics_dating_9c58fced:
 
     # s abhfcaa "What's with the look? Ehehehe~"
-    s abhfcaa ""
+    s abhfcaa "Что с лицом? Эхехехе~"
 
 # game/dialogs/script-topics.rpy:554
 translate ru s_topics_dating_06ed3d0e:
 
     # s abgcnoa "Maybe we could go to a good café, and eat together!"
-    s abgcnoa ""
+    s abgcnoa "Может мы бы пошли в кафе, поели бы вместе!"
 
 # game/dialogs/script-topics.rpy:555
 translate ru s_topics_dating_f71f7537:
 
     # s abgckma "Like cakes, or cinnamon buns~"
-    s abgckma ""
+    s abgckma "Всякие тортики или коричные булочки~"
 
 # game/dialogs/script-topics.rpy:556
 translate ru s_topics_dating_de616124:
 
     # s abfdkoa "Then we could go somewhere interesting!"
-    s abfdkoa ""
+    s abfdkoa "А потом отправились бы куда-то ещё!"
 
 # game/dialogs/script-topics.rpy:557
 translate ru s_topics_dating_1dc0d3ed:
 
     # s abhaaca "Maybe to the movies? What do you think?"
-    s abhaaca ""
+    s abhaaca "Возможно в кино? Что думаешь?"
 
 # game/dialogs/script-topics.rpy:558
 translate ru s_topics_dating_f35ace49:
 
     # s "Though I don't really want to go see a romance movie every time we go..."
-    s ""
+    s "К слову, не особо люблю романтические фильмы..."
 
 # game/dialogs/script-topics.rpy:559
 translate ru s_topics_dating_86ca4d1b:
 
     # s abegaaa "...okay, maybe once or twice? Ehehehe~"
-    s abegaaa ""
+    s abegaaa "...но пару раз можно и на них сходить! Эхехехе~"
 
 # game/dialogs/script-topics.rpy:560
 translate ru s_topics_dating_da91d73f:
 
     # s abbdaoa "Maybe a comedy?"
-    s abbdaoa ""
+    s abbdaoa "Может на комедию?"
 
 # game/dialogs/script-topics.rpy:561
 translate ru s_topics_dating_772f1ad0:
 
     # s abgcaea "Or what about animated movies, like the ones {i}Disney{/i} and {i}Pixar{/i} make?"
-    s abgcaea ""
+    s abgcaea "Или на мультик, типа тех, которые созданы {i}Дисней{/i} или {i}Пиксар{/i}?"
 
 # game/dialogs/script-topics.rpy:562
 translate ru s_topics_dating_69c092ee:
 
     # s abfcaaa "I know they're meant for kids, but hey, they can be fun for anyone!"
-    s abfcaaa ""
+    s abfcaaa "Знаю, что они для детей, но как по мне они всем понравятся!"
 
 # game/dialogs/script-topics.rpy:563
 translate ru s_topics_dating_d55b82d4:
 
     # s abbdaca "Some of them have deep messages and sad scenes, {w=0.5}{nw}"
-    s abbdaca ""
+    s abbdaca "Типа, иногда в них добавляют грустные сцены и глубокие мысли, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:564
 translate ru s_topics_dating_514e7ae2:
 
     # extend abfcaca "and the director knows only older teens or adults would be able to recognize them, while a kid won't."
-    extend abfcaca ""
+    extend abfcaca "при этом режиссёр знает, что понять их смогут лишь взрослые и подростки постарше."
 
 # game/dialogs/script-topics.rpy:566
 translate ru s_topics_dating_6c277a0f:
 
     # s abbcica "I've already seen a lot of harsh things in my short time here, you know. {w=0.5}{nw}"
-    s abbcica ""
+    s abbcica "И вообще знаешь, я пережила немало неприятных вещей. {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:567
 translate ru s_topics_dating_7b6a402e:
 
     # extend abfciaa "So my opinion may be different from most people."
-    extend abfciaa ""
+    extend abfciaa "И может быть моя реакция на мультики будет отличаться от реакции большинства людей."
 
 # game/dialogs/script-topics.rpy:569
 translate ru s_topics_dating_c68e4ec3:
 
     # s "Isn't it really interesting to discuss movies like that with someone, seeing how your views are similar or different to theirs?"
-    s ""
+    s "Разве не интересно обсуждать фильмы с кем-то, узнавать насколько схожи и разны ваши точки зрения?"
 
 # game/dialogs/script-topics.rpy:570
 translate ru s_topics_dating_4c1a35e9:
 
     # s abgdaaa "But I'd also like to do something more... engaging with you..."
-    s abgdaaa ""
+    s abgdaaa "Но возможно мне хотелось бы... заняться с тобой чем-то поактивнее..."
 
 # game/dialogs/script-topics.rpy:571
 translate ru s_topics_dating_ac777f71:
 
     # s abgdkda "Hmmm... What could we do?"
-    s abgdkda ""
+    s abgdkda "Хммм... Что бы такое предложить?"
 
 # game/dialogs/script-topics.rpy:573
 translate ru s_topics_dating_c3da537f:
 
     # extend abgcaoa " Maybe bowling?"
-    extend abgcaoa ""
+    extend abgcaoa "Может боулинг?"
 
 # game/dialogs/script-topics.rpy:574
 translate ru s_topics_dating_7847e9f5:
 
     # s abhfaoa "It's a simple enough game, not too active but not too slow. I think I'd like it."
-    s abhfaoa ""
+    s abhfaoa "Это несложная игра, не слишком активная, но и засидеться не даст. Думаю мне бы понравилось."
 
 # game/dialogs/script-topics.rpy:575
 translate ru s_topics_dating_0664eadd:
 
     # s abbdaaa "Well, the important thing is that the date is enjoyable for both of us, right?"
-    s abbdaaa ""
+    s abbdaaa "Ну а вообще, главное чтобы свидание доставляло удовольствие нам обоим, верно?"
 
 # game/dialogs/script-topics.rpy:576
 translate ru s_topics_dating_48ffd55d:
 
     # s abhfcaa "I hope we can plan a nice date soon, ehehehe~"
-    s abhfcaa ""
+    s abhfcaa "Надеюсь у нас получится сходить на него в скором времени, эхехехе~"
 
 # game/dialogs/script-topics.rpy:594
 translate ru s_topics_cinnamon_bun_059b8f2f:
 
     # s abhhica "Hey, [player]..."
-    s abhhica ""
+    s abhhica "Слушай, [player]..."
 
 # game/dialogs/script-topics.rpy:595
 translate ru s_topics_cinnamon_bun_14221468:
 
     # s abfcaaa "Have you ever eaten a cinnamon bun?"
-    s abfcaaa ""
+    s abfcaaa "Ты когда-нибудь пробовал булочки с корицей?"
 
 # game/dialogs/script-topics.rpy:596
 translate ru s_topics_cinnamon_bun_e5bf9aa9:
 
     # s abgcjma "I had one once, and it was sooo goood..."
-    s abgcjma ""
+    s abgcjma "Я вот да, и мне таааак понрааавилось..."
 
 # game/dialogs/script-topics.rpy:597
 translate ru s_topics_cinnamon_bun_e6615035:
 
     # s abhfcaa "I'd like to say thanks to the people who came up with such tasty buns."
-    s abhfcaa ""
+    s abhfcaa "Хотелось бы мне сказать спасибо тем, кто их придумал."
 
 # game/dialogs/script-topics.rpy:598
 translate ru s_topics_cinnamon_bun_767bd22a:
 
     # s abhaaca "The one thing I can't understand is why people call me that."
-    s abhaaca ""
+    s abhaaca "Единственное, чего я не понимаю - это почему люди называют меня коричной булочкой."
 
 # game/dialogs/script-topics.rpy:599
 translate ru s_topics_cinnamon_bun_6706f131:
 
     # s abfcioa "But I think the nickname is pretty funny and... {w=0.5}{nw}"
-    s abfcioa ""
+    s abfcioa "Но вообще это имечко довольно прикольное и... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:600
 translate ru s_topics_cinnamon_bun_59cd6b0a:
 
     # extend bbfcmoaj "cute."
-    extend bbfcmoaj ""
+    extend bbfcmoaj "милое."
 
 # game/dialogs/script-topics.rpy:601
 translate ru s_topics_cinnamon_bun_cab31375:
 
     # s abaaaoa "...even if there aren't any cinnamon buns in the game."
-    s abaaaoa ""
+    s abaaaoa "...даже если в игре и не было булок с корицей..."
 
 # game/dialogs/script-topics.rpy:619
 translate ru s_topics_poems_9446d0d9:
 
     # s abaaaoa "You know that the other girls and I really liked to create and share poems during the game. {w=0.5}{nw}"
-    s abaaaoa ""
+    s abaaaoa "Ты знаешь что все девушки, включая меня, любили делиться друг с другом стихами. {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:620
 translate ru s_topics_poems_42ebd82d:
 
     # extend abfcaaa "Even Natsuki, as much as she tried to deny it."
-    extend abfcaaa ""
+    extend abfcaaa "Даже Нацуки, как бы она этого не отрицала."
 
 # game/dialogs/script-topics.rpy:621
 translate ru s_topics_poems_e6551ba8:
 
     # s abhaaca "I started to engage in poetry after your first day in the club..."
-    s abhaaca ""
+    s abhaaca "Писать я начала после того, как ты присоединился к нам..."
 
 # game/dialogs/script-topics.rpy:622
 translate ru s_topics_poems_51037241:
 
     # s "And since that moment I've tried to use poems as a way to show my feelings."
-    s ""
+    s "И с тех пор я стараюсь выражать свои чувства стихами."
 
 # game/dialogs/script-topics.rpy:623
 translate ru s_topics_poems_00f8fdcf:
 
     # s "My wishes, my love, {w=1.0}{nw}"
-    s ""
+    s "Мои мечты, мою любовь, {w=1.0}{nw}"
 
 # game/dialogs/script-topics.rpy:624
 translate ru s_topics_poems_9275ab05:
 
     # extend bbgbkfa "my pain...{w=3.0}{nw}"
-    extend bbgbkfa ""
+    extend bbgbkfa "мою боль...{w=3.0}{nw}"
 
 # game/dialogs/script-topics.rpy:625
 translate ru s_topics_poems_49e71b43:
 
     # extend abbcaaa "You can find all of these things in my words."
-    extend abbcaaa ""
+    extend abbcaaa "Всё это можно найти в написанных мной строках."
 
 # game/dialogs/script-topics.rpy:626
 translate ru s_topics_poems_3d80bac1:
 
     # s abfcaca "Every poem I write is an envelope for a part of my soul."
-    s abfcaca ""
+    s abfcaca "В каждый стих я вкладывала частичку своей души."
 
 # game/dialogs/script-topics.rpy:627
 translate ru s_topics_poems_b313a00e:
 
     # s abbbaoa "Sometimes, I still write poems just for myself."
-    s abbbaoa ""
+    s abbbaoa "А иногда я просто писала для самой себя."
 
 # game/dialogs/script-topics.rpy:628
 translate ru s_topics_poems_ab03f2c6:
 
     # s "It's important that you take time to write for yourself as well, rather than for the validation of others."
-    s ""
+    s "Важно находить время для диалога с собой, не гнаться за одобрением других."
 
 # game/dialogs/script-topics.rpy:629
 translate ru s_topics_poems_04a963c0:
 
     # s abbcaaa "But I can share some of them with you. Just ask me for it."
-    s abbcaaa ""
+    s abbcaaa "Но я могла бы поделиться этими стихами с тобой. Попроси, если захочешь."
 
 # game/dialogs/script-topics.rpy:630
 translate ru s_topics_poems_b0304181:
 
     # s abaaaaa "I also can show you an old poem, if you want."
-    s abaaaaa ""
+    s abaaaaa "Ну и парочку старых стихотворений тоже могу тебе показать."
 
 # game/dialogs/script-topics.rpy:631
 translate ru s_topics_poems_06e91672:
 
     # s abbbaoa "Maybe, they will help you to understand me and what I was going through."
-    s abbbaoa ""
+    s abbbaoa "Возможно прочитав их, ты лучше поймёшь, через что я проходила."
 
 # game/dialogs/script-topics.rpy:649
 translate ru s_topics_drawing_df59c242:
