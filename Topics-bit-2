@@ -775,7 +775,7 @@ translate ru s_topics_isolation_ab014871:
 translate ru s_topics_public_service_announcement_7889819e:
 
     # s abbbaca "If you ever want to spread awareness or a message to many people at once, {w=0.5}{nw}"
-    s abbbaca ""
+    s abbbaca "Если вдруг тебе когда-то будет нужно донести что-либо до кучи людей одновременно, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:756
 translate ru s_topics_public_service_announcement_5d48d9b8:
@@ -883,177 +883,178 @@ translate ru s_topics_public_service_announcement_59d9bcf6:
 translate ru s_topics_pets_bae74c06:
 
     # s abhfaoa "Do you like pets?"
-    s abhfaoa ""
+    s abhfaoa "Тебе нравятся домашние животные?"
 
 # game/dialogs/script-topics.rpy:793
 translate ru s_topics_pets_1e5a1733:
 
     # s "I love them! All kinds of pets! Even ones that aren't very commonly kept!"
-    s ""
+    s "Мне вот да! Вообще все! Даже те, которых заводят достаточно редко!"
 
 # game/dialogs/script-topics.rpy:794
 translate ru s_topics_pets_6c03bf36:
 
     # s abhacoa "I always end up looking up random animals and daydreaming about keeping them as pets, ehehehe~"
-    s abhacoa ""
+    s abhacoa "Я люблю искать информацию о всяких зверушках, а потом думать о том, как классно было бы иметь их в качестве питомца, эхехехе~"
 
 # game/dialogs/script-topics.rpy:795
 translate ru s_topics_pets_8fbd8aae:
 
     # s "Maybe I'd have a chinchilla if I could! They are soooo cute, and so fluffy, they look so soft, I just love them so much!"
-    s ""
+    s "Может я бы завела шиншиллу! Они такииие милые, мягкие и пушистые! Очень люблю их!"
 
 # game/dialogs/script-topics.rpy:796
 translate ru s_topics_pets_d3dde188:
 
     # s abbcaoa "I'd also like to have some kind of bird that could speak. They're really funny, I always end up watching videos of them online, ehehehe~"
-    s abbcaoa ""
+    s abbcaoa "А может я бы держала говорящую птичку. Я часто смотрю смешные ролики про них, эхехехе~"
 
 # game/dialogs/script-topics.rpy:797
 translate ru s_topics_pets_6ef601e6:
 
     # s "I like a really specific video of a koka-"
-    s ""
+    s "Особенно мне нравится одно видео про кока-"
 
 # game/dialogs/script-topics.rpy:798
 translate ru s_topics_pets_314e5037:
 
     # s fbbdbja "Cohca-"
-    s fbbdbja ""
+    s fbbdbja "Кокка-"
 
 # game/dialogs/script-topics.rpy:799
 translate ru s_topics_pets_1e04d457:
 
     # s abbckoa "Cacka-? Wait let me look it up!!!"
-    s abbckoa ""
+    s abbckoa "Кака-? Погодь, дай загуглю!!!"
 
 # game/dialogs/script-topics.rpy:801
 translate ru s_topics_pets_eb8cb905:
 
     # s abbcnqa " A cockatoo! Yes, that's exactly what I said."
-    s abbcnqa ""
+    s abbcnqa " А, какаду! Да, я так и сказала."
 
 # game/dialogs/script-topics.rpy:802
 translate ru s_topics_pets_fc77d384:
 
     # s abfcaoa "Well it's a big white bird one with tall feathers on its head! And he's screaming into a little plastic cup..."
-    s abfcaoa ""
+    s abfcaoa "То видео про большую птицу с длинными перьями на голове! И она кричит в пластиковый стаканчик..."
 
 # game/dialogs/script-topics.rpy:803
 translate ru s_topics_pets_031486ee:
 
     # s abfdaaa "I guess I don't play favorites when it comes to pets!"
-    s abfdaaa ""
+    s abfdaaa "В общем, не думаю, что могу назвать каких-то питомцев хуже или лучше других!"
 
 # game/dialogs/script-topics.rpy:824
 translate ru s_player_cooking_158839cb:
 
     # s bbaamoaj "To be honest, {nw}"
-    s bbaamoaj ""
+    s bbaamoaj "Если честно, {nw}"
 
 # game/dialogs/script-topics.rpy:825
 translate ru s_player_cooking_c824f210:
 
     # extend bbheiiaj "scrambled eggs are probably the most elaborate thing I've ever cooked..."
-    extend bbheiiaj ""
+    extend bbheiiaj "яичница - самое сложное, что я когда-либо готовила..."
 
 # game/dialogs/script-topics.rpy:826
 translate ru s_player_cooking_cf3beebb:
 
     # s abhhksa "I've never baked anything before, though."
-    s abhhksa ""
+    s abhhksa "Я даже никогда ничего не пекла."
 
 # game/dialogs/script-topics.rpy:827
 translate ru s_player_cooking_34466b46:
 
     # s fbhalhaj "But there's a lot of stuff that could go wrong, so it feels a bit intimidating to me."
-    s fbhalhaj ""
+    s fbhalhaj "Куча вещей может пойти не по плану, и это несколько меня волнует."
 
 # game/dialogs/script-topics.rpy:828
 translate ru s_player_cooking_b6454313:
 
     # s ebbcaoa "Even so, I'd love to get better at cooking, even if I don't have any reason to anymore, ehehehe~"
-    s ebbcaoa ""
+    s ebbcaoa "Но даже так, я бы с удовольствием научилась готовить получше, пусть в этом больше и нет особого смысла, эехехехе~"
 
 # game/dialogs/script-topics.rpy:829
 translate ru s_player_cooking_355fbf0d:
 
     # s abgcbfa "Now that I think about it... {nw}"
-    s abgcbfa ""
+    s abgcbfa "Кстати говоря... {nw}"
 
 # game/dialogs/script-topics.rpy:830
 translate ru s_player_cooking_f561b7e0:
 
     # extend dbgckca "I don't really remember the last time I've been hungry, honestly."
-    extend dbgckca ""
+    extend dbgckca "Я не помню, когда в последний раз была голодной."
 
 # game/dialogs/script-topics.rpy:831
 translate ru s_player_cooking_bb6c68a1:
 
     # s fahcnka "But I can still taste! That means I can eat as much as I want!"
-    s fahcnka ""
+    s fahcnka "Но вкус я всё равно чувствую! А значит могу есть сколько захочу!"
 
 # game/dialogs/script-topics.rpy:832
 translate ru s_player_cooking_477d06d3:
 
     # s aahcbda "Of course, I could just try to 'make' food with code, like Nat's cupcakes, but I wanna make something on my own..."
-    s aahcbda ""
+    s aahcbda "Я, конечно, могу просто 'создать' каких-нибудь вкусняшек с помощью кода, типа кексов Нацуки, но мне хочется попробовать сделать что-то собственными руками..."
 
 # game/dialogs/script-topics.rpy:833
 translate ru s_player_cooking_bbb4131a:
 
     # s abfdboa "First of all, I need to try to make some kitchenware."
-    s abfdboa ""
+    s abfdboa "Поэтому сначала мне стоит создать всяких кухонных штук."
 
 # game/dialogs/script-topics.rpy:834
 translate ru s_player_cooking_ff129ca5:
 
     # s abhhbba "Then find some recipes online."
-    s abhhbba ""
+    s abhhbba "Затем поискать в инете рецепты."
 
 # game/dialogs/script-topics.rpy:835
 translate ru s_player_cooking_b7aa73bc:
 
     # s dbhhbca "Then... follow a tutorial... or something..."
-    s dbhhbca ""
+    s dbhhbca "И... делать всё по инструкции... вроде как..."
 
 # game/dialogs/script-topics.rpy:836
 translate ru s_player_cooking_766888e7:
 
     # s fbhakdaj "Wait... I'm also going to need to make each ingredient too..."
-    s fbhakdaj ""
+    s fbhakdaj "Погоди... Мне ведь также нужно будет создать все ингредиенты..."
 
 # game/dialogs/script-topics.rpy:837
 translate ru s_player_cooking_55b1d5a0:
 
     # s bbgcegaj "That's a lot of steps!!!!"
-    s bbgcegaj ""
+    s bbgcegaj "Очень запутано!!!!"
 
 # game/dialogs/script-topics.rpy:838
 translate ru s_player_cooking_30f60f5d:
 
     # s bbgcjja "With all of that effort, it's too bad you won't be able to taste it... {nw}"
-    s bbgcjja ""
+    s bbgcjja "И после всех стараний, у меня всё равно получится невкусная мешанина... {nw}"
 
 # game/dialogs/script-topics.rpy:839
 translate ru s_player_cooking_461c5736:
 
     # extend abhfbca "not yet at least."
-    extend abhfbca ""
+    extend abhfbca "по крайней мере пока..."
 
 # game/dialogs/script-topics.rpy:840
 translate ru s_player_cooking_41a10d75:
 
     # s abhfcka "But I'll try to become a good cook for you regardless!"
-    s abhfcka ""
+    s abhfcka "Но я в любом случае постараюсь стать для тебя хорошим шефом!"
 
 # game/dialogs/script-topics.rpy:841
 translate ru s_player_cooking_3e603ee0:
 
     # s abhfasa "Though, I'll probably never be as good as Natsuki."
-    s abhfasa ""
+    s abhfasa "Хотя, думаю мне всё равно не достичь уровня Нацуки."
 
 # game/dialogs/script-topics.rpy:842
 translate ru s_player_cooking_cf7a5a81:
 
     # s abbbcoa "Well, I guess as long as I'm having fun in the process, that's what matters the most, isn't it?"
+      s abbbcoa "А впрочем, главное - удовольствие, которое даёт сам процесс готовки, не так ли?"
