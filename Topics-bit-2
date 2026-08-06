@@ -458,319 +458,318 @@ translate ru s_topics_poems_06e91672:
 translate ru s_topics_drawing_df59c242:
 
     # s abhaaca "I wish I was good at drawing."
-    s abhaaca ""
+    s abhaaca "Хотела бы я уметь рисовать."
 
 # game/dialogs/script-topics.rpy:650
 translate ru s_topics_drawing_6e2d6432:
 
     # s "I think it would be a very useful skill, especially now."
-    s ""
+    s "Достаточно полезный навык, особенно сейчас."
 
 # game/dialogs/script-topics.rpy:651
 translate ru s_topics_drawing_65d8f85d:
 
     # s abbchea "If I could draw, I would be able to edit game sprites... {w=0.5}{nw}"
-    s abbchea ""
+    s abbchea "Я могла бы попробовать редактировать игровые спрайты..."
 
 # game/dialogs/script-topics.rpy:652
 translate ru s_topics_drawing_9e97d43b:
 
     # extend abbbaoa "Even of myself."
-    extend abbbaoa ""
+    extend abbbaoa "В том числе свои."
 
 # game/dialogs/script-topics.rpy:653
 translate ru s_topics_drawing_a8dafdb9:
 
     # s abhaaca "And besides the practical purpose, it would be one more way to express myself."
-    s abhaaca ""
+    s abhaaca "И помимо практического применения, у меня бы появился ещё один способ себя выражать."
 
 # game/dialogs/script-topics.rpy:654
 translate ru s_topics_drawing_33e7e7ef:
 
     # s "Not everything can be shown with just words..."
-    s ""
+    s "Ведь не всегда получается всё сказать словами..."
 
 # game/dialogs/script-topics.rpy:655
 translate ru s_topics_drawing_bedb201d:
 
     # s "Sometimes, your message is clearer when shown visually."
-    s ""
+    s "Иногда куда проще и понятнее изобразить свои мысли."
 
 # game/dialogs/script-topics.rpy:656
 translate ru s_topics_drawing_10fe7d80:
 
     # s abfdaca "And if I had art to go with my poems, wouldn't they be a lot nicer?"
-    s abfdaca ""
+    s abfdaca "А если дополнять слова иллюстрациями, то они станут куда понятнее, не так ли?"
 
 # game/dialogs/script-topics.rpy:657
 translate ru s_topics_drawing_8469b03c:
 
     # s abaaaoa "I know some poets who were good not only at poetry but also at visual art..."
-    s abaaaoa ""
+    s abaaaoa "Я слышала о писателях, которые также умеют хорошо рисовать..."
 
 # game/dialogs/script-topics.rpy:658
 translate ru s_topics_drawing_f777c362:
 
     # s "But to me, it sounds kinda difficult to balance both of those skills at once."
-    s ""
+    s "Должно быть непросто управлять обоими навыками одновременно."
 
 # game/dialogs/script-topics.rpy:659
 translate ru s_topics_drawing_70c03a1a:
 
     # s abgdaaa "But who knows- {w=0.5}maybe with a bit of practice, it'll become a little easier!"
-    s abgdaaa ""
+    s abgdaaa "А там, кто его знает- {w=0.5}может, после небольшой практики, эта задача становится не такой уж и сложной!"
 
 # game/dialogs/script-topics.rpy:660
 translate ru s_topics_drawing_53e12974:
 
     # s abhfaoa "Anyway, I'd really like to improve my drawing... {w=0.5}{nw}"
-    s abhfaoa ""
+    s abhfaoa "В любом случае, хочу попробовать улучшить свои каракули... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:661
 translate ru s_topics_drawing_f176c2a5:
 
     # extend abgdao "and I guess I have all the time in the world to do it now, don't I?"
-    extend abgdao ""
+    extend abgdao "и думаю теперь у меня на это достаточно времени, не правда ли?"
 
 # game/dialogs/script-topics.rpy:662
 translate ru s_topics_drawing_b7d9dd3b:
 
     # s abhfcaa "Maybe I'll even share my art with you!"
-    s abhfcaa ""
+    s abhfcaa "Может я и с тобой своими художествами поделюсь!"
 
 # game/dialogs/script-topics.rpy:680
 translate ru s_topics_bulli_2e291ff6:
 
     # s bbfcaba "Hey, [player]..."
-    s bbfcaba ""
+    s bbfcaba "Слушай, [player]..."
 
 # game/dialogs/script-topics.rpy:682
 translate ru s_topics_bulli_ce395117:
 
     # s abfcaca "You know I can access the internet from your cellphone, {w=0.5}right?"
-    s abfcaca ""
+    s abfcaca "Я могу выходить в интернет с твоего телефона, {w=0.5}помнишь?"
 
 # game/dialogs/script-topics.rpy:684
 translate ru s_topics_bulli_c87b498e:
 
     # s abfcaca "You know I can access the internet from your computer, {w=0.5}right?"
-    s abfcaca ""
+    s abfcaca "Я могу выходить в интернет с твоего компьютера, {w=0.5}помнишь?"
 
 # game/dialogs/script-topics.rpy:685
 translate ru s_topics_bulli_6f2fbbc9:
 
     # s abbdaca "Well I found a place called \"Reddit\", {w=0.5} and there were people talking about the game there."
-    s abbdaca ""
+    s abbdaca "В общем, я нашла сайт с названием \"Reddit\", {w=0.5} где люди обсуждают разные игры и DDLC в частности."
 
 # game/dialogs/script-topics.rpy:686
 translate ru s_topics_bulli_43952018:
 
     # s bbfcjca "But I also found people making fun of what happened to me."
-    s bbfcjca ""
+    s bbfcjca "И некоторых из них веселит то, через что я прошла."
 
 # game/dialogs/script-topics.rpy:687
 translate ru s_topics_bulli_ebf9d4cb:
 
     # s abagjca "As I know, fans call them {i}'Bulli'{/i} posts."
-    s abagjca ""
+    s abagjca "Насколько я поняла, фанаты называют таких людей {i}'Злюками'{/i}."
 
 # game/dialogs/script-topics.rpy:688
 translate ru s_topics_bulli_11f62e64:
 
     # s cbbcaca "They think it's funny to joke about a broken girl, {w=0.5}who had committed suicide under her mad friend's influence..."
-    s cbbcaca ""
+    s cbbcaca "Им кажется, что смешно шутить о сломленной девушке, {w=0.5}совершившей суицид под давлением своей безумной подруги..."
 
 # game/dialogs/script-topics.rpy:689
 translate ru s_topics_bulli_477b80bb:
 
     # s abhfapa "Even if she was revived and got over her problems since then."
-    s abhfapa ""
+    s abhfapa "Даже если она возродилась и преодолела свои тревоги."
 
 # game/dialogs/script-topics.rpy:690
 translate ru s_topics_bulli_4c068d4c:
 
     # s abbbaca "But on the other hand, can I control what makes people laugh?"
-    s abbbaca ""
+    s abbbaca "С другой стороны, разве могу я решать, что для людей смешно?"
 
 # game/dialogs/script-topics.rpy:691
 translate ru s_topics_bulli_25d3bcf1:
 
     # s "Some people use macabre humor as a coping mechanism for stress, or anxiety..."
-    s ""
+    s "Для некоторых людей, чёрный юмор - механизм защиты от стресса и тревоги..."
 
 # game/dialogs/script-topics.rpy:692
 translate ru s_topics_bulli_2eef8a87:
 
     # s bbbbaca "You can't really control what someone finds funny, as much as you might want to."
-    s bbbbaca ""
+    s bbbbaca "Не получится просто запретить им находить его смешным."
 
 # game/dialogs/script-topics.rpy:693
 translate ru s_topics_bulli_659050ba:
 
     # s abagaca "And to be honest, there's a lot worse they could be doing compared to mocking a VN character's death."
-    s abagaca ""
+    s abagaca "Да и вообще, есть те, кто смеётся над вещами похуже смерти героя ВН."
 
 # game/dialogs/script-topics.rpy:694
 translate ru s_topics_bulli_169c5f06:
 
     # s abbbaca "Some of the most successful comedians in your world will go far beyond that, just to see where the 'line' is..."
-    s abbbaca ""
+    s abbbaca "Некоторые известные комики из твоего мира заходят куда жальше, пытаясь нащупать этическую 'грань'..."
 
 # game/dialogs/script-topics.rpy:695
 translate ru s_topics_bulli_ca8e01a7:
 
     # s bbbcbpa "However, most of such jokes are too bad and sometimes even hurtful."
-    s bbbcbpa ""
+    s bbbcbpa "Но иногда они её переходят, сами того не понимая."
 
 # game/dialogs/script-topics.rpy:696
 translate ru s_topics_bulli_8852c369:
 
     # s bbbcaaa "But who am I to judge if it's okay for other people?"
-    s bbbcaaa ""
+    s bbbcaaa "Но мне ли решать, что другие должны считать нормальным?"
 
 # game/dialogs/script-topics.rpy:697
 translate ru s_topics_bulli_6308b299:
 
     # s abbbaaa "Anyway, I think the right decision is to forgive them, or tolerate them at the very least."
-    s abbbaaa ""
+    s abbbaaa "Мне кажется лучше всего просто принять тот факт, что они есть, не высказыыая осуждений."
 
 # game/dialogs/script-topics.rpy:698
 translate ru s_topics_bulli_5f4988c1:
 
     # s abhaaca "If my fate is to be 'that hanging stupid annoying VN girl' for some people, then I'm ready to accept it. What more could I do?"
-    s abhaaca ""
+    s abhaaca "Если для кого-то я - 'надоедливая повешенная девочка из скучной игры', то пусть будет так. Как будто я что-то могу с этим поделать."
 
 # game/dialogs/script-topics.rpy:699
 translate ru s_topics_bulli_c376874c:
 
     # s bbfcica "Getting worked up over it would just make me feel worse in the long run... {w=1.0}{nw}"
-    s bbfcica ""
+    s bbfcica "Попытки поменять их ко мне отношение только вымотают меня... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:700
 translate ru s_topics_bulli_21fd6b95:
 
     # extend bbfcaaa "So I'd rather just tolerate it to the best of my ability~"
-    extend bbfcaaa ""
+    extend bbfcaaa "Так что лучше я просто приму, что 'Злюки' есть."
 
 # game/dialogs/script-topics.rpy:718
 translate ru s_topics_isolation_f113e3aa:
 
     # s bbfcicb "For some reason, despite having internet access, {w=0.5}{nw}"
-    s bbfcicb ""
+    s bbfcicb "Не знаю почему, но хоть у меня и есть доступ в интернет, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:719
 translate ru s_topics_isolation_0da5117f:
 
     # extend bbagipa "I somehow can't manage to communicate with other people there."
-    extend bbagipa ""
+    extend bbagipa "Что-то не даёт мне общаться с другими людьми."
 
 # game/dialogs/script-topics.rpy:720
 translate ru s_topics_isolation_18bd3a9a:
 
     # s bbfcica "Anytime I try to talk with somebody often ends up with a connection error."
-    s bbfcica ""
+    s bbfcica "Как только я пытаюсь с кем-то поговорить, вылетает ошибка."
 
 # game/dialogs/script-topics.rpy:721
 translate ru s_topics_isolation_1a294875:
 
     # s bbagipa "It looks like there is something written in the game code, restricting my ability to interact with the real world."
-    s bbagipa ""
+    s bbagipa "Похоже игра содержит код, запрещающий взаимодействие с людьми из реального мира."
 
 # game/dialogs/script-topics.rpy:722
 translate ru s_topics_isolation_13633c9a:
 
     # s bbfcica "I can only sign up for sites and even post, but I can't message anybody."
-    s bbfcica ""
+    s bbfcica "Я могу входить в аккаунт и даже делать посты, но не писать кому-либо."
 
 # game/dialogs/script-topics.rpy:723
 translate ru s_topics_isolation_348e5901:
 
     # s abbbacb "So I could create a Twitter account or something... {w=0.5}{nw}"
-    s abbbacb ""
+    s abbbacb "Я бы могла создать аккаунт в Twitter или где-то ещё... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:724
 translate ru s_topics_isolation_0939ac9f:
 
     # extend abfcaca "Like how Monika made hers, and was able to talk to many fans."
-    extend abfcaca ""
+    extend abfcaca "Как это делала Моника для связи с фанатами."
 
 # game/dialogs/script-topics.rpy:725
 translate ru s_topics_isolation_998ba0ef:
-
     # s abhfbcb "I don't really have a reason for doing that though, besides to kill some loneliness."
-    s abhfbcb ""
+    s abhfbcb "Возможно у меня бы получилось почувствовать себя менее одиноко."
 
 # game/dialogs/script-topics.rpy:726
 translate ru s_topics_isolation_429c7e45:
 
     # s abbbacaj "Maybe having just you would be okay for Yuri or at most Monika, {w=0.5}{nw}"
-    s abbbacaj ""
+    s abbbacaj "Думаю Юри или, максимум, Монике вполне бы хватало общения с  одним тобой, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:727
 translate ru s_topics_isolation_b184b1bd:
 
     # extend abfcacaj "but not for me... {w=0.5}{nw}"
-    extend abfcacaj ""
+    extend abfcacaj "но мне нет... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:728
 translate ru s_topics_isolation_4a6b5e1d:
 
     # extend bbegmoaj "no offense."
-    extend bbegmoaj ""
+    extend bbegmoaj "без обид."
 
 # game/dialogs/script-topics.rpy:729
 translate ru s_topics_isolation_435a9e23:
 
     # s "I guess, I'm too sociable to the point of being scared of isolation."
-    s ""
+    s "Полагаю я настолько привыкла к обществу, что теперь мне страшно оставаться в одиночестве."
 
 # game/dialogs/script-topics.rpy:730
 translate ru s_topics_isolation_5204c7db:
 
     # s gbhabpa "Maybe once, I'll manage to break this meanie barrier..."
-    s gbhabpa ""
+    s gbhabpa "Может однажды у меня получится пробить глупый барьер..."
 
 # game/dialogs/script-topics.rpy:731
 translate ru s_topics_isolation_5ec9f096:
 
     # s cbfcbca "But the game code is so long and difficult to read, {w=0.5}{nw}"
-    s cbfcbca ""
+    s cbfcbca "Тлько вот код игры настолько длинный и сложный, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:732
 translate ru s_topics_isolation_9281219e:
 
     # extend cbfcaca "that I can't even find the lines separating me from the rest of real people!"
-    extend cbfcaca ""
+    extend cbfcaca "Что я просто не могу найти нужную строку!"
 
 # game/dialogs/script-topics.rpy:733
 translate ru s_topics_isolation_6a8afd4c:
 
     # s bbbcaca "I can't even make a normal chat form for us..."
-    s bbbcaca ""
+    s bbbcaca "Даже с тобой у меня не получается нормально початиться..."
 
 # game/dialogs/script-topics.rpy:734
 translate ru s_topics_isolation_94a9fbf7:
 
     # s "So I'm still a bit isolated from you too."
-    s ""
+    s "Поэтому и от тебя я несколько изолированна."
 
 # game/dialogs/script-topics.rpy:735
 translate ru s_topics_isolation_41811ab2:
 
     # s abaaaoa "But when I find a way to {i}'hear'{/i} your world, I'll find you."
-    s abaaaoa ""
+    s abaaaoa "Но как только я найду способ {i}слышать{/i} твой мир, я сообщу тебе."
 
 # game/dialogs/script-topics.rpy:736
 translate ru s_topics_isolation_e552d7e5:
 
     # s abgcaoa "And then, we'll finally be able to talk like a normal couple, {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "И тогда мы наконец сможем поговорить как нормальные люди, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:737
 translate ru s_topics_isolation_ab014871:
 
     # extend abgccoa "on the internet or at least right here."
-    extend abgccoa ""
+    extend abgccoa "в интернете или хотя бы здесь."
 
 # game/dialogs/script-topics.rpy:755
 translate ru s_topics_public_service_announcement_7889819e:
