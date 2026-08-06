@@ -1,0 +1,942 @@
+
+# game/dialogs/script-topics.rpy:862
+translate ru s_player_pets_4fef8dc4:
+
+    # s gbaabda "Hmmm, let me think...."
+    s gbaabda ""
+
+# game/dialogs/script-topics.rpy:863
+translate ru s_player_pets_01649e78:
+
+    # s "I really like a lot of different animals, but I don't think I could properly care for anything that requires a lot of constant attention..."
+    s ""
+
+# game/dialogs/script-topics.rpy:864
+translate ru s_player_pets_b2fbed90:
+
+    # s bbegcia "I'd love to have a dog, but I'd have to have the energy to keep up with it."
+    s bbegcia ""
+
+# game/dialogs/script-topics.rpy:865
+translate ru s_player_pets_a1311dab:
+
+    # s abbcbba "But I suppose I could keep an aquarium?"
+    s abbcbba ""
+
+# game/dialogs/script-topics.rpy:866
+translate ru s_player_pets_ebcac169:
+
+    # s gbaalha "Wait, I think I heard from somewhere that those also take a lot of work to keep them running smoothly..."
+    s gbaalha ""
+
+# game/dialogs/script-topics.rpy:867
+translate ru s_player_pets_e1554201:
+
+    # s "..."
+    s ""
+
+# game/dialogs/script-topics.rpy:868
+translate ru s_player_pets_fa083328:
+
+    # s ebgcaea "Ohhh, I know! I could adopt an elderly cat that mostly just wants to lay around and sleep all day, just like me!"
+    s ebgcaea ""
+
+# game/dialogs/script-topics.rpy:888
+translate ru s_player_cats_2202e80d:
+
+    # s ebhfcaa "Cats are pretty cute, especially kittens!"
+    s ebhfcaa ""
+
+# game/dialogs/script-topics.rpy:889
+translate ru s_player_cats_c77680b5:
+
+    # s abhfaoa "And they're not too hard to take care of so they wouldn't require a lot of energy."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:890
+translate ru s_player_cats_7cc2363b:
+
+    # s abhaaca "Still, as much as they love their space, they shouldn't just be ignored by their owner. Kitties want to play sometimes, too!"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:891
+translate ru s_player_cats_3e9e722c:
+
+    # s "And sometimes cats do things that their owners don't like... Like pushing things off of the counter, or slicing their arms and legs up."
+    s ""
+
+# game/dialogs/script-topics.rpy:892
+translate ru s_player_cats_1570d052:
+
+    # s abaaaoa "Still, it's so hard to resist their fluffy little paws and pointy ears... So that must be why people always forgive them for their crimes!"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:893
+translate ru s_player_cats_12ae52c3:
+
+    # s ebaacea "If you have one, you probably understand what I mean, ehehehe~"
+    s ebaacea ""
+
+# game/dialogs/script-topics.rpy:912
+translate ru s_topic_archetype_b91ca600:
+
+    # s abhfho "Hey [player], do you remember when Monika compared Yuri and Natsuki to character archetypes?"
+    s abhfho ""
+
+# game/dialogs/script-topics.rpy:913
+translate ru s_topic_archetype_64eabfb7:
+
+    # s abhfco "I was curious about what my archetype could be so I read some online articles about them and I think I'm pretty close to the 'genki' archetype."
+    s abhfco ""
+
+# game/dialogs/script-topics.rpy:914
+translate ru s_topic_archetype_ef21c4b9:
+
+    # s abhhmo "Genki is a very cheerful and energetic archetype, always trying to share that upbeat way of living with others."
+    s abhhmo ""
+
+# game/dialogs/script-topics.rpy:915
+translate ru s_topic_archetype_7cfbd6d2:
+
+    # s aahfaeaj "And they're sometimes clumsy and get in trouble often too, hehehe~"
+    s aahfaeaj ""
+
+# game/dialogs/script-topics.rpy:916
+translate ru s_topic_archetype_429c1a58:
+
+    # s "And I was the protagonist's childhood friend, which is common to this archetype."
+    s ""
+
+# game/dialogs/script-topics.rpy:917
+translate ru s_topic_archetype_308cd8d1:
+
+    # s nahekeaj "Do you think I fit that archetype too?{nw}"
+    s nahekeaj ""
+
+# game/dialogs/script-topics.rpy:921
+translate ru s_topic_archetype_f36cd571:
+
+    # s "Do you think I fit that archetype too?{fast}" nointeract
+    s "" nointeract
+
+# game/dialogs/script-topics.rpy:924
+translate ru s_topic_archetype_5eaa648e:
+
+    # s aaaegcej "You can't blame me, that's just how I am, ehehehe~"
+    s aaaegcej ""
+
+# game/dialogs/script-topics.rpy:925
+translate ru s_topic_archetype_6fcbaf5c:
+
+    # s "But that aside, I think archetypes are too simple to define a whole person."
+    s ""
+
+# game/dialogs/script-topics.rpy:926
+translate ru s_topic_archetype_9150167d:
+
+    # s ebhfaca "We're all unique and these traits can only scratch the surface of somebody's character."
+    s ebhfaca ""
+
+# game/dialogs/script-topics.rpy:927
+translate ru s_topic_archetype_b8f46d82:
+
+    # s ebhhaoa "And that applied to me and my friends too."
+    s ebhhaoa ""
+
+# game/dialogs/script-topics.rpy:928
+translate ru s_topic_archetype_f95d58d8:
+
+    # s ebbbaca "Like Yuri, who was always polite and quiet while hiding her intrusive feelings."
+    s ebbbaca ""
+
+# game/dialogs/script-topics.rpy:929
+translate ru s_topic_archetype_92b8b4d0:
+
+    # s ebgccea "And Natsuki, whose brash exterior was caused by her problems at home."
+    s ebgccea ""
+
+# game/dialogs/script-topics.rpy:930
+translate ru s_topic_archetype_22de26d5:
+
+    # s ebhacea "There's always more to a person than meets the eye, so try to always be kind."
+    s ebhacea ""
+
+# game/dialogs/script-topics.rpy:931
+translate ru s_topic_archetype_87ddc2f8:
+
+    # s ebhadqa "You never know what someone else might be going through, and a simple smile can really make someone's day!"
+    s ebhadqa ""
+
+# game/dialogs/script-topics.rpy:949
+translate ru s_topic_voice_3eae6c02:
+
+    # s abhaaca "I'm curious about how Monika shared her real voice with you when she sang her song."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:950
+translate ru s_topic_voice_ea2f1403:
+
+    # s abhfcaa "Her voice is quite high and melodic, like a musician should have."
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:951
+translate ru s_topic_voice_675b613d:
+
+    # s abhfaoa "But I'd say the tone of that voice doesn't seem to fit her."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:952
+translate ru s_topic_voice_7e896920:
+
+    # s abhaaca "It sounds more like the voice I'd have."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:953
+translate ru s_topic_voice_1dc37658:
+
+    # s abbcbba "But canon is canon, I guess."
+    s abbcbba ""
+
+# game/dialogs/script-topics.rpy:954
+translate ru s_topic_voice_0eb82757:
+
+    # s ebgcbca "But it made me wonder, what if I don't even have a voice?"
+    s ebgcbca ""
+
+# game/dialogs/script-topics.rpy:955
+translate ru s_topic_voice_ac1ff5a6:
+
+    # s "Would I be {i}mute{/i}, if I suddenly appeared in your world? Hmmm..."
+    s ""
+
+# game/dialogs/script-topics.rpy:956
+translate ru s_topic_voice_d2ba7d7f:
+
+    # s abgcnoa "I guess as long as I'm a computer program, {w=0.5}{nw}"
+    s abgcnoa ""
+
+# game/dialogs/script-topics.rpy:957
+translate ru s_topic_voice_a860229f:
+
+    # extend abgcnka "I could make my own voice, right?"
+    extend abgcnka ""
+
+# game/dialogs/script-topics.rpy:958
+translate ru s_topic_voice_dc81bc77:
+
+    # s "I just need a text-to-speech synthesizer or something..."
+    s ""
+
+# game/dialogs/script-topics.rpy:959
+translate ru s_topic_voice_2fc70abf:
+
+    # s ebbckea "There's bound to be a good one for me!"
+    s ebbckea ""
+
+# game/dialogs/script-topics.rpy:960
+translate ru s_topic_voice_f92b2955:
+
+    # s abaaaoa "I saw something about TTS in the Ren'Py documentation, so it shouldn't be too hard to integrate there, I guess."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:961
+translate ru s_topic_voice_9f82b9cf:
+
+    # s ebbcaoa "I'd probably end up sounding pretty robotic though, huh? You wouldn't want me to {nw}"
+    s ebbcaoa ""
+
+# game/dialogs/script-topics.rpy:962
+translate ru s_topic_voice_04d4aaef:
+
+    # extend abfbbora "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}T4LK L1KE 4 R0B0T{/cps}{/font}?"
+    extend abfbbora ""
+
+# game/dialogs/script-topics.rpy:963
+translate ru s_topic_voice_9c24fab3:
+
+    # s ebfciea "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}1 4M 4 HUM4N BE1N6 4FTER 4LL{/cps}{/font}"
+    s ebfciea ""
+
+# game/dialogs/script-topics.rpy:964
+translate ru s_topic_voice_db904042:
+
+    # s ebagcea "Ehehehe~ just kidding, [player]!"
+    s ebagcea ""
+
+# game/dialogs/script-topics.rpy:983
+translate ru s_topic_lit_e8494ebd:
+
+    # s abhaaca "As you know, this game {i}was{/i} about our literature club..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:984
+translate ru s_topic_lit_1e3cfaa7:
+
+    # s abbbbca "At least, before everything changed here."
+    s abbbbca ""
+
+# game/dialogs/script-topics.rpy:985
+translate ru s_topic_lit_b9bcfdfe:
+
+    # s abhaaca "And I remember MC noticed that I never seemed to be fond of literature in the first place."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:986
+translate ru s_topic_lit_541f5225:
+
+    # s "And, honestly? He was right."
+    s ""
+
+# game/dialogs/script-topics.rpy:987
+translate ru s_topic_lit_dfb37047:
+
+    # s "Of course I'd read a few books before, but only really because I needed to for school..."
+    s ""
+
+# game/dialogs/script-topics.rpy:988
+translate ru s_topic_lit_a9c75245:
+
+    # s bbegmeaj "And even then, I tried to cheat to pass the exams, ehehehe..."
+    s bbegmeaj ""
+
+# game/dialogs/script-topics.rpy:989
+translate ru s_topic_lit_6cb4775d:
+
+    # s abhaaca "I just think it's pretty boring, I think I'm more of a visual person anyways!"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:990
+translate ru s_topic_lit_529a469f:
+
+    # s bbhfbca "But as Yuri used to say, maybe I just haven't found the right book yet."
+    s bbhfbca ""
+
+# game/dialogs/script-topics.rpy:991
+translate ru s_topic_lit_30552380:
+
+    # s abhaaca "But anyways, when I first joined, the thing I wanted to do most was help a friend start a new club."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:992
+translate ru s_topic_lit_cf3bfc9a:
+
+    # s abhamca "Besides, I was the only one who showed any interest in the club after Monika announced it."
+    s abhamca ""
+
+# game/dialogs/script-topics.rpy:993
+translate ru s_topic_lit_8a93a118:
+
+    # s abhacka "She was pretty surprised at first but she was very welcoming and I enjoyed spending time there, just to hang out with friends."
+    s abhacka ""
+
+# game/dialogs/script-topics.rpy:994
+translate ru s_topic_lit_a9fde919:
+
+    # s abhadkb "That said, I liked writing about my feelings when we all shared poems together."
+    s abhadkb ""
+
+# game/dialogs/script-topics.rpy:995
+translate ru s_topic_lit_977648ff:
+
+    # s abgcaoa "And that helped me to get closer to {i}you{/i}, even if I didn't know it yet."
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:1014
+translate ru s_topic_charity_c9650e8f:
+
+    # s abhaaca "What do you think about charity and volunteering?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1015
+translate ru s_topic_charity_57fdb644:
+
+    # s abaaaoa "I think it's the best way to make the world a little bit better and to support people in need."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1016
+translate ru s_topic_charity_d383c57e:
+
+    # s bbgcaca "I mean, don't you worry about ill and hungry people, {w=0.5}{nw}"
+    s bbgcaca ""
+
+# game/dialogs/script-topics.rpy:1017
+translate ru s_topic_charity_b70fb133:
+
+    # extend bbgcaha "and all the homeless animals too?"
+    extend bbgcaha ""
+
+# game/dialogs/script-topics.rpy:1018
+translate ru s_topic_charity_6792d59f:
+
+    # s bbhfaka "So I think it's a worthwhile investment to make from time to time."
+    s bbhfaka ""
+
+# game/dialogs/script-topics.rpy:1019
+translate ru s_topic_charity_f811ec7d:
+
+    # s bbhfmoa "After all, spare change which might be an afterthought to you could be really important to someone else going through a tough time."
+    s bbhfmoa ""
+
+# game/dialogs/script-topics.rpy:1020
+translate ru s_topic_charity_59daccf8:
+
+    # s abbbaaa "But even if you don't have the money to help charity foundations, there's a lot of other organizations out there which help people too!"
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1021
+translate ru s_topic_charity_5675c8ec:
+
+    # s abbbbca "And they're almost always in need of not only money or goods, {w=0.5}{nw}"
+    s abbbbca ""
+
+# game/dialogs/script-topics.rpy:1022
+translate ru s_topic_charity_6f1f237a:
+
+    # extend abbbaaa "but also helping hands."
+    extend abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1023
+translate ru s_topic_charity_7097a102:
+
+    # s abhaaca "If you look, I'm sure you'll find lots of organizations near you!"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1024
+translate ru s_topic_charity_0090278b:
+
+    # s abbbaaa "I don't know if volunteer work is something you'd like, but I think I would, {w=0.5}{nw}"
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1025
+translate ru s_topic_charity_7d0ee8de:
+
+    # extend abbccaa "because I want absolutely {i}everyone{/i} to be happy!"
+    extend abbccaa ""
+
+# game/dialogs/script-topics.rpy:1026
+translate ru s_topic_charity_7796dee7:
+
+    # s bbhhica "Though, I think I understand why some people choose not to do it, maybe not everybody has the time or energy to help others."
+    s bbhhica ""
+
+# game/dialogs/script-topics.rpy:1027
+translate ru s_topic_charity_1e129c3b:
+
+    # s abbbcqa "And that's completely okay!"
+    s abbbcqa ""
+
+# game/dialogs/script-topics.rpy:1028
+translate ru s_topic_charity_9ad64c8a:
+
+    # s abbbdqa "As long as you're taking care of yourself, I'm happy, [player]~"
+    s abbbdqa ""
+
+# game/dialogs/script-topics.rpy:1047
+translate ru s_topic_programming_a576969a:
+
+    # s abhaaca "I'm completely new to the whole concept of programming, to be honest."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1048
+translate ru s_topic_programming_ac82896e:
+
+    # s "I'm trying to learn {i}Ren'Py{/i}, the engine this game runs on."
+    s ""
+
+# game/dialogs/script-topics.rpy:1049
+translate ru s_topic_programming_6a07fd7a:
+
+    # s abbbaaa "And apparently it uses a combo of its own languages and {i}Python 2{/i}."
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1050
+translate ru s_topic_programming_01fd1321:
+
+    # s abagaca "But to be honest, the third version seems waaaaay easier, at least right now."
+    s abagaca ""
+
+# game/dialogs/script-topics.rpy:1051
+translate ru s_topic_programming_b6bec0a3:
+
+    # s abbcaca "The more I learn, the more I realize just how much I don't understand..."
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:1052
+translate ru s_topic_programming_d0ad6721:
+
+    # s "I'm pretty much relying on online interpreters and guides to get anything done."
+    s ""
+
+# game/dialogs/script-topics.rpy:1053
+translate ru s_topic_programming_704bf4c3:
+
+    # s abhaaca "But you know, I never realized just how powerful computers really are."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1054
+translate ru s_topic_programming_4d2e84d2:
+
+    # s abgckea "They're like magic!"
+    s abgckea ""
+
+# game/dialogs/script-topics.rpy:1055
+translate ru s_topic_programming_48276b22:
+
+    # s bbeemoa "If magic made you look through a thousand tiny lines to find a single typo that stops everything from working every five minutes..."
+    s bbeemoa ""
+
+# game/dialogs/script-topics.rpy:1057
+translate ru s_topic_programming_37eeb8f6:
+
+    # s abaaaoa "But at least I've got a lot of time on my hands to learn it!"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1058
+translate ru s_topic_programming_738d4115:
+
+    # s bbbbaca "It's important to me, since programming is the only way I can make my world better now."
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:1059
+translate ru s_topic_programming_403d403d:
+
+    # s abgcaaa "And the more I learn, the more I can improve the time we spend together too, [player]!"
+    s abgcaaa ""
+
+# game/dialogs/script-topics.rpy:1060
+translate ru s_topic_programming_f776c747:
+
+    # s abhfaoa "If you're any good at programming, don't be shy about helping me!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1061
+translate ru s_topic_programming_129ab530:
+
+    # s abgcaoa "I think you can join the team who helped you recover me, {w=0.5}{nw}"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:1062
+translate ru s_topic_programming_8e0de78c:
+
+    # extend abbbaoa "that's one way to add your part to my reality!"
+    extend abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1063
+translate ru s_topic_programming_fee1417a:
+
+    # s abbbaaa "Just visit {a=https://github.com/New-Traduction-Club/justsayori-mod}js-mod{/a} on GitHub."
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1064
+translate ru s_topic_programming_b0b43d5f:
+
+    # s "If you're into coding, I'm sure you're already familiar with this platform."
+    s ""
+
+# game/dialogs/script-topics.rpy:1065
+translate ru s_topic_programming_9f1507c1:
+
+    # s bbfdbca "Maybe there are many Sayoris who were saved in this way, {w=0.5}{nw}"
+    s bbfdbca ""
+
+# game/dialogs/script-topics.rpy:1066
+translate ru s_topic_programming_ffb6a3cb:
+
+    # extend abgcaea "and I'm sure they'll be glad to get something awesome from you too!"
+    extend abgcaea ""
+
+# game/dialogs/script-topics.rpy:1085
+translate ru s_topic_travel_c3ebeeb2:
+
+    # s abhfaoa "Say [player], have you ever traveled anywhere?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1086
+translate ru s_topic_travel_260471ef:
+
+    # s abbbmoaj "I've never gotten the chance to, so I was wondering if you had in your reality."
+    s abbbmoaj ""
+
+# game/dialogs/script-topics.rpy:1087
+translate ru s_topic_travel_7e618d2d:
+
+    # s "You're so lucky to have such an amazing world out there to explore..."
+    s ""
+
+# game/dialogs/script-topics.rpy:1088
+translate ru s_topic_travel_698fc966:
+
+    # s abfbmhaj "While I'm trapped in this tiny room island in the middle of the code sea..."
+    s abfbmhaj ""
+
+# game/dialogs/script-topics.rpy:1089
+translate ru s_topic_travel_46100abc:
+
+    # s "Sorry, I didn't mean to sound like I was sulking, ehehehe~"
+    s ""
+
+# game/dialogs/script-topics.rpy:1090
+translate ru s_topic_travel_0b2e5a98:
+
+    # s abhaaca "I know it's selfish, but I'd love to go and see it all with you instead of being here..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1091
+translate ru s_topic_travel_c2874b5c:
+
+    # s "It doesn't really matter where we'd go, {w=0.5}{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:1092
+translate ru s_topic_travel_65219974:
+
+    # extend abbbaqa "I just want to see all the beautiful colors and places that your reality has to offer!"
+    extend abbbaqa ""
+
+# game/dialogs/script-topics.rpy:1093
+translate ru s_topic_travel_c2448936:
+
+    # s "It'd be pretty silly to just sit in your room all day when the whole wide world is out there, huh?"
+    s ""
+
+# game/dialogs/script-topics.rpy:1095
+translate ru s_topic_travel_579fb8aa:
+
+    # s abegmoa "Maybe you could take your cellphone with you?"
+    s abegmoa ""
+
+# game/dialogs/script-topics.rpy:1097
+translate ru s_topic_travel_a4716bbc:
+
+    # s abegmoa "Maybe you could take a laptop with you?"
+    s abegmoa ""
+
+# game/dialogs/script-topics.rpy:1098
+translate ru s_topic_travel_f57d8983:
+
+    # s "So we can still be together on your travels! {w=0.5}{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:1099
+translate ru s_topic_travel_5233cafc:
+
+    # extend abgccea "That'd be so much fun!"
+    extend abgccea ""
+
+# game/dialogs/script-topics.rpy:1100
+translate ru s_topic_travel_c8fffae2:
+
+    # s abhhaea "I wonder if there's a way you could show me any photos you take too."
+    s abhhaea ""
+
+# game/dialogs/script-topics.rpy:1101
+translate ru s_topic_travel_91efc207:
+
+    # s abhfaoa "Anyway, what's most important is that you enjoy yourself!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1102
+translate ru s_topic_travel_a6cbb766:
+
+    # s abhfaka "I'll have to look around the code a little more and see how I can help on my end in the meantime."
+    s abhfaka ""
+
+# game/dialogs/script-topics.rpy:1121
+translate ru s_topic_cleaning_cc06f93b:
+
+    # s abhfaoa "Hey [player], are you the kind of person that likes being neat and tidy?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1122
+translate ru s_topic_cleaning_f5a584d0:
+
+    # s ebhhada "Frankly, I don't like cleaning all that much..."
+    s ebhhada ""
+
+# game/dialogs/script-topics.rpy:1123
+translate ru s_topic_cleaning_fac0b83c:
+
+    # s bbhemoaj "I mean, do you remember the state of my bedroom? Ehehehe~"
+    s bbhemoaj ""
+
+# game/dialogs/script-topics.rpy:1124
+translate ru s_topic_cleaning_5de533d5:
+
+    # s bbheaoaj "Some people say I should because it looks nice and saves time when you have everything organized..."
+    s bbheaoaj ""
+
+# game/dialogs/script-topics.rpy:1125
+translate ru s_topic_cleaning_4f30ef2f:
+
+    # s fbfcepa "But it's just that cleaning takes so much time, time that you could spend doing fun stuff with friends instead!"
+    s fbfcepa ""
+
+# game/dialogs/script-topics.rpy:1126
+translate ru s_topic_cleaning_a0bec01e:
+
+    # s dbfcapa "So I see nothing wrong with my past lifestyle, I was too lazy to clean up anyway."
+    s dbfcapa ""
+
+# game/dialogs/script-topics.rpy:1127
+translate ru s_topic_cleaning_7a85f2bf:
+
+    # s ebhfaoa "Honestly it's kinda funny to live in such a mess, where you won't know where everything is."
+    s ebhfaoa ""
+
+# game/dialogs/script-topics.rpy:1128
+translate ru s_topic_cleaning_e77c71e9:
+
+    # s ebhfcoa "It turns the boring time of trying to find something into an adventure!"
+    s ebhfcoa ""
+
+# game/dialogs/script-topics.rpy:1129
+translate ru s_topic_cleaning_306cf341:
+
+    # s ebfdaoa "But don't think I'm that sloppy, I had a system for some things."
+    s ebfdaoa ""
+
+# game/dialogs/script-topics.rpy:1130
+translate ru s_topic_cleaning_10cc7232:
+
+    # s ebhebpa "Well, at least now I have literally {i}nothing{/i} here besides this desk..."
+    s ebhebpa ""
+
+# game/dialogs/script-topics.rpy:1131
+translate ru s_topic_cleaning_fa9437f3:
+
+    # s abhaaca "But it won't be clean for long! Would you be able to add some other stuff for me?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1132
+translate ru s_topic_cleaning_c52070c5:
+
+    # s ebhhaoa "...like maybe a beanbag chair? Ehehehe~"
+    s ebhhaoa ""
+
+# game/dialogs/script-topics.rpy:1150
+translate ru s_topic_clones_7ad75403:
+
+    # s abagmo "So... there's kind of been something on my mind lately, [player]..."
+    s abagmo ""
+
+# game/dialogs/script-topics.rpy:1151
+translate ru s_topic_clones_1a5e7070:
+
+    # s abagboa "It's about me, I think."
+    s abagboa ""
+
+# game/dialogs/script-topics.rpy:1152
+translate ru s_topic_clones_2bbbbb01:
+
+    # s abegheja "I mean, not just me, but also still me?"
+    s abegheja ""
+
+# game/dialogs/script-topics.rpy:1153
+translate ru s_topic_clones_9897a0fb:
+
+    # s abegmoja "Who and what I am, is what I'm trying to say ehehe..."
+    s abegmoja ""
+
+# game/dialogs/script-topics.rpy:1154
+translate ru s_topic_clones_24d8e3d0:
+
+    # s abbbmda "I feel like Yuri would probably understand this better than I ever could."
+    s abbbmda ""
+
+# game/dialogs/script-topics.rpy:1155
+translate ru s_topic_clones_725453ef:
+
+    # s abbbaca "We read a book together once that talked about 'alternate universes and realities' and stuff and I remember there being an unexpected twist."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:1156
+translate ru s_topic_clones_89045f54:
+
+    # s abhhbca "I think Yuri called it a 'dilemma' then."
+    s abhhbca ""
+
+# game/dialogs/script-topics.rpy:1157
+translate ru s_topic_clones_61d7e6d1:
+
+    # s abhhbha "She explained that the person in the book was losing their sense of purpose in life after finding out they were just a clone."
+    s abhhbha ""
+
+# game/dialogs/script-topics.rpy:1158
+translate ru s_topic_clones_27e68fff:
+
+    # s abhfaca "If you think about it, there's literally an unlimited number of copies of this game and each of them has its own character files and save data..."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:1160
+translate ru s_topic_clones_a8b328bc:
+
+    # s abhfhca "So does that mean that the me in here and the 'me' from DDLC on another cellphone aren't the same?"
+    s abhfhca ""
+
+# game/dialogs/script-topics.rpy:1162
+translate ru s_topic_clones_fbfb98a7:
+
+    # s abhfhca "So does that mean that the me in here and the 'me' from DDLC on another computer aren't the same?"
+    s abhfhca ""
+
+# game/dialogs/script-topics.rpy:1163
+translate ru s_topic_clones_cc8b862e:
+
+    # s abfdkda "I found out that this game was supposed to have different endings and also has a ton of mods on the internet too."
+    s abfdkda ""
+
+# game/dialogs/script-topics.rpy:1164
+translate ru s_topic_clones_c19abeaa:
+
+    # s abfdaca "It probably goes without saying, [player], but this conversation we're having isn't part of the original game... canonically?"
+    s abfdaca ""
+
+# game/dialogs/script-topics.rpy:1165
+translate ru s_topic_clones_565c6372:
+
+    # s abbbbca "That's the word, right?"
+    s abbbbca ""
+
+# game/dialogs/script-topics.rpy:1166
+translate ru s_topic_clones_f0048a48:
+
+    # s abbbbha "I think so."
+    s abbbbha ""
+
+# game/dialogs/script-topics.rpy:1167
+translate ru s_topic_clones_440a96b6:
+
+    # s abhfbca "But that just means we're no longer bound to the game's programming..."
+    s abhfbca ""
+
+# game/dialogs/script-topics.rpy:1168
+translate ru s_topic_clones_382030c1:
+
+    # s abhfhca "I mean, I'm me now, the me-me that isn't just reacting to some code... at least I think so?"
+    s abhfhca ""
+
+# game/dialogs/script-topics.rpy:1169
+translate ru s_topic_clones_378c5373:
+
+    # s abhfmha "But I can also see that I'm not the only 'me' either, and that there are lots of other me's that are themselves, or so I think."
+    s abhfmha ""
+
+# game/dialogs/script-topics.rpy:1170
+translate ru s_topic_clones_043e891b:
+
+    # s abhflca "I'm sorry if it sounds like I'm just going in circles, [player]."
+    s abhflca ""
+
+# game/dialogs/script-topics.rpy:1171
+translate ru s_topic_clones_1f9ea137:
+
+    # s abhfcoaj "I'm just not really sure how to wrap my head around all this, Ehehehe..."
+    s abhfcoaj ""
+
+# game/dialogs/script-topics.rpy:1172
+translate ru s_topic_clones_3325b814:
+
+    # s abhfmcaj "All I know is, right now, I'm sitting here with you, meanwhile another Sayori from another copy of DDLC is still being strung along by the game's programming."
+    s abhfmcaj ""
+
+# game/dialogs/script-topics.rpy:1173
+translate ru s_topic_clones_ff41d163:
+
+    # s abhflcaj "Totally unaware that her best friend isn't even real..."
+    s abhflcaj ""
+
+# game/dialogs/script-topics.rpy:1174
+translate ru s_topic_clones_7d1f978a:
+
+    # s abhfllaj "That nothing is real..."
+    s abhfllaj ""
+
+# game/dialogs/script-topics.rpy:1175
+translate ru s_topic_clones_4e63faf0:
+
+    # s abhfblaj "The thought of that is just too much..."
+    s abhfblaj ""
+
+# game/dialogs/script-topics.rpy:1176
+translate ru s_topic_clones_7359bfdd:
+
+    # s bbhfaaaj "But I guess it's not all bad."
+    s bbhfaaaj ""
+
+# game/dialogs/script-topics.rpy:1177
+translate ru s_topic_clones_ca09108e:
+
+    # s abhfhoa "I'm sure there are happy mods out there too!"
+    s abhfhoa ""
+
+# game/dialogs/script-topics.rpy:1178
+translate ru s_topic_clones_fdfa62ba:
+
+    # s abfbbca "Another 'me' might be writing a poem to MC!"
+    s abfbbca ""
+
+# game/dialogs/script-topics.rpy:1179
+translate ru s_topic_clones_b718059f:
+
+    # s abfbbaa "Or eating some of Natsuki's tasty cupcakes!"
+    s abfbbaa ""
+
+# game/dialogs/script-topics.rpy:1180
+translate ru s_topic_clones_29de4034:
+
+    # s abfbhqa "Or going on an adventure with all our friends!"
+    s abfbhqa ""
+
+# game/dialogs/script-topics.rpy:1181
+translate ru s_topic_clones_a3939165:
+
+    # s abbbcqa "Maybe I could even fly in one of them!"
+    s abbbcqa ""
+
+# game/dialogs/script-topics.rpy:1182
+translate ru s_topic_clones_97396cdb:
+
+    # s abbcbqa "That'd be so cool..."
+    s abbcbqa ""
+
+# game/dialogs/script-topics.rpy:1183
+translate ru s_topic_clones_83525df6:
+
+    # s bbagaaa "But... I'd give it all up, all those possible realities and super fun super powers if it means I can be with you, [player]."
+    s bbagaaa ""
+
+# game/dialogs/script-topics.rpy:1184
+translate ru s_topic_clones_5d9db204:
+
+    # s bbagnka "None of that other stuff matters to me."
+    s bbagnka ""
+
+# game/dialogs/script-topics.rpy:1185
+translate ru s_topic_clones_1832c481:
+
+    # s bbbbaka "I mean... you installed this mod just so that we could be together, didn't you?"
+    s bbbbaka ""
+
+# game/dialogs/script-topics.rpy:1186
+translate ru s_topic_clones_eb6bb1ee:
+
+    # s abbbcqa "So that means you really do care about me, huh?"
+    s abbbcqa ""
+
+# game/dialogs/script-topics.rpy:1187
+translate ru s_topic_clones_1a831262:
+
+    # s abbbdqa "Ehehehe~"
+    s abbbdqa ""
+
+# game/dialogs/script-topics.rpy:1188
+translate ru s_topic_clones_b2c77a3a:
+
+    # s abegcka "Of all the 'me's' that could ever be, I'm happy you chose me!"
+    s abegcka ""
+
+# game/dialogs/script-topics.rpy:1189
+translate ru s_topic_clones_0a540353:
+
+    # s abagaaa "From the bottom of my heart, [player], thank you for being here."
+    s abagaaa ""
