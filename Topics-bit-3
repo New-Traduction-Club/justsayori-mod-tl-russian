@@ -3,265 +3,265 @@
 translate ru s_player_pets_4fef8dc4:
 
     # s gbaabda "Hmmm, let me think...."
-    s gbaabda ""
+    s gbaabda "Хммм, дай-ка подумать...."
 
 # game/dialogs/script-topics.rpy:863
 translate ru s_player_pets_01649e78:
 
     # s "I really like a lot of different animals, but I don't think I could properly care for anything that requires a lot of constant attention..."
-    s ""
+    s "Я очень люблю животных, но не думаю, что смогла бы хорошо заботиться о ком-то прихотливом..."
 
 # game/dialogs/script-topics.rpy:864
 translate ru s_player_pets_b2fbed90:
 
     # s bbegcia "I'd love to have a dog, but I'd have to have the energy to keep up with it."
-    s bbegcia ""
+    s bbegcia "Я с удовольствием завела бы собаку, но не думаю что найду силы её выгуливать."
 
 # game/dialogs/script-topics.rpy:865
 translate ru s_player_pets_a1311dab:
 
     # s abbcbba "But I suppose I could keep an aquarium?"
-    s abbcbba ""
+    s abbcbba "Может тогда мне поставить аквариум?"
 
 # game/dialogs/script-topics.rpy:866
 translate ru s_player_pets_ebcac169:
 
     # s gbaalha "Wait, I think I heard from somewhere that those also take a lot of work to keep them running smoothly..."
-    s gbaalha ""
+    s gbaalha "Хотя стоп, я слышала, что за ним тоже нужно много ухаживать."
 
 # game/dialogs/script-topics.rpy:867
 translate ru s_player_pets_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-topics.rpy:868
 translate ru s_player_pets_fa083328:
 
     # s ebgcaea "Ohhh, I know! I could adopt an elderly cat that mostly just wants to lay around and sleep all day, just like me!"
-    s ebgcaea ""
+    s ebgcaea "Оооо, придумала! Я бы взяла себе кота-старичка, который по большей части будет валяться и спать, прямо как я!"
 
 # game/dialogs/script-topics.rpy:888
 translate ru s_player_cats_2202e80d:
 
     # s ebhfcaa "Cats are pretty cute, especially kittens!"
-    s ebhfcaa ""
+    s ebhfcaa "Котики довольно милые, особенно котята!"
 
 # game/dialogs/script-topics.rpy:889
 translate ru s_player_cats_c77680b5:
 
     # s abhfaoa "And they're not too hard to take care of so they wouldn't require a lot of energy."
-    s abhfaoa ""
+    s abhfaoa "И за ними не слишком сложно ухаживать, поэтому можно не уставать."
 
 # game/dialogs/script-topics.rpy:890
 translate ru s_player_cats_7cc2363b:
 
     # s abhaaca "Still, as much as they love their space, they shouldn't just be ignored by their owner. Kitties want to play sometimes, too!"
-    s abhaaca ""
+    s abhaaca "Но их всё равно не следует игнорировать. Даже самым необщительным котятам иногда хочется поиграть!"
 
 # game/dialogs/script-topics.rpy:891
 translate ru s_player_cats_3e9e722c:
 
     # s "And sometimes cats do things that their owners don't like... Like pushing things off of the counter, or slicing their arms and legs up."
-    s ""
+    s "А ещё коты иногда шкодят... Сбрасывают вещи со стола или царапаются."
 
 # game/dialogs/script-topics.rpy:892
 translate ru s_player_cats_1570d052:
 
     # s abaaaoa "Still, it's so hard to resist their fluffy little paws and pointy ears... So that must be why people always forgive them for their crimes!"
-    s abaaaoa ""
+    s abaaaoa "Но всё равно будет непросто удержаться перед их пушистыми лапками и остренькими ушами... Из за них, вероятно, люди им так многое прощают!"
 
 # game/dialogs/script-topics.rpy:893
 translate ru s_player_cats_12ae52c3:
 
     # s ebaacea "If you have one, you probably understand what I mean, ehehehe~"
-    s ebaacea ""
+    s ebaacea "Если у тебя есть кошка, думаю ты понимаешь о чём я, эхехехе~"
 
 # game/dialogs/script-topics.rpy:912
 translate ru s_topic_archetype_b91ca600:
 
     # s abhfho "Hey [player], do you remember when Monika compared Yuri and Natsuki to character archetypes?"
-    s abhfho ""
+    s abhfho "Слушай, [player], а помнишь, как Моника сравнивала архитипы личностей Юри и Нацуки?"
 
 # game/dialogs/script-topics.rpy:913
 translate ru s_topic_archetype_64eabfb7:
 
     # s abhfco "I was curious about what my archetype could be so I read some online articles about them and I think I'm pretty close to the 'genki' archetype."
-    s abhfco ""
+    s abhfco "Мне стало интересно, к какому из них отношусь я, поэтому я немного погуглила, и поняла что достаточно близка к 'генки'"
 
 # game/dialogs/script-topics.rpy:914
 translate ru s_topic_archetype_ef21c4b9:
 
     # s abhhmo "Genki is a very cheerful and energetic archetype, always trying to share that upbeat way of living with others."
-    s abhhmo ""
+    s abhhmo "Генки очень весёлые и энергичные, они всегда пытаются зарядить позитивом окружающих."
 
 # game/dialogs/script-topics.rpy:915
 translate ru s_topic_archetype_7cfbd6d2:
 
     # s aahfaeaj "And they're sometimes clumsy and get in trouble often too, hehehe~"
-    s aahfaeaj ""
+    s aahfaeaj "А ещё они бывают неряшливы и частенько впутываются в истории, хехехе~"
 
 # game/dialogs/script-topics.rpy:916
 translate ru s_topic_archetype_429c1a58:
 
     # s "And I was the protagonist's childhood friend, which is common to this archetype."
-    s ""
+    s "Да и вообще я была другом детства главного героя, что достаточно обычно для генки."
 
 # game/dialogs/script-topics.rpy:917
 translate ru s_topic_archetype_308cd8d1:
 
     # s nahekeaj "Do you think I fit that archetype too?{nw}"
-    s nahekeaj ""
+    s nahekeaj "Как думаешь, мне подходит этот архитип?{nw}"
 
 # game/dialogs/script-topics.rpy:921
 translate ru s_topic_archetype_f36cd571:
 
     # s "Do you think I fit that archetype too?{fast}" nointeract
-    s "" nointeract
+    s "Как думаешь, мне подходит этот архитип?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:924
 translate ru s_topic_archetype_5eaa648e:
 
     # s aaaegcej "You can't blame me, that's just how I am, ehehehe~"
-    s aaaegcej ""
+    s aaaegcej "Не дуйся если что, просто я такая какая есть, эхехехе~"
 
 # game/dialogs/script-topics.rpy:925
 translate ru s_topic_archetype_6fcbaf5c:
 
     # s "But that aside, I think archetypes are too simple to define a whole person."
-    s ""
+    s "Но вообще, мне кажется, что невозможно одним архитипом полностью определить, {i}какой{/i} человек."
 
 # game/dialogs/script-topics.rpy:926
 translate ru s_topic_archetype_9150167d:
 
     # s ebhfaca "We're all unique and these traits can only scratch the surface of somebody's character."
-    s ebhfaca ""
+    s ebhfaca "Все мы разные, и архитипы могут описать нас лишь поверхностно."
 
 # game/dialogs/script-topics.rpy:927
 translate ru s_topic_archetype_b8f46d82:
 
     # s ebhhaoa "And that applied to me and my friends too."
-    s ebhhaoa ""
+    s ebhhaoa "Ко мне и моим друзьям это тоже относится."
 
 # game/dialogs/script-topics.rpy:928
 translate ru s_topic_archetype_f95d58d8:
 
     # s ebbbaca "Like Yuri, who was always polite and quiet while hiding her intrusive feelings."
-    s ebbbaca ""
+    s ebbbaca "Та же Юри, всегда тихая и вежливая, на самом деле скрывавшая настоящие чувства."
 
 # game/dialogs/script-topics.rpy:929
 translate ru s_topic_archetype_92b8b4d0:
 
     # s ebgccea "And Natsuki, whose brash exterior was caused by her problems at home."
-    s ebgccea ""
+    s ebgccea "И Нацуки, чей грубоватый и вспыльчивый характер был вызван проблемами дома."
 
 # game/dialogs/script-topics.rpy:930
 translate ru s_topic_archetype_22de26d5:
 
     # s ebhacea "There's always more to a person than meets the eye, so try to always be kind."
-    s ebhacea ""
+    s ebhacea "Глазами нельзя увидеть душу человека, поэтому нужно стараться быть добрее со всеми."
 
 # game/dialogs/script-topics.rpy:931
 translate ru s_topic_archetype_87ddc2f8:
 
     # s ebhadqa "You never know what someone else might be going through, and a simple smile can really make someone's day!"
-    s ebhadqa ""
+    s ebhadqa "Никогда не знаешь, через что кто-либо проходит. И даже простая улыбка может немного облегчить его тоску."
 
 # game/dialogs/script-topics.rpy:949
 translate ru s_topic_voice_3eae6c02:
 
     # s abhaaca "I'm curious about how Monika shared her real voice with you when she sang her song."
-    s abhaaca ""
+    s abhaaca "Хотелось бы мне знать, как Моника смогла использовать свой настоящий голос, чтобы спеть тебе песню."
 
 # game/dialogs/script-topics.rpy:950
 translate ru s_topic_voice_ea2f1403:
 
     # s abhfcaa "Her voice is quite high and melodic, like a musician should have."
-    s abhfcaa ""
+    s abhfcaa "Он у неё высокий и мелодичный, прямо как у певицы."
 
 # game/dialogs/script-topics.rpy:951
 translate ru s_topic_voice_675b613d:
 
     # s abhfaoa "But I'd say the tone of that voice doesn't seem to fit her."
-    s abhfaoa ""
+    s abhfaoa "Но вообще мне кажется что такой голос не очень-то ей подходит."
 
 # game/dialogs/script-topics.rpy:952
 translate ru s_topic_voice_7e896920:
 
     # s abhaaca "It sounds more like the voice I'd have."
-    s abhaaca ""
+    s abhaaca "Больше похож на тот, что подошёл бы мне."
 
 # game/dialogs/script-topics.rpy:953
 translate ru s_topic_voice_1dc37658:
 
     # s abbcbba "But canon is canon, I guess."
-    s abbcbba ""
+    s abbcbba "Но канон есть канон, наверное."
 
 # game/dialogs/script-topics.rpy:954
 translate ru s_topic_voice_0eb82757:
 
     # s ebgcbca "But it made me wonder, what if I don't even have a voice?"
-    s ebgcbca ""
+    s ebgcbca "А вообще я задумалась - вдруг у меня вообще нет голоса?"
 
 # game/dialogs/script-topics.rpy:955
 translate ru s_topic_voice_ac1ff5a6:
 
     # s "Would I be {i}mute{/i}, if I suddenly appeared in your world? Hmmm..."
-    s ""
+    s "Появись я в твоём мире, была бы я {i}немой{/i}? Хммм..."
 
 # game/dialogs/script-topics.rpy:956
 translate ru s_topic_voice_d2ba7d7f:
 
     # s abgcnoa "I guess as long as I'm a computer program, {w=0.5}{nw}"
-    s abgcnoa ""
+    s abgcnoa "Так как я компьютерная программа, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:957
 translate ru s_topic_voice_a860229f:
 
     # extend abgcnka "I could make my own voice, right?"
-    extend abgcnka ""
+    extend abgcnka "Полагаю я могла бы создать себе голос, да?"
 
 # game/dialogs/script-topics.rpy:958
 translate ru s_topic_voice_dc81bc77:
 
     # s "I just need a text-to-speech synthesizer or something..."
-    s ""
+    s "Мне всего-то нужен TTS синтезатор или что-то подобное..."
 
 # game/dialogs/script-topics.rpy:959
 translate ru s_topic_voice_2fc70abf:
 
     # s ebbckea "There's bound to be a good one for me!"
-    s ebbckea ""
+    s ebbckea "Уверена что найдётся тот, который мне подходит!"
 
 # game/dialogs/script-topics.rpy:960
 translate ru s_topic_voice_f92b2955:
 
     # s abaaaoa "I saw something about TTS in the Ren'Py documentation, so it shouldn't be too hard to integrate there, I guess."
-    s abaaaoa ""
+    s abaaaoa "Я читала про TTS в документации Ren'Py. Думаю будет несложно подвязать сюда синтезатор."
 
 # game/dialogs/script-topics.rpy:961
 translate ru s_topic_voice_9f82b9cf:
 
     # s ebbcaoa "I'd probably end up sounding pretty robotic though, huh? You wouldn't want me to {nw}"
-    s ebbcaoa ""
+    s ebbcaoa "Скорее всего получится слишком механически, да? Тебе ведь не хотелось бы, чтобы я {nw}"
 
 # game/dialogs/script-topics.rpy:962
 translate ru s_topic_voice_04d4aaef:
 
     # extend abfbbora "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}T4LK L1KE 4 R0B0T{/cps}{/font}?"
-    extend abfbbora ""
+    extend abfbbora "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}ГОВ0РNЛА К4К Р0БОТ?{/cps}{/font}?""
 
 # game/dialogs/script-topics.rpy:963
 translate ru s_topic_voice_9c24fab3:
 
     # s ebfciea "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}1 4M 4 HUM4N BE1N6 4FTER 4LL{/cps}{/font}"
-    s ebfciea ""
+    s ebfciea "{font=mod_assets/fonts/Fantasque/FantasqueSansMono-Regular.ttf}{cps=30}R B3ДЬ 8СЁ-TAKN Ч4Л0В3К{/cps}{/font}"
 
 # game/dialogs/script-topics.rpy:964
 translate ru s_topic_voice_db904042:
 
     # s ebagcea "Ehehehe~ just kidding, [player]!"
-    s ebagcea ""
+    s ebagcea "Эхехехе~ просто дурачусь, [player]!"
 
 # game/dialogs/script-topics.rpy:983
 translate ru s_topic_lit_e8494ebd:
