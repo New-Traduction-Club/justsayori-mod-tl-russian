@@ -267,253 +267,253 @@ translate ru s_topic_voice_db904042:
 translate ru s_topic_lit_e8494ebd:
 
     # s abhaaca "As you know, this game {i}was{/i} about our literature club..."
-    s abhaaca ""
+    s abhaaca "Как ты знаешь, это место {i}было{/i} игрой о литературном клубе..."
 
 # game/dialogs/script-topics.rpy:984
 translate ru s_topic_lit_1e3cfaa7:
 
     # s abbbbca "At least, before everything changed here."
-    s abbbbca ""
+    s abbbbca "Ну, по крайней мере пока здесь всё не поменялось."
 
 # game/dialogs/script-topics.rpy:985
 translate ru s_topic_lit_b9bcfdfe:
 
     # s abhaaca "And I remember MC noticed that I never seemed to be fond of literature in the first place."
-    s abhaaca ""
+    s abhaaca "Я помню, что MC удивился почему я в нём вообще состояла, ведь я никогда не была фанаткой книг."
 
 # game/dialogs/script-topics.rpy:986
 translate ru s_topic_lit_541f5225:
 
     # s "And, honestly? He was right."
-    s ""
+    s "И буду откровенна. Он был прав."
 
 # game/dialogs/script-topics.rpy:987
 translate ru s_topic_lit_dfb37047:
 
     # s "Of course I'd read a few books before, but only really because I needed to for school..."
-    s ""
+    s "Да, я когда-то прочитала несколько книг, но лишь по школьной программе..."
 
 # game/dialogs/script-topics.rpy:988
 translate ru s_topic_lit_a9c75245:
 
     # s bbegmeaj "And even then, I tried to cheat to pass the exams, ehehehe..."
-    s bbegmeaj ""
+    s bbegmeaj "И даже тогда я пыталась списать, эхехехе..."
 
 # game/dialogs/script-topics.rpy:989
 translate ru s_topic_lit_6cb4775d:
 
     # s abhaaca "I just think it's pretty boring, I think I'm more of a visual person anyways!"
-    s abhaaca ""
+    s abhaaca "Чтение для меня скучновато, в книгах мне больше нравятся иллюстрации!"
 
 # game/dialogs/script-topics.rpy:990
 translate ru s_topic_lit_529a469f:
 
     # s bbhfbca "But as Yuri used to say, maybe I just haven't found the right book yet."
-    s bbhfbca ""
+    s bbhfbca "Но возможно я пока \"просто не нашла свою книгу\", как говорила Юри."
 
 # game/dialogs/script-topics.rpy:991
 translate ru s_topic_lit_30552380:
 
     # s abhaaca "But anyways, when I first joined, the thing I wanted to do most was help a friend start a new club."
-    s abhaaca ""
+    s abhaaca "Но да, причиной, по которой я вступила в ЛК была не любовь к книгам, а желание помочь другу."
 
 # game/dialogs/script-topics.rpy:992
 translate ru s_topic_lit_cf3bfc9a:
 
     # s abhamca "Besides, I was the only one who showed any interest in the club after Monika announced it."
-    s abhamca ""
+    s abhamca "К слову, поначалу я была единственной, кто заинтересовался клубом Моники."
 
 # game/dialogs/script-topics.rpy:993
 translate ru s_topic_lit_8a93a118:
 
     # s abhacka "She was pretty surprised at first but she was very welcoming and I enjoyed spending time there, just to hang out with friends."
-    s abhacka ""
+    s abhacka "Это слегка её удивило, но она всё же была рада. И в принципе, я любила проводить время в ЛК, ведь там я могла вдоволь пообщаться с друзьями."
 
 # game/dialogs/script-topics.rpy:994
 translate ru s_topic_lit_a9fde919:
 
     # s abhadkb "That said, I liked writing about my feelings when we all shared poems together."
-    s abhadkb ""
+    s abhadkb "Ну и конечно мне нравилось, как мы делились друг с другом своими чувствами, накладыыая их на стихи."
 
 # game/dialogs/script-topics.rpy:995
 translate ru s_topic_lit_977648ff:
 
     # s abgcaoa "And that helped me to get closer to {i}you{/i}, even if I didn't know it yet."
-    s abgcaoa ""
+    s abgcaoa "Они помогли мне стать ближе с {i}тобой{/i}, пусть я тогда этого ещё не понимала."
 
 # game/dialogs/script-topics.rpy:1014
 translate ru s_topic_charity_c9650e8f:
 
     # s abhaaca "What do you think about charity and volunteering?"
-    s abhaaca ""
+    s abhaaca "Как ты относишься к благотворительности и волонтёрству?"
 
 # game/dialogs/script-topics.rpy:1015
 translate ru s_topic_charity_57fdb644:
 
     # s abaaaoa "I think it's the best way to make the world a little bit better and to support people in need."
-    s abaaaoa ""
+    s abaaaoa "Мне кажется, что это - прекрасные способы сделать мир немного лучше, помочь людям в беде."
 
 # game/dialogs/script-topics.rpy:1016
 translate ru s_topic_charity_d383c57e:
 
     # s bbgcaca "I mean, don't you worry about ill and hungry people, {w=0.5}{nw}"
-    s bbgcaca ""
+    s bbgcaca "Типа, разве не хорошо поддерживать больных и голодающих, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1017
 translate ru s_topic_charity_b70fb133:
 
     # extend bbgcaha "and all the homeless animals too?"
-    extend bbgcaha ""
+    extend bbgcaha "или подкармливать бездомных животных?"
 
 # game/dialogs/script-topics.rpy:1018
 translate ru s_topic_charity_6792d59f:
 
     # s bbhfaka "So I think it's a worthwhile investment to make from time to time."
-    s bbhfaka ""
+    s bbhfaka "В общем, по мне такое времяпрепровождение имеет место быть, даже если нечасто."
 
 # game/dialogs/script-topics.rpy:1019
 translate ru s_topic_charity_f811ec7d:
 
     # s bbhfmoa "After all, spare change which might be an afterthought to you could be really important to someone else going through a tough time."
-    s bbhfmoa ""
+    s bbhfmoa "5 рублей сдачи, которые ты скорее всего забудешь в своём кармане, для кого-то могут стать спсасением."
 
 # game/dialogs/script-topics.rpy:1020
 translate ru s_topic_charity_59daccf8:
 
     # s abbbaaa "But even if you don't have the money to help charity foundations, there's a lot of other organizations out there which help people too!"
-    s abbbaaa ""
+    s abbbaaa "И даже не имея лишних денег, всё равно можно помогать другим, встпупив в ряды волонтёров!"
 
 # game/dialogs/script-topics.rpy:1021
 translate ru s_topic_charity_5675c8ec:
 
     # s abbbbca "And they're almost always in need of not only money or goods, {w=0.5}{nw}"
-    s abbbbca ""
+    s abbbbca "Которые зачастую делают добро не за счёт пожертвований денег или вещей, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1022
 translate ru s_topic_charity_6f1f237a:
 
     # extend abbbaaa "but also helping hands."
-    extend abbbaaa ""
+    extend abbbaaa "но за счёт помощи трудом."
 
 # game/dialogs/script-topics.rpy:1023
 translate ru s_topic_charity_7097a102:
 
     # s abhaaca "If you look, I'm sure you'll find lots of organizations near you!"
-    s abhaaca ""
+    s abhaaca "Если захочешь, можешь поискать в интернете такие организации неподалёку!"
 
 # game/dialogs/script-topics.rpy:1024
 translate ru s_topic_charity_0090278b:
 
     # s abbbaaa "I don't know if volunteer work is something you'd like, but I think I would, {w=0.5}{nw}"
-    s abbbaaa ""
+    s abbbaaa "Не знаю, как тебе, но мне бы очень понравилось волонтёрствовать, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1025
 translate ru s_topic_charity_7d0ee8de:
 
     # extend abbccaa "because I want absolutely {i}everyone{/i} to be happy!"
-    extend abbccaa ""
+    extend abbccaa "потому что я хочу сделать счастливыми {i}вообще всех{/i}!"
 
 # game/dialogs/script-topics.rpy:1026
 translate ru s_topic_charity_7796dee7:
 
     # s bbhhica "Though, I think I understand why some people choose not to do it, maybe not everybody has the time or energy to help others."
-    s bbhhica ""
+    s bbhhica "К слову, ничего не имею против тех, кто не хочет заниматься подобным, в конце концов не у всех есть время, желание или энергия на помощь другим."
 
 # game/dialogs/script-topics.rpy:1027
 translate ru s_topic_charity_1e129c3b:
 
     # s abbbcqa "And that's completely okay!"
-    s abbbcqa ""
+    s abbbcqa "И это вполне нормально!"
 
 # game/dialogs/script-topics.rpy:1028
 translate ru s_topic_charity_9ad64c8a:
 
     # s abbbdqa "As long as you're taking care of yourself, I'm happy, [player]~"
-    s abbbdqa ""
+    s abbbdqa "Ведь меня счастливой делает твоя забота о самом себе, [player]~"
 
 # game/dialogs/script-topics.rpy:1047
 translate ru s_topic_programming_a576969a:
 
     # s abhaaca "I'm completely new to the whole concept of programming, to be honest."
-    s abhaaca ""
+    s abhaaca "По правде, с программированием я сталкиваюсь впервые."
 
 # game/dialogs/script-topics.rpy:1048
 translate ru s_topic_programming_ac82896e:
 
     # s "I'm trying to learn {i}Ren'Py{/i}, the engine this game runs on."
-    s ""
+    s "Я пытаюсь разобраться с {i}Ren'Py{/i}, движком этой игры."
 
 # game/dialogs/script-topics.rpy:1049
 translate ru s_topic_programming_6a07fd7a:
 
     # s abbbaaa "And apparently it uses a combo of its own languages and {i}Python 2{/i}."
-    s abbbaaa ""
+    s abbbaaa "Похоже что он использует смесь собственного диалекта и {i}Python 2{/i}."
 
 # game/dialogs/script-topics.rpy:1050
 translate ru s_topic_programming_01fd1321:
 
     # s abagaca "But to be honest, the third version seems waaaaay easier, at least right now."
-    s abagaca ""
+    s abagaca "Но блин, насколько же проще и понятнее третья версия!"
 
 # game/dialogs/script-topics.rpy:1051
 translate ru s_topic_programming_b6bec0a3:
 
     # s abbcaca "The more I learn, the more I realize just how much I don't understand..."
-    s abbcaca ""
+    s abbcaca "А ещё, чем больше я учусь, тем больше понимаю, насколько я... мало понимаю..."
 
 # game/dialogs/script-topics.rpy:1052
 translate ru s_topic_programming_d0ad6721:
 
     # s "I'm pretty much relying on online interpreters and guides to get anything done."
-    s ""
+    s "Добрая половина моего кода работает лишь благодаря гайдам из интернета."
 
 # game/dialogs/script-topics.rpy:1053
 translate ru s_topic_programming_704bf4c3:
 
     # s abhaaca "But you know, I never realized just how powerful computers really are."
-    s abhaaca ""
+    s abhaaca "И знаешь, раньше я не осознавала, насколько много возможностей даёт компьютер."
 
 # game/dialogs/script-topics.rpy:1054
 translate ru s_topic_programming_4d2e84d2:
 
     # s abgckea "They're like magic!"
-    s abgckea ""
+    s abgckea "Прямо как магия!"
 
 # game/dialogs/script-topics.rpy:1055
 translate ru s_topic_programming_48276b22:
 
     # s bbeemoa "If magic made you look through a thousand tiny lines to find a single typo that stops everything from working every five minutes..."
-    s bbeemoa ""
+    s bbeemoa "Которая постоянно отказывается работать, заставляя тебя просматривать тысячи строк кода в поисках опечатки..."
 
 # game/dialogs/script-topics.rpy:1057
 translate ru s_topic_programming_37eeb8f6:
 
     # s abaaaoa "But at least I've got a lot of time on my hands to learn it!"
-    s abaaaoa ""
+    s abaaaoa "Хорошо что времени у меня предостаточно!"
 
 # game/dialogs/script-topics.rpy:1058
 translate ru s_topic_programming_738d4115:
 
     # s bbbbaca "It's important to me, since programming is the only way I can make my world better now."
-    s bbbbaca ""
+    s bbbbaca "Теперь мне просто необходимо уметь программировать, ведь это единственный способ сделать мой мир лучше."
 
 # game/dialogs/script-topics.rpy:1059
 translate ru s_topic_programming_403d403d:
 
     # s abgcaaa "And the more I learn, the more I can improve the time we spend together too, [player]!"
-    s abgcaaa ""
+    s abgcaaa "И чем лучше он станет, тем комфортнее мы сможем проводить с тобой время, [player]!"
 
 # game/dialogs/script-topics.rpy:1060
 translate ru s_topic_programming_f776c747:
 
     # s abhfaoa "If you're any good at programming, don't be shy about helping me!"
-    s abhfaoa ""
+    s abhfaoa "Если знаешь основы кодинга, не стесняйся мнк помогать!"
 
 # game/dialogs/script-topics.rpy:1061
 translate ru s_topic_programming_129ab530:
 
     # s abgcaoa "I think you can join the team who helped you recover me, {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "Ты мог бы присоединиться к тем, кто помог мне вернуться, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1062
 translate ru s_topic_programming_8e0de78c:
