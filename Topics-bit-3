@@ -519,127 +519,127 @@ translate ru s_topic_programming_129ab530:
 translate ru s_topic_programming_8e0de78c:
 
     # extend abbbaoa "that's one way to add your part to my reality!"
-    extend abbbaoa ""
+    extend abbbaoa "и таким образом вложить немножко в улучшение моей реальности!"
 
 # game/dialogs/script-topics.rpy:1063
 translate ru s_topic_programming_fee1417a:
 
     # s abbbaaa "Just visit {a=https://github.com/New-Traduction-Club/justsayori-mod}js-mod{/a} on GitHub."
-    s abbbaaa ""
+    s abbbaaa "Их можно найти на Github: {a=https://github.com/New-Traduction-Club/justsayori-mod}js-mod{/a}."
 
 # game/dialogs/script-topics.rpy:1064
 translate ru s_topic_programming_b0b43d5f:
 
     # s "If you're into coding, I'm sure you're already familiar with this platform."
-    s ""
+    s "Думаю ты знаком с этой платформой, если разбираешься в программировании."
 
 # game/dialogs/script-topics.rpy:1065
 translate ru s_topic_programming_9f1507c1:
 
     # s bbfdbca "Maybe there are many Sayoris who were saved in this way, {w=0.5}{nw}"
-    s bbfdbca ""
+    s bbfdbca "Наверное немало других Сайори тоже были спасены этим миром, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1066
 translate ru s_topic_programming_ffb6a3cb:
 
     # extend abgcaea "and I'm sure they'll be glad to get something awesome from you too!"
-    extend abgcaea ""
+    extend abgcaea "и я знаю, что они тоже будут рады твоим усилиям!"
 
 # game/dialogs/script-topics.rpy:1085
 translate ru s_topic_travel_c3ebeeb2:
 
     # s abhfaoa "Say [player], have you ever traveled anywhere?"
-    s abhfaoa ""
+    s abhfaoa "Слушай, [player], ты когда-нибудь путешествовал?"
 
 # game/dialogs/script-topics.rpy:1086
 translate ru s_topic_travel_260471ef:
 
     # s abbbmoaj "I've never gotten the chance to, so I was wondering if you had in your reality."
-    s abbbmoaj ""
+    s abbbmoaj "Я вот нет, поэтому и спрашиваю."
 
 # game/dialogs/script-topics.rpy:1087
 translate ru s_topic_travel_7e618d2d:
 
     # s "You're so lucky to have such an amazing world out there to explore..."
-    s ""
+    s "Тебе повезло жить в таком огромном и разнообразном мире..."
 
 # game/dialogs/script-topics.rpy:1088
 translate ru s_topic_travel_698fc966:
 
     # s abfbmhaj "While I'm trapped in this tiny room island in the middle of the code sea..."
-    s abfbmhaj ""
+    s abfbmhaj "А мне приходится существовать в этой маленькой комнате посреди океана кода..."
 
 # game/dialogs/script-topics.rpy:1089
 translate ru s_topic_travel_46100abc:
 
     # s "Sorry, I didn't mean to sound like I was sulking, ehehehe~"
-    s ""
+    s "Извини, если прозвучало так, будто я из-за этого тоскую, эхехехе~"
 
 # game/dialogs/script-topics.rpy:1090
 translate ru s_topic_travel_0b2e5a98:
 
     # s abhaaca "I know it's selfish, but I'd love to go and see it all with you instead of being here..."
-    s abhaaca ""
+    s abhaaca "Знаю, что это эгоистично, но я была бы так рада вырваться отсюда, к тебе..."
 
 # game/dialogs/script-topics.rpy:1091
 translate ru s_topic_travel_c2874b5c:
 
     # s "It doesn't really matter where we'd go, {w=0.5}{nw}"
-    s ""
+    s "Неважно, куда бы мы пошли, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1092
 translate ru s_topic_travel_65219974:
 
     # extend abbbaqa "I just want to see all the beautiful colors and places that your reality has to offer!"
-    extend abbbaqa ""
+    extend abbbaqa "Мне просто хочется увидеть все те прекрасные цвета и места, которые есть в твоём мире!"
 
 # game/dialogs/script-topics.rpy:1093
 translate ru s_topic_travel_c2448936:
 
     # s "It'd be pretty silly to just sit in your room all day when the whole wide world is out there, huh?"
-    s ""
+    s "Глуповато было бы всё время сидеть в комнате, когда вокруг столько всего офигенного, правда?"
 
 # game/dialogs/script-topics.rpy:1095
 translate ru s_topic_travel_579fb8aa:
 
     # s abegmoa "Maybe you could take your cellphone with you?"
-    s abegmoa ""
+    s abegmoa "Может ты мог бы взять на прогулку свой телефон?"
 
 # game/dialogs/script-topics.rpy:1097
 translate ru s_topic_travel_a4716bbc:
 
     # s abegmoa "Maybe you could take a laptop with you?"
-    s abegmoa ""
+    s abegmoa "Может ты мог бы взять на прогулку ноутбук?"
 
 # game/dialogs/script-topics.rpy:1098
 translate ru s_topic_travel_f57d8983:
 
     # s "So we can still be together on your travels! {w=0.5}{nw}"
-    s ""
+    s "Так мы сможем путешествовать вместе! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1099
 translate ru s_topic_travel_5233cafc:
 
     # extend abgccea "That'd be so much fun!"
-    extend abgccea ""
+    extend abgccea "Получилось бы так весело!"
 
 # game/dialogs/script-topics.rpy:1100
 translate ru s_topic_travel_c8fffae2:
 
     # s abhhaea "I wonder if there's a way you could show me any photos you take too."
-    s abhhaea ""
+    s abhhaea "Кстати интересно, можешь ли ты как-то показывать мне фотки?"
 
 # game/dialogs/script-topics.rpy:1101
 translate ru s_topic_travel_91efc207:
 
     # s abhfaoa "Anyway, what's most important is that you enjoy yourself!"
-    s abhfaoa ""
+    s abhfaoa "А вообще, главное чтобы ты наслаждался!"
 
 # game/dialogs/script-topics.rpy:1102
 translate ru s_topic_travel_a6cbb766:
 
     # s abhfaka "I'll have to look around the code a little more and see how I can help on my end in the meantime."
-    s abhfaka ""
+    s abhfaka "А я тем временем могу проплыть ещё немного в океане кода, и возможно найти способ сделать разнообразнее мой собственный мир."
 
 # game/dialogs/script-topics.rpy:1121
 translate ru s_topic_cleaning_cc06f93b:
