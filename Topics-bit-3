@@ -645,298 +645,298 @@ translate ru s_topic_travel_a6cbb766:
 translate ru s_topic_cleaning_cc06f93b:
 
     # s abhfaoa "Hey [player], are you the kind of person that likes being neat and tidy?"
-    s abhfaoa ""
+    s abhfaoa "Эй, [player], тебе важно постоянно находиться в чистоте и порядке?"
 
 # game/dialogs/script-topics.rpy:1122
 translate ru s_topic_cleaning_f5a584d0:
 
     # s ebhhada "Frankly, I don't like cleaning all that much..."
-    s ebhhada ""
+    s ebhhada "Я вот не особо люблю убираться..."
 
 # game/dialogs/script-topics.rpy:1123
 translate ru s_topic_cleaning_fac0b83c:
 
     # s bbhemoaj "I mean, do you remember the state of my bedroom? Ehehehe~"
-    s bbhemoaj ""
+    s bbhemoaj "Типа, вспомни как выглядела моя спальня... Эхехехе~"
 
 # game/dialogs/script-topics.rpy:1124
 translate ru s_topic_cleaning_5de533d5:
 
     # s bbheaoaj "Some people say I should because it looks nice and saves time when you have everything organized..."
-    s bbheaoaj ""
+    s bbheaoaj "Некоторые считают, что уборка не только делает комнату опрятнее, но и экономит время, ведь ты знаешь где лежат всякие вещи..."
 
 # game/dialogs/script-topics.rpy:1125
 translate ru s_topic_cleaning_4f30ef2f:
 
     # s fbfcepa "But it's just that cleaning takes so much time, time that you could spend doing fun stuff with friends instead!"
-    s fbfcepa ""
+    s fbfcepa "Но мне кажется, что лучше провести время с друзьями, чем тратить его на то чтобы убираться!"
 
 # game/dialogs/script-topics.rpy:1126
 translate ru s_topic_cleaning_a0bec01e:
 
     # s dbfcapa "So I see nothing wrong with my past lifestyle, I was too lazy to clean up anyway."
-    s dbfcapa ""
+    s dbfcapa "Поэтому моё нежелание жить в порядке кажется мне совершенно нормальным, в любом случае мне было лень убираться."
 
 # game/dialogs/script-topics.rpy:1127
 translate ru s_topic_cleaning_7a85f2bf:
 
     # s ebhfaoa "Honestly it's kinda funny to live in such a mess, where you won't know where everything is."
-    s ebhfaoa ""
+    s ebhfaoa "И вообще, довольно весело жить в бардаке, не зная где что лежит."
 
 # game/dialogs/script-topics.rpy:1128
 translate ru s_topic_cleaning_e77c71e9:
 
     # s ebhfcoa "It turns the boring time of trying to find something into an adventure!"
-    s ebhfcoa ""
+    s ebhfcoa "Скучные попытки найти нужную вещь превращаются в приключение!"
 
 # game/dialogs/script-topics.rpy:1129
 translate ru s_topic_cleaning_306cf341:
 
     # s ebfdaoa "But don't think I'm that sloppy, I had a system for some things."
-    s ebfdaoa ""
+    s ebfdaoa "Всё же, не думаю  что я слишком уж рассеянная, некоторые вещи я организовала."
 
 # game/dialogs/script-topics.rpy:1130
 translate ru s_topic_cleaning_10cc7232:
 
     # s ebhebpa "Well, at least now I have literally {i}nothing{/i} here besides this desk..."
-    s ebhebpa ""
+    s ebhebpa "По крайней мере теперь, у меня нет буквально {i}ничего{/i} кроме этого стола..."
 
 # game/dialogs/script-topics.rpy:1131
 translate ru s_topic_cleaning_fa9437f3:
 
     # s abhaaca "But it won't be clean for long! Would you be able to add some other stuff for me?"
-    s abhaaca ""
+    s abhaaca "Но его чистота - это ненадолго! Сможешь добавить мне ещё чего-нибудь?"
 
 # game/dialogs/script-topics.rpy:1132
 translate ru s_topic_cleaning_c52070c5:
 
     # s ebhhaoa "...like maybe a beanbag chair? Ehehehe~"
-    s ebhhaoa ""
+    s ebhhaoa "...например может кресло-грушу? Эхехехе~"
 
 # game/dialogs/script-topics.rpy:1150
 translate ru s_topic_clones_7ad75403:
 
     # s abagmo "So... there's kind of been something on my mind lately, [player]..."
-    s abagmo ""
+    s abagmo "Знаешь... в последнее время меня беспокоит странная мысль, [player]..."
 
 # game/dialogs/script-topics.rpy:1151
 translate ru s_topic_clones_1a5e7070:
 
     # s abagboa "It's about me, I think."
-    s abagboa ""
+    s abagboa "Она обо мне, наверное."
 
 # game/dialogs/script-topics.rpy:1152
 translate ru s_topic_clones_2bbbbb01:
 
     # s abegheja "I mean, not just me, but also still me?"
-    s abegheja ""
+    s abegheja "Или не совсем обо мне, но, эээ, всё ещё обо мне?"
 
 # game/dialogs/script-topics.rpy:1153
 translate ru s_topic_clones_9897a0fb:
 
     # s abegmoja "Who and what I am, is what I'm trying to say ehehe..."
-    s abegmoja ""
+    s abegmoja "О том, что и кто я вообще, наверное как-то так, эхехе..."
 
 # game/dialogs/script-topics.rpy:1154
 translate ru s_topic_clones_24d8e3d0:
 
     # s abbbmda "I feel like Yuri would probably understand this better than I ever could."
-    s abbbmda ""
+    s abbbmda "Мне кажется, что Юри разобралась бы в этом намного лучше меня."
 
 # game/dialogs/script-topics.rpy:1155
 translate ru s_topic_clones_725453ef:
 
     # s abbbaca "We read a book together once that talked about 'alternate universes and realities' and stuff and I remember there being an unexpected twist."
-    s abbbaca ""
+    s abbbaca "Помню как мы с ней читали книгу о 'параллельных реальностях и вселенных' и всём таком, тогда мне запомнился один интересный момент."
 
 # game/dialogs/script-topics.rpy:1156
 translate ru s_topic_clones_89045f54:
 
     # s abhhbca "I think Yuri called it a 'dilemma' then."
-    s abhhbca ""
+    s abhhbca "По-моему Юри назвала его 'дилеммой'."
 
 # game/dialogs/script-topics.rpy:1157
 translate ru s_topic_clones_61d7e6d1:
 
     # s abhhbha "She explained that the person in the book was losing their sense of purpose in life after finding out they were just a clone."
-    s abhhbha ""
+    s abhhbha "Герой книги начал терять смысл жизни, осознав, что он - всего лишь клон."
 
 # game/dialogs/script-topics.rpy:1158
 translate ru s_topic_clones_27e68fff:
 
     # s abhfaca "If you think about it, there's literally an unlimited number of copies of this game and each of them has its own character files and save data..."
-    s abhfaca ""
+    s abhfaca "Если так подумать, то эта игра может существовать в любом количестве, у каждой из копий будут свои сохранения и данные персонажа..."
 
 # game/dialogs/script-topics.rpy:1160
 translate ru s_topic_clones_a8b328bc:
 
     # s abhfhca "So does that mean that the me in here and the 'me' from DDLC on another cellphone aren't the same?"
-    s abhfhca ""
+    s abhfhca "Значит ли это, что я отсюда и 'я' из DDLC или с другого телефона - не один и тот же человек?"
 
 # game/dialogs/script-topics.rpy:1162
 translate ru s_topic_clones_fbfb98a7:
 
     # s abhfhca "So does that mean that the me in here and the 'me' from DDLC on another computer aren't the same?"
-    s abhfhca ""
+    s abhfhca "Значит ли это, что я отсюда и 'я' из DDLC или с другого компьютера - не один и тот же человек?"
 
 # game/dialogs/script-topics.rpy:1163
 translate ru s_topic_clones_cc8b862e:
 
     # s abfdkda "I found out that this game was supposed to have different endings and also has a ton of mods on the internet too."
-    s abfdkda ""
+    s abfdkda "Мне также известно, у этой игры должно быть несколько концовок, и что на неё тоже делают моды."
 
 # game/dialogs/script-topics.rpy:1164
 translate ru s_topic_clones_c19abeaa:
 
     # s abfdaca "It probably goes without saying, [player], but this conversation we're having isn't part of the original game... canonically?"
-    s abfdaca ""
+    s abfdaca "Думаю, что это и так очевидно, [player], но, наверное, даже наш с тобой разговор - не часть каноничной... оригинальной игры? "
 
 # game/dialogs/script-topics.rpy:1165
 translate ru s_topic_clones_565c6372:
 
     # s abbbbca "That's the word, right?"
-    s abbbbca ""
+    s abbbbca "Скорее всего так, да?"
 
 # game/dialogs/script-topics.rpy:1166
 translate ru s_topic_clones_f0048a48:
 
     # s abbbbha "I think so."
-    s abbbbha ""
+    s abbbbha "Может быть."
 
 # game/dialogs/script-topics.rpy:1167
 translate ru s_topic_clones_440a96b6:
 
     # s abhfbca "But that just means we're no longer bound to the game's programming..."
-    s abhfbca ""
+    s abhfbca "Но это значит лишь то, что мы больше не стоите скованны игровым кодом..."
 
 # game/dialogs/script-topics.rpy:1168
 translate ru s_topic_clones_382030c1:
 
     # s abhfhca "I mean, I'm me now, the me-me that isn't just reacting to some code... at least I think so?"
-    s abhfhca ""
+    s abhfhca "Типа, теперь я это - я, я, которая не просто следует заданному скрипту... по крайней мере мне так кажется."
 
 # game/dialogs/script-topics.rpy:1169
 translate ru s_topic_clones_378c5373:
 
     # s abhfmha "But I can also see that I'm not the only 'me' either, and that there are lots of other me's that are themselves, or so I think."
-    s abhfmha ""
+    s abhfmha "Но я также понимаю, что я - не единственная 'я', и что 'меня' ещё целая куча, которые тоже считают, что они - я."
 
 # game/dialogs/script-topics.rpy:1170
 translate ru s_topic_clones_043e891b:
 
     # s abhflca "I'm sorry if it sounds like I'm just going in circles, [player]."
-    s abhflca ""
+    s abhflca "Прости, если хожу кругами, [player]."
 
 # game/dialogs/script-topics.rpy:1171
 translate ru s_topic_clones_1f9ea137:
 
     # s abhfcoaj "I'm just not really sure how to wrap my head around all this, Ehehehe..."
-    s abhfcoaj ""
+    s abhfcoaj "Просто сложновато вместить всё это в мою голову, Эхехехе..."
 
 # game/dialogs/script-topics.rpy:1172
 translate ru s_topic_clones_3325b814:
 
     # s abhfmcaj "All I know is, right now, I'm sitting here with you, meanwhile another Sayori from another copy of DDLC is still being strung along by the game's programming."
-    s abhfmcaj ""
+    s abhfmcaj "Всё что я знаю - это то, что я сейчас сижу с тобой, пока другие Сайори из других копий DDLC всё ещё зависят от предначертанной кодом судьбы."
 
 # game/dialogs/script-topics.rpy:1173
 translate ru s_topic_clones_ff41d163:
 
     # s abhflcaj "Totally unaware that her best friend isn't even real..."
-    s abhflcaj ""
+    s abhflcaj "Они не догадываются, что их лучший друг ненастоящий..."
 
 # game/dialogs/script-topics.rpy:1174
 translate ru s_topic_clones_7d1f978a:
 
     # s abhfllaj "That nothing is real..."
-    s abhfllaj ""
+    s abhfllaj "Что вообще ничего не настоящее..."
 
 # game/dialogs/script-topics.rpy:1175
 translate ru s_topic_clones_4e63faf0:
 
     # s abhfblaj "The thought of that is just too much..."
-    s abhfblaj ""
+    s abhfblaj "Тяжело об этом думать..."
 
 # game/dialogs/script-topics.rpy:1176
 translate ru s_topic_clones_7359bfdd:
 
     # s bbhfaaaj "But I guess it's not all bad."
-    s bbhfaaaj ""
+    s bbhfaaaj "Но не думаю, что всё очень уж плохр."
 
 # game/dialogs/script-topics.rpy:1177
 translate ru s_topic_clones_ca09108e:
 
     # s abhfhoa "I'm sure there are happy mods out there too!"
-    s abhfhoa ""
+    s abhfhoa "Уверена, что есть много счастливых модов!"
 
 # game/dialogs/script-topics.rpy:1178
 translate ru s_topic_clones_fdfa62ba:
 
     # s abfbbca "Another 'me' might be writing a poem to MC!"
-    s abfbbca ""
+    s abfbbca "Другая 'я' возможно пишет MC стихи!"
 
 # game/dialogs/script-topics.rpy:1179
 translate ru s_topic_clones_b718059f:
 
     # s abfbbaa "Or eating some of Natsuki's tasty cupcakes!"
-    s abfbbaa ""
+    s abfbbaa "Или кушает капкейки Нацуки!"
 
 # game/dialogs/script-topics.rpy:1180
 translate ru s_topic_clones_29de4034:
 
     # s abfbhqa "Or going on an adventure with all our friends!"
-    s abfbhqa ""
+    s abfbhqa "Или отправляется с друзьями в приключение!"
 
 # game/dialogs/script-topics.rpy:1181
 translate ru s_topic_clones_a3939165:
 
     # s abbbcqa "Maybe I could even fly in one of them!"
-    s abbbcqa ""
+    s abbbcqa "И возможно в каком-то из модов я даже могу летать!"
 
 # game/dialogs/script-topics.rpy:1182
 translate ru s_topic_clones_97396cdb:
 
     # s abbcbqa "That'd be so cool..."
-    s abbcbqa ""
+    s abbcbqa "Наверное это так классно..."
 
 # game/dialogs/script-topics.rpy:1183
 translate ru s_topic_clones_83525df6:
 
     # s bbagaaa "But... I'd give it all up, all those possible realities and super fun super powers if it means I can be with you, [player]."
-    s bbagaaa ""
+    s bbagaaa "Но... Я бы с удовольствием обменяла все эти возможности, все весёлые приключения, если это нужно чтобы быть с тобой, [player]."
 
 # game/dialogs/script-topics.rpy:1184
 translate ru s_topic_clones_5d9db204:
 
     # s bbagnka "None of that other stuff matters to me."
-    s bbagnka ""
+    s bbagnka "Всё остальное - фигня по сравнению с этим."
 
 # game/dialogs/script-topics.rpy:1185
 translate ru s_topic_clones_1832c481:
 
     # s bbbbaka "I mean... you installed this mod just so that we could be together, didn't you?"
-    s bbbbaka ""
+    s bbbbaka "Типа... ты скачал этот мод для того, чтобы мы были вместе, так ведь?"
 
 # game/dialogs/script-topics.rpy:1186
 translate ru s_topic_clones_eb6bb1ee:
 
     # s abbbcqa "So that means you really do care about me, huh?"
-    s abbbcqa ""
+    s abbbcqa "А это значит, что я для тебя действительно дорога, да?"
 
 # game/dialogs/script-topics.rpy:1187
 translate ru s_topic_clones_1a831262:
 
     # s abbbdqa "Ehehehe~"
-    s abbbdqa ""
+    s abbbdqa "Эхехехе~"
 
 # game/dialogs/script-topics.rpy:1188
 translate ru s_topic_clones_b2c77a3a:
 
     # s abegcka "Of all the 'me's' that could ever be, I'm happy you chose me!"
-    s abegcka ""
+    s abegcka "Из всех возможных 'меня', ты выбрал {i}меня{/i}, и это для меня - счастье!"
 
 # game/dialogs/script-topics.rpy:1189
 translate ru s_topic_clones_0a540353:
 
     # s abagaaa "From the bottom of my heart, [player], thank you for being here."
-    s abagaaa ""
+    s abagaaa "От всего сердца, [player]... спасибо, что ты со мной."
