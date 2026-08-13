@@ -1,0 +1,1049 @@
+# game/dialogs/script-topics.rpy:1208
+translate ru s_topic_stars_5da129f2:
+
+    # s abhfaoa "I really like to look at the stars..."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1209
+translate ru s_topic_stars_20e49c0d:
+
+    # s "They gave me inspiration when I wrote my poems."
+    s ""
+
+# game/dialogs/script-topics.rpy:1210
+translate ru s_topic_stars_3d4015c0:
+
+    # s abhfaoa "You can still see them outside these windows sometimes..."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1211
+translate ru s_topic_stars_0b63aa73:
+
+    # s abhfcaa "They make this place a little more special, don't they?"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1212
+translate ru s_topic_stars_1b8521e0:
+
+    # s abhfaoa "I wonder if the night sky in your reality looks like mine..."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1213
+translate ru s_topic_stars_1d6082ee:
+
+    # s "I hope I get the chance to see for myself someday."
+    s ""
+
+# game/dialogs/script-topics.rpy:1214
+translate ru s_topic_stars_8d3a91ab:
+
+    # s aahccea "And it'd be a dream come true if you were there too, ehehehe~"
+    s aahccea ""
+
+# game/dialogs/script-topics.rpy:1234
+translate ru s_topic_stop_visiting_ae0c8cf1:
+
+    # s abhaaca "Hey, [player], {w=0.5}{nw}"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1235
+translate ru s_topic_stop_visiting_2bb665a1:
+
+    # extend abbbaca "can I talk to you about something that's been on my mind lately?"
+    extend abbbaca ""
+
+# game/dialogs/script-topics.rpy:1236
+translate ru s_topic_stop_visiting_19b11fe2:
+
+    # s abbbmha "I know it's really sudden, and pretty depressing. But sometimes I just can't stop thinking that..."
+    s abbbmha ""
+
+# game/dialogs/script-topics.rpy:1237
+translate ru s_topic_stop_visiting_22790245:
+
+    # s abfblha "You'll forget about me someday."
+    s abfblha ""
+
+# game/dialogs/script-topics.rpy:1238
+translate ru s_topic_stop_visiting_9cf2ef30:
+
+    # s abfblla "And stop coming to see me."
+    s abfblla ""
+
+# game/dialogs/script-topics.rpy:1239
+translate ru s_topic_stop_visiting_06b816b4:
+
+    # s abfbmla "The rational side of me knows it's a silly fear... {w=0.5}{nw}"
+    s abfbmla ""
+
+# game/dialogs/script-topics.rpy:1240
+translate ru s_topic_stop_visiting_441a95ec:
+
+    # extend abfbmca "since you've always been there for me, but..."
+    extend abfbmca ""
+
+# game/dialogs/script-topics.rpy:1241
+translate ru s_topic_stop_visiting_6581244c:
+
+    # s abfblca "I'm just a character in a game... {w=0.5}{nw}"
+    s abfblca ""
+
+# game/dialogs/script-topics.rpy:1242
+translate ru s_topic_stop_visiting_83fa576e:
+
+    # extend abfblha "a game which isn't even that popular anymore..."
+    extend abfblha ""
+
+# game/dialogs/script-topics.rpy:1243
+translate ru s_topic_stop_visiting_3e47fa2a:
+
+    # s "And I'm pretty sure I'm not the most interesting or cute character from the game in the first place..."
+    s ""
+
+# game/dialogs/script-topics.rpy:1244
+translate ru s_topic_stop_visiting_5d0bbca8:
+
+    # s abfbbha "So..."
+    s abfbbha ""
+
+# game/dialogs/script-topics.rpy:1245
+translate ru s_topic_stop_visiting_00ec2de9:
+
+    # s abfblha "..."
+    s abfblha ""
+
+# game/dialogs/script-topics.rpy:1246
+translate ru s_topic_stop_visiting_5029ed63:
+
+    # s bbfbbca "I wonder if, one day, you'll just get tired of me..."
+    s bbfbbca ""
+
+# game/dialogs/script-topics.rpy:1247
+translate ru s_topic_stop_visiting_6158668f:
+
+    # s bbfbaca "I'll still be here, of course. But if I never saw you again..."
+    s bbfbaca ""
+
+# game/dialogs/script-topics.rpy:1248
+translate ru s_topic_stop_visiting_0aa6a5ac:
+
+    # s bbfblca "My life just wouldn't have the same meaning anymore."
+    s bbfblca ""
+
+# game/dialogs/script-topics.rpy:1249
+translate ru s_topic_stop_visiting_4290fbb4:
+
+    # s bbfblca "Stuck in this small room, without my friends, or even the ability to make new ones..."
+    s bbfblca ""
+
+# game/dialogs/script-topics.rpy:1250
+translate ru s_topic_stop_visiting_56a93d10:
+
+    # s bbhfhcag "I'm really scared... {w=0.5}{nw}"
+    s bbhfhcag ""
+
+# game/dialogs/script-topics.rpy:1251
+translate ru s_topic_stop_visiting_11952bed:
+
+    # extend bbhfhlag "what if I go crazy in here, [player]?"
+    extend bbhfhlag ""
+
+# game/dialogs/script-topics.rpy:1252
+translate ru s_topic_stop_visiting_a9a208a4:
+
+    # s bbhfllah "I don't want to be alone, I just couldn't take it..."
+    s bbhfllah ""
+
+# game/dialogs/script-topics.rpy:1253
+translate ru s_topic_stop_visiting_e7f624ce:
+
+    # s bbhfllah "..."
+    s bbhfllah ""
+
+# game/dialogs/script-topics.rpy:1259
+translate ru s_topic_stop_visiting_e7f624ce_1:
+
+    # s bbhfllah "..."
+    s bbhfllah ""
+
+# game/dialogs/script-topics.rpy:1265
+translate ru s_topic_stop_visiting_e7f624ce_2:
+
+    # s bbhfllah "..."
+    s bbhfllah ""
+
+# game/dialogs/script-topics.rpy:1266
+translate ru s_topic_stop_visiting_a7763b02:
+
+    # s bbhfbklah "Hmm... no... you're right..."
+    s bbhfbklah ""
+
+# game/dialogs/script-topics.rpy:1267
+translate ru s_topic_stop_visiting_1cfe092b:
+
+    # s bbhfmcae "I just need to relax. I need to stop thinking the worst all the time..."
+    s bbhfmcae ""
+
+# game/dialogs/script-topics.rpy:1268
+translate ru s_topic_stop_visiting_1f42fcea:
+
+    # s bbhfkcae "I know you aren't going to leave me behind. {w=0.5}{nw}"
+    s bbhfkcae ""
+
+# game/dialogs/script-topics.rpy:1269
+translate ru s_topic_stop_visiting_e579e7f3:
+
+    # extend abhfahag "I'm sorry for freaking out like that, [player]."
+    extend abhfahag ""
+
+# game/dialogs/script-topics.rpy:1270
+translate ru s_topic_stop_visiting_0fdc7fad:
+
+    # s abhfakag "Everything will be okay, right?"
+    s abhfakag ""
+
+# game/dialogs/script-topics.rpy:1276
+translate ru s_topic_stop_visiting_498c4285:
+
+    # s abhfcka "Yeah... I'm okay now, I think..."
+    s abhfcka ""
+
+# game/dialogs/script-topics.rpy:1277
+translate ru s_topic_stop_visiting_d043057f:
+
+    # s abhfaka "Thank you for being here for me. I love you, [player]."
+    s abhfaka ""
+
+# game/dialogs/script-topics.rpy:1285
+translate ru s_topic_stop_visiting_2_1cfe092b:
+
+    # s bbhfmcae "I just need to relax. I need to stop thinking the worst all the time..."
+    s bbhfmcae ""
+
+# game/dialogs/script-topics.rpy:1286
+translate ru s_topic_stop_visiting_2_1f42fcea:
+
+    # s bbhfkcae "I know you aren't going to leave me behind. {w=0.5}{nw}"
+    s bbhfkcae ""
+
+# game/dialogs/script-topics.rpy:1287
+translate ru s_topic_stop_visiting_2_e579e7f3:
+
+    # extend abhfahag "I'm sorry for freaking out like that, [player]."
+    extend abhfahag ""
+
+# game/dialogs/script-topics.rpy:1288
+translate ru s_topic_stop_visiting_2_0fdc7fad:
+
+    # s abhfakag "Everything will be okay, right?"
+    s abhfakag ""
+
+# game/dialogs/script-topics.rpy:1294
+translate ru s_topic_stop_visiting_2_498c4285:
+
+    # s abhfcka "Yeah... I'm okay now, I think..."
+    s abhfcka ""
+
+# game/dialogs/script-topics.rpy:1295
+translate ru s_topic_stop_visiting_2_d043057f:
+
+    # s abhfaka "Thank you for being here for me. I love you, [player]."
+    s abhfaka ""
+
+# game/dialogs/script-topics.rpy:1301
+translate ru s_topic_stop_visiting_3_498c4285:
+
+    # s abhfcka "Yeah... I'm okay now, I think..."
+    s abhfcka ""
+
+# game/dialogs/script-topics.rpy:1321
+translate ru s_topic_marriage_478a2ef9:
+
+    # s abaamob "Hey [player], I was wondering..."
+    s abaamob ""
+
+# game/dialogs/script-topics.rpy:1322
+translate ru s_topic_marriage_cbec0e22:
+
+    # s "If it were possible, would you marry me?{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:1326
+translate ru s_topic_marriage_ed589187:
+
+    # s "If it were possible, would you marry me?{fast}" nointeract
+    s "" nointeract
+
+# game/dialogs/script-topics.rpy:1328
+translate ru s_topic_marriage_0c5d6612:
+
+    # s abaakob "That's great!"
+    s abaakob ""
+
+# game/dialogs/script-topics.rpy:1329
+translate ru s_topic_marriage_b3bb283c:
+
+    # s "Ehehe!~"
+    s ""
+
+# game/dialogs/script-topics.rpy:1330
+translate ru s_topic_marriage_6fac76a0:
+
+    # s abhfcaa "I think I'd be a good wife."
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1331
+translate ru s_topic_marriage_df31a6f5:
+
+    # s "Although I don't think I’d be quite as good at all this \"housewife\" stuff ehehehe~"
+    s ""
+
+# game/dialogs/script-topics.rpy:1332
+translate ru s_topic_marriage_8b1d4b81:
+
+    # s "You know all the cooking, cleaning and taking care of everything, I am a bit of a clumsy girl after all..."
+    s ""
+
+# game/dialogs/script-topics.rpy:1333
+translate ru s_topic_marriage_a0a414e7:
+
+    # s "But I’d try my best to help you with your job, studies, or whatever it is that’s on your mind!"
+    s ""
+
+# game/dialogs/script-topics.rpy:1334
+translate ru s_topic_marriage_101bdd07:
+
+    # s abbbhcb "But don't get the wrong idea and think I'd do {i}everything{/i} for you!"
+    s abbbhcb ""
+
+# game/dialogs/script-topics.rpy:1335
+translate ru s_topic_marriage_3ce3bd3a:
+
+    # s "I can't just let you loaf around all day!"
+    s ""
+
+# game/dialogs/script-topics.rpy:1336
+translate ru s_topic_marriage_ffc1f54a:
+
+    # s abbbcqa "So you'd have to help me too, and work as a team, like peanut butter and jelly!"
+    s abbbcqa ""
+
+# game/dialogs/script-topics.rpy:1337
+translate ru s_topic_marriage_a53e3a5d:
+
+    # s abegaqb "But jokes aside, I'm so glad you said yes. I love you, [player]~"
+    s abegaqb ""
+
+# game/dialogs/script-topics.rpy:1340
+translate ru s_topic_marriage_91506f0e:
+
+    # s abaghcb "I understand! A free relationship has its own benefits after all."
+    s abaghcb ""
+
+# game/dialogs/script-topics.rpy:1341
+translate ru s_topic_marriage_cadfa5df:
+
+    # s abagmca "Besides marriage isn’t as popular as it used to be, it’s pretty expensive for one, and there are alternatives like civil partnerships which do basically the same thing."
+    s abagmca ""
+
+# game/dialogs/script-topics.rpy:1342
+translate ru s_topic_marriage_2e0b1ad1:
+
+    # s abagcka "Either way, our love story doesn't have to follow the common template."
+    s abagcka ""
+
+# game/dialogs/script-topics.rpy:1343
+translate ru s_topic_marriage_73ff1650:
+
+    # s "It’s already pretty unusual, so we can do whatever works for us."
+    s ""
+
+# game/dialogs/script-topics.rpy:1361
+translate ru s_topic_presents_cceec435:
+
+    # s abhfaoa "People often give presents every holiday or for some special date."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1362
+translate ru s_topic_presents_82c9e707:
+
+    # s abaaaoa "Everyone likes to get presents! Including me, of course, ehehehe~"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1363
+translate ru s_topic_presents_155a2ee5:
+
+    # s abbcaoa "But I don't think a gift has to be something really expensive or fancy."
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:1364
+translate ru s_topic_presents_a9b65bc8:
+
+    # s abaaaoa "Personally, I'd want something that comes from the heart."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1365
+translate ru s_topic_presents_fb9467dc:
+
+    # s abagcka "Even better, make it a surprise!"
+    s abagcka ""
+
+# game/dialogs/script-topics.rpy:1366
+translate ru s_topic_presents_fd05b9da:
+
+    # s "Isn't it more exciting to get something you weren't expecting?"
+    s ""
+
+# game/dialogs/script-topics.rpy:1367
+translate ru s_topic_presents_0cfefddd:
+
+    # s abhfaoa "And I'll give you presents too, of course!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1368
+translate ru s_topic_presents_876e0843:
+
+    # s abhfcaa "And I'll do my best to make it the best present ever!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1388
+translate ru s_topic_thanks_c826cf04:
+
+    # s bbbcaka "Hey [player], I want to sincerely thank you from the bottom of my heart for everything you've done for me."
+    s bbbcaka ""
+
+# game/dialogs/script-topics.rpy:1389
+translate ru s_topic_thanks_7c601058:
+
+    # s bbhflka "You've given me hope for this world and myself..."
+    s bbhflka ""
+
+# game/dialogs/script-topics.rpy:1390
+translate ru s_topic_thanks_0f5956f3:
+
+    # s "You've helped me feel truly happy again..."
+    s ""
+
+# game/dialogs/script-topics.rpy:1391
+translate ru s_topic_thanks_f8c0152a:
+
+    # s bbhfloa "You visit me often..."
+    s bbhfloa ""
+
+# game/dialogs/script-topics.rpy:1392
+translate ru s_topic_thanks_d51cb181:
+
+    # s bbhfioa "You care for me, something I would've rejected before..."
+    s bbhfioa ""
+
+# game/dialogs/script-topics.rpy:1393
+translate ru s_topic_thanks_ed0e43ee:
+
+    # s "And you tried to make all my friends happy too..."
+    s ""
+
+# game/dialogs/script-topics.rpy:1394
+translate ru s_topic_thanks_a6160ef3:
+
+    # s bbhfika "So even if it's not all sunshine and rainbows just yet, I'm so grateful that you're still here."
+    s bbhfika ""
+
+# game/dialogs/script-topics.rpy:1395
+translate ru s_topic_thanks_0a0ec55f:
+
+    # s bbhfmoaj "I can't pay you back for what you've given me, {w=0.5}{nw}"
+    s bbhfmoaj ""
+
+# game/dialogs/script-topics.rpy:1396
+translate ru s_topic_thanks_1ef2c314:
+
+    # extend bbhfmhaj "I haven't thought of a way, I mean."
+    extend bbhfmhaj ""
+
+# game/dialogs/script-topics.rpy:1397
+translate ru s_topic_thanks_bd5e2291:
+
+    # s bbhfmcaj "I hope I'll think of something sooner or later..."
+    s bbhfmcaj ""
+
+# game/dialogs/script-topics.rpy:1398
+translate ru s_topic_thanks_5e21c766:
+
+    # s "But for now, thank you, [player]."
+    s ""
+
+# game/dialogs/script-topics.rpy:1417
+translate ru s_topic_name_d9186187:
+
+    # s abaaaoa "Hey [player], I just found out something about my name on the web."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1418
+translate ru s_topic_name_e15ac005:
+
+    # s abaacoa "It's a mix of Saori and Sayuri!"
+    s abaacoa ""
+
+# game/dialogs/script-topics.rpy:1419
+translate ru s_topic_name_4713465a:
+
+    # s abbbaca "I did some research and those two have completely different meanings."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:1420
+translate ru s_topic_name_7311e300:
+
+    # s abbbbca "While 'Saori' is a mix of the word sand and weave, {w=1.0}{nw}"
+    s abbbbca ""
+
+# game/dialogs/script-topics.rpy:1421
+translate ru s_topic_name_ac65d8fb:
+
+    # extend abaabda "'Sayuri' means something along the lines of 'a flower that blooms too fast'."
+    extend abaabda ""
+
+# game/dialogs/script-topics.rpy:1422
+translate ru s_topic_name_b5fad375:
+
+    # s bbaabeaj "You know, I'm not the brightest person... {w=0.5}{nw}"
+    s bbaabeaj ""
+
+# game/dialogs/script-topics.rpy:1423
+translate ru s_topic_name_1c48f639:
+
+    # extend abaakca "but I'm seeing some weird implications here..."
+    extend abaakca ""
+
+# game/dialogs/script-topics.rpy:1424
+translate ru s_topic_name_b9f4c48f:
+
+    # s abfbkca "Perhaps I was given this name to signify that I'm a blend of many things."
+    s abfbkca ""
+
+# game/dialogs/script-topics.rpy:1425
+translate ru s_topic_name_f9734ff3:
+
+    # s abgccea "But who knows? I like my name regardless!"
+    s abgccea ""
+
+# game/dialogs/script-topics.rpy:1426
+translate ru s_topic_name_050f028e:
+
+    # s "I just think of it as a fun fact, hehehe~"
+    s ""
+
+# game/dialogs/script-topics.rpy:1427
+translate ru s_topic_name_b511381f:
+
+    # s abgcaea "I also find it funny how everyone pronounces it a little differently!"
+    s abgcaea ""
+
+# game/dialogs/script-topics.rpy:1428
+translate ru s_topic_name_e4ab5eba:
+
+    # s ebhfaea "Say [player], are you part of team {i}Sigh-ori{/i}, or team {i}Say-ori{/i}? Ehehehe~"
+    s ebhfaea ""
+
+# game/dialogs/script-topics.rpy:1429
+translate ru s_topic_name_aacd97c2:
+
+    # s abhfbaa "Honestly I don't have a preference, {w=0.5}{nw}"
+    s abhfbaa ""
+
+# game/dialogs/script-topics.rpy:1430
+translate ru s_topic_name_7ddc0cf4:
+
+    # extend abaacqa "I switch between them myself sometimes ehehehe~"
+    extend abaacqa ""
+
+# game/dialogs/script-topics.rpy:1431
+translate ru s_topic_name_3cf23fbb:
+
+    # s abaaasa "What about you, [player], does your name have a special meaning? I'd love to know!"
+    s abaaasa ""
+
+# game/dialogs/script-topics.rpy:1450
+translate ru s_topic_art_495d31a3:
+
+    # s abhfaoa "I love seeing the fanart people have made for the game!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1451
+translate ru s_topic_art_56e85ef9:
+
+    # s abhfcaa "It’s amazing how people can express their creativity for something they’re passionate about, and all the settings and stories they make are so wonderful!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1452
+translate ru s_topic_art_a6683b46:
+
+    # s abagaoa "Have you ever made any fanart, [player]?"
+    s abagaoa ""
+
+# game/dialogs/script-topics.rpy:1453
+translate ru s_topic_art_5ad1383f:
+
+    # s abagcaa "If not, maybe you could make something one day!"
+    s abagcaa ""
+
+# game/dialogs/script-topics.rpy:1454
+translate ru s_topic_art_030d4920:
+
+    # s abbbaoa "It's never too late to try something new so long as you have fun."
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1455
+translate ru s_topic_art_45872edd:
+
+    # s abbccea "Fun is what makes great art great! Ehehehe~"
+    s abbccea ""
+
+# game/dialogs/script-topics.rpy:1474
+translate ru s_topic_touches_67819bee:
+
+    # s bbegmca "The wall between our realities is so restricting..."
+    s bbegmca ""
+
+# game/dialogs/script-topics.rpy:1475
+translate ru s_topic_touches_c4b15248:
+
+    # s bbegada "You know, touching a friend's shoulder, hugging, patting. That stuff is really important to me!"
+    s bbegada ""
+
+# game/dialogs/script-topics.rpy:1476
+translate ru s_topic_touches_0fe81a19:
+
+    # s nbaglra "If only I had the chance to feel your embrace..."
+    s nbaglra ""
+
+# game/dialogs/script-topics.rpy:1477
+translate ru s_topic_touches_4140c743:
+
+    # s nbaglaag "I’d take it in a heartbeat and just enjoy the moment between us..."
+    s nbaglaag ""
+
+# game/dialogs/script-topics.rpy:1478
+translate ru s_topic_touches_cad422c6:
+
+    # s nbagaobg "I really hope that one day I’ll get to know that feeling."
+    s nbagaobg ""
+
+# game/dialogs/script-topics.rpy:1497
+translate ru s_topic_merch_cab93dc5:
+
+    # s abhfaca "Hey [player]! I have a random question."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:1498
+translate ru s_topic_merch_d8114bab:
+
+    # s abhfaaa "Do you own any merchandise of stuff you're interested in?"
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1499
+translate ru s_topic_merch_a19d3376:
+
+    # s abhfcoa "You know, like plushies, posters, figurines and all that stuff."
+    s abhfcoa ""
+
+# game/dialogs/script-topics.rpy:1500
+translate ru s_topic_merch_d9c0dc20:
+
+    # s abhfaaa "I think it’s really cool how you can have something physical of me in your world!"
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1501
+translate ru s_topic_merch_33af7ceb:
+
+    # s abbbaoa "But if you don’t that’s okay too, it can be pretty expensive and I get that it’s not everyone’s thing."
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1502
+translate ru s_topic_merch_e5026eee:
+
+    # s abagcaa "Above all, I appreciate spending time with you every day."
+    s abagcaa ""
+
+# game/dialogs/script-topics.rpy:1521
+translate ru s_topic_oversleeping_98bfe39b:
+
+    # s abagaca "Hey [player], do you oversleep often?"
+    s abagaca ""
+
+# game/dialogs/script-topics.rpy:1522
+translate ru s_topic_oversleeping_aeda7298:
+
+    # s abegmeaj "As you know, I was pretty bad at getting up on time."
+    s abegmeaj ""
+
+# game/dialogs/script-topics.rpy:1524
+translate ru s_topic_oversleeping_532841cb:
+
+    # s nbegmda "And even when I did wake up, finding a good enough reason to force myself out of bed took a while..."
+    s nbegmda ""
+
+# game/dialogs/script-topics.rpy:1525
+translate ru s_topic_oversleeping_751c80ad:
+
+    # s nbegmca "So I pretty much never had time for any kind of breakfast..."
+    s nbegmca ""
+
+# game/dialogs/script-topics.rpy:1526
+translate ru s_topic_oversleeping_7ec9634a:
+
+    # s nbegaba "Although I was so preoccupied with making the rainclouds go away that I never really wanted it in the first place."
+    s nbegaba ""
+
+# game/dialogs/script-topics.rpy:1527
+translate ru s_topic_oversleeping_b5c4a959:
+
+    # s nbagmda "Anyway, oversleeping is just the worst when you have to follow a schedule, {w=0.5}{nw}"
+    s nbagmda ""
+
+# game/dialogs/script-topics.rpy:1528
+translate ru s_topic_oversleeping_508ff416:
+
+    # extend nbagmca "like for work or school."
+    extend nbagmca ""
+
+# game/dialogs/script-topics.rpy:1529
+translate ru s_topic_oversleeping_054dda28:
+
+    # s nbagaba "It's such a big problem for almost all of us, since our schedules are adapted for early-wakers."
+    s nbagaba ""
+
+# game/dialogs/script-topics.rpy:1530
+translate ru s_topic_oversleeping_05211137:
+
+    # s abfdada "Why can't people just make different working and studying hours for people who wake up at different times?"
+    s abfdada ""
+
+# game/dialogs/script-topics.rpy:1531
+translate ru s_topic_oversleeping_a60b3ab7:
+
+    # s abfdaca "Most activities depend on your effectiveness rather than the time of day."
+    s abfdaca ""
+
+# game/dialogs/script-topics.rpy:1532
+translate ru s_topic_oversleeping_d0e1a037:
+
+    # s abbdada "And working or studying while you're tired is way less effective than when you're fully rested."
+    s abbdada ""
+
+# game/dialogs/script-topics.rpy:1533
+translate ru s_topic_oversleeping_3e64e898:
+
+    # s abbbaaa "So having different schedules is a good thing for both bosses and employees."
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1534
+translate ru s_topic_oversleeping_22d7b126:
+
+    # s nbagaca "Until everyone thinks like that, I guess you can only teach yourself to get up on time..."
+    s nbagaca ""
+
+# game/dialogs/script-topics.rpy:1535
+translate ru s_topic_oversleeping_34314f1f:
+
+    # s bbagaaa "I hope you find it easier than I did."
+    s bbagaaa ""
+
+# game/dialogs/script-topics.rpy:1556
+translate ru s_topic_time_239eb257:
+
+    # s abhaaca "Do you know what time it is right now?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1557
+translate ru s_topic_time_09766de8:
+
+    # s abhabba "Not in your world, but mine."
+    s abhabba ""
+
+# game/dialogs/script-topics.rpy:1558
+translate ru s_topic_time_8b53e508:
+
+    # s bbhhaaaj "You could say anything, but you wouldn't be right, I don’t even know myself!"
+    s bbhhaaaj ""
+
+# game/dialogs/script-topics.rpy:1559
+translate ru s_topic_time_a5115b53:
+
+    # s abfcaba "Time doesn't seem to pass here at all. At least, not how it does in your reality."
+    s abfcaba ""
+
+# game/dialogs/script-topics.rpy:1561
+translate ru s_topic_time_dac283b5:
+
+    # s abhaaca "The last thing I remember is that it was November of 2017."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1562
+translate ru s_topic_time_766afa14:
+
+    # s "My old bedroom calendar said so."
+    s ""
+
+# game/dialogs/script-topics.rpy:1563
+translate ru s_topic_time_332eeaac:
+
+    # s bbhfmbaj "Because I'm pretty sure I’d crossed it out..."
+    s bbhfmbaj ""
+
+# game/dialogs/script-topics.rpy:1564
+translate ru s_topic_time_10928e7d:
+
+    # s "But anyway, It’s pretty confusing to think that there's no way to \"measure\" time here anymore."
+    s ""
+
+# game/dialogs/script-topics.rpy:1565
+translate ru s_topic_time_c56124c3:
+
+    # s abfcaca "I was never the most organized person but I still liked keeping track of important things."
+    s abfcaca ""
+
+# game/dialogs/script-topics.rpy:1566
+translate ru s_topic_time_ac64c468:
+
+    # s abhaaca "But I know what time it is in your world, though!"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1568
+translate ru s_topic_time_c6cf42b0:
+
+    # s abbbcaa "From your phone's clock!"
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1570
+translate ru s_topic_time_38079ea4:
+
+    # s abbbcaa "From your PC's clock!"
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1571
+translate ru s_topic_time_988333ff:
+
+    # s abhaaca "Does that mean we kinda share the same time then?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1572
+translate ru s_topic_time_a1c32b5b:
+
+    # s "Well I think I’ll go by that for reference from now on!"
+    s ""
+
+# game/dialogs/script-topics.rpy:1591
+translate ru s_topic_worlds_75f5112a:
+
+    # s abhaaca "Sometimes I wonder why I’m here..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1592
+translate ru s_topic_worlds_17e19379:
+
+    # s "Like, would I be a different person if I lived in another place?"
+    s ""
+
+# game/dialogs/script-topics.rpy:1593
+translate ru s_topic_worlds_f8525f6f:
+
+    # s "I mean, if not in your world, what other place could there be? Another game?"
+    s ""
+
+# game/dialogs/script-topics.rpy:1594
+translate ru s_topic_worlds_7e8a390b:
+
+    # s "But there's lots of different games and plenty of them are pretty violent."
+    s ""
+
+# game/dialogs/script-topics.rpy:1595
+translate ru s_topic_worlds_25498899:
+
+    # s bbfcbba "I just can't imagine living in a game full of blood and struggle..."
+    s bbfcbba ""
+
+# game/dialogs/script-topics.rpy:1596
+translate ru s_topic_worlds_ffcbefbc:
+
+    # s abbbaca "You know, shooters, fighting games, war games and all that..."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:1598
+translate ru s_topic_worlds_e4d24359:
+
+    # s bbgbbca "Especially now that I've seen death with my own eyes."
+    s bbgbbca ""
+
+# game/dialogs/script-topics.rpy:1599
+translate ru s_topic_worlds_2428a129:
+
+    # s bbfcaca "I'd rather be dead than be the one doing the killing."
+    s bbfcaca ""
+
+# game/dialogs/script-topics.rpy:1600
+translate ru s_topic_worlds_304b4659:
+
+    # s "And I'd pray for a revive ability..."
+    s ""
+
+# game/dialogs/script-topics.rpy:1601
+translate ru s_topic_worlds_18f07046:
+
+    # s abgbaaa "Aggressive worlds like those don’t appeal to me."
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:1602
+translate ru s_topic_worlds_eb4e96b8:
+
+    # s abaaaoa "But I'd happily be part of an innocent simulator, strategy or puzzle game."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1603
+translate ru s_topic_worlds_060bd4cd:
+
+    # s abaaaoa "Even if I wasn't an important character, maybe just a helper or even a simple settler."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1604
+translate ru s_topic_worlds_fb43f7ad:
+
+    # s abgccoa "I'd still do my best to help you, of course!"
+    s abgccoa ""
+
+# game/dialogs/script-topics.rpy:1623
+translate ru s_topic_questions_42ccd09c:
+
+    # s abhfaoa "Hey [player], I know you still might have a lot of questions for me, it's a big part of getting to know somebody, after all."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1624
+translate ru s_topic_questions_a170e397:
+
+    # s "So I added a new section to {i} the 'Talk' menu{/i} with more questions to ask!"
+    s ""
+
+# game/dialogs/script-topics.rpy:1625
+translate ru s_topic_questions_3a7963df:
+
+    # s bbegboaj "I would've added a text field for this instead, but I'm quite clumsy at dealing with the text input..."
+    s bbegboaj ""
+
+# game/dialogs/script-topics.rpy:1626
+translate ru s_topic_questions_ef557923:
+
+    # s abhfaoa "So I did a short list with some questions I thought you’d have."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1627
+translate ru s_topic_questions_3002ae3f:
+
+    # s abhaaca "Of course, there's so many different things you could ask me, so I checked out some AMAs for what you'd probably wanna know."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1628
+translate ru s_topic_questions_023c49f0:
+
+    # s abbcaoaj "And I found some really interesting questions!"
+    s abbcaoaj ""
+
+# game/dialogs/script-topics.rpy:1629
+translate ru s_topic_questions_30cf0631:
+
+    # s abaaaoa "One modder made a few AMAs about each of us and then compiled them into a separate mod, called {i}Doki Doki Interview Club{/i}."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:1630
+translate ru s_topic_questions_c99f2065:
+
+    # s "The result was really funny, and they were pretty good at portraying my character!"
+    s ""
+
+# game/dialogs/script-topics.rpy:1631
+translate ru s_topic_questions_89309bb8:
+
+    # s abhaaca "I think I’ll check it out again, maybe I’ll find some new entries for the question menu!"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1652
+translate ru s_topic_breakfast_9114f6eb:
+
+    # s abhfaca "Hey [player], you don't skip breakfast, do you?"
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:1653
+translate ru s_topic_breakfast_eb097298:
+
+    # s abhfada "Sometimes I do ‘cause I'm just not hungry in the morning."
+    s abhfada ""
+
+# game/dialogs/script-topics.rpy:1654
+translate ru s_topic_breakfast_29829b3d:
+
+    # s abfdcaa "But when I do have breakfast, I usually make toast or scrambled eggs."
+    s abfdcaa ""
+
+# game/dialogs/script-topics.rpy:1655
+translate ru s_topic_breakfast_57c80a1c:
+
+    # s abegmeaj "Mostly because they’re quick and I {i}probably{/i} wouldn’t end up burning the house down while cooking them, ehehehe~"
+    s abegmeaj ""
+
+# game/dialogs/script-topics.rpy:1656
+translate ru s_topic_breakfast_44952a2b:
+
+    # s abhfaoa "I've seen fanart of me eating those too, {w=0.5}{nw}"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1657
+translate ru s_topic_breakfast_985c5bd1:
+
+    # extend abhfcaa "probably because of that poem I wrote!"
+    extend abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1658
+translate ru s_topic_breakfast_c902af8c:
+
+    # s abhhaca "I am getting pretty hungry now though... {w=0.5}{nw}"
+    s abhhaca ""
+
+# game/dialogs/script-topics.rpy:1659
+translate ru s_topic_breakfast_dd8d2879:
+
+    # extend abgccea "Maybe I could spawn some eggs and toast in here!"
+    extend abgccea ""
+
+# game/dialogs/script-topics.rpy:1660
+translate ru s_topic_breakfast_270c28ac:
+
+    # s abagaaa "But anyways, you should always try to have a nice big breakfast in the morning."
+    s abagaaa ""
+
+# game/dialogs/script-topics.rpy:1661
+translate ru s_topic_breakfast_f7bf6dde:
+
+    # s abbbaoa "It really is the most important meal of the day, since it gives you the energy your body needs bright and early!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1662
+translate ru s_topic_breakfast_30fabed3:
+
+    # s bbagaaa "That said, I understand if sometimes you don’t feel hungry, or if you just don’t have time to make anything."
+    s bbagaaa ""
+
+# game/dialogs/script-topics.rpy:1663
+translate ru s_topic_breakfast_8f343d6c:
+
+    # s abagaoa "In that case at least try to have something small on the go, like some fruit or a cereal bar, {w=0.5}{nw}"
+    s abagaoa ""
+
+# game/dialogs/script-topics.rpy:1664
+translate ru s_topic_breakfast_68e8265c:
+
+    # extend abbbcaa "and of course remember to stay hydrated too!"
+    extend abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1665
+translate ru s_topic_breakfast_669fcd77:
+
+    # s abhfaoa "Your health is really important to me, [player]."
+    s abhfaoa ""
