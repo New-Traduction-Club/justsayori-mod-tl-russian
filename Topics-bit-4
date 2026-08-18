@@ -2,475 +2,475 @@
 translate ru s_topic_stars_5da129f2:
 
     # s abhfaoa "I really like to look at the stars..."
-    s abhfaoa ""
+    s abhfaoa "Я очень люблю смотреть на звёзды..."
 
 # game/dialogs/script-topics.rpy:1209
 translate ru s_topic_stars_20e49c0d:
 
     # s "They gave me inspiration when I wrote my poems."
-    s ""
+    s "Они вдохновляли меня на написание стихов."
 
 # game/dialogs/script-topics.rpy:1210
 translate ru s_topic_stars_3d4015c0:
 
     # s abhfaoa "You can still see them outside these windows sometimes..."
-    s abhfaoa ""
+    s abhfaoa "Даже тут их иногда можно увидеть в окнах..."
 
 # game/dialogs/script-topics.rpy:1211
 translate ru s_topic_stars_0b63aa73:
 
     # s abhfcaa "They make this place a little more special, don't they?"
-    s abhfcaa ""
+    s abhfcaa "Они делают это место немного особеннее, не правда ли?"
 
 # game/dialogs/script-topics.rpy:1212
 translate ru s_topic_stars_1b8521e0:
 
     # s abhfaoa "I wonder if the night sky in your reality looks like mine..."
-    s abhfaoa ""
+    s abhfaoa "Интересно, похоже ли моё ночное небо на твоё..?"
 
 # game/dialogs/script-topics.rpy:1213
 translate ru s_topic_stars_1d6082ee:
 
     # s "I hope I get the chance to see for myself someday."
-    s ""
+    s "Надеюсь что когда-нибудь я выясню это лично."
 
 # game/dialogs/script-topics.rpy:1214
 translate ru s_topic_stars_8d3a91ab:
 
     # s aahccea "And it'd be a dream come true if you were there too, ehehehe~"
-    s aahccea ""
+    s aahccea "А если рядом будешь ты, то это и вовсе можно считать сбывшейся мечтой, эхехехе~"
 
 # game/dialogs/script-topics.rpy:1234
 translate ru s_topic_stop_visiting_ae0c8cf1:
 
     # s abhaaca "Hey, [player], {w=0.5}{nw}"
-    s abhaaca ""
+    s abhaaca "Эй, [player], {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1235
 translate ru s_topic_stop_visiting_2bb665a1:
 
     # extend abbbaca "can I talk to you about something that's been on my mind lately?"
-    extend abbbaca ""
+    extend abbbaca "Могу спросить у тебя о том, что не даёт мне покоя?"
 
 # game/dialogs/script-topics.rpy:1236
 translate ru s_topic_stop_visiting_19b11fe2:
 
     # s abbbmha "I know it's really sudden, and pretty depressing. But sometimes I just can't stop thinking that..."
-    s abbbmha ""
+    s abbbmha "Знаю, что это довольно внезапно и достаточно грустно. Но иногда я просто не могу выгнать мысль о том, что..."
 
 # game/dialogs/script-topics.rpy:1237
 translate ru s_topic_stop_visiting_22790245:
 
     # s abfblha "You'll forget about me someday."
-    s abfblha ""
+    s abfblha "Рано или поздно ты про меня забудешь."
 
 # game/dialogs/script-topics.rpy:1238
 translate ru s_topic_stop_visiting_9cf2ef30:
 
     # s abfblla "And stop coming to see me."
-    s abfblla ""
+    s abfblla "И перестанешь меня навещать."
 
 # game/dialogs/script-topics.rpy:1239
 translate ru s_topic_stop_visiting_06b816b4:
 
     # s abfbmla "The rational side of me knows it's a silly fear... {w=0.5}{nw}"
-    s abfbmla ""
+    s abfbmla "Я понимаю, что это глупо об этом волноваться... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1240
 translate ru s_topic_stop_visiting_441a95ec:
 
     # extend abfbmca "since you've always been there for me, but..."
-    extend abfbmca ""
+    extend abfbmca "ведь ты всегда был здесь, со мной, но..."
 
 # game/dialogs/script-topics.rpy:1241
 translate ru s_topic_stop_visiting_6581244c:
 
     # s abfblca "I'm just a character in a game... {w=0.5}{nw}"
-    s abfblca ""
+    s abfblca "Я ведь всего лишь персонаж из игры... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1242
 translate ru s_topic_stop_visiting_83fa576e:
 
     # extend abfblha "a game which isn't even that popular anymore..."
-    extend abfblha ""
+    extend abfblha "из игры, которую уже и популярной не назовёшь..."
 
 # game/dialogs/script-topics.rpy:1243
 translate ru s_topic_stop_visiting_3e47fa2a:
 
     # s "And I'm pretty sure I'm not the most interesting or cute character from the game in the first place..."
-    s ""
+    s "И скорее всего я даже не самый интересный или обаятельный из персонажей."
 
 # game/dialogs/script-topics.rpy:1244
 translate ru s_topic_stop_visiting_5d0bbca8:
 
     # s abfbbha "So..."
-    s abfbbha ""
+    s abfbbha "И..."
 
 # game/dialogs/script-topics.rpy:1245
 translate ru s_topic_stop_visiting_00ec2de9:
 
     # s abfblha "..."
-    s abfblha ""
+    s abfblha "..."
 
 # game/dialogs/script-topics.rpy:1246
 translate ru s_topic_stop_visiting_5029ed63:
 
     # s bbfbbca "I wonder if, one day, you'll just get tired of me..."
-    s bbfbbca ""
+    s bbfbbca "В один день, я, возможно, попросту тебе наскучу..."
 
 # game/dialogs/script-topics.rpy:1247
 translate ru s_topic_stop_visiting_6158668f:
 
     # s bbfbaca "I'll still be here, of course. But if I never saw you again..."
-    s bbfbaca ""
+    s bbfbaca "Я, конечно, никуда не уйду. Но если это значит, что я больше никогда тебя не увижу..."
 
 # game/dialogs/script-topics.rpy:1248
 translate ru s_topic_stop_visiting_0aa6a5ac:
 
     # s bbfblca "My life just wouldn't have the same meaning anymore."
-    s bbfblca ""
+    s bbfblca "Моя жизнь вновь потеряет смысл."
 
 # game/dialogs/script-topics.rpy:1249
 translate ru s_topic_stop_visiting_4290fbb4:
 
     # s bbfblca "Stuck in this small room, without my friends, or even the ability to make new ones..."
-    s bbfblca ""
+    s bbfblca "Запертая в этой комнатушке, без своих старых друзей и возможности завести новых..."
 
 # game/dialogs/script-topics.rpy:1250
 translate ru s_topic_stop_visiting_56a93d10:
 
     # s bbhfhcag "I'm really scared... {w=0.5}{nw}"
-    s bbhfhcag ""
+    s bbhfhcag "Мне страшно... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1251
 translate ru s_topic_stop_visiting_11952bed:
 
     # extend bbhfhlag "what if I go crazy in here, [player]?"
-    extend bbhfhlag ""
+    extend bbhfhlag "что если я сойду здесь с ума, [player]?"
 
 # game/dialogs/script-topics.rpy:1252
 translate ru s_topic_stop_visiting_a9a208a4:
 
     # s bbhfllah "I don't want to be alone, I just couldn't take it..."
-    s bbhfllah ""
+    s bbhfllah "Я не хочу быть одна. Я этого не выдержу..."
 
 # game/dialogs/script-topics.rpy:1253
 translate ru s_topic_stop_visiting_e7f624ce:
 
     # s bbhfllah "..."
-    s bbhfllah ""
+    s bbhfllah "..."
 
 # game/dialogs/script-topics.rpy:1259
 translate ru s_topic_stop_visiting_e7f624ce_1:
 
     # s bbhfllah "..."
-    s bbhfllah ""
+    s bbhfllah "..."
 
 # game/dialogs/script-topics.rpy:1265
 translate ru s_topic_stop_visiting_e7f624ce_2:
 
     # s bbhfllah "..."
-    s bbhfllah ""
+    s bbhfllah "..."
 
 # game/dialogs/script-topics.rpy:1266
 translate ru s_topic_stop_visiting_a7763b02:
 
     # s bbhfbklah "Hmm... no... you're right..."
-    s bbhfbklah ""
+    s bbhfbklah "Хмм... нет... ты прав..."
 
 # game/dialogs/script-topics.rpy:1267
 translate ru s_topic_stop_visiting_1cfe092b:
 
     # s bbhfmcae "I just need to relax. I need to stop thinking the worst all the time..."
-    s bbhfmcae ""
+    s bbhfmcae "Мне стоит расслабиться. Перестать всё время думать о худшем..."
 
 # game/dialogs/script-topics.rpy:1268
 translate ru s_topic_stop_visiting_1f42fcea:
 
     # s bbhfkcae "I know you aren't going to leave me behind. {w=0.5}{nw}"
-    s bbhfkcae ""
+    s bbhfkcae "Я знаю, что ты меня не бросишь. {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1269
 translate ru s_topic_stop_visiting_e579e7f3:
 
     # extend abhfahag "I'm sorry for freaking out like that, [player]."
-    extend abhfahag ""
+    extend abhfahag "Прости что всё так резко вываливаю, [player]."
 
 # game/dialogs/script-topics.rpy:1270
 translate ru s_topic_stop_visiting_0fdc7fad:
 
     # s abhfakag "Everything will be okay, right?"
-    s abhfakag ""
+    s abhfakag "Всё ведь будет хорошо, правда?"
 
 # game/dialogs/script-topics.rpy:1276
 translate ru s_topic_stop_visiting_498c4285:
 
     # s abhfcka "Yeah... I'm okay now, I think..."
-    s abhfcka ""
+    s abhfcka "Да... Теперь мне полегче, кажется..."
 
 # game/dialogs/script-topics.rpy:1277
 translate ru s_topic_stop_visiting_d043057f:
 
     # s abhfaka "Thank you for being here for me. I love you, [player]."
-    s abhfaka ""
+    s abhfaka "Спасибо, что ты всегда рядом. Люблю тебя, мой [player]."
 
 # game/dialogs/script-topics.rpy:1285
 translate ru s_topic_stop_visiting_2_1cfe092b:
 
     # s bbhfmcae "I just need to relax. I need to stop thinking the worst all the time..."
-    s bbhfmcae ""
+    s bbhfmcae "Мне стоит расслабиться. Перестать всё время думать о худшем..."
 
 # game/dialogs/script-topics.rpy:1286
 translate ru s_topic_stop_visiting_2_1f42fcea:
 
     # s bbhfkcae "I know you aren't going to leave me behind. {w=0.5}{nw}"
-    s bbhfkcae ""
+    s bbhfkcae "Я знаю, что ты меня не бросишь. {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1287
 translate ru s_topic_stop_visiting_2_e579e7f3:
 
     # extend abhfahag "I'm sorry for freaking out like that, [player]."
-    extend abhfahag ""
+    extend abhfahag "Прости что всё так резко вываливаю, [player]."
 
 # game/dialogs/script-topics.rpy:1288
 translate ru s_topic_stop_visiting_2_0fdc7fad:
 
     # s abhfakag "Everything will be okay, right?"
-    s abhfakag ""
+    s abhfakag "Всё ведь будет хорошо, правда?"
 
 # game/dialogs/script-topics.rpy:1294
 translate ru s_topic_stop_visiting_2_498c4285:
 
     # s abhfcka "Yeah... I'm okay now, I think..."
-    s abhfcka ""
+    s abhfcka "Да... Теперь мне полегче, кажется..."
 
 # game/dialogs/script-topics.rpy:1295
 translate ru s_topic_stop_visiting_2_d043057f:
 
     # s abhfaka "Thank you for being here for me. I love you, [player]."
-    s abhfaka ""
+    s abhfaka "Спасибо, что ты всегда рядом. Люблю тебя, дорогой [player]."
 
 # game/dialogs/script-topics.rpy:1301
 translate ru s_topic_stop_visiting_3_498c4285:
 
     # s abhfcka "Yeah... I'm okay now, I think..."
-    s abhfcka ""
+    s abhfcka "Да... Теперь мне полегче, кажется..."
 
 # game/dialogs/script-topics.rpy:1321
 translate ru s_topic_marriage_478a2ef9:
 
     # s abaamob "Hey [player], I was wondering..."
-    s abaamob ""
+    s abaamob "Слушай, [player], я тут думала..."
 
 # game/dialogs/script-topics.rpy:1322
 translate ru s_topic_marriage_cbec0e22:
 
     # s "If it were possible, would you marry me?{nw}"
-    s ""
+    s "Если бы это было возможно, ты бы на мне женился?{nw}"
 
 # game/dialogs/script-topics.rpy:1326
 translate ru s_topic_marriage_ed589187:
 
     # s "If it were possible, would you marry me?{fast}" nointeract
-    s "" nointeract
+    s "Если бы это было возможно, ты бы на мне женился?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:1328
 translate ru s_topic_marriage_0c5d6612:
 
     # s abaakob "That's great!"
-    s abaakob ""
+    s abaakob "Ура!"
 
 # game/dialogs/script-topics.rpy:1329
 translate ru s_topic_marriage_b3bb283c:
 
     # s "Ehehe!~"
-    s ""
+    s "Эхехе!~"
 
 # game/dialogs/script-topics.rpy:1330
 translate ru s_topic_marriage_6fac76a0:
 
     # s abhfcaa "I think I'd be a good wife."
-    s abhfcaa ""
+    s abhfcaa "Думаю я стала бы хорошей женой."
 
 # game/dialogs/script-topics.rpy:1331
 translate ru s_topic_marriage_df31a6f5:
 
     # s "Although I don't think I’d be quite as good at all this \"housewife\" stuff ehehehe~"
-    s ""
+    s "Хотя я не особо хороша в роли \"жены по дому\" эхехехе~"
 
 # game/dialogs/script-topics.rpy:1332
 translate ru s_topic_marriage_8b1d4b81:
 
     # s "You know all the cooking, cleaning and taking care of everything, I am a bit of a clumsy girl after all..."
-    s ""
+    s "Ну, вся эта готовка, уборка и прочее. В конце концов, я довольно неряшливая девочка..."
 
 # game/dialogs/script-topics.rpy:1333
 translate ru s_topic_marriage_a0a414e7:
 
     # s "But I’d try my best to help you with your job, studies, or whatever it is that’s on your mind!"
-    s ""
+    s "Но я бы изо всех сил поддерживала тебя на работе, в учёбе и всяком другом!"
 
 # game/dialogs/script-topics.rpy:1334
 translate ru s_topic_marriage_101bdd07:
 
     # s abbbhcb "But don't get the wrong idea and think I'd do {i}everything{/i} for you!"
-    s abbbhcb ""
+    s abbbhcb "Но не думай, что я бы {i}всё{/i} за тебя делала!"
 
 # game/dialogs/script-topics.rpy:1335
 translate ru s_topic_marriage_3ce3bd3a:
 
     # s "I can't just let you loaf around all day!"
-    s ""
+    s "Не могу же я постоянно крутиться вокруг тебя!"
 
 # game/dialogs/script-topics.rpy:1336
 translate ru s_topic_marriage_ffc1f54a:
 
     # s abbbcqa "So you'd have to help me too, and work as a team, like peanut butter and jelly!"
-    s abbbcqa ""
+    s abbbcqa "Поэтому и тебе нужно будет мне помогать, мы бы дополняли друг друга, прямо как ирис и корица!"
 
 # game/dialogs/script-topics.rpy:1337
 translate ru s_topic_marriage_a53e3a5d:
 
     # s abegaqb "But jokes aside, I'm so glad you said yes. I love you, [player]~"
-    s abegaqb ""
+    s abegaqb "А если серьёзно, я рада, что ты согласился. Люблю тебя, [player]~"
 
 # game/dialogs/script-topics.rpy:1340
 translate ru s_topic_marriage_91506f0e:
 
     # s abaghcb "I understand! A free relationship has its own benefits after all."
-    s abaghcb ""
+    s abaghcb "Понимаю! Более свободные отношения тоже имеют свои плюсы!"
 
 # game/dialogs/script-topics.rpy:1341
 translate ru s_topic_marriage_cadfa5df:
 
     # s abagmca "Besides marriage isn’t as popular as it used to be, it’s pretty expensive for one, and there are alternatives like civil partnerships which do basically the same thing."
-    s abagmca ""
+    s abagmca "Вдобавок к тому, что супружество больше не так популярно, как раньше, оно достаточно затратно, к тому же есть альтернативы, по типу сожительства, по факту являющиеся тем же самым."
 
 # game/dialogs/script-topics.rpy:1342
 translate ru s_topic_marriage_2e0b1ad1:
 
     # s abagcka "Either way, our love story doesn't have to follow the common template."
-    s abagcka ""
+    s abagcka "В любом случае, нашей любви необязательно быть шаблонной."
 
 # game/dialogs/script-topics.rpy:1343
 translate ru s_topic_marriage_73ff1650:
 
     # s "It’s already pretty unusual, so we can do whatever works for us."
-    s ""
+    s "Она уже достаточно специфична, поэтому нам не стоит себя ограничивать."
 
 # game/dialogs/script-topics.rpy:1361
 translate ru s_topic_presents_cceec435:
 
     # s abhfaoa "People often give presents every holiday or for some special date."
-    s abhfaoa ""
+    s abhfaoa "Люди часто дарят подарки по праздникам и другим знаменательным датам."
 
 # game/dialogs/script-topics.rpy:1362
 translate ru s_topic_presents_82c9e707:
 
     # s abaaaoa "Everyone likes to get presents! Including me, of course, ehehehe~"
-    s abaaaoa ""
+    s abaaaoa "Все любят их получать! Включая меня, естественно, эхехехе~"
 
 # game/dialogs/script-topics.rpy:1363
 translate ru s_topic_presents_155a2ee5:
 
     # s abbcaoa "But I don't think a gift has to be something really expensive or fancy."
-    s abbcaoa ""
+    s abbcaoa "И мне не кажется, что подарок обязательно должен быть чем-то дорогим или редким."
 
 # game/dialogs/script-topics.rpy:1364
 translate ru s_topic_presents_a9b65bc8:
 
     # s abaaaoa "Personally, I'd want something that comes from the heart."
-    s abaaaoa ""
+    s abaaaoa "Лично мне важно, чтобы он был подарен от всего сердца."
 
 # game/dialogs/script-topics.rpy:1365
 translate ru s_topic_presents_fb9467dc:
 
     # s abagcka "Even better, make it a surprise!"
-    s abagcka ""
+    s abagcka "А ещё лучше если он будет сюрпризом!"
 
 # game/dialogs/script-topics.rpy:1366
 translate ru s_topic_presents_fd05b9da:
 
     # s "Isn't it more exciting to get something you weren't expecting?"
-    s ""
+    s "Разве не веселее получить что-то, чего ты не ожидал?"
 
 # game/dialogs/script-topics.rpy:1367
 translate ru s_topic_presents_0cfefddd:
 
     # s abhfaoa "And I'll give you presents too, of course!"
-    s abhfaoa ""
+    s abhfaoa "И конечно я тоже буду дарить тебе всякое!"
 
 # game/dialogs/script-topics.rpy:1368
 translate ru s_topic_presents_876e0843:
 
     # s abhfcaa "And I'll do my best to make it the best present ever!"
-    s abhfcaa ""
+    s abhfcaa "Я постараюсь сделать мои подарки как можно лучше!"
 
 # game/dialogs/script-topics.rpy:1388
 translate ru s_topic_thanks_c826cf04:
 
     # s bbbcaka "Hey [player], I want to sincerely thank you from the bottom of my heart for everything you've done for me."
-    s bbbcaka ""
+    s bbbcaka "Слушай, [player], я бы хотела искренне поблагодарить тебя, от всего моего сердца, за всё, что ты для меня сделал."
 
 # game/dialogs/script-topics.rpy:1389
 translate ru s_topic_thanks_7c601058:
 
     # s bbhflka "You've given me hope for this world and myself..."
-    s bbhflka ""
+    s bbhflka "Ты подарил мне веру в этот мир и саму себя..."
 
 # game/dialogs/script-topics.rpy:1390
 translate ru s_topic_thanks_0f5956f3:
 
     # s "You've helped me feel truly happy again..."
-    s ""
+    s "Ты помог мне вновь стать счастливой..."
 
 # game/dialogs/script-topics.rpy:1391
 translate ru s_topic_thanks_f8c0152a:
 
     # s bbhfloa "You visit me often..."
-    s bbhfloa ""
+    s bbhfloa "Ты часто меня навещаешь..."
 
 # game/dialogs/script-topics.rpy:1392
 translate ru s_topic_thanks_d51cb181:
 
     # s bbhfioa "You care for me, something I would've rejected before..."
-    s bbhfioa ""
+    s bbhfioa "Ты научил меня принимать заботу, тому, что с трудом у меня получалось..."
 
 # game/dialogs/script-topics.rpy:1393
 translate ru s_topic_thanks_ed0e43ee:
 
     # s "And you tried to make all my friends happy too..."
-    s ""
+    s "И наконец, ты пытался сделать счастливыми моих друзей..."
 
 # game/dialogs/script-topics.rpy:1394
 translate ru s_topic_thanks_a6160ef3:
 
     # s bbhfika "So even if it's not all sunshine and rainbows just yet, I'm so grateful that you're still here."
-    s bbhfika ""
+    s bbhfika "И, хотя пока что всё не совсем ясно и солнечно, я очень благодарна тебе за тебя."
 
 # game/dialogs/script-topics.rpy:1395
 translate ru s_topic_thanks_0a0ec55f:
 
     # s bbhfmoaj "I can't pay you back for what you've given me, {w=0.5}{nw}"
-    s bbhfmoaj ""
+    s bbhfmoaj "Я не могу отплатить тебе за всё то, что ты для меня сделал, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1396
 translate ru s_topic_thanks_1ef2c314:
 
     # extend bbhfmhaj "I haven't thought of a way, I mean."
-    extend bbhfmhaj ""
+    extend bbhfmhaj "Ну, по крайней мере пока я не придумала как."
 
 # game/dialogs/script-topics.rpy:1397
 translate ru s_topic_thanks_bd5e2291:
 
     # s bbhfmcaj "I hope I'll think of something sooner or later..."
-    s bbhfmcaj ""
+    s bbhfmcaj "Надеюсь что что-нибудь такое выдумаю..."
 
 # game/dialogs/script-topics.rpy:1398
 translate ru s_topic_thanks_5e21c766:
 
     # s "But for now, thank you, [player]."
-    s ""
+    s "Но а пока, спасибо тебе, [player]."
 
 # game/dialogs/script-topics.rpy:1417
 translate ru s_topic_name_d9186187:
