@@ -1,0 +1,965 @@
+# game/dialogs/script-topics.rpy:1684
+translate ru s_topic_vegetarians_8a51d471:
+
+    # s abhfaca "Did you know that Monika was a vegetarian?"
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:1685
+translate ru s_topic_vegetarians_6c1ad8d3:
+
+    # s abhfaaa "She told me once while we were visiting a café a while back."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1686
+translate ru s_topic_vegetarians_f15216d6:
+
+    # s abhfaca "I heard that some people avoid meat mainly because of personal restrictions or to be nice to animals..."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:1687
+translate ru s_topic_vegetarians_2bc5a2a1:
+
+    # s abbbada "But Monika said it was her protest against cultivating livestock, since it produces a lot of greenhouse gasses."
+    s abbbada ""
+
+# game/dialogs/script-topics.rpy:1688
+translate ru s_topic_vegetarians_ca8c0ce8:
+
+    # s abhfaca "She thought that becoming a vegetarian just to save animals is kinda discrimination, since plants are living beings too."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:1689
+translate ru s_topic_vegetarians_0c0a5023:
+
+    # s abhfaaa "That said, I understand why some people become vegetarian to save animals."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1690
+translate ru s_topic_vegetarians_4a30cb91:
+
+    # s abegmeaj "I mean, we as people have more in common with chickens and cows than plants, ehehehe~"
+    s abegmeaj ""
+
+# game/dialogs/script-topics.rpy:1691
+translate ru s_topic_vegetarians_cceccb24:
+
+    # s abbbcaa "So although I’m not a vegetarian, I like to buy free-range products when I can, because then I know the animals have been treated well."
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1692
+translate ru s_topic_vegetarians_85749517:
+
+    # s abhfaoa "What do you think, [player]?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1712
+translate ru s_topic_pizza_08f2c102:
+
+    # s abhfaoa "Do you like pizza, [player]?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1713
+translate ru s_topic_pizza_598dce6e:
+
+    # s abhfcaa "I’m pretty sure everyone does!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1714
+translate ru s_topic_pizza_cec5135e:
+
+    # s abbbaoa "You can add pretty much any toppings you like to them!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1715
+translate ru s_topic_pizza_69a64ceb:
+
+    # s abegmeaj "...within reasonable limits, of course, ehehehe~"
+    s abegmeaj ""
+
+# game/dialogs/script-topics.rpy:1716
+translate ru s_topic_pizza_b7b7a683:
+
+    # s abbbcaa "The only main ingredients are {i}dough{/i} and {i}cheese{/i}."
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1717
+translate ru s_topic_pizza_32682c12:
+
+    # s abhfbma "A {cps=40}{i}whoooole lot{/i}{/cps} of cheese~"
+    s abhfbma ""
+
+# game/dialogs/script-topics.rpy:1718
+translate ru s_topic_pizza_4cf362cb:
+
+    # s abhfaaa "I think its simplicity and versatility lead to its popularity worldwide."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1719
+translate ru s_topic_pizza_0438da10:
+
+    # s abhfcoa "Now you can order a pizza at almost any fast-food restaurant or make one with your own hands, even if you aren't very familiar with cooking!"
+    s abhfcoa ""
+
+# game/dialogs/script-topics.rpy:1720
+translate ru s_topic_pizza_f6eebba1:
+
+    # s abbbaaa "Just find one of the billions and billions of delicious pizza recipes on the internet or in a cookery book!"
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1721
+translate ru s_topic_pizza_42eaf3a9:
+
+    # s abhfaoa "People even came up with a term called the {i}Pizza Effect{/i}: When you make something from a different culture into something new."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1722
+translate ru s_topic_pizza_e8cb7e32:
+
+    # s abhfcaa "It's amazing to see that we’re all connected despite our differences and borrow cool things from each other's cultures."
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1723
+translate ru s_topic_pizza_0c093a99:
+
+    # s abbbaoa "Food philosophy with Sayori! That’d be a great show, don’t you think? Ehehehe~"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1742
+translate ru s_topic_iceCream_49c4a6a8:
+
+    # s abhfaoa "Do you like ice cream, [player]?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1743
+translate ru s_topic_iceCream_a80fc0ff:
+
+    # s abhfcaa "Everyone likes ice cream!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1744
+translate ru s_topic_iceCream_c4566c20:
+
+    # s cbbbaoa "It’s {i}obviously{/i} the best cold food humanity has discovered yet!"
+    s cbbbaoa ""
+
+# game/dialogs/script-topics.rpy:1745
+translate ru s_topic_iceCream_742918b5:
+
+    # s abbbcaa "And there're lots and lots and lots of flavors and toppings to make it even better!"
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1746
+translate ru s_topic_iceCream_a152c857:
+
+    # s abhfaoa "What's your favorite kind?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1747
+translate ru s_topic_iceCream_a238e104:
+
+    # s abhfcaa "I like vanilla and chocolate the most!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1748
+translate ru s_topic_iceCream_fc77c429:
+
+    # s abhfaoa "I know they're really common, but so what?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1749
+translate ru s_topic_iceCream_8ec5cd62:
+
+    # s abhfcaa "They both taste soooooo goood, ehehehe~"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1750
+translate ru s_topic_iceCream_331ff4d2:
+
+    # s abbbcaa "Maybe we could make our own sometime!"
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1769
+translate ru s_topic_tech_8a322764:
+
+    # s abhfaaa "I wonder if I could somehow, someday, visit you in your reality."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1770
+translate ru s_topic_tech_076ded2b:
+
+    # s abbbaoa "I think it’s a possibility, especially since technology is progressing faster and faster these days."
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1771
+translate ru s_topic_tech_d8943aa1:
+
+    # s abbbcaa "Virtual assistants and smart houses have become more common than ever before!"
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1772
+translate ru s_topic_tech_b2f70d4a:
+
+    # s abhfaoa "And all of these technologies make people more efficient with computers, by almost merging them together."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1773
+translate ru s_topic_tech_0787139c:
+
+    # s abhflaa "Just imagine if I lived as part of your house, helping you with your daily routine, wouldn’t that be awesome, [player]?"
+    s abhflaa ""
+
+# game/dialogs/script-topics.rpy:1774
+translate ru s_topic_tech_17bb6ea3:
+
+    # s abbbaoa "Maybe I could even be a hologram in your reality one day, who knows!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1775
+translate ru s_topic_tech_2ad1545c:
+
+    # s abbbcaa "I'd love to do that when it becomes possible."
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1776
+translate ru s_topic_tech_2e7ac52e:
+
+    # s abhfaoa "Even right now I can still be a sort of virtual assistant!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1777
+translate ru s_topic_tech_d785b396:
+
+    # s abhfcaa "So if you ever need me, I’ll try my best to help from here, [player]!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1797
+translate ru s_topic_cupcakes_1c832f67:
+
+    # s abegboa "Natsuki’s cupcakes were always the best!"
+    s abegboa ""
+
+# game/dialogs/script-topics.rpy:1798
+translate ru s_topic_cupcakes_c32bdb4e:
+
+    # s abegcaa "She baked often for the club, me and her even baked together one time!"
+    s abegcaa ""
+
+# game/dialogs/script-topics.rpy:1799
+translate ru s_topic_cupcakes_57a0d708:
+
+    # s abhfaoa "We were making cookies, so she made the cookie dough and then I separated it into little cookie shapes..."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1800
+translate ru s_topic_cupcakes_aabd9331:
+
+    # s fbbbaaa "...but I had a better idea!"
+    s fbbbaaa ""
+
+# game/dialogs/script-topics.rpy:1801
+translate ru s_topic_cupcakes_cec5ef0b:
+
+    # s fbbbaoa "I combined all the cookie dough together into..."
+    s fbbbaoa ""
+
+# game/dialogs/script-topics.rpy:1802
+translate ru s_topic_cupcakes_dd1af139:
+
+    # s fbbbaaa "One."
+    s fbbbaaa ""
+
+# game/dialogs/script-topics.rpy:1803
+translate ru s_topic_cupcakes_d982f3a6:
+
+    # s fbbcaoa "Giant."
+    s fbbcaoa ""
+
+# game/dialogs/script-topics.rpy:1804
+translate ru s_topic_cupcakes_bf68c15a:
+
+    # s abbccma "Cookie!"
+    s abbccma ""
+
+# game/dialogs/script-topics.rpy:1805
+translate ru s_topic_cupcakes_03ac7a3c:
+
+    # s abegmeaj "Though maybe it would have been bigger if I didn’t secretly eat half of the cookie dough beforehand, hehehehe~"
+    s abegmeaj ""
+
+# game/dialogs/script-topics.rpy:1806
+translate ru s_topic_cupcakes_7b344b6c:
+
+    # s abfccaa "But that doesn’t matter! We brought the giant cookie to the club the next day!"
+    s abfccaa ""
+
+# game/dialogs/script-topics.rpy:1807
+translate ru s_topic_cupcakes_ad2a4c50:
+
+    # s abgcaea "It’s Chef Sayori’s best culinary achievement so far!"
+    s abgcaea ""
+
+# game/dialogs/script-topics.rpy:1827
+translate ru s_answer_bday_347d395d:
+
+    # s abhfaca "To be honest [player], I don't remember my birthday."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:1828
+translate ru s_answer_bday_8792c010:
+
+    # s abegbdaj "A lot of things before the events of the game are pretty fuzzy..."
+    s abegbdaj ""
+
+# game/dialogs/script-topics.rpy:1829
+translate ru s_answer_bday_30ba0e3e:
+
+    # s abbbaca "Only Monika knows when her birthday is out of the four of us."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:1830
+translate ru s_answer_bday_1b00d987:
+
+    # s abbbaaa "I'm pretty sure it's {i}the 22nd of September{/i}, if I recall correctly."
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:1831
+translate ru s_answer_bday_773dcf9f:
+
+    # s abagaoa "I think my birthday must be one of the marked dates from my bedroom calendar."
+    s abagaoa ""
+
+# game/dialogs/script-topics.rpy:1832
+translate ru s_answer_bday_03af2433:
+
+    # s abagcaa "You can choose one of them and consider it my birthday, if you want to!"
+    s abagcaa ""
+
+# game/dialogs/script-topics.rpy:1833
+translate ru s_answer_bday_bcfce3e3:
+
+    # s abbbaoa "Or the day when you ran the game for the first time."
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1834
+translate ru s_answer_bday_18348c4f:
+
+    # s abbccoa "But don't think you can get away with not throwing a birthday party for me! Ehehehe~"
+    s abbccoa ""
+
+# game/dialogs/script-topics.rpy:1853
+translate ru s_answer_music_4f33690d:
+
+    # s abhfaoa "I like lots of different kinds of music!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1854
+translate ru s_answer_music_0ea40cee:
+
+    # s abbbcaa "After all, I think it’s kinda silly to divide ‘good music’ into genres when I can appreciate different things about each of them."
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1855
+translate ru s_answer_music_73889eae:
+
+    # s abegaoaj "So my favorite playlists are so long that I can’t really narrow it down for you, ehehehe~"
+    s abegaoaj ""
+
+# game/dialogs/script-topics.rpy:1856
+translate ru s_answer_music_29b65170:
+
+    # s abhfaaa "Sometimes I like to listen to something funny, like {i}Weird Al Yankovic{/i}!"
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1857
+translate ru s_answer_music_e82b2464:
+
+    # s abhfloa "Or to something lyrical and serene, like lo-fi or instrumental music."
+    s abhfloa ""
+
+# game/dialogs/script-topics.rpy:1858
+translate ru s_answer_music_a4606919:
+
+    # s abhfaaa "Or to groups like {i}Imagine Dragons{/i}, {i}Blonde Redhead{/i}, {i}Gorillaz{/i}, {i}Muse{/i}, {i}Status Quo{/i} and {i}Twenty One Pilots{/i}."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:1859
+translate ru s_answer_music_cb6dabae:
+
+    # s abbbcaa "I also like the tunes {i}Bonobo{/i} and {i}Jake Chudnow{/i} make."
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:1860
+translate ru s_answer_music_778c30d0:
+
+    # s abbbaoa "You can find a ton of songs you might enjoy if you're willing to keep an open mind!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:1879
+translate ru s_answer_shipping_a9417310:
+
+    # s ebbcaca "Do you mean how some fans ‘ship' me with my friends or ship some of them with each other?"
+    s ebbcaca ""
+
+# game/dialogs/script-topics.rpy:1880
+translate ru s_answer_shipping_398db0d0:
+
+    # s "To be honest, I think it's pretty harmless and I don't really mind it that much."
+    s ""
+
+# game/dialogs/script-topics.rpy:1881
+translate ru s_answer_shipping_ae82dc51:
+
+    # s abhabaca "But personally, I only see them as my friends."
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:1882
+translate ru s_answer_shipping_fc3e741c:
+
+    # s abaabaoa "Most people are pretty cool about this kind of thing, at least I'd like to think so."
+    s abaabaoa ""
+
+# game/dialogs/script-topics.rpy:1883
+translate ru s_answer_shipping_61e98a88:
+
+    # s abhabaca "And it's just fans being fans, which doesn't really affect how I feel."
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:1885
+translate ru s_answer_shipping_8b08ec77:
+
+    # s abgccob "After all, I only have eyes for a certain someone."
+    s abgccob ""
+
+# game/dialogs/script-topics.rpy:1886
+translate ru s_answer_shipping_7353f722:
+
+    # s bbgcaab "You know who I'm talking about, right? Ehehehe~"
+    s bbgcaab ""
+
+# game/dialogs/script-topics.rpy:1905
+translate ru s_answer_holidays_42ace4b9:
+
+    # s abbbbca "I’m not even sure if I have a favorite holiday, {w=0.5}{nw}"
+    s abbbbca ""
+
+# game/dialogs/script-topics.rpy:1906
+translate ru s_answer_holidays_0a49fd9e:
+
+    # extend abgcaoa "because I like them all!"
+    extend abgcaoa ""
+
+# game/dialogs/script-topics.rpy:1907
+translate ru s_answer_holidays_b97f5713:
+
+    # s abaabaoa "Each of them have their own traditions and atmosphere."
+    s abaabaoa ""
+
+# game/dialogs/script-topics.rpy:1908
+translate ru s_answer_holidays_c86b9906:
+
+    # s "And it's mostly the same line of events: meals, presents, fun, and bonding."
+    s ""
+
+# game/dialogs/script-topics.rpy:1909
+translate ru s_answer_holidays_f21f2828:
+
+    # s "Isn't that what we all like the most about holidays?"
+    s ""
+
+# game/dialogs/script-topics.rpy:1910
+translate ru s_answer_holidays_192c5a23:
+
+    # s abhfbaoa "I can’t wait to spend one with you someday, [player]!"
+    s abhfbaoa ""
+
+# game/dialogs/script-topics.rpy:1929
+translate ru s_answer_books_a90e096f:
+
+    # s bbegmoaj "I’ve never really been much of a reader, to be honest."
+    s bbegmoaj ""
+
+# game/dialogs/script-topics.rpy:1930
+translate ru s_answer_books_719974fe:
+
+    # s bbegacaj "But if I did pick up a book, I’d like to read something full of imagination. "
+    s bbegacaj ""
+
+# game/dialogs/script-topics.rpy:1931
+translate ru s_answer_books_92bf8b37:
+
+    # s abbcaoaj "Like a fantasy or adventure book!"
+    s abbcaoaj ""
+
+# game/dialogs/script-topics.rpy:1932
+translate ru s_answer_books_ebc15ecd:
+
+    # s abbccoaj "After all, the true value in books is how they immerse you in the fantastical, after all."
+    s abbccoaj ""
+
+# game/dialogs/script-topics.rpy:1933
+translate ru s_answer_books_050e876b:
+
+    # s abbccoaj "I’m starting to sound like Yuri now, ehehehe~"
+    s abbccoaj ""
+
+# game/dialogs/script-topics.rpy:1952
+translate ru s_answer_poems_8ff290d7:
+
+    # s abgbaca "I can't really remember how I saw them before I became the president."
+    s abgbaca ""
+
+# game/dialogs/script-topics.rpy:1953
+translate ru s_answer_poems_db7ae54e:
+
+    # s abbcaca "But now I know his 'poems' were just a list of words you had selected to open CGs and progress the game."
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:1954
+translate ru s_answer_poems_4be5b48b:
+
+    # s abhaaca "That’s how you saw them too, right?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:1955
+translate ru s_answer_poems_122d198b:
+
+    # s abhfcaa "I heard it's a pretty unique gameplay feature for visual novels actually!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:1956
+translate ru s_answer_poems_b7f4fba0:
+
+    # s abhfaoa "Not every game lets you change the story based on your decisions, let alone through minigames!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:1976
+translate ru s_answer_love_53f259bf:
+
+    # s bbbccoa "What a silly question, [player]!"
+    s bbbccoa ""
+
+# game/dialogs/script-topics.rpy:1977
+translate ru s_answer_love_71a0ce03:
+
+    # s ebbccoa "Of course I do."
+    s ebbccoa ""
+
+# game/dialogs/script-topics.rpy:1978
+translate ru s_answer_love_25f7bdba:
+
+    # s ebbcaoa "I know that something about the game makes the Club President fall in love with you."
+    s ebbcaoa ""
+
+# game/dialogs/script-topics.rpy:1980
+translate ru s_answer_love_0f4d91be:
+
+    # s abhabaca "But even without a programmed need for love, I'd have fallen for you anyway."
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:1981
+translate ru s_answer_love_88a237b4:
+
+    # s abhacoa "You're so kind, considerate, and you tried to make all of us happy. I really admire that about you."
+    s abhacoa ""
+
+# game/dialogs/script-topics.rpy:2000
+translate ru s_answer_god_0154f29f:
+
+    # s abbbbca "You know, I've never really thought about it that much."
+    s abbbbca ""
+
+# game/dialogs/script-topics.rpy:2001
+translate ru s_answer_god_099eab0a:
+
+    # s abbbaca "I was never really sure what to think about religion; I guess you could say I was agnostic?"
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:2002
+translate ru s_answer_god_e96c5e12:
+
+    # s abhabaca "But it's kind of hard to stay that way when you realize that you and your entire world have a 'creator'."
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:2003
+translate ru s_answer_god_52cf6982:
+
+    # s abbccoa "Blessed be {i}Dan Salvato{/i}, hallowed be thy name! Ehehehe~"
+    s abbccoa ""
+
+# game/dialogs/script-topics.rpy:2004
+translate ru s_answer_god_26ad5102:
+
+    # s abbcaca "He's a pretty cool guy, but he’s pretty secretive about whatever he's working on from what I’ve seen online."
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2005
+translate ru s_answer_god_0c8a761d:
+
+    # s abhabaca "He's more like a Dad rather than some unapproachable God, I think."
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:2024
+translate ru s_answer_politics_e2c66328:
+
+    # s bbegmoaj "I'm not overly politically inclined, to tell you the truth."
+    s bbegmoaj ""
+
+# game/dialogs/script-topics.rpy:2025
+translate ru s_answer_politics_387c183f:
+
+    # s abhabaca "I don't really care how exactly people make collective decisions, give orders and share boons."
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:2026
+translate ru s_answer_politics_a29affe9:
+
+    # s abbbaaa "For me, the most important thing is that people just live their lives without interrupting anyone else's happiness."
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:2027
+translate ru s_answer_politics_2d5aca3f:
+
+    # s abbcaca "And that people can live without worrying about basic necessities, like food or shelter."
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2028
+translate ru s_answer_politics_4d643331:
+
+    # s "The beauty of it all is that I'm a free person that can have my own opinion on society."
+    s ""
+
+# game/dialogs/script-topics.rpy:2029
+translate ru s_answer_politics_db591b8b:
+
+    # s abhaaca "Too often, people don't lift a finger to stop injustice until it directly affects them..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:2030
+translate ru s_answer_politics_5d0d0a4c:
+
+    # s abbbaca "If you've never seen them, you should read some of {i}Martin Niemöller’s{/i} speeches on this idea; it's pretty fascinating stuff. "
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:2031
+translate ru s_answer_politics_4ebbfabb:
+
+    # s bbbbaca "But when people start caring about others affected by war, by famine, by injustice, {w=0.5}{nw}"
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:2032
+translate ru s_answer_politics_c062b419:
+
+    # extend abbccaa "that's when things can really be changed for the better."
+    extend abbccaa ""
+
+# game/dialogs/script-topics.rpy:2051
+translate ru s_answer_cookies_e8ef4025:
+
+    # s abhfaoa "I haven't had any cookies since that one time with Natsuki."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:2052
+translate ru s_answer_cookies_1dbf3dc5:
+
+    # s abhfcaa "They were soooo gooood!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:2053
+translate ru s_answer_cookies_9ce921c7:
+
+    # s abhfaoa "Especially the one with chocolate chips!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:2054
+translate ru s_answer_cookies_691cf4f7:
+
+    # s "Which just so happened to be Natsuki’s one, ehehehe~"
+    s ""
+
+# game/dialogs/script-topics.rpy:2055
+translate ru s_answer_cookies_8de505a8:
+
+    # s abbccaa "I could really do with some right now, {w=0.5}{nw}"
+    s abbccaa ""
+
+# game/dialogs/script-topics.rpy:2056
+translate ru s_answer_cookies_24d43a39:
+
+    # extend abbbaca "but there aren't any left here, I think."
+    extend abbbaca ""
+
+# game/dialogs/script-topics.rpy:2057
+translate ru s_answer_cookies_978c8ff6:
+
+    # s abbccoaj "And if there was I’d have sniffed them out by now, hehehe~"
+    s abbccoaj ""
+
+# game/dialogs/script-topics.rpy:2058
+translate ru s_answer_cookies_153d6176:
+
+    # s abbcaoa "Oh wait! What if I just spawn a plate of them on the desk?"
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:2059
+translate ru s_answer_cookies_b170a017:
+
+    # s cbbcaoa "After all, I'm the club president, so I can do that using the game console, right?"
+    s cbbcaoa ""
+
+# game/dialogs/script-topics.rpy:2060
+translate ru s_answer_cookies_00a43247:
+
+    # s cbbcaaa "Give me a minute, I'm gonna have to do some fancy coding business!"
+    s cbbcaaa ""
+
+# game/dialogs/script-topics.rpy:2070
+translate ru s_answer_cookies_bfcf0849:
+
+    # s abbccoa "Gotcha!"
+    s abbccoa ""
+
+# game/dialogs/script-topics.rpy:2071
+translate ru s_answer_cookies_8e45901b:
+
+    # s abaaaoa "That was easy!"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:2072
+translate ru s_answer_cookies_3507a8cc:
+
+    # s abaaaoa "Want some?"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:2073
+translate ru s_answer_cookies_715b5775:
+
+    # s bbbcmoaj "Oh, I forgot that I can't give you them yet since you're out there..."
+    s bbbcmoaj ""
+
+# game/dialogs/script-topics.rpy:2074
+translate ru s_answer_cookies_3c0350bb:
+
+    # s abaaaoa "But I hope you can imagine how tasty they smell at least, ehehehe~"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:2075
+translate ru s_answer_cookies_8254e183:
+
+    # s ebgcaoaj "Actually I just had an idea!"
+    s ebgcaoaj ""
+
+# game/dialogs/script-topics.rpy:2076
+translate ru s_answer_cookies_89900d06:
+
+    # s ebgbcoa "If you get some cookies yourself, it’d be like we’re having them together!"
+    s ebgbcoa ""
+
+# game/dialogs/script-topics.rpy:2077
+translate ru s_answer_cookies_c4c507b0:
+
+    # s abgbaoa "There’s nothing wrong with a sweet treat every now and then, ehehehe~"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:2105
+translate ru s_answer_chibi_d3d3297c:
+
+    # s abgbaoa "Oh! You mean these stickers?"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:2106
+translate ru s_answer_chibi_94841e41:
+
+    # s "They’re so cute, aren’t they!"
+    s ""
+
+# game/dialogs/script-topics.rpy:2107
+translate ru s_answer_chibi_03b3aff3:
+
+    # s abhfbcaa "I like how some people code them into separate characters along with us."
+    s abhfbcaa ""
+
+# game/dialogs/script-topics.rpy:2108
+translate ru s_answer_chibi_c416c8fa:
+
+    # s abhfbaoa "Maybe I could try to code one of them into a little buddy!"
+    s abhfbaoa ""
+
+# game/dialogs/script-topics.rpy:2109
+translate ru s_answer_chibi_0e218fe8:
+
+    # s "I think it'd be good coding practice for me."
+    s ""
+
+# game/dialogs/script-topics.rpy:2140
+translate ru s_answer_editing_e35e5239:
+
+    # s bbegmaaj "I do it with the power of my mind... I think? Ehehehe~"
+    s bbegmaaj ""
+
+# game/dialogs/script-topics.rpy:2141
+translate ru s_answer_editing_feab7010:
+
+    # s abaaaoa "I still don't know how it all works exactly, but if I want to make a new file, all I have to do is think about it!"
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:2146
+translate ru s_answer_editing_4b1ab256:
+
+    # s abhabaca "It's kinda like telekinesis but much much cooler!"
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:2147
+translate ru s_answer_editing_cb339a94:
+
+    # s abbbmaaj "I'm still learning though, so there might be some bugs here and there, {w=0.5}{nw}"
+    s abbbmaaj ""
+
+# game/dialogs/script-topics.rpy:2148
+translate ru s_answer_editing_39ec2cc8:
+
+    # extend abbbcaaj "but I’m getting better!"
+    extend abbbcaaj ""
+
+# game/dialogs/script-topics.rpy:2149
+translate ru s_answer_editing_94876e5b:
+
+    # s abhabaca "So can you check the updates from time to time for me? Pretty please~"
+    s abhabaca ""
+
+# game/dialogs/script-topics.rpy:2168
+translate ru s_answer_reality_b9a2773b:
+
+    # s abhfaoa "Oh I've already seen lots of things about it on the internet!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:2169
+translate ru s_answer_reality_ff8bf969:
+
+    # s abhfcoa "It looks like such a big and fancy place, full of beautiful sights, culture, and kind people."
+    s abhfcoa ""
+
+# game/dialogs/script-topics.rpy:2170
+translate ru s_answer_reality_9ce93f12:
+
+    # s abhaaca "Although, it does still have its issues."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:2171
+translate ru s_answer_reality_fc2ff020:
+
+    # s abbbaca "Things like poverty, pollution, unjustness and cruelty, just to name a few."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:2172
+translate ru s_answer_reality_290eb860:
+
+    # s abbbaaa "But that doesn’t mean we can't fix it! If we all try our best to be kind and considerate every day, I’m sure we can make all that a thing of the past."
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:2173
+translate ru s_answer_reality_07681199:
+
+    # s bbagaca "Come to think of it, my world was imperfect too..."
+    s bbagaca ""
+
+# game/dialogs/script-topics.rpy:2174
+translate ru s_answer_reality_ee6099fb:
+
+    # s bbbbaca "Just look at me and the other girls. We all had our pros and cons."
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:2175
+translate ru s_answer_reality_784e1b55:
+
+    # s abbbcoa "But that aside, I really wish I can visit your reality someday!"
+    s abbbcoa ""
+
+# game/dialogs/script-topics.rpy:2176
+translate ru s_answer_reality_6169c02f:
+
+    # s bbbbmoa "I wonder how I'd look, since your reality is quite different to mine..."
+    s bbbbmoa ""
+
+# game/dialogs/script-topics.rpy:2177
+translate ru s_answer_reality_ba5dafc6:
+
+    # s bbbbaca "It's pretty detailed and colorful, while my world is kinda simple."
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:2178
+translate ru s_answer_reality_d1acc7d1:
+
+    # s ebbccoa "But eh, that doesn't matter to me, so long as I’m by your side~"
+    s ebbccoa ""
+
+# game/dialogs/script-topics.rpy:2197
+translate ru s_answer_read_7bfd16e5:
+
+    # s ebbcaoa "Okay! Just pick the one you want to read."
+    s ebbcaoa ""
+
+# game/dialogs/script-topics.rpy:2218
+translate ru s_answer_profession_c94bc18f:
+
+    # s abhaaca "To be honest, I've never really thought about it."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:2219
+translate ru s_answer_profession_b24685ef:
+
+    # s abhaaaa "I've always found fulfillment in socializing and helping others."
+    s abhaaaa ""
+
+# game/dialogs/script-topics.rpy:2220
+translate ru s_answer_profession_5fb90d71:
+
+    # s abhacaa "So, I think I'd be a good caregiver or psychologist!"
+    s abhacaa ""
+
+# game/dialogs/script-topics.rpy:2221
+translate ru s_answer_profession_9e03a28b:
+
+    # s abbcaaa "Maybe even a... diplomatist?"
+    s abbcaaa ""
+
+# game/dialogs/script-topics.rpy:2222
+translate ru s_answer_profession_a52d2f73:
+
+    # s bbegmpa "No, that's not right... a great {w=0.5}{nw}"
+    s bbegmpa ""
+
+# game/dialogs/script-topics.rpy:2223
+translate ru s_answer_profession_c3ecfe09:
+
+    # extend abbcaoa "{i}diplomat{/i}, ehehehe~"
+    extend abbcaoa ""
+
+# game/dialogs/script-topics.rpy:2224
+translate ru s_answer_profession_ee549b1e:
+
+    # s abbccoa "I could stop arguments on a global scale, and do my part to fix any disagreements!"
+    s abbccoa ""
+
+# game/dialogs/script-topics.rpy:2225
+translate ru s_answer_profession_c90ad1de:
+
+    # s "I'd be happy doing almost anything, as long as I can be useful and make a difference in somebody's life."
+    s ""
+
+# game/dialogs/script-topics.rpy:2226
+translate ru s_answer_profession_fc725b10:
+
+    # s abhaaca "I suppose I could do something a little more creative, like painting, or writing..."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:2227
+translate ru s_answer_profession_a5f9fb83:
+
+    # s abbbaca "But to be honest, I don't think I could ever charge money for something I made."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:2228
+translate ru s_answer_profession_7fa4bf67:
+
+    # s abhaaca "Art can express so many amazing feelings and help others feel like someone understands what they're going through, and that’s more than enough of a profit for me."
+    s abhaaca ""
