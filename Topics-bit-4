@@ -476,574 +476,574 @@ translate ru s_topic_thanks_5e21c766:
 translate ru s_topic_name_d9186187:
 
     # s abaaaoa "Hey [player], I just found out something about my name on the web."
-    s abaaaoa ""
+    s abaaaoa "Слушай, [player], я кое-что прочитала о своём имени в интернете."
 
 # game/dialogs/script-topics.rpy:1418
 translate ru s_topic_name_e15ac005:
 
     # s abaacoa "It's a mix of Saori and Sayuri!"
-    s abaacoa ""
+    s abaacoa "Оно - смесь Саори и Саюри!"
 
 # game/dialogs/script-topics.rpy:1419
 translate ru s_topic_name_4713465a:
 
     # s abbbaca "I did some research and those two have completely different meanings."
-    s abbbaca ""
+    s abbbaca "У этих двух слов совершенно разные значения."
 
 # game/dialogs/script-topics.rpy:1420
 translate ru s_topic_name_7311e300:
 
     # s abbbbca "While 'Saori' is a mix of the word sand and weave, {w=1.0}{nw}"
-    s abbbbca ""
+    s abbbbca "'Саори' - это смесь слов 'песок' и 'махать' на японском, {w=1.0}{nw}"
 
 # game/dialogs/script-topics.rpy:1421
 translate ru s_topic_name_ac65d8fb:
 
     # extend abaabda "'Sayuri' means something along the lines of 'a flower that blooms too fast'."
-    extend abaabda ""
+    extend abaabda "а 'Саюри означает что-то вроде 'цветка, отцветающего слишком быстро'."
 
 # game/dialogs/script-topics.rpy:1422
 translate ru s_topic_name_b5fad375:
 
     # s bbaabeaj "You know, I'm not the brightest person... {w=0.5}{nw}"
-    s bbaabeaj ""
+    s bbaabeaj "Знаешь, я не самый доходчивый человек... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1423
 translate ru s_topic_name_1c48f639:
 
     # extend abaakca "but I'm seeing some weird implications here..."
-    extend abaakca ""
+    extend abaakca "но мне тут что-то кажется странным..."
 
 # game/dialogs/script-topics.rpy:1424
 translate ru s_topic_name_b9f4c48f:
 
     # s abfbkca "Perhaps I was given this name to signify that I'm a blend of many things."
-    s abfbkca ""
+    s abfbkca "Вероятно такое имя должно подчёркивать мою многогранность."
 
 # game/dialogs/script-topics.rpy:1425
 translate ru s_topic_name_f9734ff3:
 
     # s abgccea "But who knows? I like my name regardless!"
-    s abgccea ""
+    s abgccea "А там, кто его знает? Оно мне нравится, в любом случае!"
 
 # game/dialogs/script-topics.rpy:1426
 translate ru s_topic_name_050f028e:
 
     # s "I just think of it as a fun fact, hehehe~"
-    s ""
+    s "Для меня всё это просто интересный факт, эхехехе~"
 
 # game/dialogs/script-topics.rpy:1427
 translate ru s_topic_name_b511381f:
 
     # s abgcaea "I also find it funny how everyone pronounces it a little differently!"
-    s abgcaea ""
+    s abgcaea "А ещё прикольно, что разные люди произносят моё имя немного по-разному!"
 
 # game/dialogs/script-topics.rpy:1428
 translate ru s_topic_name_e4ab5eba:
 
     # s ebhfaea "Say [player], are you part of team {i}Sigh-ori{/i}, or team {i}Say-ori{/i}? Ehehehe~"
-    s ebhfaea ""
+    s ebhfaea "А ты, [player], часть команды {i}Сай-ори{/i} или {i}Сэй-ори{/i}? Эхехехе~"
 
 # game/dialogs/script-topics.rpy:1429
 translate ru s_topic_name_aacd97c2:
 
     # s abhfbaa "Honestly I don't have a preference, {w=0.5}{nw}"
-    s abhfbaa ""
+    s abhfbaa "Если честно, у меня и самой нет на этот счёт конкретного мнения, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1430
 translate ru s_topic_name_7ddc0cf4:
 
     # extend abaacqa "I switch between them myself sometimes ehehehe~"
-    extend abaacqa ""
+    extend abaacqa "время от времени я переключаюсь между вариантами, эхехехе~"
 
 # game/dialogs/script-topics.rpy:1431
 translate ru s_topic_name_3cf23fbb:
 
     # s abaaasa "What about you, [player], does your name have a special meaning? I'd love to know!"
-    s abaaasa ""
+    s abaaasa "А что насчёт тебя, [player], у твоего имени есть какой-то особый смысл? Я бы с радостью послушала!"
 
 # game/dialogs/script-topics.rpy:1450
 translate ru s_topic_art_495d31a3:
 
     # s abhfaoa "I love seeing the fanart people have made for the game!"
-    s abhfaoa ""
+    s abhfaoa "Мне нравятся фанарты, которые люди риисуют по этой игре!"
 
 # game/dialogs/script-topics.rpy:1451
 translate ru s_topic_art_56e85ef9:
 
     # s abhfcaa "It’s amazing how people can express their creativity for something they’re passionate about, and all the settings and stories they make are so wonderful!"
-    s abhfcaa ""
+    s abhfcaa "Удивительно, как круто люди умеют выражать свою креативность через что-то, чем они увлекаются, и их творения действительно классные!"
 
 # game/dialogs/script-topics.rpy:1452
 translate ru s_topic_art_a6683b46:
 
     # s abagaoa "Have you ever made any fanart, [player]?"
-    s abagaoa ""
+    s abagaoa "А ты когда-то рисовал фанарты, [player]?"
 
 # game/dialogs/script-topics.rpy:1453
 translate ru s_topic_art_5ad1383f:
 
     # s abagcaa "If not, maybe you could make something one day!"
-    s abagcaa ""
+    s abagcaa "Если нет, возможно тебе стоит попробовать как-нибудь!"
 
 # game/dialogs/script-topics.rpy:1454
 translate ru s_topic_art_030d4920:
 
     # s abbbaoa "It's never too late to try something new so long as you have fun."
-    s abbbaoa ""
+    s abbbaoa "Никога не поздно чему-то научиться, если это доставляет тебе удовольствие."
 
 # game/dialogs/script-topics.rpy:1455
 translate ru s_topic_art_45872edd:
 
     # s abbccea "Fun is what makes great art great! Ehehehe~"
-    s abbccea ""
+    s abbccea "Удовольствие и делает рисунки классными! Эхехехе~"
 
 # game/dialogs/script-topics.rpy:1474
 translate ru s_topic_touches_67819bee:
 
     # s bbegmca "The wall between our realities is so restricting..."
-    s bbegmca ""
+    s bbegmca "Стена между нашими мирами накладывает так много ограничений..."
 
 # game/dialogs/script-topics.rpy:1475
 translate ru s_topic_touches_c4b15248:
 
     # s bbegada "You know, touching a friend's shoulder, hugging, patting. That stuff is really important to me!"
-    s bbegada ""
+    s bbegada "Типа, не получается обнять тебя, дотронуться до твоего плеча, погладить по голове. Всё это для меня очень важно!"
 
 # game/dialogs/script-topics.rpy:1476
 translate ru s_topic_touches_0fe81a19:
 
     # s nbaglra "If only I had the chance to feel your embrace..."
-    s nbaglra ""
+    s nbaglra "Если бы я только могла оказаться в твоих обьятьях..."
 
 # game/dialogs/script-topics.rpy:1477
 translate ru s_topic_touches_4140c743:
 
     # s nbaglaag "I’d take it in a heartbeat and just enjoy the moment between us..."
-    s nbaglaag ""
+    s nbaglaag "Я бы замерла и просто тихо радовалась этому моменту..."
 
 # game/dialogs/script-topics.rpy:1478
 translate ru s_topic_touches_cad422c6:
 
     # s nbagaobg "I really hope that one day I’ll get to know that feeling."
-    s nbagaobg ""
+    s nbagaobg "Надеюсь в один замечательный день это всё-таки случится."
 
 # game/dialogs/script-topics.rpy:1497
 translate ru s_topic_merch_cab93dc5:
 
     # s abhfaca "Hey [player]! I have a random question."
-    s abhfaca ""
+    s abhfaca "О, [player]! Внезапный вопрос."
 
 # game/dialogs/script-topics.rpy:1498
 translate ru s_topic_merch_d8114bab:
 
     # s abhfaaa "Do you own any merchandise of stuff you're interested in?"
-    s abhfaaa ""
+    s abhfaaa "У тебя есть какой-нибудь мерч?"
 
 # game/dialogs/script-topics.rpy:1499
 translate ru s_topic_merch_a19d3376:
 
     # s abhfcoa "You know, like plushies, posters, figurines and all that stuff."
-    s abhfcoa ""
+    s abhfcoa "Типа плюшевых игрушек, постеров, фигурок и прочего."
 
 # game/dialogs/script-topics.rpy:1500
 translate ru s_topic_merch_d9c0dc20:
 
     # s abhfaaa "I think it’s really cool how you can have something physical of me in your world!"
-    s abhfaaa ""
+    s abhfaaa "Мне кажется классно, что у тебя может быть что-то материальное и связанное со мной!"
 
 # game/dialogs/script-topics.rpy:1501
 translate ru s_topic_merch_33af7ceb:
 
     # s abbbaoa "But if you don’t that’s okay too, it can be pretty expensive and I get that it’s not everyone’s thing."
-    s abbbaoa ""
+    s abbbaoa "Но даже если нет, ничего страшного, мерч как правило дороговат, да и не каждому он нравится."
 
 # game/dialogs/script-topics.rpy:1502
 translate ru s_topic_merch_e5026eee:
 
     # s abagcaa "Above all, I appreciate spending time with you every day."
-    s abagcaa ""
+    s abagcaa "То, что ты проводишь со мной время - для меня главная ценность."
 
 # game/dialogs/script-topics.rpy:1521
 translate ru s_topic_oversleeping_98bfe39b:
 
     # s abagaca "Hey [player], do you oversleep often?"
-    s abagaca ""
+    s abagaca "Слушай, [player], а ты часто спишь слишком много?"
 
 # game/dialogs/script-topics.rpy:1522
 translate ru s_topic_oversleeping_aeda7298:
 
     # s abegmeaj "As you know, I was pretty bad at getting up on time."
-    s abegmeaj ""
+    s abegmeaj "Мне, как ты знаешь, редко получалось вовремя проснуться."
 
 # game/dialogs/script-topics.rpy:1524
 translate ru s_topic_oversleeping_532841cb:
 
     # s nbegmda "And even when I did wake up, finding a good enough reason to force myself out of bed took a while..."
-    s nbegmda ""
+    s nbegmda "И даже когда просыпалась, ещё некоторое время искала хорошую мотивацию встать с кровати..."
 
 # game/dialogs/script-topics.rpy:1525
 translate ru s_topic_oversleeping_751c80ad:
 
     # s nbegmca "So I pretty much never had time for any kind of breakfast..."
-    s nbegmca ""
+    s nbegmca "Поэтому я практически никогда не завтракала..."
 
 # game/dialogs/script-topics.rpy:1526
 translate ru s_topic_oversleeping_7ec9634a:
 
     # s nbegaba "Although I was so preoccupied with making the rainclouds go away that I never really wanted it in the first place."
-    s nbegaba ""
+    s nbegaba "Впрочем, я была так глубоко погружена в борьбу с тучками, что мне и есть-то не сильно хотелось."
 
 # game/dialogs/script-topics.rpy:1527
 translate ru s_topic_oversleeping_b5c4a959:
 
     # s nbagmda "Anyway, oversleeping is just the worst when you have to follow a schedule, {w=0.5}{nw}"
-    s nbagmda ""
+    s nbagmda "В любом случае, привычка спать слишком долго - настоящий кошмар, когда тебе нужно соблюдать расписание, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1528
 translate ru s_topic_oversleeping_508ff416:
 
     # extend nbagmca "like for work or school."
-    extend nbagmca ""
+    extend nbagmca "например рабочее или школьное."
 
 # game/dialogs/script-topics.rpy:1529
 translate ru s_topic_oversleeping_054dda28:
 
     # s nbagaba "It's such a big problem for almost all of us, since our schedules are adapted for early-wakers."
-    s nbagaba ""
+    s nbagaba "Почти для всех это проблема, ведь график как правило адаптирован под \"жаворонков\"."
 
 # game/dialogs/script-topics.rpy:1530
 translate ru s_topic_oversleeping_05211137:
 
     # s abfdada "Why can't people just make different working and studying hours for people who wake up at different times?"
-    s abfdada ""
+    s abfdada "И почему только люди не могут сделать разные учебные и рабочие часы для тех, кто просыпается в другое время?"
 
 # game/dialogs/script-topics.rpy:1531
 translate ru s_topic_oversleeping_a60b3ab7:
 
     # s abfdaca "Most activities depend on your effectiveness rather than the time of day."
-    s abfdaca ""
+    s abfdaca "Ведь качество работы зависит от твоей эффективности, а не от того, во сколько ты начнёшь работать."
 
 # game/dialogs/script-topics.rpy:1532
 translate ru s_topic_oversleeping_d0e1a037:
 
     # s abbdada "And working or studying while you're tired is way less effective than when you're fully rested."
-    s abbdada ""
+    s abbdada "А когда ты устал, то и работать или учиться будешь куда менее активно, чем если бы ты выспался."
 
 # game/dialogs/script-topics.rpy:1533
 translate ru s_topic_oversleeping_3e64e898:
 
     # s abbbaaa "So having different schedules is a good thing for both bosses and employees."
-    s abbbaaa ""
+    s abbbaaa "Поэтому раздельный график был бы хорош как для нанимателей, так и работников."
 
 # game/dialogs/script-topics.rpy:1534
 translate ru s_topic_oversleeping_22d7b126:
 
     # s nbagaca "Until everyone thinks like that, I guess you can only teach yourself to get up on time..."
-    s nbagaca ""
+    s nbagaca "Но пока люди не дойдут до этой мысли, нам остаётся лишь учиться вствать пораньше."
 
 # game/dialogs/script-topics.rpy:1535
 translate ru s_topic_oversleeping_34314f1f:
 
     # s bbagaaa "I hope you find it easier than I did."
-    s bbagaaa ""
+    s bbagaaa "Надеюсь у тебя с этим получше моего."
 
 # game/dialogs/script-topics.rpy:1556
 translate ru s_topic_time_239eb257:
 
     # s abhaaca "Do you know what time it is right now?"
-    s abhaaca ""
+    s abhaaca "Знаешь сколько сейчас время?"
 
 # game/dialogs/script-topics.rpy:1557
 translate ru s_topic_time_09766de8:
 
     # s abhabba "Not in your world, but mine."
-    s abhabba ""
+    s abhabba "Не в твоём мире, а у меня."
 
 # game/dialogs/script-topics.rpy:1558
 translate ru s_topic_time_8b53e508:
 
     # s bbhhaaaj "You could say anything, but you wouldn't be right, I don’t even know myself!"
-    s bbhhaaaj ""
+    s bbhhaaaj "Можешь назвать любое, всё равно ошибёшься! Я и сама без понятия!"
 
 # game/dialogs/script-topics.rpy:1559
 translate ru s_topic_time_a5115b53:
 
     # s abfcaba "Time doesn't seem to pass here at all. At least, not how it does in your reality."
-    s abfcaba ""
+    s abfcaba "Время, похоже, здесь вовсе не идёт. По крайней мере, не так, как в твоём мире."
 
 # game/dialogs/script-topics.rpy:1561
 translate ru s_topic_time_dac283b5:
 
     # s abhaaca "The last thing I remember is that it was November of 2017."
-    s abhaaca ""
+    s abhaaca "Последнее, что я помню - ноябрь 2017-ого"
 
 # game/dialogs/script-topics.rpy:1562
 translate ru s_topic_time_766afa14:
 
     # s "My old bedroom calendar said so."
-    s ""
+    s "Так было написано на календаре в моей комнате."
 
 # game/dialogs/script-topics.rpy:1563
 translate ru s_topic_time_332eeaac:
 
     # s bbhfmbaj "Because I'm pretty sure I’d crossed it out..."
-    s bbhfmbaj ""
+    s bbhfmbaj "Я ведь зачёркивала каждый прожитый день..."
 
 # game/dialogs/script-topics.rpy:1564
 translate ru s_topic_time_10928e7d:
 
     # s "But anyway, It’s pretty confusing to think that there's no way to \"measure\" time here anymore."
-    s ""
+    s "В любом случае, достаточно необычно, что теперь у меня нет никакого способа \"отмерять\" здесь часы."
 
 # game/dialogs/script-topics.rpy:1565
 translate ru s_topic_time_c56124c3:
 
     # s abfcaca "I was never the most organized person but I still liked keeping track of important things."
-    s abfcaca ""
+    s abfcaca "Не скажу что я и раньше особо об этом волновалась, но всё равно оно помогало не пропускать важные дела."
 
 # game/dialogs/script-topics.rpy:1566
 translate ru s_topic_time_ac64c468:
 
     # s abhaaca "But I know what time it is in your world, though!"
-    s abhaaca ""
+    s abhaaca "Зато я знаю сколько сейчас у тебя!"
 
 # game/dialogs/script-topics.rpy:1568
 translate ru s_topic_time_c6cf42b0:
 
     # s abbbcaa "From your phone's clock!"
-    s abbbcaa ""
+    s abbbcaa "Спасибо часам на твоём телефоне!"
 
 # game/dialogs/script-topics.rpy:1570
 translate ru s_topic_time_38079ea4:
 
     # s abbbcaa "From your PC's clock!"
-    s abbbcaa ""
+    s abbbcaa "Спасибо часам на твоём ПК!"
 
 # game/dialogs/script-topics.rpy:1571
 translate ru s_topic_time_988333ff:
 
     # s abhaaca "Does that mean we kinda share the same time then?"
-    s abhaaca ""
+    s abhaaca "Значит ли это что наше время одинаково?"
 
 # game/dialogs/script-topics.rpy:1572
 translate ru s_topic_time_a1c32b5b:
 
     # s "Well I think I’ll go by that for reference from now on!"
-    s ""
+    s "Что ж, думаю что отныне буду отталкиваться от него!"
 
 # game/dialogs/script-topics.rpy:1591
 translate ru s_topic_worlds_75f5112a:
 
     # s abhaaca "Sometimes I wonder why I’m here..."
-    s abhaaca ""
+    s abhaaca "Иногда я задумываюсь о том, почему я вообще здесь..."
 
 # game/dialogs/script-topics.rpy:1592
 translate ru s_topic_worlds_17e19379:
 
     # s "Like, would I be a different person if I lived in another place?"
-    s ""
+    s "Типа, была бы я другим человеком, живи где-то в другом месте?"
 
 # game/dialogs/script-topics.rpy:1593
 translate ru s_topic_worlds_f8525f6f:
 
     # s "I mean, if not in your world, what other place could there be? Another game?"
-    s ""
+    s "И если не в твоём мире, то где бы ещё? В другой игре?"
 
 # game/dialogs/script-topics.rpy:1594
 translate ru s_topic_worlds_7e8a390b:
 
     # s "But there's lots of different games and plenty of them are pretty violent."
-    s ""
+    s "Но игры бывают разные, и многие из них довольно жестоки."
 
 # game/dialogs/script-topics.rpy:1595
 translate ru s_topic_worlds_25498899:
 
     # s bbfcbba "I just can't imagine living in a game full of blood and struggle..."
-    s bbfcbba ""
+    s bbfcbba "Даже подумать страшно о жизни в игре полной крови и страданий..."
 
 # game/dialogs/script-topics.rpy:1596
 translate ru s_topic_worlds_ffcbefbc:
 
     # s abbbaca "You know, shooters, fighting games, war games and all that..."
-    s abbbaca ""
+    s abbbaca "Ну, шутерах, файтингах, войнушках и прочем..."
 
 # game/dialogs/script-topics.rpy:1598
 translate ru s_topic_worlds_e4d24359:
 
     # s bbgbbca "Especially now that I've seen death with my own eyes."
-    s bbgbbca ""
+    s bbgbbca "Особенно в тех, где мне бы пришлось убивать."
 
 # game/dialogs/script-topics.rpy:1599
 translate ru s_topic_worlds_2428a129:
 
     # s bbfcaca "I'd rather be dead than be the one doing the killing."
-    s bbfcaca ""
+    s bbfcaca "Я скорее сама умру, чем убью кого-то другого."
 
 # game/dialogs/script-topics.rpy:1600
 translate ru s_topic_worlds_304b4659:
 
     # s "And I'd pray for a revive ability..."
-    s ""
+    s "И надеялсь бы на возрождение за рекламу..."
 
 # game/dialogs/script-topics.rpy:1601
 translate ru s_topic_worlds_18f07046:
 
     # s abgbaaa "Aggressive worlds like those don’t appeal to me."
-    s abgbaaa ""
+    s abgbaaa "Такие злые миры мне совсем не нравятся."
 
 # game/dialogs/script-topics.rpy:1602
 translate ru s_topic_worlds_eb4e96b8:
 
     # s abaaaoa "But I'd happily be part of an innocent simulator, strategy or puzzle game."
-    s abaaaoa ""
+    s abaaaoa "А вот быть частью безобидного симулятора, стратегии или головоломки мне было бы по душе."
 
 # game/dialogs/script-topics.rpy:1603
 translate ru s_topic_worlds_060bd4cd:
 
     # s abaaaoa "Even if I wasn't an important character, maybe just a helper or even a simple settler."
-    s abaaaoa ""
+    s abaaaoa "Даже если не самым важным персонажем, может каким-нибудь помошником или просто жителем."
 
 # game/dialogs/script-topics.rpy:1604
 translate ru s_topic_worlds_fb43f7ad:
 
     # s abgccoa "I'd still do my best to help you, of course!"
-    s abgccoa ""
+    s abgccoa "Но я бы всё равно старалась бы тебе помогать, конечно!"
 
 # game/dialogs/script-topics.rpy:1623
 translate ru s_topic_questions_42ccd09c:
 
     # s abhfaoa "Hey [player], I know you still might have a lot of questions for me, it's a big part of getting to know somebody, after all."
-    s abhfaoa ""
+    s abhfaoa "Эй, [player], я знаю, что у тебя ко мне ещё скорее всего куча вопросов, в конце концов, получать на них ответ - отличная возможность узнать человека получше."
 
 # game/dialogs/script-topics.rpy:1624
 translate ru s_topic_questions_a170e397:
 
     # s "So I added a new section to {i} the 'Talk' menu{/i} with more questions to ask!"
-    s ""
+    s "Поэтому я добавила новый раздел в {i} мнею 'Общения' {/i} с новыми возможными вопросами!"
 
 # game/dialogs/script-topics.rpy:1625
 translate ru s_topic_questions_3a7963df:
 
     # s bbegboaj "I would've added a text field for this instead, but I'm quite clumsy at dealing with the text input..."
-    s bbegboaj ""
+    s bbegboaj "Я бы добавила для них поле ввода, но у меня плоховато получается с ним работать..."
 
 # game/dialogs/script-topics.rpy:1626
 translate ru s_topic_questions_ef557923:
 
     # s abhfaoa "So I did a short list with some questions I thought you’d have."
-    s abhfaoa ""
+    s abhfaoa "Из-за этого я решила сделать небольшой список вещей, которых тебе возможно хочется у меня спросить."
 
 # game/dialogs/script-topics.rpy:1627
 translate ru s_topic_questions_3002ae3f:
 
     # s abhaaca "Of course, there's so many different things you could ask me, so I checked out some AMAs for what you'd probably wanna know."
-    s abhaaca ""
+    s abhaaca "Безусловно есть куча вопросов, которые ты мог бы задать, поэтому я подсмотрела самые популярные в разных 'Спроси Меня Обо Всём' постах."
 
 # game/dialogs/script-topics.rpy:1628
 translate ru s_topic_questions_023c49f0:
 
     # s abbcaoaj "And I found some really interesting questions!"
-    s abbcaoaj ""
+    s abbcaoaj "И среди них немало интересных!"
 
 # game/dialogs/script-topics.rpy:1629
 translate ru s_topic_questions_30cf0631:
 
     # s abaaaoa "One modder made a few AMAs about each of us and then compiled them into a separate mod, called {i}Doki Doki Interview Club{/i}."
-    s abaaaoa ""
+    s abaaaoa "Один моддер создал несколько СМОВ постов про каждого участника клуба, а потом собрал результаты в отельную игру, {i}Doki Doki Interview Club{/i}"
 
 # game/dialogs/script-topics.rpy:1630
 translate ru s_topic_questions_c99f2065:
 
     # s "The result was really funny, and they were pretty good at portraying my character!"
-    s ""
+    s "Получилось достаточно весело, к тому же они хорошо передали мою личность!"
 
 # game/dialogs/script-topics.rpy:1631
 translate ru s_topic_questions_89309bb8:
 
     # s abhaaca "I think I’ll check it out again, maybe I’ll find some new entries for the question menu!"
-    s abhaaca ""
+    s abhaaca "Думаю я ещё разок пройдусь по СМОВам, может найду больше интересного для меню вопросов!"
 
 # game/dialogs/script-topics.rpy:1652
 translate ru s_topic_breakfast_9114f6eb:
 
     # s abhfaca "Hey [player], you don't skip breakfast, do you?"
-    s abhfaca ""
+    s abhfaca "О, [player], ты ведь не забываешь позавтракать, правда?"
 
 # game/dialogs/script-topics.rpy:1653
 translate ru s_topic_breakfast_eb097298:
 
     # s abhfada "Sometimes I do ‘cause I'm just not hungry in the morning."
-    s abhfada ""
+    s abhfada "Я вот иногда да, потому что попросту не голодна по утрам."
 
 # game/dialogs/script-topics.rpy:1654
 translate ru s_topic_breakfast_29829b3d:
 
     # s abfdcaa "But when I do have breakfast, I usually make toast or scrambled eggs."
-    s abfdcaa ""
+    s abfdcaa "Но если завтракаю, то обычно делаю бутерброд или готовлю яичницу."
 
 # game/dialogs/script-topics.rpy:1655
 translate ru s_topic_breakfast_57c80a1c:
 
     # s abegmeaj "Mostly because they’re quick and I {i}probably{/i} wouldn’t end up burning the house down while cooking them, ehehehe~"
-    s abegmeaj ""
+    s abegmeaj "По большей части из-за того, что их можно приготовить быстро, ну и конечно потому что я, {i}скорее всего{/i}, не сожгу дом во время их готовки, эхехехе~"
 
 # game/dialogs/script-topics.rpy:1656
 translate ru s_topic_breakfast_44952a2b:
 
     # s abhfaoa "I've seen fanart of me eating those too, {w=0.5}{nw}"
-    s abhfaoa ""
+    s abhfaoa "Я даже находила фанарты, на которых я ем бутеры и яйку, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1657
 translate ru s_topic_breakfast_985c5bd1:
 
     # extend abhfcaa "probably because of that poem I wrote!"
-    extend abhfcaa ""
+    extend abhfcaa "наверное это из-за моих стихов!"
 
 # game/dialogs/script-topics.rpy:1658
 translate ru s_topic_breakfast_c902af8c:
 
     # s abhhaca "I am getting pretty hungry now though... {w=0.5}{nw}"
-    s abhhaca ""
+    s abhhaca "К слову, кажется я проголодалвсь... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1659
 translate ru s_topic_breakfast_dd8d2879:
 
     # extend abgccea "Maybe I could spawn some eggs and toast in here!"
-    extend abgccea ""
+    extend abgccea "Может я смогу наколдовать себе яиц и хлеба!"
 
 # game/dialogs/script-topics.rpy:1660
 translate ru s_topic_breakfast_270c28ac:
 
     # s abagaaa "But anyways, you should always try to have a nice big breakfast in the morning."
-    s abagaaa ""
+    s abagaaa "Но не суть, я лишь вела к тому, что по утрам, тебе не стоит забывать хорошо покушать."
 
 # game/dialogs/script-topics.rpy:1661
 translate ru s_topic_breakfast_f7bf6dde:
 
     # s abbbaoa "It really is the most important meal of the day, since it gives you the energy your body needs bright and early!"
-    s abbbaoa ""
+    s abbbaoa "Завтрак - наверное самый важный приём пищи из всех, ведь он даёт твоему телу заряд на весь день!"
 
 # game/dialogs/script-topics.rpy:1662
 translate ru s_topic_breakfast_30fabed3:
 
     # s bbagaaa "That said, I understand if sometimes you don’t feel hungry, or if you just don’t have time to make anything."
-    s bbagaaa ""
+    s bbagaaa "Впрочем, я понимаю, что иногда ты можешь быть не голодным, или просто не успевать."
 
 # game/dialogs/script-topics.rpy:1663
 translate ru s_topic_breakfast_8f343d6c:
 
     # s abagaoa "In that case at least try to have something small on the go, like some fruit or a cereal bar, {w=0.5}{nw}"
-    s abagaoa ""
+    s abagaoa "В таких случаях тебе стоит по крайней мере захватить что-то с собой, например какой-нибудь фрукт или батончик, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1664
 translate ru s_topic_breakfast_68e8265c:
 
     # extend abbbcaa "and of course remember to stay hydrated too!"
-    extend abbbcaa ""
+    extend abbbcaa "ну и про воду тоже не забывай!"
 
 # game/dialogs/script-topics.rpy:1665
 translate ru s_topic_breakfast_669fcd77:
 
     # s abhfaoa "Your health is really important to me, [player]."
-    s abhfaoa ""
+    s abhfaoa "Мне важно, чтобы ты был здоров, [player]."
