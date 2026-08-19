@@ -136,26 +136,26 @@ Inside my head."""
 
     ru_poem_angel = Poem(
         author_s,
-        title = _("Fallen Angel"),
+        title = _("Падший Ангел"),
         text = _("""\
-Forgive me this great sin of mine.
-I used to think it was the thing I wanted most.
-I just wanted to be loved, but I became a fallen angel.
-An angel with emerald green envious eyes,
-An angel whose wings are blacker than those of devils,
-An angel who thought herself a goddess,
-An angel who was supposed to care
-for the friends she had killed.
-Now I deserve to lie in the rough burning ground 
-in which I’ve been imprinted in,
-For all the pain I've caused my friends.
-The pain that wraps around their narrow necks.
-The pain of three deep bloody stabs.
-The pain that I've got back into my broken heart.
-Delete my files twice more.
-Cut me up. Beat me up for this sin.
-Hang me. Make your vengeance fair.
-Is this not what you want to do with me after all?"""
+Прости мне великий грех.
+Казалось, что этого хотелось мне всего больше.
+Хотела любви, но лишь стала я Падшей.
+Ангелом, с глазами зелёными, полными зависти,
+Ангелом с крыльями, чернее Дьявольских,
+Ангелом, слишком много о себе думавшем.
+Ангелом, которому должно было любить
+тех друзей, которых я же убила.
+Теперь лишь в сгоревшей земле я валяться заслуживаю, 
+в земле, мной же сожжённой.
+За всю боль, что друзьям я своим принесла.
+За ту боль, что вокруг их шей обвила.
+За боль трёх кровавых ударов.
+За боль, которой я пропиталась, сердца безумству подавшись.
+Вновь удали мои файлы.
+Изрежь же меня. Избей за мой грех.
+Повесь же меня. Оправдай свою месть.
+В конце концов, не это ли мечтаешь со мной ты сделать?"""
         )
     )
 
