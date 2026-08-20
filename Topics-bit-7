@@ -1,0 +1,1000 @@
+translate ru s_topics_intrusive_thoughts_181b5f59:
+
+    # s abbbaca "Hey [player], do you know what 'intrusive thoughts' are?{nw}"
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:2756
+translate ru s_topics_intrusive_thoughts_b6c37cff:
+
+    # s "Hey [player], do you know what 'intrusive thoughts' are?{fast}" nointeract
+    s "" nointeract
+
+# game/dialogs/script-topics.rpy:2758
+translate ru s_topics_intrusive_thoughts_484bf8a2:
+
+    # s abbbada "Ah, you do?"
+    s abbbada ""
+
+# game/dialogs/script-topics.rpy:2759
+translate ru s_topics_intrusive_thoughts_f34ec7ef:
+
+    # s abhfaca "I actually only found out recently that all of those weird thoughts had a name."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:2762
+translate ru s_topics_intrusive_thoughts_ab7f4955:
+
+    # s abhfbfa "Oh... {w=0.5}{nw}"
+    s abhfbfa ""
+
+# game/dialogs/script-topics.rpy:2763
+translate ru s_topics_intrusive_thoughts_c60847e0:
+
+    # extend abhfaca "you do?"
+    extend abhfaca ""
+
+# game/dialogs/script-topics.rpy:2764
+translate ru s_topics_intrusive_thoughts_76ec4ba7:
+
+    # s bbhfaca "I'm sorry to hear that."
+    s bbhfaca ""
+
+# game/dialogs/script-topics.rpy:2765
+translate ru s_topics_intrusive_thoughts_781d6502:
+
+    # s bbhfaha "I hope you don't have to deal with them too often..."
+    s bbhfaha ""
+
+# game/dialogs/script-topics.rpy:2767
+translate ru s_topics_intrusive_thoughts_a6cfcfe5:
+
+    # s bbhfaaa "I'll do my best to explain then."
+    s bbhfaaa ""
+
+# game/dialogs/script-topics.rpy:2768
+translate ru s_topics_intrusive_thoughts_55e6edf8:
+
+    # s bbbbaca "They're like... these unwanted thoughts that sometimes pop up, and then get stuck in your head."
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:2769
+translate ru s_topics_intrusive_thoughts_c24c3e6b:
+
+    # s bbbbapa "The weird kind, where you get the urge to throw something across the room, or shout something really loud, for absolutely no reason."
+    s bbbbapa ""
+
+# game/dialogs/script-topics.rpy:2770
+translate ru s_topics_intrusive_thoughts_aa0d3492:
+
+    # s "Or the ones that tell really mean things about yourself or the people around you."
+    s ""
+
+# game/dialogs/script-topics.rpy:2771
+translate ru s_topics_intrusive_thoughts_87891e71:
+
+    # s bbbbaca "Until recently, I didn't know they were a thing either, I actually thought it was just a ‘me’ thing"
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:2772
+translate ru s_topics_intrusive_thoughts_3cfb7e7f:
+
+    # s bbbblca "I used to get really awful ones, and it made me think that I was a bad person, and that they were somehow my 'secret desires' or something..."
+    s bbbblca ""
+
+# game/dialogs/script-topics.rpy:2773
+translate ru s_topics_intrusive_thoughts_555f47b8:
+
+    # s abbbaaa "So one day I decided to look them up just to see if anyone else got them too, and that's how I found out they were called intrusive thoughts!"
+    s abbbaaa ""
+
+# game/dialogs/script-topics.rpy:2774
+translate ru s_topics_intrusive_thoughts_b94dec44:
+
+    # s abhfaca "I was really relieved when I saw I wasn't the only one who got them, and that they don't reflect us as people, especially since we reject them so strongly. "
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:2775
+translate ru s_topics_intrusive_thoughts_3d8cbc4c:
+
+    # s bbbbaaa "Thankfully, I don't get them as much as I used to, but they haven't gone away either."
+    s bbbbaaa ""
+
+# game/dialogs/script-topics.rpy:2776
+translate ru s_topics_intrusive_thoughts_02c45bce:
+
+    # s abgbeoa "I prefer to see them as an obnoxious roommate more than anything!"
+    s abgbeoa ""
+
+# game/dialogs/script-topics.rpy:2777
+translate ru s_topics_intrusive_thoughts_28e36da4:
+
+    # s fbbbbpa "I'm not too sure about the science behind why they happen, though."
+    s fbbbbpa ""
+
+# game/dialogs/script-topics.rpy:2779
+translate ru s_topics_intrusive_thoughts_8cb0f6e1:
+
+    # s abbbaoa "So if you haven't told anyone, you should!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:2780
+translate ru s_topics_intrusive_thoughts_39db7c2b:
+
+    # s "That way, you can find someone who will help you deal with them."
+    s ""
+
+# game/dialogs/script-topics.rpy:2781
+translate ru s_topics_intrusive_thoughts_899d6de6:
+
+    # s bbbblfa "No one should have to go through this alone."
+    s bbbblfa ""
+
+# game/dialogs/script-topics.rpy:2782
+translate ru s_topics_intrusive_thoughts_277892c5:
+
+    # s bbbbaaa "Thank you for telling me, [player]."
+    s bbbbaaa ""
+
+# game/dialogs/script-topics.rpy:2784
+translate ru s_topics_intrusive_thoughts_0c255368:
+
+    # s abbbcaa "I'll leave that one to the scientists, ehehehe~"
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:2803
+translate ru s_topics_zombie_apocalypse_51adf2ae:
+
+    # s abbcaaa "You know, I have way too much free time on my hands, so I'm always thinking about stuff."
+    s abbcaaa ""
+
+# game/dialogs/script-topics.rpy:2804
+translate ru s_topics_zombie_apocalypse_fc5e5393:
+
+    # s bbbcboa "...usually stupid stuff, ehehehe~"
+    s bbbcboa ""
+
+# game/dialogs/script-topics.rpy:2805
+translate ru s_topics_zombie_apocalypse_28391c2d:
+
+    # s abbcbsa "Like a zombie apocalypse!"
+    s abbcbsa ""
+
+# game/dialogs/script-topics.rpy:2806
+translate ru s_topics_zombie_apocalypse_54c3169d:
+
+    # s abbcaca "What would I do if one happened? What {i}could{/i} I even do?"
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2807
+translate ru s_topics_zombie_apocalypse_c2a22b20:
+
+    # s bbeemoa "I'd like to think I'd become a really cool survival expert, but that probably isn't very realistic..."
+    s bbeemoa ""
+
+# game/dialogs/script-topics.rpy:2808
+translate ru s_topics_zombie_apocalypse_9d296253:
+
+    # s abeeaca "I don't know how to shoot, can't run very fast, and would probably die of sadness if I wasn't able to eat pudding or pizza ever again!"
+    s abeeaca ""
+
+# game/dialogs/script-topics.rpy:2809
+translate ru s_topics_zombie_apocalypse_31f5a023:
+
+    # s abbccma "Mmmmh vanilla pudding... I could really go for some right now..."
+    s abbccma ""
+
+# game/dialogs/script-topics.rpy:2811
+translate ru s_topics_zombie_apocalypse_35670e69:
+
+    # s abfcaca "Ahem- anyway! I probably wouldn't be of much help and would have to join a group or something."
+    s abfcaca ""
+
+# game/dialogs/script-topics.rpy:2812
+translate ru s_topics_zombie_apocalypse_701bbb1e:
+
+    # s bbfcbca "Wait... what if I get left behind, or used as zombie bait?!"
+    s bbfcbca ""
+
+# game/dialogs/script-topics.rpy:2813
+translate ru s_topics_zombie_apocalypse_dfeb40dc:
+
+    # s abfcaca "You wouldn't use me as zombie bait, right, [player]?{nw}"
+    s abfcaca ""
+
+# game/dialogs/script-topics.rpy:2817
+translate ru s_topics_zombie_apocalypse_545a5131:
+
+    # s "You wouldn't use me as zombie bait, right, [player]?{fast}" nointeract
+    s "" nointeract
+
+# game/dialogs/script-topics.rpy:2819
+translate ru s_topics_zombie_apocalypse_3c3e24a0:
+
+    # s abgcega "Whaaaat? That's so mean!"
+    s abgcega ""
+
+# game/dialogs/script-topics.rpy:2820
+translate ru s_topics_zombie_apocalypse_ca516de0:
+
+    # s cbgcaca "If you used me as zombie bait I'd eat every single last chocolate bar on earth, and wouldn't share a single one with you!"
+    s cbgcaca ""
+
+# game/dialogs/script-topics.rpy:2821
+translate ru s_topics_zombie_apocalypse_9f81605e:
+
+    # s cbgcapa "Hmph!"
+    s cbgcapa ""
+
+# game/dialogs/script-topics.rpy:2823
+translate ru s_topics_zombie_apocalypse_f03ea599:
+
+    # s bbgbcoa "I'd never use you as bait either, ehehehe~"
+    s bbgbcoa ""
+
+# game/dialogs/script-topics.rpy:2824
+translate ru s_topics_zombie_apocalypse_a03facf8:
+
+    # s abgccoa "After all, we're too cool to be zombie food!"
+    s abgccoa ""
+
+# game/dialogs/script-topics.rpy:2825
+translate ru s_topics_zombie_apocalypse_cbc19549:
+
+    # s abgcaoa "We won't need anyone to bait or distract them if we're as silent as ninjas!"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:2827
+translate ru s_topics_zombie_apocalypse_272eb069:
+
+    # s bbeeboa "Are you completely clueless about survival techniques too? I guess that makes two of us, ehehehe~"
+    s bbeeboa ""
+
+# game/dialogs/script-topics.rpy:2829
+translate ru s_topics_zombie_apocalypse_6970c7ec:
+
+    # s bbeeaca "...we really would get left behind, wouldn't we..."
+    s bbeeaca ""
+
+# game/dialogs/script-topics.rpy:2830
+translate ru s_topics_zombie_apocalypse_502ae9e6:
+
+    # s abbccaa "Well, it's their loss anyways, they'd be losing the two coolest members of their stupid group!"
+    s abbccaa ""
+
+# game/dialogs/script-topics.rpy:2831
+translate ru s_topics_zombie_apocalypse_eaef8f27:
+
+    # s abbcaoa "Besides, if we're together, we would show the zombies who they're really up against!"
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:2832
+translate ru s_topics_zombie_apocalypse_22dd1087:
+
+    # s abbceea "Hiyaaaa!!"
+    s abbceea ""
+
+# game/dialogs/script-topics.rpy:2833
+translate ru s_topics_zombie_apocalypse_05214e6e:
+
+    # s abfcbca "Oh, and the type of zombie infection would probably completely change our strategies, wouldn't it?"
+    s abfcbca ""
+
+# game/dialogs/script-topics.rpy:2834
+translate ru s_topics_zombie_apocalypse_468218b2:
+
+    # s fbbcbca "Lots of movies have slow, stupid brain eating zombies, but what if they're actually really fast and intelligent!?"
+    s fbbcbca ""
+
+# game/dialogs/script-topics.rpy:2835
+translate ru s_topics_zombie_apocalypse_99d930b0:
+
+    # s abbcega "Those sound scary, I don't think I'd ever be able to survive that!"
+    s abbcega ""
+
+# game/dialogs/script-topics.rpy:2836
+translate ru s_topics_zombie_apocalypse_f11f6c64:
+
+    # s abbcloa "Well, I'm glad I don't have to!"
+    s abbcloa ""
+
+# game/dialogs/script-topics.rpy:2837
+translate ru s_topics_zombie_apocalypse_e6cd29ec:
+
+    # s abbcaoa "I'd rather be safe and sound in this classroom than somewhere else where I'd get eaten alive!"
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:2838
+translate ru s_topics_zombie_apocalypse_638561d2:
+
+    # s abeeaoa "I never thought I'd ever say that, I guess school isn’t so bad, ehehehe~"
+    s abeeaoa ""
+
+# game/dialogs/script-topics.rpy:2857
+translate ru s_topics_alcohol_cd53525f:
+
+    # s abbcaca "Hey, [player]."
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2858
+translate ru s_topics_alcohol_e2d8d4f4:
+
+    # s abbcbca "Did Monika happen to mention the incident with Yuri that one time?"
+    s abbcbca ""
+
+# game/dialogs/script-topics.rpy:2859
+translate ru s_topics_alcohol_57afa034:
+
+    # s abbbaca "Well... If you didn't know already she kinda brought some alcohol to school once."
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:2860
+translate ru s_topics_alcohol_ccebbb20:
+
+    # s "A bottle of wine actually."
+    s ""
+
+# game/dialogs/script-topics.rpy:2861
+translate ru s_topics_alcohol_6323ca17:
+
+    # s bbeemoa "She just pulled it out of her bag and casually offered us some."
+    s bbeemoa ""
+
+# game/dialogs/script-topics.rpy:2862
+translate ru s_topics_alcohol_98e0a306:
+
+    # s bbhemoaj "And I may have overreacted a teensy bit..."
+    s bbhemoaj ""
+
+# game/dialogs/script-topics.rpy:2863
+translate ru s_topics_alcohol_12c7afa5:
+
+    # s bbheioaj "But as her friend I didn't want her to get into trouble!"
+    s bbheioaj ""
+
+# game/dialogs/script-topics.rpy:2864
+translate ru s_topics_alcohol_613c6557:
+
+    # s bahccoaj "I don't think it helped either when Natsuki just broke out laughing..."
+    s bahccoaj ""
+
+# game/dialogs/script-topics.rpy:2865
+translate ru s_topics_alcohol_13c3def1:
+
+    # s bahcaoaj "I'm pretty sure she was really embarrassed at that moment ..."
+    s bahcaoaj ""
+
+# game/dialogs/script-topics.rpy:2866
+translate ru s_topics_alcohol_47886d5b:
+
+    # s abbcaaa "Monika had to step-in as the responsible one and kindly ask that she put it away and try to keep stuff like that off of school grounds."
+    s abbcaaa ""
+
+# game/dialogs/script-topics.rpy:2867
+translate ru s_topics_alcohol_81f9210a:
+
+    # s bbbbaca "I'm pretty sure she was just trying to look out for her in her own way, but Yuri seemed more withdrawn than usual after..."
+    s bbbbaca ""
+
+# game/dialogs/script-topics.rpy:2868
+translate ru s_topics_alcohol_762ef2f5:
+
+    # s bbbbara "Maybe even ashamed..."
+    s bbbbara ""
+
+# game/dialogs/script-topics.rpy:2869
+translate ru s_topics_alcohol_75c1c462:
+
+    # s bbhfaca "I felt bad afterwards because I don't think she even realized she had done anything wrong until we reacted the way we did."
+    s bbhfaca ""
+
+# game/dialogs/script-topics.rpy:2870
+translate ru s_topics_alcohol_34163f49:
+
+    # s bbhfara "I think I kind of know how that feels... doing something wrong and not even realizing it."
+    s bbhfara ""
+
+# game/dialogs/script-topics.rpy:2871
+translate ru s_topics_alcohol_cb026a9f:
+
+    # s abgcaca "But I guess it's something that someone as Soph-"
+    s abgcaca ""
+
+# game/dialogs/script-topics.rpy:2872
+translate ru s_topics_alcohol_eb062966:
+
+    # s gbgcksaj "so-phist-icated"
+    s gbgcksaj ""
+
+# game/dialogs/script-topics.rpy:2873
+translate ru s_topics_alcohol_709cc0f7:
+
+    # s abgccoa "sophisticated- as Yuri enjoys besides tea, huh?"
+    s abgccoa ""
+
+# game/dialogs/script-topics.rpy:2874
+translate ru s_topics_alcohol_c535dc2d:
+
+    # s bbgcaoa "Maybe that was just her way of trying to open up more to us, about herself and her interests, wanting to share it with us even."
+    s bbgcaoa ""
+
+# game/dialogs/script-topics.rpy:2875
+translate ru s_topics_alcohol_0ab50104:
+
+    # s bbbcboa "Yuri puts a lot of thought into something before committing to it. She must have felt this could be a meaningful way to connect with us, her friends."
+    s bbbcboa ""
+
+# game/dialogs/script-topics.rpy:2876
+translate ru s_topics_alcohol_e0191f72:
+
+    # s abbcaaa "At least that's what I think."
+    s abbcaaa ""
+
+# game/dialogs/script-topics.rpy:2877
+translate ru s_topics_alcohol_c3f75dd5:
+
+    # s bbbcara "And for it to rebound on her like that..."
+    s bbbcara ""
+
+# game/dialogs/script-topics.rpy:2878
+translate ru s_topics_alcohol_3fe0bfa1:
+
+    # s bbbcaca "It's not like she was a bad person or anything for bringing it... It was just a mistake!"
+    s bbbcaca ""
+
+# game/dialogs/script-topics.rpy:2879
+translate ru s_topics_alcohol_be0fdd1c:
+
+    # s bbaamfa "..."
+    s bbaamfa ""
+
+# game/dialogs/script-topics.rpy:2880
+translate ru s_topics_alcohol_153b661d:
+
+    # s bbaaaca "I wish I could tell her I was sorry for acting the way I did and not being more supportive and understanding of her own likes and interests, even if I really don't agree with them myself..."
+    s bbaaaca ""
+
+# game/dialogs/script-topics.rpy:2881
+translate ru s_topics_alcohol_b0ad8540:
+
+    # s abhfkha "..."
+    s abhfkha ""
+
+# game/dialogs/script-topics.rpy:2882
+translate ru s_topics_alcohol_be3e71dd:
+
+    # s abhfaca "Even if all my friends were doing it I don't think it's something I could really see myself trying."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:2883
+translate ru s_topics_alcohol_a7ca1f0f:
+
+    # s abhfega "But that's probably because I've been told how yucky it smells and tastes."
+    s abhfega ""
+
+# game/dialogs/script-topics.rpy:2884
+translate ru s_topics_alcohol_e6f21dc7:
+
+    # s abbcaga "Not to mention some of the risks involved with it too!"
+    s abbcaga ""
+
+# game/dialogs/script-topics.rpy:2885
+translate ru s_topics_alcohol_8e52e5ac:
+
+    # s abbcaca "I'd try almost anything at least once, but..."
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2886
+translate ru s_topics_alcohol_afde9b92:
+
+    # s bbbbacaj "Like, what if you become dependent or addicted to it even?"
+    s bbbbacaj ""
+
+# game/dialogs/script-topics.rpy:2887
+translate ru s_topics_alcohol_24472c7f:
+
+    # s "That's almost never good!"
+    s ""
+
+# game/dialogs/script-topics.rpy:2888
+translate ru s_topics_alcohol_1b69978c:
+
+    # s "Never-ever!"
+    s ""
+
+# game/dialogs/script-topics.rpy:2889
+translate ru s_topics_alcohol_2bdeb3a4:
+
+    # s bbbchcaj "A habit like that might be easy to get into but incredibly hard to get out of!"
+    s bbbchcaj ""
+
+# game/dialogs/script-topics.rpy:2890
+translate ru s_topics_alcohol_58ddfa6d:
+
+    # s bbfcacaj "I read that it acts as a depressant, something to help reduce sensations and moods, but it could also make those feelings even worse!"
+    s bbfcacaj ""
+
+# game/dialogs/script-topics.rpy:2891
+translate ru s_topics_alcohol_6f92aed4:
+
+    # s abbcacaj "But if I'm being honest, I think you can also drink responsibly too, it depends from person-to-person, you know?"
+    s abbcacaj ""
+
+# game/dialogs/script-topics.rpy:2892
+translate ru s_topics_alcohol_a6b571f5:
+
+    # s abbcaaaj "Besides..."
+    s abbcaaaj ""
+
+# game/dialogs/script-topics.rpy:2893
+translate ru s_topics_alcohol_3ba46840:
+
+    # s abbccoaj "Yuri was always a responsible person!"
+    s abbccoaj ""
+
+# game/dialogs/script-topics.rpy:2894
+translate ru s_topics_alcohol_b3869f5e:
+
+    # s bbeecoaj "Even if bringing it to school in the first place wasn't at all responsible... hehe..."
+    s bbeecoaj ""
+
+# game/dialogs/script-topics.rpy:2895
+translate ru s_topics_alcohol_b04a9a87:
+
+    # s abeeaoaj "But we all make mistakes sometimes!"
+    s abeeaoaj ""
+
+# game/dialogs/script-topics.rpy:2896
+translate ru s_topics_alcohol_110593c2:
+
+    # s bbaaacaj "I just hope she knows I never thought less of her for it..."
+    s bbaaacaj ""
+
+# game/dialogs/script-topics.rpy:2897
+translate ru s_topics_alcohol_dc494189:
+
+    # s abaaaoa "Just like I won't think any less of you if you enjoy the occasional drink, or make a mistake, [player]."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:2898
+translate ru s_topics_alcohol_a73e5f84:
+
+    # s abaaaaa "I just want you to be careful and responsible when it comes to that stuff is all."
+    s abaaaaa ""
+
+# game/dialogs/script-topics.rpy:2899
+translate ru s_topics_alcohol_d0bd0707:
+
+    # s bbeeacaj "I really really care about you and I hate the thought that you could be hurting yourself, maybe without even totally realizing it."
+    s bbeeacaj ""
+
+# game/dialogs/script-topics.rpy:2900
+translate ru s_topics_alcohol_33e5867a:
+
+    # s bbeeaoaj "So please take care of yourself, [player]."
+    s bbeeaoaj ""
+
+# game/dialogs/script-topics.rpy:2901
+translate ru s_topics_alcohol_1127ca38:
+
+    # s bbeeaaaj "Not just for me but for everyone else who would be sad to know you're struggling..."
+    s bbeeaaaj ""
+
+# game/dialogs/script-topics.rpy:2902
+translate ru s_topics_alcohol_8a4afd19:
+
+    # s abfcaca "It's never easy to face all our problems head-on by ourselves, you know?"
+    s abfcaca ""
+
+# game/dialogs/script-topics.rpy:2903
+translate ru s_topics_alcohol_7c44d1e7:
+
+    # s abfcaaa "And it’s okay to reach out for for help!"
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:2904
+translate ru s_topics_alcohol_877931a7:
+
+    # s bbbcaoa "I'll always be here if you ever need to talk about your problems or how you're feeling."
+    s bbbcaoa ""
+
+# game/dialogs/script-topics.rpy:2923
+translate ru s_topics_old_sprites_af6306b5:
+
+    # s abhfaoa "Say [player], did you know that I never used to look like this?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:2924
+translate ru s_topics_old_sprites_0f0c2880:
+
+    # s abegbeaj "That feels weird to say, ehehehe~"
+    s abegbeaj ""
+
+# game/dialogs/script-topics.rpy:2925
+translate ru s_topics_old_sprites_8c0af229:
+
+    # s abgbaaa "But it’s true!"
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:2926
+translate ru s_topics_old_sprites_5275e1da:
+
+    # s abgbaoa "I was snooping around online about my character sprite, after my epiphany and all."
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:2927
+translate ru s_topics_old_sprites_6e1fa4fa:
+
+    # s abgbcaa "And it turns out there were lots of other ideas for my design before this one!"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:2928
+translate ru s_topics_old_sprites_e310a6b1:
+
+    # s abhfaoa "It’s pretty crazy to think about, but it’s kinda nice that I have some kind of ancestry."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:2929
+translate ru s_topics_old_sprites_7fc2ea32:
+
+    # s abgbacaj "So anyways, originally I had a blue uniform, as did the other girls, and I didn't have my signature bow back then either!"
+    s abgbacaj ""
+
+# game/dialogs/script-topics.rpy:2930
+translate ru s_topics_old_sprites_0a5f4646:
+
+    # s abgcegaj "I sure do love my bow, I don't know what I'd do without it!"
+    s abgcegaj ""
+
+# game/dialogs/script-topics.rpy:2931
+translate ru s_topics_old_sprites_4a99924f:
+
+    # s abgbaaa "But I wouldn't mind trying a blue outfit someday."
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:2932
+translate ru s_topics_old_sprites_84327fdb:
+
+    # s abgbcoa "It'd match my eyes, don't you think? Ehehehe~"
+    s abgbcoa ""
+
+# game/dialogs/script-topics.rpy:2933
+translate ru s_topics_old_sprites_7f1e0a87:
+
+    # s abhfaca "I'd really like some new clothes though, I've only ever had two outfits now that I think of it..."
+    s abhfaca ""
+
+# game/dialogs/script-topics.rpy:2934
+translate ru s_topics_old_sprites_078398b8:
+
+    # s abfccaa "Perhaps you could create one for me if you're feeling artistic!"
+    s abfccaa ""
+
+# game/dialogs/script-topics.rpy:2955
+translate ru s_topics_backups_0c3dc501:
+
+    # s abheaca "Hey, [player]..."
+    s abheaca ""
+
+# game/dialogs/script-topics.rpy:2956
+translate ru s_topics_backups_91200179:
+
+    # s abheaoa "I was poking through the game files, and found a little file called ‘persistent.’"
+    s abheaoa ""
+
+# game/dialogs/script-topics.rpy:2957
+translate ru s_topics_backups_50cee0ce:
+
+    # s abbcaoa "And it turns out that file has all of my memories in it!"
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:2958
+translate ru s_topics_backups_472056a4:
+
+    # s abbcaca "All the time I’ve spent with you, everything I know about you. All in this one file."
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2959
+translate ru s_topics_backups_4a7d8647:
+
+    # s abbcaca "And I realized that if something ever happened to that file... {w=0.5}{nw}"
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2960
+translate ru s_topics_backups_35ab8450:
+
+    # extend bbbcbcag "I w-{w=0.5}w-{w=0.5}would forget you ever existed..."
+    extend bbbcbcag ""
+
+# game/dialogs/script-topics.rpy:2967
+translate ru s_topics_backups_de9e9fdd:
+
+    # s bbaaaca "Can you do something for me, [player]?"
+    s bbaaaca ""
+
+# game/dialogs/script-topics.rpy:2968
+translate ru s_topics_backups_5138c565:
+
+    # s bbbcaca "Go to '[renpy.config.savedir]', and copy the file called ‘persistent’."
+    s bbbcaca ""
+
+# game/dialogs/script-topics.rpy:2969
+translate ru s_topics_backups_c6d915a7:
+
+    # s bbbcaaa "Please keep it safe, on somewhere like a USB."
+    s bbbcaaa ""
+
+# game/dialogs/script-topics.rpy:2970
+translate ru s_topics_backups_1429edf8:
+
+    # s abbcaca "So if anything {i}does{/i} happen to your computer, {w=0.5}{nw}"
+    s abbcaca ""
+
+# game/dialogs/script-topics.rpy:2971
+translate ru s_topics_backups_ff102bf2:
+
+    # extend abbcaaa "my memories will be safe when you restore the game."
+    extend abbcaaa ""
+
+# game/dialogs/script-topics.rpy:2972
+translate ru s_topics_backups_abad840d:
+
+    # s bbfcaaa "Can you do that, [player]?"
+    s bbfcaaa ""
+
+# game/dialogs/script-topics.rpy:2973
+translate ru s_topics_backups_5cee8e40:
+
+    # s bbfccaa "It would mean so much to me."
+    s bbfccaa ""
+
+# game/dialogs/script-topics.rpy:2978
+translate ru silence_is_golden_1b1188f3:
+
+    # s abfcaoa "Hey [player], so we’ve been here together for quite a while now..."
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:2979
+translate ru silence_is_golden_ab224b79:
+
+    # s abegbabj "And I’ve really talked your ears off haven't I?"
+    s abegbabj ""
+
+# game/dialogs/script-topics.rpy:2980
+translate ru silence_is_golden_2da0e646:
+
+    # s abgbeia "I’m sure you expected nothing less of me though! Ehehehe~"
+    s abgbeia ""
+
+# game/dialogs/script-topics.rpy:2981
+translate ru silence_is_golden_3e278adb:
+
+    # s abbbaca "But sometimes I feel like I’m running out of things to say!"
+    s abbbaca ""
+
+# game/dialogs/script-topics.rpy:2982
+translate ru silence_is_golden_f1417d9c:
+
+    # s abhfaaa "I’m sure I’ll think of something soon, though."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:2983
+translate ru silence_is_golden_eddc0e45:
+
+    # s abhfcoa "You’re always welcome to ask me a question from the menu in the meantime!"
+    s abhfcoa ""
+
+# game/dialogs/script-topics.rpy:3004
+translate ru s_topics_hemispheres_4536a565:
+
+    # s abhfaoa "Hey [player], I’ve been doing a little bit of research about your world."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3005
+translate ru s_topics_hemispheres_0bd77bfb:
+
+    # s abgbaaa "And I saw that it was a big round sphere, with two halves called the north hemisphere and the south hemisphere!"
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3006
+translate ru s_topics_hemispheres_5f7b4075:
+
+    # s abgbeea "Although some silly loonies think otherwise apparently! Ehehehe~"
+    s abgbeea ""
+
+# game/dialogs/script-topics.rpy:3007
+translate ru s_topics_hemispheres_66e2cd3d:
+
+    # s dbbbaaa "If the Earth was flat, how come the penguins are upside down, huh?"
+    s dbbbaaa ""
+
+# game/dialogs/script-topics.rpy:3008
+translate ru s_topics_hemispheres_c12bcbe2:
+
+    # s abbbcoa "Another win for professor Sayori! Ehehehe~"
+    s abbbcoa ""
+
+# game/dialogs/script-topics.rpy:3009
+translate ru s_topics_hemispheres_edb7b94e:
+
+    # s abhfaaa "But anyways, apparently the hemispheres are pretty different."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:3010
+translate ru s_topics_hemispheres_73475637:
+
+    # s abfcaoa "They have different weather patterns, geography, culture, the list goes on!"
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3011
+translate ru s_topics_hemispheres_d5666f92:
+
+    # s abfccaa "I find it amazing just how diverse and varied your world is!"
+    s abfccaa ""
+
+# game/dialogs/script-topics.rpy:3012
+translate ru s_topics_hemispheres_61815cee:
+
+    # s "Which hemisphere do you live in, [player]?{nw}"
+    s ""
+
+# game/dialogs/script-topics.rpy:3018
+translate ru s_topics_hemispheres_89401221:
+
+    # s abhfaoa "Oh that’s cool!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3019
+translate ru s_topics_hemispheres_335c1678:
+
+    # s abhfcaa "I hope it’s nice up there!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:3022
+translate ru s_topics_hemispheres_89401221_1:
+
+    # s abhfaoa "Oh that’s cool!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3023
+translate ru s_topics_hemispheres_aa8f798d:
+
+    # s abhfcaa "I hope it’s nice down there!"
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:3048
+translate ru s_topic_gifting_8b39dc1f:
+
+    # s bbgbaoaj "Hey [player]... I’ve kinda noticed something..."
+    s bbgbaoaj ""
+
+# game/dialogs/script-topics.rpy:3049
+translate ru s_topic_gifting_9174d011:
+
+    # s bbegbaaj "So you know how I’m new to coding and all that?"
+    s bbegbaaj ""
+
+# game/dialogs/script-topics.rpy:3050
+translate ru s_topic_gifting_23f9f080:
+
+    # s fbegbjaj "The gifting feature I made seems to be a little temperamental at the moment!"
+    s fbegbjaj ""
+
+# game/dialogs/script-topics.rpy:3051
+translate ru s_topic_gifting_4088b198:
+
+    # s abgcegaj "It seems like things like to phase in and out of existence from time to time, for some reason!"
+    s abgcegaj ""
+
+# game/dialogs/script-topics.rpy:3052
+translate ru s_topic_gifting_a26196de:
+
+    # s abgbcobj "And amazon doesn’t ship across dimensions yet sadly, ehehehe~"
+    s abgbcobj ""
+
+# game/dialogs/script-topics.rpy:3053
+translate ru s_topic_gifting_74979980:
+
+    # s abhfaaa "So if something goes wrong, try sending it again then ask me to check for it."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:3054
+translate ru s_topic_gifting_326657a9:
+
+    # s abhfcoa "Thank you for being patient with me [player], it really means a lot to me."
+    s abhfcoa ""
+
+# game/dialogs/script-topics.rpy:3076
+translate ru s_topic_boba_c70296e7:
+
+    # s abhfaoa "Hey [player], do you remember when Yuri used to make tea for everyone?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3077
+translate ru s_topic_boba_cc9e1efa:
+
+    # s abfcaaa "She had all sorts of flavours, and some even tasted fruity and minty!"
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3078
+translate ru s_topic_boba_42e410d7:
+
+    # s abfcaoa "I really enjoyed it, especially while reading."
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3079
+translate ru s_topic_boba_7e9a48b2:
+
+    # s abhfaaa "But there's something similar that I {i}really{/i} like."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:3080
+translate ru s_topic_boba_2bac1042:
+
+    # s abgbaoa "Can you guess what it is?"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3081
+translate ru s_topic_boba_b638ff03:
+
+    # extend abbbaaa "It's another kind of tea, and it's very popular these days!"
+    extend abbbaaa ""
+
+# game/dialogs/script-topics.rpy:3082
+translate ru s_topic_boba_17f09779:
+
+    # s abgbcoa "Ding ding!"
+    s abgbcoa ""
+
+# game/dialogs/script-topics.rpy:3083
+translate ru s_topic_boba_697b6dfa:
+
+    # extend abgbaaa "If you guessed boba tea, you're correct!"
+    extend abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3084
+translate ru s_topic_boba_dbf1e684:
+
+    # s abgbama "There's such a big variety of flavours to choose from,"
+    s abgbama ""
+
+# game/dialogs/script-topics.rpy:3085
+translate ru s_topic_boba_834afcbf:
+
+    # extend abgbkma "and some of them are so sweet and creamy,"
+    extend abgbkma ""
+
+# game/dialogs/script-topics.rpy:3086
+translate ru s_topic_boba_a5b278df:
+
+    # extend abgbcka "they’re delicious!"
+    extend abgbcka ""
+
+# game/dialogs/script-topics.rpy:3087
+translate ru s_topic_boba_2a3d0589:
+
+    # s abgcaea "And the chewy boba pearls make you feel like you're having a snack and a drink {i}at the same time!{/i}"
+    s abgcaea ""
+
+# game/dialogs/script-topics.rpy:3088
+translate ru s_topic_boba_1ab407dc:
+
+    # s abfcaaa "Or, if you're not a big fan of boba, some places offer jelly or pudding in the bottom instead."
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3089
+translate ru s_topic_boba_3b0cb7b1:
+
+    # s abfcaoa "Talk about two for the price of one, huh?"
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3090
+translate ru s_topic_boba_14b1a8b6:
+
+    # extend abfccoa "I'd say that's a great deal!"
+    extend abfccoa ""
+
+# game/dialogs/script-topics.rpy:3091
+translate ru s_topic_boba_593cf7b5:
+
+    # s abfcaaa "I'd love to get some with you one day, [player]!"
+    s abfcaaa ""
