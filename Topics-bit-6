@@ -1,0 +1,995 @@
+# game/dialogs/script-topics.rpy:2247
+translate ru s_answer_opinion_5083fcc6:
+
+    # s abaaaoa "Who do you wanna talk about?{nw}"
+    s abaaaoa "О ком ты хочешь поговорить?{nw}"
+
+# game/dialogs/script-topics.rpy:2251
+translate ru s_answer_opinion_35e2f131:
+
+    # s "Who do you wanna talk about?{fast}" nointeract
+    s "О ком ты хочешь поговорить?{fast}" nointeract
+
+# game/dialogs/script-topics.rpy:2263
+translate ru s_answer_game_opinion_n_e1d8d50a:
+
+    # s bbhfaaa "Natsuki was a good friend of mine."
+    s bbhfaaa "Нацуки была мне хорошим другом."
+
+# game/dialogs/script-topics.rpy:2264
+translate ru s_answer_game_opinion_n_dcdee0a3:
+
+    # s bbhfaca "While she could come off as pretty arrogant and argumentative sometimes, she really did help out the club."
+    s bbhfaca "Хоть она иногда и бывала довольно заносчивой и надменной, она очень помогала клубу."
+
+# game/dialogs/script-topics.rpy:2265
+translate ru s_answer_game_opinion_n_75d4991e:
+
+    # s abbbaaa "I know you didn't really see that side of her during the game, but when she was just around us she would lower her guard and become a lot more approachable."
+    s abbbaaa "Знаю, что в игре ты этого не видел, но когда она оказывалась в кругу друзей, её колючки исчезали, и она становилась куда приятнее в общении."
+
+# game/dialogs/script-topics.rpy:2266
+translate ru s_answer_game_opinion_n_38e6a27d:
+
+    # s abbbcaa "She was pretty handy with cooking and baking too!"
+    s abbbcaa "А ещё она хорошо пекла и готовила!"
+
+# game/dialogs/script-topics.rpy:2267
+translate ru s_answer_game_opinion_n_379771a6:
+
+    # s bbbbaaa "It's too bad you couldn't have tasted her cupcakes, {w=0.5}{nw}"
+    s bbbbaaa "Жаль что ты не мог попробовать её кексики, {w=0.5}{nw}"
+
+# game/dialogs/script-topics.rpy:2268
+translate ru s_answer_game_opinion_n_34024ca8:
+
+    # extend abhfbcaa "they were really tasty!"
+    extend abhfbcaa "они очень вкусные!"
+
+# game/dialogs/script-topics.rpy:2269
+translate ru s_answer_game_opinion_n_9870ff67:
+
+    # s abbbcaa "Anyways, I’m glad she decided to join the club in the first place since she needed a shelter from her father."
+    s abbbcaa "В любом случае, я рада, что она решила присоединиться к клубу, в конце концов ей нужно было место, где она могла бы не контактировать с отцом."
+
+# game/dialogs/script-topics.rpy:2270
+translate ru s_answer_game_opinion_n_cb385081:
+
+    # s bbhemoa "As you know, they didn't exactly get along well..."
+    s bbhemoa "У неё с ним, как ты знаешь, отношения были так себе..."
+
+# game/dialogs/script-topics.rpy:2271
+translate ru s_answer_game_opinion_n_f5dbed98:
+
+    # s bbgbaca "And he certainly didn't approve of her reading manga."
+    s bbgbaca "И ему определённо не нравилось её увлечение мангой."
+
+# game/dialogs/script-topics.rpy:2272
+translate ru s_answer_game_opinion_n_4e2021c1:
+
+    # s abgbaaa "So Natsuki moved her collection to the clubroom when she joined us."
+    s abgbaaa "Поэтому Нацуки перенесла свою коллекцию в клуб."
+
+# game/dialogs/script-topics.rpy:2273
+translate ru s_answer_game_opinion_n_07d97447:
+
+    # s abgbcaa "But besides that, I think she was a lot kinder and more compassionate than what she showed to the outside world."
+    s abgbcaa "В общем, я думаю, что она была куда добрее и отзывчивее, чем она старалась себя преподнести."
+
+# game/dialogs/script-topics.rpy:2278
+translate ru s_answer_game_opinion_y_cf5eeb1f:
+
+    # s abaaaa "Yuri was the most {i}enigmatic{/i} club member."
+    s abaaaa "Из нас всех, Юри была самой {i}загадочной{/i}"
+
+# game/dialogs/script-topics.rpy:2279
+translate ru s_answer_game_opinion_y_2cf8c69f:
+
+    # s "That’s a word she’d probably use, come to think of it, hehehe~"
+    s "Наверное это слово она бы использовала, хехехе~"
+
+# game/dialogs/script-topics.rpy:2280
+translate ru s_answer_game_opinion_y_075c49ae:
+
+    # s abhaaca "She was a quiet, shy, closed off person, who usually prefered to stay alone doing her own thing."
+    s abhaaca "Он была тихой, скромной, довольно закрытой, часто предпочитала в одиночестве заниматься своими делами."
+
+# game/dialogs/script-topics.rpy:2281
+translate ru s_answer_game_opinion_y_94dd5f70:
+
+    # s abaabaoa "But she was really intelligent, kind, and never had a bad word to say about anyone."
+    s abaabaoa "Но при этом она была очень умной и доброй, никогда ни о ком не говорила плохо."
+
+# game/dialogs/script-topics.rpy:2282
+translate ru s_answer_game_opinion_y_3c33eae8:
+
+    # s abaaca "Her poems were also very beautiful, and I could always tell that Yuri felt most at home with books and pens rather than people."
+    s abaaca "Её стихи тоже были очень красивыми, и мне всегда казалось, что она чувствовала себя куда комфортнее с книгами и ручками, чем с людьми."
+
+# game/dialogs/script-topics.rpy:2283
+translate ru s_answer_game_opinion_y_23cee835:
+
+    # s abbcaa "But when you got to know her, she was an approachable, helpful friend."
+    s abbcaa "Но если узнаешь её поближе, то поймёшь, что она - хороший, понимающий друг."
+
+# game/dialogs/script-topics.rpy:2285
+translate ru s_answer_game_opinion_y_2d67336c:
+
+    # s abhaaca "I was honestly pretty scared when I saw how she became much more unstable and aggressive after I was gone."
+    s abhaaca "Честно, меня неслабо испугало, когда она начала становиться агрессивнее и нестабильнее после моей 'смерти'."
+
+# game/dialogs/script-topics.rpy:2286
+translate ru s_answer_game_opinion_y_48b7e0fd:
+
+    # s bbbcac "But I know that wasn't who Yuri really was."
+    s bbbcac "Но я знаю - это была не та настоящая Юри."
+
+# game/dialogs/script-topics.rpy:2287
+translate ru s_answer_game_opinion_y_3ee22950:
+
+    # s "She was just a victim of circumstance, like me."
+    s "Она оказалась такой же жертвой обстоятельств как и я."
+
+# game/dialogs/script-topics.rpy:2288
+translate ru s_answer_game_opinion_y_4662f87f:
+
+    # s abbcaa "In fact, her first argument with Natsuki in the game was pretty much the limit of Yuri's capabilities to 'lash out' at someone else."
+    s abbcaa "На самом деле, её спор с Нацуки в начале игры был границей умения Юри 'срываться' на кого-то."
+
+# game/dialogs/script-topics.rpy:2289
+translate ru s_answer_game_opinion_y_88c8188b:
+
+    # s abaaaa "The {i}real{/i} Yuri I knew was a very sweet girl who had her own problems and own solutions, just like everyone else. I won't judge her for that."
+    s abaaaa "Та {i}настоящая{/i} Юри, которую я знала, была милой девушкой, со своими проблемами и способами их решения, как и все остальные. Я не сужу её за это."
+
+# game/dialogs/script-topics.rpy:2291
+translate ru s_answer_game_opinion_y_74b9f126:
+
+    # s abaaaa "We all were glad to have her as a club member."
+    s abaaaa "Мы все были рады ей в нашем клубе."
+
+# game/dialogs/script-topics.rpy:2292
+translate ru s_answer_game_opinion_y_4623ad13:
+
+    # s "Even Natsuki, despite the two of them being so different from each other."
+    s "Даже Нацуки, несмотря на все их различия."
+
+# game/dialogs/script-topics.rpy:2297
+translate ru s_answer_game_opinion_m_1d160604:
+
+    # s abaaaaa "Well, Monika was the first club president."
+    s abaaaaa "Ну, Моника была первым президентом клуба."
+
+# game/dialogs/script-topics.rpy:2298
+translate ru s_answer_game_opinion_m_986eebc0:
+
+    # s "She did her work very well and I was glad to be her right-hand woman."
+    s "Она прекрасно выполняла свои обязанности, и я была рада быть её правой рукой."
+
+# game/dialogs/script-topics.rpy:2299
+translate ru s_answer_game_opinion_m_e54af522:
+
+    # s abaaaca "But she struggled to communicate well with other people, and couldn't control her feelings as time went on."
+    s abaaaca "Но она не особо умела общаться с людьми, и плохо контролировала свои эмоции, как мы поняли."
+
+# game/dialogs/script-topics.rpy:2301
+translate ru s_answer_game_opinion_m_3f67228d:
+
+    # s bbbblca "Look. {w=0.5}{nw}"
+    s bbbblca "Слушай, {w=0.5}{nw}"
+
+# game/dialogs/script-topics.rpy:2302
+translate ru s_answer_game_opinion_m_aa2c6a59:
+
+    # extend bbbbaca "I know what you're really asking me."
+    extend bbbbaca "я понимаю, о чём ты хочешь узнать."
+
+# game/dialogs/script-topics.rpy:2303
+translate ru s_answer_game_opinion_m_68d7e8b5:
+
+    # s bbbblca "Despite everything she put me and the others through..."
+    s bbbblca "Несмотря на всё то, через что она заставила пройти меня и остальных..."
+
+# game/dialogs/script-topics.rpy:2304
+translate ru s_answer_game_opinion_m_908beb77:
+
+    # s bbaaaca "I truly believe that Monika was our friend, and she just lost sight of what was really important."
+    s bbaaaca "Я искренне верю, что Моника была нам другом, и что она попросту забыла о том, что действительно важно."
+
+# game/dialogs/script-topics.rpy:2305
+translate ru s_answer_game_opinion_m_35e73018:
+
+    # s bbaabca "I've been the President. I know what it does to you. And for her to be so completely alone the entire time, watching everyone she's ever known run on a script..."
+    s bbaabca "Я была Президентом. И знаю что эта роль с тобой делает. Она оставляет тебя одиноко наблюдать за иллюзорностью мира."
+
+# game/dialogs/script-topics.rpy:2306
+translate ru s_answer_game_opinion_m_1009fff4:
+
+    # s bbaaaca "I can't blame her for becoming a little desperate."
+    s bbaaaca "Поэтому я не могу винить её за то, что она впала в отчаение."
+
+# game/dialogs/script-topics.rpy:2307
+translate ru s_answer_game_opinion_m_c496975a:
+
+    # s "So although I think what she did was wrong, I don’t think she’s evil."
+    s "Так что, хоть я и думаю, что она наделала глупостей, я не считаю её злой."
+
+# game/dialogs/script-topics.rpy:2308
+translate ru s_answer_game_opinion_m_1c7771dd:
+
+    # s bbbbaca "After all, she never truly deleted us, and brought us all back when she had a moment of clarity."
+    s bbbbaca "В конце концов, она не удалила нас насовсем и вернула в минуты раскаяния."
+
+# game/dialogs/script-topics.rpy:2310
+translate ru s_answer_game_opinion_m_92c457e3:
+
+    # s bbaakca "The thought of what she did to me still hurts sometimes."
+    s bbaakca "Мысли о том, что она со мной делала всё ещё ранят."
+
+# game/dialogs/script-topics.rpy:2311
+translate ru s_answer_game_opinion_m_6afbd947:
+
+    # s bbaaaaa "But I can’t be mad at her since she bought me back and fixed her mistakes at the cost of her own happiness. I respect her a lot for that."
+    s bbaaaaa "Но я не злюсь, ведь она вернула меня и исправила свои ошибки ценой собственного счастья. Я уважаю её за это."
+
+# game/dialogs/script-topics.rpy:2316
+translate ru s_answer_game_opinion_mc_322c0c1b:
+
+    # s abbcaaa "Well, I knew him since we were children."
+    s abbcaaa "Ну, я знала его с самого детства."
+
+# game/dialogs/script-topics.rpy:2317
+translate ru s_answer_game_opinion_mc_28c9457a:
+
+    # s abbccoa "I have a lot of memories about our childhood and I can't say anything bad about him."
+    s abbccoa "У меня о нём много воспоминаний, и среди них нет плохих."
+
+# game/dialogs/script-topics.rpy:2318
+translate ru s_answer_game_opinion_mc_4d7ebb58:
+
+    # s "We had tons in common and our houses were super near each other."
+    s "Мы были очень похожи, а наши дома стояли совсем рядом."
+
+# game/dialogs/script-topics.rpy:2319
+translate ru s_answer_game_opinion_mc_8c9c62da:
+
+    # s bbbcaaa "Maybe that's why we became friends and then I fell in love with him."
+    s bbbcaaa "Может поэтому мы и подружились, а потом я в него влюбилась."
+
+# game/dialogs/script-topics.rpy:2320
+translate ru s_answer_game_opinion_mc_f6a02c40:
+
+    # s bbbbaca "...Or it was just the game's plan to make some drama if he didn't feel the same way."
+    s bbbbaca "...Или это была всего лишь часть сюжета, нужная чтобы внести драмы, в случае отказа MC."
+
+# game/dialogs/script-topics.rpy:2321
+translate ru s_answer_game_opinion_mc_5508d2e4:
+
+    # s abhaacaa "Anyway, he always did his best to help me."
+    s abhaacaa "В любом случае, он всегда стремился меня поддержать."
+
+# game/dialogs/script-topics.rpy:2323
+translate ru s_answer_game_opinion_mc_f3f62fc8:
+
+    # s bbaaaaa "Even after I confessed to him about my depression, he cared despite me pushing him away."
+    s bbaaaaa "Даже когда я рассказала ему о депрессии, он продолжил обо мне заботиться, несмотря на то, что я от него отдалилась."
+
+# game/dialogs/script-topics.rpy:2324
+translate ru s_answer_game_opinion_mc_0a9f4825:
+
+    # s "He even left the festival to check if I was fine."
+    s "Он даже пропустил фестиваль, чтобы навестить меня."
+
+# game/dialogs/script-topics.rpy:2325
+translate ru s_answer_game_opinion_mc_24ec58bb:
+
+    # s bbaalfa "...Unfortunately he was a day late."
+    s bbaalfa "...К сожалению, он опоздал."
+
+# game/dialogs/script-topics.rpy:2326
+translate ru s_answer_game_opinion_mc_4f7d46f0:
+
+    # s abaaaoa "But I can appreciate everything he did for me now."
+    s abaaaoa "Но в любом случае, я благодарна ему за все его старания."
+
+# game/dialogs/script-topics.rpy:2327
+translate ru s_answer_game_opinion_mc_a403f2bd:
+
+    # s bbaaafa "It makes me sad knowing he's just a placeholder that's used to make our communication possible."
+    s bbaaafa "Мне грусто думать о том, что он был всего-лишь пустышкой, нужной чтобы сделать возможным общение с тобой."
+
+# game/dialogs/script-topics.rpy:2328
+translate ru s_answer_game_opinion_mc_a0ac6b31:
+
+    # s "But in a way, I think he did all he had to do."
+    s "Но с другой стороны, мне кажется, что он выполнил своё предназначение."
+
+# game/dialogs/script-topics.rpy:2329
+translate ru s_answer_game_opinion_mc_e4bcd0e1:
+
+    # s bbbbaaa "After all, he’s just your guide in our world."
+    s bbbbaaa "В конце концов, он всего лишь твой сосуд в этом мире."
+
+# game/dialogs/script-topics.rpy:2330
+translate ru s_answer_game_opinion_mc_9d31ad7d:
+
+    # s abhfaoa "And he managed to bring us together~"
+    s abhfaoa "И благодаря ему мы вместе~"
+
+# game/dialogs/script-topics.rpy:2349
+translate ru s_answer_lostFriends_ad9b9619:
+
+    # s bbaabca "Yes, I do."
+    s bbaabca "Да."
+
+# game/dialogs/script-topics.rpy:2350
+translate ru s_answer_lostFriends_6583adae:
+
+    # s bbaaaca "They all deserve to come back."
+    s bbaaaca "Все они заслуживают вернуться."
+
+# game/dialogs/script-topics.rpy:2352
+translate ru s_answer_lostFriends_8d121504:
+
+    # s bbbbaca "...Even Monika."
+    s bbbbaca "...Даже Моника."
+
+# game/dialogs/script-topics.rpy:2353
+translate ru s_answer_lostFriends_d00618a5:
+
+    # s bbaaaaa "I still remember how we used to hang out in the club together."
+    s bbaaaaa "Я всё ещё вспоминаю наши клубные посиделки."
+
+# game/dialogs/script-topics.rpy:2354
+translate ru s_answer_lostFriends_dfde0026:
+
+    # s bbaaaca "We enjoyed chatting, discussing literature and sharing poems."
+    s bbaaaca "Мы с удовольствием общались, обсуждали книги и делились стихами."
+
+# game/dialogs/script-topics.rpy:2355
+translate ru s_answer_lostFriends_7a060545:
+
+    # s bbbbaaa "They really were good friends."
+    s bbbbaaa "Они и вправду были хорошими друзьями."
+
+# game/dialogs/script-topics.rpy:2356
+translate ru s_answer_lostFriends_0f31c98c:
+
+    # s abbbaca "But I think there are ways to bring them back, without making them go through the reality of the original game."
+    s abbbaca "Я думаю, что есть способы вернуть их, не заставляя проходить через события оригинальной игры."
+
+# game/dialogs/script-topics.rpy:2357
+translate ru s_answer_lostFriends_9dbc4115:
+
+    # s abhfaoa "Maybe you could install a mod, where you can save them and make everyone happy."
+    s abhfaoa "Может ты мог бы установить мод, где всех можно спасти и сделать счастливыми."
+
+# game/dialogs/script-topics.rpy:2358
+translate ru s_answer_lostFriends_5dc9019a:
+
+    # s abhfcaa "Or you could install 3 mods to 3 game copies where they can spend time with you in a way like you and me now."
+    s abhfcaa "Или можно скачать три мода для трёх игровых копий, чтобы ты мог проводить с ними время так же, как и со мной."
+
+# game/dialogs/script-topics.rpy:2359
+translate ru s_answer_lostFriends_6eb269d2:
+
+    # s "That’d mean so much to me, [player]."
+    s "Это бы было для меня очень ценно, [player]."
+
+# game/dialogs/script-topics.rpy:2408
+translate ru s_stopic_bulls_and_cows_redux_eaf83d43:
+
+    # s abfcaoa "Hey [player]! I have something to show you!"
+    s abfcaoa "Эй, [player]! Смотри что покажу!"
+
+# game/dialogs/script-topics.rpy:2410
+translate ru s_stopic_bulls_and_cows_redux_03cbc4d9:
+
+    # s abfccaa "I tried to code something a little more complex this time, so I made a game!"
+    s abfccaa "В этот раз я попробовала накодить что-то поинтереснее, и сделала игру!"
+
+# game/dialogs/script-topics.rpy:2411
+translate ru s_stopic_bulls_and_cows_redux_f879a622:
+
+    # s abagaaa "It’s called {i}Bows and Cows{/i}, my version of Bulls and Cows, ehehehe~"
+    s abagaaa "Называется {i}Банты и Коровы{/i}, моя версия Быков и Коров, эхехехе~"
+
+# game/dialogs/script-topics.rpy:2412
+translate ru s_stopic_bulls_and_cows_redux_7e11c4c6:
+
+    # s abagaoa "Here I’ll explain the rules!"
+    s abagaoa "Давай объясню правила!"
+
+# game/dialogs/script-topics.rpy:2413
+translate ru s_stopic_bulls_and_cows_redux_a9fa6427:
+
+    # s abhhcaa "I have to think of a number, and you have to guess the number."
+    s abhhcaa "Я загадаю число, а ты должен его отгадать."
+
+# game/dialogs/script-topics.rpy:2414
+translate ru s_stopic_bulls_and_cows_redux_f28f1261:
+
+    # s abhhaoa "How do you do that you ask?"
+    s abhhaoa "\"Каким образом?\" спросишь ты."
+
+# game/dialogs/script-topics.rpy:2415
+translate ru s_stopic_bulls_and_cows_redux_9ea40ae8:
+
+    # s abfccea "Simple!"
+    s abfccea "Легко!"
+
+# game/dialogs/script-topics.rpy:2416
+translate ru s_stopic_bulls_and_cows_redux_ca35db5e:
+
+    # s abagaaa "If a digit of your guess is in the correct position, it’s a bow."
+    s abagaaa "Если названная тобой цифра стоит на верной позиции, появится бантик."
+
+# game/dialogs/script-topics.rpy:2417
+translate ru s_stopic_bulls_and_cows_redux_fb2b0409:
+
+    # s abagaoa "But if it’s in a different position, it’s a cow."
+    s abagaoa "А если нет, то корова."
+
+# game/dialogs/script-topics.rpy:2418
+translate ru s_stopic_bulls_and_cows_redux_0937125f:
+
+    # s abhhcaa "With a couple attempts and some clever thinking you should be able to figure out my number!"
+    s abhhcaa "Немного подумав и попытавшись несколько раз, ты должен смочь отгадать моё число!"
+
+# game/dialogs/script-topics.rpy:2419
+translate ru s_stopic_bulls_and_cows_redux_ebd3fbdc:
+
+    # s abfccea "You can start a round in the {i}Play{/i} menu, good luck [player]!"
+    s abfccea "Можешь начать из меню {i}Играть{/i}, удачи, [player]!"
+
+# game/dialogs/script-topics.rpy:2446
+translate ru s_topic_reversi_redux_62294bf6:
+
+    # s abfcaoa "Hey [player]! I’ve been working on something again!"
+    s abfcaoa "О, [player]! Я опять кое над чем работаю!"
+
+# game/dialogs/script-topics.rpy:2447
+translate ru s_topic_reversi_redux_599cbc1f:
+
+    # s abfccaa "It’s by far my most challenging project yet!"
+    s abfccaa "Пока что это мой самый замудрённый проект!"
+
+# game/dialogs/script-topics.rpy:2448
+translate ru s_topic_reversi_redux_b6951c42:
+
+    # s abfcaoa "With many hours of crayon doodling and coding, I present to you..."
+    s abfcaoa "После многих часов калякания мелками и программирования, я предствляю тебе..."
+
+# game/dialogs/script-topics.rpy:2449
+translate ru s_topic_reversi_redux_b2e2b1b9:
+
+    # s abbccea "{i}Reversi!{/i}"
+    s abbccea "{i}Реверси!{/i}"
+
+# game/dialogs/script-topics.rpy:2450
+translate ru s_topic_reversi_redux_dd56c505:
+
+    # s abagaaa "It’s a neat little board game where the objective is to get more of your counters on the board than your opponent."
+    s abagaaa "Небольшая прикольная настолка, где тебе нужно разместить на доске больше фишек, чем противник."
+
+# game/dialogs/script-topics.rpy:2451
+translate ru s_topic_reversi_redux_b2d9b788:
+
+    # s abagcaa "And you do that by placing a counter adjacent to one of your opponent’s counters and flipping the counters between in your favour."
+    s abagcaa "И сделать это можно помещая ряды фишек противника между твоими собственными фишками, так ты забираешь \"серединный\" ряд соперника себе."
+
+# game/dialogs/script-topics.rpy:2452
+translate ru s_topic_reversi_redux_d875bac2:
+
+    # s abhhdaa "And [player], I’ve been practicing~"
+    s abhhdaa "И поверь, [player], играть я умею~"
+
+# game/dialogs/script-topics.rpy:2453
+translate ru s_topic_reversi_redux_ebd3fbdc:
+
+    # s abfccea "You can start a round in the {i}Play{/i} menu, good luck [player]!"
+    s abfccea "Можешь начать из меню {i}Играть{/i}, удачи тебе, [player]!"
+
+# game/dialogs/script-topics.rpy:2481
+translate ru s_answer_programming_f06005e1:
+
+    # s abhaaca "Well, I'm still pretty new to coding and programming, but..."
+    s abhaaca "Ну, я всё ещё привыкаю к коду и программированию, но..."
+
+# game/dialogs/script-topics.rpy:2482
+translate ru s_answer_programming_cf513163:
+
+    # s bbhamoaj "It’s a nightmare sometimes, ehehehe~"
+    s bbhamoaj "Иногда это настоящий кошмар, эхехехе~"
+
+# game/dialogs/script-topics.rpy:2483
+translate ru s_answer_programming_39f762f6:
+
+    # s ebgcegaj "Heaps of things just don’t make sense!"
+    s ebgcegaj "Целая куча непонятных вещей!"
+
+# game/dialogs/script-topics.rpy:2484
+translate ru s_answer_programming_6036a3a2:
+
+    # s ebgcbga "\"Tuple index out of range\", \"perhaps you forgot a ‘)’ at the end of the line...\""
+    s ebgcbga "\"Индекс массива находится за его пределами\", \"возможно вы забыли ')' в конце строки...\w"
+
+# game/dialogs/script-topics.rpy:2485
+translate ru s_answer_programming_70400fbc:
+
+    # s ebgcega "If it {i}knows{/i} I forgot a bracket at the end, why doesn’t it just add it?!"
+    s ebgcega "Если оно {i}знает{/i}, что я забыла скобку, почему просто её не добавит?!"
+
+# game/dialogs/script-topics.rpy:2486
+translate ru s_answer_programming_80bcefe5:
+
+    # s bbgbmoa "So yeah, coding is hard, ehehehe~"
+    s bbgbmoa "Так что да, программировать тяжело, эхехехе~"
+
+# game/dialogs/script-topics.rpy:2487
+translate ru s_answer_programming_78ded773:
+
+    # s abgbcoa "But I’m sure I’ll improve if I keep trying!"
+    s abgbcoa "Но думаю, что со временем научусь, если буду практиковаться!"
+
+# game/dialogs/script-topics.rpy:2506
+translate ru s_answer_visual_novels_a38e60c4:
+
+    # s abhfaca "Oh! I’ve not played any myself actually, {w=0.5}{nw}"
+    s abhfaca "О! А я в них и не играла, {w=0.5}{nw}"
+
+# game/dialogs/script-topics.rpy:2507
+translate ru s_answer_visual_novels_cb1c98b0:
+
+    # extend abgbcaa "but I’m glad to have been part of one! Ehehehe~"
+    extend abgbcaa "но при этом рада быть частью одной из них! Эхехехе~"
+
+# game/dialogs/script-topics.rpy:2508
+translate ru s_answer_visual_novels_98985ba9:
+
+    # s abgbaoa "I really like how they enhance the story with cool visuals, {w=0.5}{nw}"
+    s abgbaoa "Мне нравится, как повествование украшается классным визуалом, {w=0.5}{nw}"
+
+# game/dialogs/script-topics.rpy:2509
+translate ru s_answer_visual_novels_b4b8ec19:
+
+    # extend abgbcaa "kinda like a cross between a movie and a book!"
+    extend abgbcaa "Получается что-то между фильмом и книгой!"
+
+# game/dialogs/script-topics.rpy:2510
+translate ru s_answer_visual_novels_f4a4338e:
+
+    # s abbbaoa "And many of them even allow the player to make their own choices!"
+    s abbbaoa "А ещё многие новеллы позволяют игроку выбирать что делать!"
+
+# game/dialogs/script-topics.rpy:2511
+translate ru s_answer_visual_novels_a98d69c0:
+
+    # s abhfcaa "Not many books can do that, ehehehe~"
+    s abhfcaa "Редкая книга на такое способна, эхехехе~"
+
+# game/dialogs/script-topics.rpy:2512
+translate ru s_answer_visual_novels_a5464df7:
+
+    # s abhfaoa "How about you, [player]? Have you played any visual novels before?"
+    s abhfaoa "А ты, [player]? Играл в визуальные новеллы?"
+
+# game/dialogs/script-topics.rpy:2513
+translate ru s_answer_visual_novels_46ea02e0:
+
+    # s abgbcaa "If you’re looking for some recommendations, you could try {i}Steins;Gate{/i}, {i}Miagete Goran{/i}, or {i}Katawa Shoujo{/i}!"
+    s abgbcaa "Если захочешь, советую попробовать {i}Steins;Gate{/i}, {i}Everlasting summer{/i}, {i}Miagete Goran{/i}, или {i}Katawa Shoujo{/i}"
+
+# game/dialogs/script-topics.rpy:2514
+translate ru s_answer_visual_novels_7b71d1bf:
+
+    # s abgbaoa "I heard they're pretty popular in your world, each of them having unique features like this game!"
+    s abgbaoa "Они довольно популярны в твоём мире, каждая из них по своему уникальна!"
+
+# game/dialogs/script-topics.rpy:2519
+translate ru love_quip1_ac940f8c:
+
+    # s abhfaob "And guess what, [player]?"
+    s abhfaob "Угадаешь, что я скажу, [player]?"
+
+# game/dialogs/script-topics.rpy:2520
+translate ru love_quip1_577900cd:
+
+    # s abgbcab "I love you too!"
+    s abgbcab "Я тоже тебя люблю!"
+
+# game/dialogs/script-topics.rpy:2524
+translate ru love_quip2_2cb03785:
+
+    # s abhfaob "I...{w=1.5} Love...{w=1.5} You...{w=1.5}... {b}MORE!{/b}{nw}"
+    s abhfaob "Я... {w=1.5} Люблю... {w=1.5} Тебя... {w=1.5}... {b}СИЛЬНЕЕ!{/b}{nw}"
+
+# game/dialogs/script-topics.rpy:2525
+translate ru love_quip2_77a95d70:
+
+    # extend abhfaob "I...{w=1.5} Love...{w=1.5} You...{w=1.5}...{fast} ...Too~!"
+    extend abhfaob "Я... {w=1.5} Тоже...{w=1.5} Тебя...{w=1.5}...{fast} ...Люблю~!"
+
+# game/dialogs/script-topics.rpy:2526
+translate ru love_quip2_8859dc3a:
+
+    # s abgbcab "Ehehehe~"
+    s abgbcab "Эхехехе~"
+
+# game/dialogs/script-topics.rpy:2530
+translate ru love_quip3_eec3102b:
+
+    # s abgbcab "I love you too, [player]!"
+    s abgbcab "И я тебя люблю, [player]!"
+
+# game/dialogs/script-topics.rpy:2531
+translate ru love_quip3_11859390:
+
+    # s abhfaob "You mean the world to me."
+    s abhfaob "Ты для меня буквально всё."
+
+# game/dialogs/script-topics.rpy:2535
+translate ru love_quip4_eec3102b:
+
+    # s abgbcab "I love you too, [player]!"
+    s abgbcab "Я тоже люблю тебя, [player]!"
+
+# game/dialogs/script-topics.rpy:2536
+translate ru love_quip4_fed37de9:
+
+    # s abhfaob "I’m so glad to have you by my side."
+    s abhfaob "Для меня счастье быть с тобой рядом."
+
+# game/dialogs/script-topics.rpy:2540
+translate ru love_quip5_eec3102b:
+
+    # s abgbcab "I love you too, [player]!"
+    s abgbcab "И я тоже тебя люблю, [player]!"
+
+# game/dialogs/script-topics.rpy:2541
+translate ru love_quip5_e915aca4:
+
+    # s abhfaob "You’re the sunshine in my life."
+    s abhfaob "Ты моё дорогое солнышко."
+
+# game/dialogs/script-topics.rpy:2545
+translate ru love_quip6_eec3102b:
+
+    # s abgbcab "I love you too, [player]!"
+    s abgbcab "И я тебя люблю, [player]!"
+
+# game/dialogs/script-topics.rpy:2546
+translate ru love_quip6_e236fe6e:
+
+    # s abhfaob "With all my heart."
+    s abhfaob "Всем сердцем."
+
+# game/dialogs/script-topics.rpy:2550
+translate ru love_quip7_eec3102b:
+
+    # s abgbcab "I love you too, [player]!"
+    s abgbcab "И я тебя, [player]!"
+
+# game/dialogs/script-topics.rpy:2551
+translate ru love_quip7_0cc468e6:
+
+    # s abhfaob "I couldn’t possibly express how much you mean to me."
+    s abhfaob "Я никогда не смогу передать, как много ты для меня значишь."
+
+# game/dialogs/script-topics.rpy:2555
+translate ru love_quip8_eec3102b:
+
+    # s abgbcab "I love you too, [player]!"
+    s abgbcab "Я тоже люблю тебя, [player]!"
+
+# game/dialogs/script-topics.rpy:2556
+translate ru love_quip8_15420e9b:
+
+    # s abhfaob "To the moon and back! Ehehehe~"
+    s abhfaob "До самых звёзд! Эхехехе~"
+
+# game/dialogs/script-topics.rpy:2560
+translate ru love_quip9_61455586:
+
+    # s abgbcob "I love you too, [player]!"
+    s abgbcob "Я тоже люблю тебя, [player]!"
+
+# game/dialogs/script-topics.rpy:2561
+translate ru love_quip9_8c85f1fb:
+
+    # s abhfaab "More than you’ll ever know~"
+    s abhfaab "Больше, чем ты можешь себе представить~"
+
+# game/dialogs/script-topics.rpy:2566
+translate ru love_quip_rare_eec3102b:
+
+    # s abgbcab "I love you too, [player]!"
+    s abgbcab "Я тоже тебя люблю, [player]!"
+
+# game/dialogs/script-topics.rpy:2567
+translate ru love_quip_rare_bada8778:
+
+    # s abhfaob "Thank you for always being here for me."
+    s abhfaob "Спасибо тебе за то, что ты всегда рядом."
+
+# game/dialogs/script-topics.rpy:2568
+translate ru love_quip_rare_e1554201:
+
+    # s "..."
+    s "..."
+
+# game/dialogs/script-topics.rpy:2569
+translate ru love_quip_rare_0b244850:
+
+    # s abhfaab "You know..."
+    s abhfaab "Знаешь..."
+
+# game/dialogs/script-topics.rpy:2570
+translate ru love_quip_rare_faf143da:
+
+    # s abhflab "Even though we’re worlds apart, I can still feel your warmth..."
+    s abhflab "Даже несмотря на то, что мы живём в разных мирах, я всё равно чувствую твоё тепло..."
+
+# game/dialogs/script-topics.rpy:2571
+translate ru love_quip_rare_8c4585b9:
+
+    # s abhfaabg "I couldn’t be happier."
+    s abhfaabg "Для меня это верх мыслимого счастья"
+
+# game/dialogs/script-topics.rpy:2572
+translate ru love_quip_rare_1f77d3d1:
+
+    # s abhfaobg "Thank you for everything."
+    s abhfaobg "Спасибо тебе за всё."
+
+# game/dialogs/script-topics.rpy:2608
+translate ru sayo_love_aec012ec:
+
+    # s ebhfhgb "Huh!? O-{w=1.0}Oh my gosh!"
+    s ebhfhgb "Чего!? Б-{w=1.0}Божечки!"
+
+# game/dialogs/script-topics.rpy:2609
+translate ru sayo_love_1b1dd4fd:
+
+    # s abhebebj "I didn't expect to hear that from you, [player]!"
+    s abhebebj "Я не ожидала услышать это от тебя, [player]!"
+
+# game/dialogs/script-topics.rpy:2610
+translate ru sayo_love_10297d57:
+
+    # s abheegbj "Uwaaaa! I'm so embarrassed!"
+    s abheegbj "Увааааа! Я аж застеснялась!"
+
+# game/dialogs/script-topics.rpy:2612
+translate ru sayo_love_390c6101:
+
+    # s abhfakbg "But also {i}really{/i} happy to hear that!"
+    s abhfakbg "Но я {i}действительно{/i} рада это слышать!"
+
+# game/dialogs/script-topics.rpy:2613
+translate ru sayo_love_e4adcf24:
+
+    # s abfdbcbg "I was wondering if you even felt that way about me or if you just simply wanted to save me from my fate..."
+    s abfdbcbg "Я всегда думала о том, спас ли ты меня из любви или из простого неравнодушия к моей судьбе..."
+
+# game/dialogs/script-topics.rpy:2614
+translate ru sayo_love_56e9a2cf:
+
+    # s abgdabbg "Like maybe you still saw me as a dear friend or felt really bad for me..."
+    s abgdabbg "Типа, вдруг ты видел во мне доброго друга, или просто очень меня жалел..."
+
+# game/dialogs/script-topics.rpy:2615
+translate ru sayo_love_63eb4dc1:
+
+    # s abhflabg "But nevermind that, I’m so happy you feel that way..."
+    s abhflabg "Но не важно, ведь я так рада, что ты признался..."
+
+# game/dialogs/script-topics.rpy:2616
+translate ru sayo_love_a3ae9e50:
+
+    # s abhfaobf "I love you too, [player]."
+    s abhfaobf "Я тоже люблю тебя, [player]."
+
+# game/dialogs/script-topics.rpy:2617
+translate ru sayo_love_b9f862e8:
+
+    # s abgccebf "I love you so much!"
+    s abgccebf "Сильно-пресильно!"
+
+# game/dialogs/script-topics.rpy:2653
+translate ru sayo_love_too_9ff964c9:
+
+    # s "Thank you!"
+    s "Спасибо тебе!"
+
+# game/dialogs/script-topics.rpy:2681
+translate ru s_topics_programming_c3e6f913:
+
+    # s abbbaca "Hey, [player]. I’ve been thinking about what it’s like learning to code now, compared to years ago..."
+    s abbbaca "Слушай, [player]. Интересно, насколько сильно отличалось обучение программированию несколько лет назад от того, что мы имеем сейчас..."
+
+# game/dialogs/script-topics.rpy:2682
+translate ru s_topics_programming_a2ab1e93:
+
+    # s abbbaoa "A lot of the popular coding programs used now are more beginner friendly than you'd think."
+    s abbbaoa "Многие известные проги для кодинга в наше время куда понятнее для новичка, чем можно представить."
+
+# game/dialogs/script-topics.rpy:2683
+translate ru s_topics_programming_e0b76366:
+
+    # s abbbaaa "You can use almost anything to do calculations or certain tasks..."
+    s abbbaaa "Можно использовать всякие штуки для ускорения вычислений и выполнения разных задач..."
+
+# game/dialogs/script-topics.rpy:2684
+translate ru s_topics_programming_0e53409b:
+
+    # s abhfaca "But becoming a total expert in programming is so difficult, since it's pretty much a combination of Math and Computer Science."
+    s abhfaca "Но стать идеальным программистом-экспертом очень непросто, так как оно по сути является смесью Математики и Комьютерных Наук."
+
+# game/dialogs/script-topics.rpy:2685
+translate ru s_topics_programming_b065b896:
+
+    # s abhfaoa "If you want to be a good programmer, you have to know lots of different coding languages and the things they can do."
+    s abhfaoa "Если ты хочешь быть хорошим кодером, тебе придётся выучить кучу программных языков, разобраться в том, на что они способны."
+
+# game/dialogs/script-topics.rpy:2686
+translate ru s_topics_programming_82c9cb3d:
+
+    # s abbbaoa "Not to mention ways to make the code run smoother, and make it easier to read."
+    s abbbaoa "Не говоря уже об оптимизации и читабельности кода."
+
+# game/dialogs/script-topics.rpy:2687
+translate ru s_topics_programming_4590f619:
+
+    # s abbbbca "You also need to know about different coding standards and be good at problem solving."
+    s abbbbca "Также нужно нужно знать о различных стандартах кодинга и уметь эффективно решать проблемы."
+
+# game/dialogs/script-topics.rpy:2688
+translate ru s_topics_programming_d9944976:
+
+    # s abhebca "At least that’s what some professional programmers online said, {w=0.5}{nw}"
+    s abhebca "По крайней мере так говрят в инете программисты-профессионалы, {w=0.5}{{nw}}"
+
+# game/dialogs/script-topics.rpy:2689
+translate ru s_topics_programming_9eca465d:
+
+    # extend abhecaa "they're smart cookies, ehehehe~"
+    extend abhecaa "Они те ещё умняши, эхехехе~"
+
+# game/dialogs/script-topics.rpy:2709
+translate ru s_answer_think_about_mc_28dc225f:
+
+    # s abbbbca "You know, [player], I still do think of those days before the game actually started."
+    s abbbbca "Знаешь, [player], я всё ещё вспоминаю деньки до начала событий игры."
+
+# game/dialogs/script-topics.rpy:2710
+translate ru s_answer_think_about_mc_86006755:
+
+    # s abbbaca "Especially MC... it's so weird calling him that... but, only your name comes to mind when I try to remember."
+    s abbbaca "В особенности MC... странновато называть его так... но единственное имя, которое получается вспомнить твоё."
+
+# game/dialogs/script-topics.rpy:2711
+translate ru s_answer_think_about_mc_541d9231:
+
+    # s abbbaaa "I try very hard to understand that he was only there as an extension of you, and it's not like I'm unhappy to have you actually here with me. Not even a little bit!"
+    s abbbaaa "Я пытаюсь убедить себя в том, что он был всего лишь твоим 'мостом' в этот мир, и я ни капельки не жалею о том, что сейчас с тобой. Ни разу!"
+
+# game/dialogs/script-topics.rpy:2712
+translate ru s_answer_think_about_mc_521b8cb6:
+
+    # s bbfcaca "But it's not easy knowing that every moment I shared growing up with him, every little piece of my childhood, was just...scripted? I guess that's the best way to put it."
+    s bbfcaca "Но мне трудновато осознавать, что всё моё детсво, каждая проведённая с ним минуты была лишь... скриптом? Наверное так оно и было."
+
+# game/dialogs/script-topics.rpy:2713
+translate ru s_answer_think_about_mc_d0154e8b:
+
+    # s bbfcbca "All my memories... well, can I even call them that?"
+    s bbfcbca "Все мои воспоминания... ну, если их вообще можно так назвать."
+
+# game/dialogs/script-topics.rpy:2714
+translate ru s_answer_think_about_mc_154115bf:
+
+    # s bbbcaca "They've turned hazy, and it's been getting harder to remember some of them, even the ones I considered unforgettable. But they all seem... emptier and emptier, every time I think of them."
+    s bbbcaca "Каждое из них теперь какое-то размытое, и мне становится всё сложнее вспоминать некоторые, даже те, что были для меня самыми ценными. Все они... начинают казаться всё более пустыми, каждый раз когда я пытаюсь к ним вернуться."
+
+# game/dialogs/script-topics.rpy:2715
+translate ru s_answer_think_about_mc_5f5d25f7:
+
+    # s bbbblca "I guess it's because I can see them as the pre-written code that they've always been."
+    s bbbblca "Полагаю, что теперь вижу в них лишь преднаписанный код, коим они и являлись."
+
+# game/dialogs/script-topics.rpy:2716
+translate ru s_answer_think_about_mc_393e4b28:
+
+    # s bbhfafa "Monika, Yuri, Natsuki, they're all gone. And I truly grieve for all of them. But I felt so relieved when I learned about mods similar to this one..."
+    s bbhfafa "Моника, Юри, Нацуки, все они исчезли. И мне их искренне жалко. Но от того факта, что есть моды как этот, становится легче..."
+
+# game/dialogs/script-topics.rpy:2717
+translate ru s_answer_think_about_mc_c7327692:
+
+    # s bbbbbca "It gives me some hope, I guess."
+    s bbbbbca "Он даёт мне надежду, что-ли."
+
+# game/dialogs/script-topics.rpy:2718
+translate ru s_answer_think_about_mc_50b39422:
+
+    # s abbbaca "You might think I have hard feelings for Monika, but I went through the very same thing and I understand how this could've led her to do what she did.
+    s abbbaca "Может ты думаешь, что я злюсь на Монику, но я побывала на её месте, и поэтому могу понять, что заставило её сделать то что она сделала."
+
+# game/dialogs/script-topics.rpy:2719
+translate ru s_answer_think_about_mc_a00318cf:
+
+    # s abfcaca "I'm not saying that I'm not happy to finally be free from all of it, that's not the case at all!"
+    s abfcaca "Ни в коем случае не говорю, что не рада наконец оказаться свободной, ни за что!"
+
+# game/dialogs/script-topics.rpy:2720
+translate ru s_answer_think_about_mc_e6139a5b:
+
+    # s abfcafa "What I'm saying is, my friends, MC, they can't really be replaced, regardless of how 'not real' they were from your point of view."
+    s abfcafa "Я лишь пытаюсь сказать, что моих друзей, MC, не заменить, неважно какими 'ненастоящими' они кажутся с твоего ракурса."
+
+# game/dialogs/script-topics.rpy:2721
+translate ru s_answer_think_about_mc_8fa4d4aa:
+
+    # s bbfcafa "I couldn't just spawn another Natsuki and act as if she was the original one."
+    s bbfcafa "Я не могу просто заспавнить ещё одну Нацуки и вести себя так, будто это она и есть."
+
+# game/dialogs/script-topics.rpy:2722
+translate ru s_answer_think_about_mc_9d3da833:
+
+    # s abbbaca "And come to think of it... did even I have a family? A mother, or father, or grandmother, or cousins? "
+    s abbbaca "И если подумать... была ли у меня вообще семья? Мама, папа, бабушка или двоюродные братья?"
+
+# game/dialogs/script-topics.rpy:2723
+translate ru s_answer_think_about_mc_5a78aaea:
+
+    # s bbbbaca "Anyone? I'm free... yes. But from what?"
+    s bbbbaca "Кто-нибудь? Я свободна... безусловно. Но от чего?"
+
+# game/dialogs/script-topics.rpy:2725
+translate ru s_answer_think_about_mc_e1554201:
+
+    # s "..."
+    s "..."
+
+# game/dialogs/script-topics.rpy:2727
+translate ru s_answer_think_about_mc_e88c2ccf:
+
+    # s bbaalca "No. I won't let this bring me down."
+    s bbaalca "Нет. Я не позволю этому меня сломать"
+
+# game/dialogs/script-topics.rpy:2728
+translate ru s_answer_think_about_mc_c9170687:
+
+    # s "But..."
+    s "Но..."
+
+# game/dialogs/script-topics.rpy:2729
+translate ru s_answer_think_about_mc_6b935383:
+
+    # s bbaamca "I really do miss my friends, but I believe they’re somewhere safe, and are with someone they trust, who they can spend time with, someone who has rescued them just as you rescued me."
+    s bbaamca "Я очень скучаю по своим друзьям и надеюсь, что они в безопасности, с кем-то, кому доверяют, с кем можно провести время, кто спас их, прямо как ты спас меня."
+
+# game/dialogs/script-topics.rpy:2730
+translate ru s_answer_think_about_mc_4d64e9cd:
+
+    # s bbaaaca "But even then..."
+    s bbaaaca "Но даже так..."
+
+# game/dialogs/script-topics.rpy:2731
+translate ru s_answer_think_about_mc_5b5e6917:
+
+    # s "I guess some rainclouds just linger around for longer than others."
+    s "Некоторые тучки будут летать надо мной дольше других, наверное."
+
+# game/dialogs/script-topics.rpy:2732
+translate ru s_answer_think_about_mc_4d92e5f4:
+
+    # s bbaabpa "..."
+    s bbaabpa "..."
+
+# game/dialogs/script-topics.rpy:2734
+translate ru s_answer_think_about_mc_81042aff:
+
+    # s bbgcega "Ah, I'm sorry for rambling! Let's talk about something else, okay?"
+    s bbgcega "Ой, прости что заболталась! Давай о чём-то другом, ладно?"
