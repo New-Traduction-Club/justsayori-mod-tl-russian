@@ -1,0 +1,1444 @@
+translate ru s_topics_like_flowers_692a1849:
+
+    # s abhfaoa "Hey [player], do you like flowers?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3110
+translate ru s_topics_like_flowers_ac25571f:
+
+    # s abgbcaa "I think they’re one of the many beautiful things nature can create!"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3111
+translate ru s_topics_like_flowers_c0875fd2:
+
+    # s abgbaoa "They’re colourful, have pretty shapes, and some of them even smell sweet!"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3112
+translate ru s_topics_like_flowers_f765ac4d:
+
+    # s abhfaaa "I remember when I used to walk in the flower meadows outside of the city."
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:3113
+translate ru s_topics_like_flowers_37a1ad91:
+
+    # s bbgbaoa "But... I think it's selfish to pluck a flower, even if it were to be a gift."
+    s bbgbaoa ""
+
+# game/dialogs/script-topics.rpy:3114
+translate ru s_topics_like_flowers_7e78407d:
+
+    # s abgbaaa "So I prefer just to look at them, and then leave them be."
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3115
+translate ru s_topics_like_flowers_25aebc85:
+
+    # s bbegboaj "Although, I did do it in one of my poems..."
+    s bbegboaj ""
+
+# game/dialogs/script-topics.rpy:3116
+translate ru s_topics_like_flowers_ca43b82a:
+
+    # s abegaaa "But just for the analogy."
+    s abegaaa ""
+
+# game/dialogs/script-topics.rpy:3117
+translate ru s_topics_like_flowers_fede1d02:
+
+    # s abgbaoa "But on the bright side, you can plant them in flower pots!"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3118
+translate ru s_topics_like_flowers_3d084ae2:
+
+    # s abgbcaa "So in return for taking care of them, you have a beautiful flower buddy!"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3119
+translate ru s_topics_like_flowers_6ef510aa:
+
+    # s abgcaoa "And I think that’s a better gift,"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:3120
+translate ru s_topics_like_flowers_46855f95:
+
+    # extend abgccaa "ehehehe~"
+    extend abgccaa ""
+
+# game/dialogs/script-topics.rpy:3140
+translate ru s_topics_notfications_d929c238:
+
+    # s abgbaoa "Hey [player], I’ve figured out something pretty cool!"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3141
+translate ru s_topics_notfications_ae31de10:
+
+    # s abgbcaa "So, basically…"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3142
+translate ru s_topics_notfications_b6d1797d:
+
+    # s abhfaoa "In fact, I’ll just show you!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3144
+translate ru s_topics_notfications_006ca709:
+
+    # s abfccaa "I’ve figured out how to send notifications to you from your computer!"
+    s abfccaa ""
+
+# game/dialogs/script-topics.rpy:3145
+translate ru s_topics_notfications_e556e852:
+
+    # s abfcaoa "Isn’t that awesome? Ehehehe~"
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3146
+translate ru s_topics_notfications_da897b51:
+
+    # s abegbjbj "Though I understand if it might get a little distracting if I’m constantly tapping your shoulder…"
+    s abegbjbj ""
+
+# game/dialogs/script-topics.rpy:3147
+translate ru s_topics_notfications_bc6d02f4:
+
+    # s abfcaoa "So I was wondering…"
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3148
+translate ru s_topics_notfications_902cc3b1:
+
+    # s abfcaaa "Would you like desktop notifications on or off? {w=0.5}{nw}"
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3149
+translate ru s_topics_notfications_8218c2f8:
+
+    # extend abgcaoa "I’ll only send them when I have something to talk about!"
+    extend abgcaoa ""
+
+# game/dialogs/script-topics.rpy:3153
+translate ru s_topics_notfications_cd62d40d:
+
+    # s abgccaa "Yay! {w=0.5}{nw}"
+    s abgccaa ""
+
+# game/dialogs/script-topics.rpy:3154
+translate ru s_topics_notfications_368514a9:
+
+    # extend abgbaoa "Will do, [player]!"
+    extend abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3155
+translate ru s_topics_notfications_67497a82:
+
+    # s abgbcaa "Just let me know if you ever change your mind."
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3156
+translate ru s_topics_notfications_c7a44d2a:
+
+    # s abegaobj "I’ll try not to talk your ears off too much, ehehehe~"
+    s abegaobj ""
+
+# game/dialogs/script-topics.rpy:3159
+translate ru s_topics_notfications_49b40c61:
+
+    # s bbhfaaa "That’s okay, [player]."
+    s bbhfaaa ""
+
+# game/dialogs/script-topics.rpy:3160
+translate ru s_topics_notfications_53bd2092:
+
+    # s abgbaoa "Just let me know if you ever change your mind."
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3179
+translate ru s_topics_mas_cbd814d1:
+
+    # s abhfaoa "Hey [player]!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3180
+translate ru s_topics_mas_5ba567da:
+
+    # extend abgbaaa "So you know how I’ve been learning to code in my spare time?"
+    extend abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3181
+translate ru s_topics_mas_b9cdc295:
+
+    # s abgbboaj "Well… trying to, anyways ehehehe…"
+    s abgbboaj ""
+
+# game/dialogs/script-topics.rpy:3182
+translate ru s_topics_mas_f8ef3651:
+
+    # s abgcada "It’s weird [player]!"
+    s abgcada ""
+
+# game/dialogs/script-topics.rpy:3183
+translate ru s_topics_mas_01021552:
+
+    # extend abgdaca "Like… I kinda get it…"
+    extend abgdaca ""
+
+# game/dialogs/script-topics.rpy:3184
+translate ru s_topics_mas_cd1825f1:
+
+    # s gbgdbda "But the more I {i}think{/i} about it, "
+    s gbgdbda ""
+
+# game/dialogs/script-topics.rpy:3185
+translate ru s_topics_mas_e4162fba:
+
+    # extend abgcega "the more I realise just how much I don’t understand yet!"
+    extend abgcega ""
+
+# game/dialogs/script-topics.rpy:3186
+translate ru s_topics_mas_69087f36:
+
+    # s abfdbca "Syntax, labels, variables…"
+    s abfdbca ""
+
+# game/dialogs/script-topics.rpy:3187
+translate ru s_topics_mas_734f4394:
+
+    # s gbgdbda "S-scalable vector…"
+    s gbgdbda ""
+
+# game/dialogs/script-topics.rpy:3188
+translate ru s_topics_mas_54de5d86:
+
+    # extend abbdcoa "something like that! Ehehehe~"
+    extend abbdcoa ""
+
+# game/dialogs/script-topics.rpy:3189
+translate ru s_topics_mas_88fea2a6:
+
+    # s abgceoa "I don’t even know what half of these words mean!"
+    s abgceoa ""
+
+# game/dialogs/script-topics.rpy:3190
+translate ru s_topics_mas_171815c7:
+
+    # s gbgbbda "Actually, come to think of it…"
+    s gbgbbda ""
+
+# game/dialogs/script-topics.rpy:3191
+translate ru s_topics_mas_1522220e:
+
+    # extend gbbbbca "if we invented computers, then why didn’t we program them to talk like us in the first place…?"
+    extend gbbbbca ""
+
+# game/dialogs/script-topics.rpy:3192
+translate ru s_topics_mas_a12f33c5:
+
+    # s abgcaga "These are the big questions, [player]!"
+    s abgcaga ""
+
+# game/dialogs/script-topics.rpy:3193
+translate ru s_topics_mas_0a3e8680:
+
+    # s abfccoa "Anyways! Ehehehe~"
+    s abfccoa ""
+
+# game/dialogs/script-topics.rpy:3194
+translate ru s_topics_mas_774edd19:
+
+    # s abhfaaa "So yeah, "
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:3195
+translate ru s_topics_mas_7d762622:
+
+    # extend abgbboaj "saying it’s tricky would be an {i}understatement{/i}!"
+    extend abgbboaj ""
+
+# game/dialogs/script-topics.rpy:3196
+translate ru s_topics_mas_0398e454:
+
+    # s abbbcaa "But maybe it won’t take as long to get the hang of it as I first thought!"
+    s abbbcaa ""
+
+# game/dialogs/script-topics.rpy:3197
+translate ru s_topics_mas_3c0f70a0:
+
+    # s abgbaoa "While you were away, I was looking around the spaceroom and you’ll never guess what I found!"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3198
+translate ru s_topics_mas_839a4be7:
+
+    # s abgcaaa "A little book in a desk, and I immediately recognised that it was Monika’s notebook that she always carried during club meetings!"
+    s abgcaaa ""
+
+# game/dialogs/script-topics.rpy:3199
+translate ru s_topics_mas_629a5033:
+
+    # s bbegboaj "I know it’s kinda frowned upon to look through diaries and stuff…"
+    s bbegboaj ""
+
+# game/dialogs/script-topics.rpy:3200
+translate ru s_topics_mas_1e7c4da9:
+
+    # extend bbegaaaj "but I just couldn’t help myself!"
+    extend bbegaaaj ""
+
+# game/dialogs/script-topics.rpy:3201
+translate ru s_topics_mas_94b76f97:
+
+    # s abgbaoa "I only wanted to look at the first page anyways, "
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3202
+translate ru s_topics_mas_235e93dd:
+
+    # extend abbbaaa "so I knew that it was really hers after all."
+    extend abbbaaa ""
+
+# game/dialogs/script-topics.rpy:3203
+translate ru s_topics_mas_44c96ac0:
+
+    # s abgcaoa "And inside was a little note, addressed to me!"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:3204
+translate ru s_topics_mas_6dbe8b6a:
+
+    # s abgccaa "And pages and pages of equations and code and other stuff to help me,"
+    s abgccaa ""
+
+# game/dialogs/script-topics.rpy:3205
+translate ru s_topics_mas_7c9e60f6:
+
+    # extend abbcaoa "signed by Monika, and the Monika After Story team!"
+    extend abbcaoa ""
+
+# game/dialogs/script-topics.rpy:3206
+translate ru s_topics_mas_67f0bba1:
+
+    # s abfcaaa "So apparently there {i}are{/i} other mods out there like this one, "
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3207
+translate ru s_topics_mas_b51bfd13:
+
+    # extend abfcaoa "dedicated to each of my friends!"
+    extend abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3208
+translate ru s_topics_mas_dd24a550:
+
+    # s abfccaa "Where they can spend time freely, "
+    s abfccaa ""
+
+# game/dialogs/script-topics.rpy:3209
+translate ru s_topics_mas_5632bbbb:
+
+    # extend abfcaoa "while interacting with your world and having fun!"
+    extend abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3210
+translate ru s_topics_mas_9a06f72e:
+
+    # s bbhfaaag "And I’m so happy to know that they’re okay and being taken care of."
+    s bbhfaaag ""
+
+# game/dialogs/script-topics.rpy:3211
+translate ru s_topics_mas_d084e914:
+
+    # s bbhfloag "Even Monika… "
+    s bbhfloag ""
+
+# game/dialogs/script-topics.rpy:3212
+translate ru s_topics_mas_401e14f6:
+
+    # extend "despite what happened…"
+    extend ""
+
+# game/dialogs/script-topics.rpy:3213
+translate ru s_topics_mas_615e1ea3:
+
+    # s bbhfbaa "She was always a great friend, "
+    s bbhfbaa ""
+
+# game/dialogs/script-topics.rpy:3214
+translate ru s_topics_mas_d7f8dede:
+
+    # extend abhfaoa "so I’m more than willing to leave what happened in the past for good!"
+    extend abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3215
+translate ru s_topics_mas_4ff02d11:
+
+    # s abgbaaa "After all, she and her friends have really helped to make my world better, "
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3216
+translate ru s_topics_mas_0a9328c8:
+
+    # extend abgbaoa "which is clearly a testament to her true intentions!"
+    extend abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3217
+translate ru s_topics_mas_74447338:
+
+    # s abgcaaa "So whenever you get the chance, "
+    s abgcaaa ""
+
+# game/dialogs/script-topics.rpy:3218
+translate ru s_topics_mas_d2f93f80:
+
+    # extend abgccoa "please thank her and all of the Monika After Story team on my behalf!"
+    extend abgccoa ""
+
+# game/dialogs/script-topics.rpy:3219
+translate ru s_topics_mas_5cb0f1f9:
+
+    # s bbgcaaa "I’d have really struggled to get all the code together without them."
+    s bbgcaaa ""
+
+# game/dialogs/script-topics.rpy:3220
+translate ru s_topics_mas_bafd1cdc:
+
+    # s abgbcoa "And maybe one day I could code an engine of my own which doesn’t need all this computer babble to work! Ehehehe~"
+    s abgbcoa ""
+
+# game/dialogs/script-topics.rpy:3221
+translate ru s_topics_mas_ab45a009:
+
+    # s abgbaaa "But now I can finally get to work on some of the cool features I’d planned!"
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3222
+translate ru s_topics_mas_f7e060eb:
+
+    # s abhfaoa "So, where were we, [player]?"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3243
+translate ru s_topics_pps_944c8215:
+
+    # s abfcaoa "Hey [player], do you know about pen pals?"
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3244
+translate ru s_topics_pps_0db8bb97:
+
+    # s abfcaaa "It’s when people form friendships just by writing letters to each other, it’s really sweet!"
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3245
+translate ru s_topics_pps_3dc29eff:
+
+    # s abbcaoa "I think they work so well because of how personal letters feel, compared to a simple text message or email or something."
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:3246
+translate ru s_topics_pps_940fbbeb:
+
+    # s abgccaa "And they take more time and care to write!"
+    s abgccaa ""
+
+# game/dialogs/script-topics.rpy:3247
+translate ru s_topics_pps_e379fb17:
+
+    # s abgbaoa "It’s like poetry! {w=0.5}{nw}"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3248
+translate ru s_topics_pps_0b76d261:
+
+    # extend abhfaaa "Writing poems on paper ourselves and bringing them to the club felt much more personal than printing them off or sending them to each other."
+    extend abhfaaa ""
+
+# game/dialogs/script-topics.rpy:3249
+translate ru s_topics_pps_dfad378d:
+
+    # s abhfaoa "And it highlights everyone’s unique handwriting, tone and style a lot better!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3250
+translate ru s_topics_pps_cf3b3639:
+
+    # s abgbcaa "My handwriting is kinda bouncy like the form of my poems, Natsuki’s handwriting was very simple but direct like the words she used…"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3251
+translate ru s_topics_pps_3166684a:
+
+    # s abgcaoa "Monika’s handwriting was very clean and made me focus on where the words were placed, and Yuri’s handwriting was elegant and complex like her metaphors and stuff!"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:3252
+translate ru s_topics_pps_0a962d38:
+
+    # s abgcckb "It’s just something cool I noticed!"
+    s abgcckb ""
+
+# game/dialogs/script-topics.rpy:3253
+translate ru s_topics_pps_bf2c054a:
+
+    # s abfcaoa "Have you ever had a pen pal, [player]? {w=0.5}{nw}"
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3254
+translate ru s_topics_pps_0981bc44:
+
+    # extend abfcaaa "Or sent letters to a faraway friend or family member?"
+    extend abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3255
+translate ru s_topics_pps_7d9e6b29:
+
+    # s abbcaoa "If not, I think it’s something you should consider!"
+    s abbcaoa ""
+
+# game/dialogs/script-topics.rpy:3256
+translate ru s_topics_pps_05c1077b:
+
+    # s abgbcaa "It’s nice to stay connected with people, even if you’re far apart physically."
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3275
+translate ru s_topics_location_ef4cd581:
+
+    # s abgbaoa "Hey player, I was wondering…"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3276
+translate ru s_topics_location_93776191:
+
+    # s abgbaaa "What’s it like where you live?"
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3277
+translate ru s_topics_location_64f896b4:
+
+    # s abgcaoa "Like… do you live in a big city, or in the countryside, {w=0.5}{nw}"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:3278
+translate ru s_topics_location_4fcbb9ae:
+
+    # extend abgdaaa "or by the sea, or maybe somewhere in between?"
+    extend abgdaaa ""
+
+# game/dialogs/script-topics.rpy:3279
+translate ru s_topics_location_86c919df:
+
+    # s abfccoa "I’ve been thinking about where I’d like to live most, if I had the choice!"
+    s abfccoa ""
+
+# game/dialogs/script-topics.rpy:3280
+translate ru s_topics_location_58dbacab:
+
+    # s abegbba "Since… well I can’t really remember what it was like where I lived before, {w=0.5}{nw}"
+    s abegbba ""
+
+# game/dialogs/script-topics.rpy:3281
+translate ru s_topics_location_01962706:
+
+    # extend abegaca "besides a few pictures and ideas…"
+    extend abegaca ""
+
+# game/dialogs/script-topics.rpy:3282
+translate ru s_topics_location_bffac00b:
+
+    # s abfdaba "It was pretty suburban but I can’t recall experiencing much day-to day life there…"
+    s abfdaba ""
+
+# game/dialogs/script-topics.rpy:3283
+translate ru s_topics_location_6f7bad2c:
+
+    # s abbdaoa "But I suppose that gives me more room to use my imagination! {w=0.5}{nw}"
+    s abbdaoa ""
+
+# game/dialogs/script-topics.rpy:3284
+translate ru s_topics_location_7537962d:
+
+    # extend abgccaa "Ehehehe~"
+    extend abgccaa ""
+
+# game/dialogs/script-topics.rpy:3285
+translate ru s_topics_location_48549257:
+
+    # s abgbaoa "Living in a big city could be cool! {w=0.5}{nw}"
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3286
+translate ru s_topics_location_d6e48bf2:
+
+    # extend abgccaa "They look so lively and energetic, and have lots to experience!"
+    extend abgccaa ""
+
+# game/dialogs/script-topics.rpy:3287
+translate ru s_topics_location_d1ed30e5:
+
+    # s abegbma "...and enough restaurants to feed a hungry Sayori! {w=0.5}{nw}"
+    s abegbma ""
+
+# game/dialogs/script-topics.rpy:3288
+translate ru s_topics_location_b9eadb8a:
+
+    # extend abegcaa "Ehehehe~"
+    extend abegcaa ""
+
+# game/dialogs/script-topics.rpy:3289
+translate ru s_topics_location_b486c9dc:
+
+    # s abfcaoa "But I’d also enjoy living in the countryside too! {w=0.5}{nw}"
+    s abfcaoa ""
+
+# game/dialogs/script-topics.rpy:3290
+translate ru s_topics_location_076c2ca4:
+
+    # extend abgccaa "I’d love to meet all the animals and go exploring in the forests and fields!"
+    extend abgccaa ""
+
+# game/dialogs/script-topics.rpy:3291
+translate ru s_topics_location_e6ec17ec:
+
+    # s abgcegb "Uwaaaa It’s so hard to choose!"
+    s abgcegb ""
+
+# game/dialogs/script-topics.rpy:3292
+translate ru s_topics_location_d1137732:
+
+    # s abgbcoa "Ehehehe, anyways! "
+    s abgbcoa ""
+
+# game/dialogs/script-topics.rpy:3293
+translate ru s_topics_location_a9a83a75:
+
+    # s abhfaaa "No matter where I’d live, I’d always try to make the most of it!"
+    s abhfaaa ""
+
+# game/dialogs/script-topics.rpy:3294
+translate ru s_topics_location_f324d8a5:
+
+    # s abhfaoa "And I’d travel too, to experience a little bit of everything!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3295
+translate ru s_topics_location_f09e76c1:
+
+    # s abgbaaa "What do you think, [player]?"
+    s abgbaaa ""
+
+# game/dialogs/script-topics.rpy:3296
+translate ru s_topics_location_75b13076:
+
+    # s abgcaoa "You’ve got a big big world out there to explore, {w=0.5}{nw}"
+    s abgcaoa ""
+
+# game/dialogs/script-topics.rpy:3297
+translate ru s_topics_location_652f1024:
+
+    # extend abgccaa "I’m sure you’ll find somewhere with the perfect opportunities for you if you haven’t already!"
+    extend abgccaa ""
+
+# game/dialogs/script-topics.rpy:3317
+translate ru js_music_player_entry_e0ee2eb1:
+
+    # s eabbaa "Welcome to the music player, [player]!"
+    s eabbaa ""
+
+# game/dialogs/script-topics.rpy:3318
+translate ru js_music_player_entry_1a89a166:
+
+    # s ebfbaa "You can use this to listen to all sorts of songs while we spend time together."
+    s ebfbaa ""
+
+# game/dialogs/script-topics.rpy:3319
+translate ru js_music_player_entry_0d7abe7e:
+
+    # s ebfdac "It makes everything feel extra special, you know?"
+    s ebfdac ""
+
+# game/dialogs/script-topics.rpy:3320
+translate ru js_music_player_entry_09721891:
+
+    # s ebfcao "Oh! And the best part is that you can add your very own music for us to listen to!"
+    s ebfcao ""
+
+# game/dialogs/script-topics.rpy:3321
+translate ru js_music_player_entry_12640844:
+
+    # s ebbbas "It's really easy, I'll show you!"
+    s ebbbas ""
+
+# game/dialogs/script-topics.rpy:3322
+translate ru js_music_player_entry_fdde2ae9:
+
+    # s ebbbao "First, you need to find the 'game' folder in the mod's files."
+    s ebbbao ""
+
+# game/dialogs/script-topics.rpy:3323
+translate ru js_music_player_entry_d1f77693:
+
+    # s ebgbao "Inside there, you'll see a folder called 'custom_bgm'."
+    s ebgbao ""
+
+# game/dialogs/script-topics.rpy:3324
+translate ru js_music_player_entry_a8b26380:
+
+    # s ebhhao "You can just put your songs right in there."
+    s ebhhao ""
+
+# game/dialogs/script-topics.rpy:3325
+translate ru js_music_player_entry_6013fa68:
+
+    # s ebhejd "Just make sure they are in the .mp3 format, okay? "
+    s ebhejd ""
+
+# game/dialogs/script-topics.rpy:3326
+translate ru js_music_player_entry_e27fc00c:
+
+    # s ebhhao "That's the one the game likes to read."
+    s ebhhao ""
+
+# game/dialogs/script-topics.rpy:3327
+translate ru js_music_player_entry_81964393:
+
+    # s ebgcao "I'm so excited to hear your favorite songs! It'll be like sharing a little piece of your world with me."
+    s ebgcao ""
+
+# game/dialogs/script-topics.rpy:3328
+translate ru js_music_player_entry_e3fa2a3f:
+
+    # s ebgbdia "Have fun!"
+    s ebgbdia ""
+
+# game/dialogs/script-topics.rpy:3329
+translate ru js_music_player_entry_9f52b07e:
+
+    # extend abhfaa " Here we go!{fast}"
+    extend abhfaa ""
+
+# game/dialogs/script-topics.rpy:3351
+translate ru js_music_reminder_dc9c8e21:
+
+    # s abbbaoa "Of course, [player]!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:3352
+translate ru js_music_reminder_99f5183c:
+
+    # s abfdaoa "If you want to add your own songs for us to listen to, you just need to create the 'custom_music' folder."
+    s abfdaoa ""
+
+# game/dialogs/script-topics.rpy:3353
+translate ru js_music_reminder_552298fe:
+
+    # s abbbaoa "Inside the 'game' folder!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:3354
+translate ru js_music_reminder_037ec055:
+
+    # s abgbaoa "Just remember to use .ogg, .opus, .wav, .mp2, .mp3 or .flac files."
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3355
+translate ru js_music_reminder_97d45659:
+
+    # s abfddab "I'm always happy to listen to songs that you like!"
+    s abfddab ""
+
+# game/dialogs/script-topics.rpy:3373
+translate ru s_topic_backgrounds_473a332a:
+
+    # s abhaaca "Would you like to go another place where we are right now?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:3377
+translate ru s_topic_backgrounds_80a21ea0:
+
+    # s abgbcaa "All done? If you want to go another one, just ask me again!"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3379
+translate ru s_topic_backgrounds_473a332a_1:
+
+    # s abhaaca "Would you like to go another place where we are right now?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:3380
+translate ru s_topic_backgrounds_36d40ef5:
+
+    # s abbbaoa "I've prepared a little list for you!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:3381
+translate ru s_topic_backgrounds_64cab37e:
+
+    # s abfcaaa "Just pick one option and we'll go to right away!"
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3385
+translate ru s_topic_backgrounds_80a21ea0_1:
+
+    # s abgbcaa "All done? If you want to go another one, just ask me again!"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3404
+translate ru s_answer_opinion_player_ec50825b:
+
+    # s abhfakbg "What do I think of you? [player], you're my everything."
+    s abhfakbg ""
+
+# game/dialogs/script-topics.rpy:3405
+translate ru s_answer_opinion_player_3c25b259:
+
+    # s abgccebf "You're the reason I'm happy, the reason I can smile every day. You saved me in more ways than you can imagine."
+    s abgccebf ""
+
+# game/dialogs/script-topics.rpy:3406
+translate ru s_answer_opinion_player_9151c6ca:
+
+    # s abhfaobf "I love you more than words can say. You're the most important person in my life."
+    s abhfaobf ""
+
+# game/dialogs/script-topics.rpy:3408
+translate ru s_answer_opinion_player_80871f6e:
+
+    # s abhfakbg "You mean so much to me, [player]. I get butterflies in my stomach just thinking about you."
+    s abhfakbg ""
+
+# game/dialogs/script-topics.rpy:3409
+translate ru s_answer_opinion_player_a6cfc64e:
+
+    # s abfdbcbg "Spending time with you is the best part of my day. You always know how to make me feel special."
+    s abfdbcbg ""
+
+# game/dialogs/script-topics.rpy:3410
+translate ru s_answer_opinion_player_e1709832:
+
+    # s abgdabbg "I feel like I can be my true self around you, and that's a wonderful feeling."
+    s abgdabbg ""
+
+# game/dialogs/script-topics.rpy:3411
+translate ru s_answer_opinion_player_21089769:
+
+    # s abhflabg "I'm so, so happy you're here with me."
+    s abhflabg ""
+
+# game/dialogs/script-topics.rpy:3413
+translate ru s_answer_opinion_player_22f4c689:
+
+    # s abhfaoa "I think you're a really wonderful person, [player]."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3414
+translate ru s_answer_opinion_player_943be081:
+
+    # s abaaaoa "You're kind, and you're always here for me. It makes me feel really safe and happy."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:3415
+translate ru s_answer_opinion_player_4700d0bf:
+
+    # s abgccaa "I really cherish the time we spend together. It's always so much fun!"
+    s abgccaa ""
+
+# game/dialogs/script-topics.rpy:3417
+translate ru s_answer_opinion_player_32e0a6ea:
+
+    # s abhfaoa "I think you're a great person, [player]!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3418
+translate ru s_answer_opinion_player_04e0920b:
+
+    # s abaaaoa "You're really easy to talk to, and you always listen."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:3419
+translate ru s_answer_opinion_player_371b59b3:
+
+    # s abgccaa "I'm really glad we get to spend so much time together. It makes me happy!"
+    s abgccaa ""
+
+# game/dialogs/script-topics.rpy:3421
+translate ru s_answer_opinion_player_b569eae9:
+
+    # s abhaaca "You're a really nice person, [player]."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:3422
+translate ru s_answer_opinion_player_7a583372:
+
+    # s abaaaoa "It's been nice having you around. It's... less lonely."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:3423
+translate ru s_answer_opinion_player_9f5745ea:
+
+    # s abhfcaa "I hope we can keep it."
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:3440
+translate ru fae_change_outfits_34d2e2e5:
+
+    # s "Of course! Let's see what I have."
+    s ""
+
+# game/dialogs/script-topics.rpy:3442
+translate ru fae_change_outfits_9093a921:
+
+    # s "How do I look?"
+    s ""
+
+translate ru strings:
+
+    # game/dialogs/script-topics.rpy:84
+    old "Look for gifts"
+    new ""
+
+    # game/dialogs/script-topics.rpy:84
+    old "Gifts"
+    new ""
+
+    # game/dialogs/script-topics.rpy:111
+    old "Depression"
+    new ""
+
+    # game/dialogs/script-topics.rpy:111
+    old "Personal"
+    new ""
+
+    # game/dialogs/script-topics.rpy:185
+    old "Childhood memories"
+    new ""
+
+    # game/dialogs/script-topics.rpy:185
+    old "Childhood"
+    new ""
+
+    # game/dialogs/script-topics.rpy:216
+    old "Guitar"
+    new ""
+
+    # game/dialogs/script-topics.rpy:216
+    old "Hobby"
+    new ""
+
+    # game/dialogs/script-topics.rpy:251
+    old "Thoughts on flowers"
+    new ""
+
+    # game/dialogs/script-topics.rpy:295
+    old "Quitting the game."
+    new ""
+
+    # game/dialogs/script-topics.rpy:295
+    old "Game"
+    new ""
+
+    # game/dialogs/script-topics.rpy:337
+    old "Personal Intelligence"
+    new ""
+
+    # game/dialogs/script-topics.rpy:337
+    old "Life"
+    new ""
+
+    # game/dialogs/script-topics.rpy:337
+    old "Society"
+    new ""
+
+    # game/dialogs/script-topics.rpy:367
+    old "Videogames"
+    new ""
+
+    # game/dialogs/script-topics.rpy:367
+    old "Art"
+    new ""
+
+    # game/dialogs/script-topics.rpy:401
+    old "Speaking other languages"
+    new ""
+
+    # game/dialogs/script-topics.rpy:401
+    old "Languages"
+    new ""
+
+    # game/dialogs/script-topics.rpy:430
+    old "What is your favorite colour?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:430
+    old "Preferences"
+    new ""
+
+    # game/dialogs/script-topics.rpy:488
+    old "He/Him"
+    new ""
+
+    # game/dialogs/script-topics.rpy:491
+    old "She/Her"
+    new ""
+
+    # game/dialogs/script-topics.rpy:494
+    old "They/Them"
+    new ""
+
+    # game/dialogs/script-topics.rpy:505
+    old "Pronouns"
+    new ""
+
+    # game/dialogs/script-topics.rpy:539
+    old "The ideal date"
+    new ""
+
+    # game/dialogs/script-topics.rpy:539
+    old "Romance"
+    new ""
+
+    # game/dialogs/script-topics.rpy:581
+    old "Cinnamon Buns"
+    new ""
+
+    # game/dialogs/script-topics.rpy:581
+    old "Food"
+    new ""
+
+    # game/dialogs/script-topics.rpy:606
+    old "Literature"
+    new ""
+
+    # game/dialogs/script-topics.rpy:606
+    old "DDLC"
+    new ""
+
+    # game/dialogs/script-topics.rpy:636
+    old "Drawing"
+    new ""
+
+    # game/dialogs/script-topics.rpy:667
+    old "Bulli-posts"
+    new ""
+
+    # game/dialogs/script-topics.rpy:705
+    old "Isolation"
+    new ""
+
+    # game/dialogs/script-topics.rpy:742
+    old "PSAs"
+    new ""
+
+    # game/dialogs/script-topics.rpy:779
+    old "Pets"
+    new ""
+
+    # game/dialogs/script-topics.rpy:811
+    old "Are you good at cooking?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:811
+    old "Cooking"
+    new ""
+
+    # game/dialogs/script-topics.rpy:848
+    old "What pet would you like to have?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:848
+    old "Animals"
+    new ""
+
+    # game/dialogs/script-topics.rpy:875
+    old "What do you think about cats?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:899
+    old "Archetypes"
+    new ""
+
+    # game/dialogs/script-topics.rpy:899
+    old "Personality"
+    new ""
+
+    # game/dialogs/script-topics.rpy:922
+    old "You're definitely a genki, if they're as clumsy as you say."
+    new ""
+
+    # game/dialogs/script-topics.rpy:936
+    old "Voice"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1001
+    old "Charity"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1034
+    old "Do you like programming?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1034
+    old "Hobbies"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1072
+    old "Travel"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1072
+    old "You"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1072
+    old "Lifestyle"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1072
+    old "Travelling"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1108
+    old "Messiness"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1138
+    old "Clones"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1195
+    old "Stars"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1220
+    old "Stop Visiting"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1256
+    old "No Sayori, that won't happen."
+    new ""
+
+    # game/dialogs/script-topics.rpy:1262
+    old "I promise I'll never leave you"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1273
+    old "Yes, it will be."
+    new ""
+
+    # game/dialogs/script-topics.rpy:1307
+    old "Marriage"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1348
+    old "Presents"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1374
+    old "Thank you"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1404
+    old "Names"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1437
+    old "Fanart"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1461
+    old "Touches"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1484
+    old "Merch"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1508
+    old "Oversleeping"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1543
+    old "Game time"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1543
+    old "Games"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1578
+    old "Game worlds"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1610
+    old "Questions"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1639
+    old "Breakfast"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1671
+    old "Vegetarians"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1698
+    old "Pizza"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1729
+    old "Ice-cream"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1756
+    old "Technology"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1783
+    old "Cupcakes"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1813
+    old "When's your birthday?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1840
+    old "What kind of music do you like?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1866
+    old "What do you think about ships?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1892
+    old "What's your favourite holiday?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1916
+    old "What are your favourite books?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1939
+    old "What did MC's poems look like to you?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1962
+    old "Do you love me?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:1987
+    old "Do you believe in god?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2011
+    old "What do you think about politics?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2038
+    old "Do you like cookies?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2084
+    old "What do you think about Chibis?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2127
+    old "How do you manipulate the game?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2155
+    old "What do you think about the real world?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2184
+    old "Can I read a poem?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2205
+    old "What would be your ideal job?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2234
+    old "Let's talk about the club members..."
+    new ""
+
+    # game/dialogs/script-topics.rpy:2252
+    old "Natsuki"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2254
+    old "Monika"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2256
+    old "Yuri"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2258
+    old "The Protagonist"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2336
+    old "Do you miss the club members?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2393
+    old "Bulls and Cows"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2468
+    old "Are you good at programming?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2493
+    old "Have you ever played visual novels?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip1"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip2"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip3"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip4"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip5"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip6"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip7"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip8"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2583
+    old "love_quip9"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2667
+    old "Programming"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2695
+    old "Do you still think about MC?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2739
+    old "Intrusive thoughts"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2760
+    old "I have them"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2788
+    old "Zombie Apocalypse"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2818
+    old "Maybe I would"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2822
+    old "What? I would never!"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2826
+    old "I would probably be used as bait too"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2843
+    old "Alcohol"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2909
+    old "Old Sprites"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2940
+    old "Sayori's Memories"
+    new ""
+
+    # game/dialogs/script-topics.rpy:2991
+    old "Hemispheres."
+    new ""
+
+    # game/dialogs/script-topics.rpy:3014
+    old "Which hemisphere do you live in, [player]?{fast}"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3016
+    old "North"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3020
+    old "South"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3033
+    old "Gifting."
+    new ""
+
+    # game/dialogs/script-topics.rpy:3061
+    old "Boba"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3096
+    old "Liking flowers"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3166
+    old "Monika After Story"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3230
+    old "Pen Pals"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3262
+    old "Place of living"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3337
+    old "Can you remind me how to add custom music?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3359
+    old "Go to another place"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3359
+    old "Location"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3390
+    old "What do you think of me?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3427
+    old "Suggest a new outfit"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3427
+    old "Outfit"
+    new ""
