@@ -505,7 +505,7 @@ translate ru s_topics_pps_7d9e6b29:
 translate ru s_topics_pps_05c1077b:
 
     # s abgbcaa "It’s nice to stay connected with people, even if you’re far apart physically."
-    s abgbcaa "Хорошо оставаться рядом с людьми, даже когда вас отделяют многие километры."
+    s abgbcaa "Хорошо оставаться рядом с людьми, даже когда вас разделяют многие километры."
 
 # game/dialogs/script-topics.rpy:3275
 translate ru s_topics_location_ef4cd581:

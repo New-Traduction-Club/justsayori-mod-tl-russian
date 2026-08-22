@@ -202,36 +202,36 @@ Like I can be more than just a half-dead leaf."""
 
     ru_poem_prose = Poem(
         author_s,
-        title = _("Prose Poem"),
+        title = _("Стих Прозой"),
         text = _("""\
-I am black light. I am cold fire. \
-I'm a peaceful fighter. I'm a naive wise man. \
-Why do people think that opposites can't be together in the same thing? \
-Can't they all see that everything and everyone is only gray? \
-Even this text is both prose and poem. \
-Even I used to be a mix of joy and crippling sadness. \
-And there's nothing completely black \
-Just like there's nothing completely white."""
+Я тёмный свет. Я холодное пламя. \
+Я мирный боец. Я наивный мудрец. \
+Почему люди думают, что противоположности несовместимы? \
+Неужели не могут понять, что все мы морально серы? \
+Даже строки эти - и стих и проза одновременно. \
+Даже я была смесью счастья и давящей грусти. \
+И нет ничего безнадёжно чёрного. \
+Как и нет ничего совершенно белого."""
         )
     )
 
 
     ru_poem_afterlight = Poem(
         author_s,
-        title = _("Afterlight"),
+        title = _("Бледный Свет"),
         text = _("""\
-I seem to see things that I have never seen before.
-I seem to just now feel all that I’ve never felt around.
-So I can see anything that has happened here before.
-I started doing what I used to not know how to do.
-I saw here, an afterlight,
-That started to shine down on the gloom around me.
-It said that my life had been just a puppet-show.
-So I had been just a puppet, controlled by somebody else.
-But now that I can move myself on my own,
-I see those strings were too heavy for me to hold.
-I am now going to prevent this play,
-Where nobody can avoid the pain."""
+Похоже я стала видеть то, чего раньше не замечала.
+Похоже теперь я чувствую то, чего до этого не ощущала.
+И теперь я, похоже, знаю всё-всё, что когда-либо было.
+Похоже я мастером стала я в том, чего раньше как делать не представляла.
+Ведь я встретила Бледный Свет,
+Он вокруг всё пространство залил, что я знала.
+Рассказал мне о том, что весь мир - бутафорская драма.
+Что меня контроллировал кто-то другой, за ниточки дёргав, тоже.
+Но теперь от тяжёлых цепей я свободна,
+И свободны мой разум, мой шаг, моё слово.
+Пришло время сорвать сей ужасный спектакль,
+Где никто не мог скрыться от боли."""
         )
     )
 
