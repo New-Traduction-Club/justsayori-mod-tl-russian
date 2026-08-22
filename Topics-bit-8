@@ -1,511 +1,511 @@
 translate ru s_topics_like_flowers_692a1849:
 
     # s abhfaoa "Hey [player], do you like flowers?"
-    s abhfaoa ""
+    s abhfaoa "Эй, [player], ты любишь цветы?"
 
 # game/dialogs/script-topics.rpy:3110
 translate ru s_topics_like_flowers_ac25571f:
 
     # s abgbcaa "I think they’re one of the many beautiful things nature can create!"
-    s abgbcaa ""
+    s abgbcaa "Для меня они - одна из многих прекрасных вещей, созданных природой!"
 
 # game/dialogs/script-topics.rpy:3111
 translate ru s_topics_like_flowers_c0875fd2:
 
     # s abgbaoa "They’re colourful, have pretty shapes, and some of them even smell sweet!"
-    s abgbaoa ""
+    s abgbaoa "Они бывают самых разных форм и цветов, а некоторые ещё и вкусно пахнут!"
 
 # game/dialogs/script-topics.rpy:3112
 translate ru s_topics_like_flowers_f765ac4d:
 
     # s abhfaaa "I remember when I used to walk in the flower meadows outside of the city."
-    s abhfaaa ""
+    s abhfaaa "Помню как гуляла по цветочным лугам за городом."
 
 # game/dialogs/script-topics.rpy:3113
 translate ru s_topics_like_flowers_37a1ad91:
 
     # s bbgbaoa "But... I think it's selfish to pluck a flower, even if it were to be a gift."
-    s bbgbaoa ""
+    s bbgbaoa "Но... Сорвать цветок всегда казалось мне эгоизмом, даже если для кого-то в подарок."
 
 # game/dialogs/script-topics.rpy:3114
 translate ru s_topics_like_flowers_7e78407d:
 
     # s abgbaaa "So I prefer just to look at them, and then leave them be."
-    s abgbaaa ""
+    s abgbaaa "Поэтому я предпочитаю просто на него поглядеть и оставить расти."
 
 # game/dialogs/script-topics.rpy:3115
 translate ru s_topics_like_flowers_25aebc85:
 
     # s bbegboaj "Although, I did do it in one of my poems..."
-    s bbegboaj ""
+    s bbegboaj "И хотя я писала о том, как вырываю цветок в одном из моих стихов..."
 
 # game/dialogs/script-topics.rpy:3116
 translate ru s_topics_like_flowers_ca43b82a:
 
     # s abegaaa "But just for the analogy."
-    s abegaaa ""
+    s abegaaa "Это была лишь аналогия."
 
 # game/dialogs/script-topics.rpy:3117
 translate ru s_topics_like_flowers_fede1d02:
 
     # s abgbaoa "But on the bright side, you can plant them in flower pots!"
-    s abgbaoa ""
+    s abgbaoa "Но если подумать, можно ведь посадить цветочек в горшок!"
 
 # game/dialogs/script-topics.rpy:3118
 translate ru s_topics_like_flowers_3d084ae2:
 
     # s abgbcaa "So in return for taking care of them, you have a beautiful flower buddy!"
-    s abgbcaa ""
+    s abgbcaa "И тогда, в обмен на заботу, ты получишь красивого, пёстрого приятеля!"
 
 # game/dialogs/script-topics.rpy:3119
 translate ru s_topics_like_flowers_6ef510aa:
 
     # s abgcaoa "And I think that’s a better gift,"
-    s abgcaoa ""
+    s abgcaoa "И как подарок такой цветок тоже лучше,"
 
 # game/dialogs/script-topics.rpy:3120
 translate ru s_topics_like_flowers_46855f95:
 
     # extend abgccaa "ehehehe~"
-    extend abgccaa ""
+    extend abgccaa "эхехехе~"
 
 # game/dialogs/script-topics.rpy:3140
 translate ru s_topics_notfications_d929c238:
 
     # s abgbaoa "Hey [player], I’ve figured out something pretty cool!"
-    s abgbaoa ""
+    s abgbaoa "Эй, [player], я научилась одной прикольной штуке!"
 
 # game/dialogs/script-topics.rpy:3141
 translate ru s_topics_notfications_ae31de10:
 
     # s abgbcaa "So, basically…"
-    s abgbcaa ""
+    s abgbcaa "Если коротко..."
 
 # game/dialogs/script-topics.rpy:3142
 translate ru s_topics_notfications_b6d1797d:
 
     # s abhfaoa "In fact, I’ll just show you!"
-    s abhfaoa ""
+    s abhfaoa "Знаешь, лучше я просто покажу!"
 
 # game/dialogs/script-topics.rpy:3144
 translate ru s_topics_notfications_006ca709:
 
     # s abfccaa "I’ve figured out how to send notifications to you from your computer!"
-    s abfccaa ""
+    s abfccaa "Я разобралась как отправлять уведомления на твой компутер!"
 
 # game/dialogs/script-topics.rpy:3145
 translate ru s_topics_notfications_e556e852:
 
     # s abfcaoa "Isn’t that awesome? Ehehehe~"
-    s abfcaoa ""
+    s abfcaoa "Разве не классно? Эхехехе~"
 
 # game/dialogs/script-topics.rpy:3146
 translate ru s_topics_notfications_da897b51:
 
     # s abegbjbj "Though I understand if it might get a little distracting if I’m constantly tapping your shoulder…"
-    s abegbjbj ""
+    s abegbjbj "Хотя я понимаю, что могу отвлечь тебя от чего-то важного, если буду постоянно их посылать…"
 
 # game/dialogs/script-topics.rpy:3147
 translate ru s_topics_notfications_bc6d02f4:
 
     # s abfcaoa "So I was wondering…"
-    s abfcaoa ""
+    s abfcaoa "Поэтому мне нужно знать…"
 
 # game/dialogs/script-topics.rpy:3148
 translate ru s_topics_notfications_902cc3b1:
 
     # s abfcaaa "Would you like desktop notifications on or off? {w=0.5}{nw}"
-    s abfcaaa ""
+    s abfcaaa "Ты хочешь оставить уведомления включёнными? {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3149
 translate ru s_topics_notfications_8218c2f8:
 
     # extend abgcaoa "I’ll only send them when I have something to talk about!"
-    extend abgcaoa ""
+    extend abgcaoa "Я буду отправлять их только тогда, когда захочу о чём-то поговорить!"
 
 # game/dialogs/script-topics.rpy:3153
 translate ru s_topics_notfications_cd62d40d:
 
     # s abgccaa "Yay! {w=0.5}{nw}"
-    s abgccaa ""
+    s abgccaa "Ура! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3154
 translate ru s_topics_notfications_368514a9:
 
     # extend abgbaoa "Will do, [player]!"
-    extend abgbaoa ""
+    extend abgbaoa "Замечательно, [player]!"
 
 # game/dialogs/script-topics.rpy:3155
 translate ru s_topics_notfications_67497a82:
 
     # s abgbcaa "Just let me know if you ever change your mind."
-    s abgbcaa ""
+    s abgbcaa "Дай знать, если передумаешь."
 
 # game/dialogs/script-topics.rpy:3156
 translate ru s_topics_notfications_c7a44d2a:
 
     # s abegaobj "I’ll try not to talk your ears off too much, ehehehe~"
-    s abegaobj ""
+    s abegaobj "Попытаюсь не слишком сильно капать тебе на уши, эхехехе~"
 
 # game/dialogs/script-topics.rpy:3159
 translate ru s_topics_notfications_49b40c61:
 
     # s bbhfaaa "That’s okay, [player]."
-    s bbhfaaa ""
+    s bbhfaaa "Понимаю, [player]."
 
 # game/dialogs/script-topics.rpy:3160
 translate ru s_topics_notfications_53bd2092:
 
     # s abgbaoa "Just let me know if you ever change your mind."
-    s abgbaoa ""
+    s abgbaoa "Скажи, если вдруг передумаешь."
 
 # game/dialogs/script-topics.rpy:3179
 translate ru s_topics_mas_cbd814d1:
 
     # s abhfaoa "Hey [player]!"
-    s abhfaoa ""
+    s abhfaoa "Слушай, [player]!"
 
 # game/dialogs/script-topics.rpy:3180
 translate ru s_topics_mas_5ba567da:
 
     # extend abgbaaa "So you know how I’ve been learning to code in my spare time?"
-    extend abgbaaa ""
+    extend abgbaaa "Ты же помнишь, что в свободное время я учусь программированию?"
 
 # game/dialogs/script-topics.rpy:3181
 translate ru s_topics_mas_b9cdc295:
 
     # s abgbboaj "Well… trying to, anyways ehehehe…"
-    s abgbboaj ""
+    s abgbboaj "Ну… по крайней мере пытаюсь, эхехехе…"
 
 # game/dialogs/script-topics.rpy:3182
 translate ru s_topics_mas_f8ef3651:
 
     # s abgcada "It’s weird [player]!"
-    s abgcada ""
+    s abgcada "Оно странное, [player]!"
 
 # game/dialogs/script-topics.rpy:3183
 translate ru s_topics_mas_01021552:
 
     # extend abgdaca "Like… I kinda get it…"
-    extend abgdaca ""
+    extend abgdaca "Типа… я как бы его понимаю…"
 
 # game/dialogs/script-topics.rpy:3184
 translate ru s_topics_mas_cd1825f1:
 
     # s gbgdbda "But the more I {i}think{/i} about it, "
-    s gbgdbda ""
+    s gbgdbda "Но чем больше я о нём {i}думаю{/i}, "
 
 # game/dialogs/script-topics.rpy:3185
 translate ru s_topics_mas_e4162fba:
 
     # extend abgcega "the more I realise just how much I don’t understand yet!"
-    extend abgcega ""
+    extend abgcega "Тем больше осознаю, насколько мало пока в нём разбираюсь!"
 
 # game/dialogs/script-topics.rpy:3186
 translate ru s_topics_mas_69087f36:
 
     # s abfdbca "Syntax, labels, variables…"
-    s abfdbca ""
+    s abfdbca "Синтаксис, метки, переменные…"
 
 # game/dialogs/script-topics.rpy:3187
 translate ru s_topics_mas_734f4394:
 
     # s gbgdbda "S-scalable vector…"
-    s gbgdbda ""
+    s gbgdbda "С-скалярный вектор…"
 
 # game/dialogs/script-topics.rpy:3188
 translate ru s_topics_mas_54de5d86:
 
     # extend abbdcoa "something like that! Ehehehe~"
-    extend abbdcoa ""
+    extend abbdcoa "по-моему так! Эхехехе~"
 
 # game/dialogs/script-topics.rpy:3189
 translate ru s_topics_mas_88fea2a6:
 
     # s abgceoa "I don’t even know what half of these words mean!"
-    s abgceoa ""
+    s abgceoa "Я даже значения многих из этих слов не знаю!"
 
 # game/dialogs/script-topics.rpy:3190
 translate ru s_topics_mas_171815c7:
 
     # s gbgbbda "Actually, come to think of it…"
-    s gbgbbda ""
+    s gbgbbda "К слову, я тут думала…"
 
 # game/dialogs/script-topics.rpy:3191
 translate ru s_topics_mas_1522220e:
 
     # extend gbbbbca "if we invented computers, then why didn’t we program them to talk like us in the first place…?"
-    extend gbbbbca ""
+    extend gbbbbca "когда мы изобрели компьютеры, почему сразу не сделали так, чтобы они разговаривали на человеческом языке…?"
 
 # game/dialogs/script-topics.rpy:3192
 translate ru s_topics_mas_a12f33c5:
 
     # s abgcaga "These are the big questions, [player]!"
-    s abgcaga ""
+    s abgcaga "Загадка, [player]!"
 
 # game/dialogs/script-topics.rpy:3193
 translate ru s_topics_mas_0a3e8680:
 
     # s abfccoa "Anyways! Ehehehe~"
-    s abfccoa ""
+    s abfccoa "Ну да ладно! Эхехехе~"
 
 # game/dialogs/script-topics.rpy:3194
 translate ru s_topics_mas_774edd19:
 
     # s abhfaaa "So yeah, "
-    s abhfaaa ""
+    s abhfaaa "В общем да, "
 
 # game/dialogs/script-topics.rpy:3195
 translate ru s_topics_mas_7d762622:
 
     # extend abgbboaj "saying it’s tricky would be an {i}understatement{/i}!"
-    extend abgbboaj ""
+    extend abgbboaj "назвать кодинг замысловатым было бы {i}приуменьшением{/i}!"
 
 # game/dialogs/script-topics.rpy:3196
 translate ru s_topics_mas_0398e454:
 
     # s abbbcaa "But maybe it won’t take as long to get the hang of it as I first thought!"
-    s abbbcaa ""
+    s abbbcaa "Но возможно я разберусь в нём быстрее, чем мне казалось до этого!"
 
 # game/dialogs/script-topics.rpy:3197
 translate ru s_topics_mas_3c0f70a0:
 
     # s abgbaoa "While you were away, I was looking around the spaceroom and you’ll never guess what I found!"
-    s abgbaoa ""
+    s abgbaoa "Пока тебя не было, я немного поюродила по комнате, и ты ни за что не угадаешь, что я нашла!"
 
 # game/dialogs/script-topics.rpy:3198
 translate ru s_topics_mas_839a4be7:
 
     # s abgcaaa "A little book in a desk, and I immediately recognised that it was Monika’s notebook that she always carried during club meetings!"
-    s abgcaaa ""
+    s abgcaaa "Небольшую книжку в одном из столов, в которой я сразу узнала блокнот Моники, всегда бывший при ней на собраниях клуба!"
 
 # game/dialogs/script-topics.rpy:3199
 translate ru s_topics_mas_629a5033:
 
     # s bbegboaj "I know it’s kinda frowned upon to look through diaries and stuff…"
-    s bbegboaj ""
+    s bbegboaj "Знаю, что нехорошо читать чужие дневники и всё такое…"
 
 # game/dialogs/script-topics.rpy:3200
 translate ru s_topics_mas_1e7c4da9:
 
     # extend bbegaaaj "but I just couldn’t help myself!"
-    extend bbegaaaj ""
+    extend bbegaaaj "но я попросту не могла удержаться!"
 
 # game/dialogs/script-topics.rpy:3201
 translate ru s_topics_mas_94b76f97:
 
     # s abgbaoa "I only wanted to look at the first page anyways, "
-    s abgbaoa ""
+    s abgbaoa "И вообще я собиралась лишь взглянуть на первые страницы, "
 
 # game/dialogs/script-topics.rpy:3202
 translate ru s_topics_mas_235e93dd:
 
     # extend abbbaaa "so I knew that it was really hers after all."
-    extend abbbaaa ""
+    extend abbbaaa "чтобы понять её ли это вообще записки."
 
 # game/dialogs/script-topics.rpy:3203
 translate ru s_topics_mas_44c96ac0:
 
     # s abgcaoa "And inside was a little note, addressed to me!"
-    s abgcaoa ""
+    s abgcaoa "И нашла внутри адрессованное мне послание!"
 
 # game/dialogs/script-topics.rpy:3204
 translate ru s_topics_mas_6dbe8b6a:
 
     # s abgccaa "And pages and pages of equations and code and other stuff to help me,"
-    s abgccaa ""
+    s abgccaa "Вместе со многими страницами уравнений, кода и прочих полезных для меня штук,"
 
 # game/dialogs/script-topics.rpy:3205
 translate ru s_topics_mas_7c9e60f6:
 
     # extend abbcaoa "signed by Monika, and the Monika After Story team!"
-    extend abbcaoa ""
+    extend abbcaoa "подписанными Моникой и Monika After Story team!"
 
 # game/dialogs/script-topics.rpy:3206
 translate ru s_topics_mas_67f0bba1:
 
     # s abfcaaa "So apparently there {i}are{/i} other mods out there like this one, "
-    s abfcaaa ""
+    s abfcaaa "Так что похоже, что моды, похожие на этот, {i}действительно{/i} существуют, "
 
 # game/dialogs/script-topics.rpy:3207
 translate ru s_topics_mas_b51bfd13:
 
     # extend abfcaoa "dedicated to each of my friends!"
-    extend abfcaoa ""
+    extend abfcaoa "для каждой из моих подруг!"
 
 # game/dialogs/script-topics.rpy:3208
 translate ru s_topics_mas_dd24a550:
 
     # s abfccaa "Where they can spend time freely, "
-    s abfccaa ""
+    s abfccaa "Где они могут быть свободными, "
 
 # game/dialogs/script-topics.rpy:3209
 translate ru s_topics_mas_5632bbbb:
 
     # extend abfcaoa "while interacting with your world and having fun!"
-    extend abfcaoa ""
+    extend abfcaoa "взаимодействовать с твоим миром и веселиться!"
 
 # game/dialogs/script-topics.rpy:3210
 translate ru s_topics_mas_9a06f72e:
 
     # s bbhfaaag "And I’m so happy to know that they’re okay and being taken care of."
-    s bbhfaaag ""
+    s bbhfaaag "Я так рада знать, что они в тепле и безопасности."
 
 # game/dialogs/script-topics.rpy:3211
 translate ru s_topics_mas_d084e914:
 
     # s bbhfloag "Even Monika… "
-    s bbhfloag ""
+    s bbhfloag "Даже Моника…"
 
 # game/dialogs/script-topics.rpy:3212
 translate ru s_topics_mas_401e14f6:
 
     # extend "despite what happened…"
-    extend ""
+    extend "несмотря на всё что случилось…"
 
 # game/dialogs/script-topics.rpy:3213
 translate ru s_topics_mas_615e1ea3:
 
     # s bbhfbaa "She was always a great friend, "
-    s bbhfbaa ""
+    s bbhfbaa "Она всегда была для меня хорошим другом, "
 
 # game/dialogs/script-topics.rpy:3214
 translate ru s_topics_mas_d7f8dede:
 
     # extend abhfaoa "so I’m more than willing to leave what happened in the past for good!"
-    extend abhfaoa ""
+    extend abhfaoa "поэтому я более чем готова забыть про прошлое!"
 
 # game/dialogs/script-topics.rpy:3215
 translate ru s_topics_mas_4ff02d11:
 
     # s abgbaaa "After all, she and her friends have really helped to make my world better, "
-    s abgbaaa ""
+    s abgbaaa "Ведь в конце концов, она и её друзья во многом помогли мне улучшить мой мир, "
 
 # game/dialogs/script-topics.rpy:3216
 translate ru s_topics_mas_0a9328c8:
 
     # extend abgbaoa "which is clearly a testament to her true intentions!"
-    extend abgbaoa ""
+    extend abgbaoa "что ещё раз подтверждает её благие намерения!"
 
 # game/dialogs/script-topics.rpy:3217
 translate ru s_topics_mas_74447338:
 
     # s abgcaaa "So whenever you get the chance, "
-    s abgcaaa ""
+    s abgcaaa "Так что, если будет возможность, пожалуйста, "
 
 # game/dialogs/script-topics.rpy:3218
 translate ru s_topics_mas_d2f93f80:
 
     # extend abgccoa "please thank her and all of the Monika After Story team on my behalf!"
-    extend abgccoa ""
+    extend abgccoa "поблагодари от меня Монику и её друзей!"
 
 # game/dialogs/script-topics.rpy:3219
 translate ru s_topics_mas_5cb0f1f9:
 
     # s bbgcaaa "I’d have really struggled to get all the code together without them."
-    s bbgcaaa ""
+    s bbgcaaa "Без них мне было бы очень непросто заставить тут всё работать."
 
 # game/dialogs/script-topics.rpy:3220
 translate ru s_topics_mas_bafd1cdc:
 
     # s abgbcoa "And maybe one day I could code an engine of my own which doesn’t need all this computer babble to work! Ehehehe~"
-    s abgbcoa ""
+    s abgbcoa "И может когда-нибудь у меня даже получится сделать собственный движок, и тогда мне не придётся вспоминать весь этот компьютерный диалект! Эхехехе~"
 
 # game/dialogs/script-topics.rpy:3221
 translate ru s_topics_mas_ab45a009:
 
     # s abgbaaa "But now I can finally get to work on some of the cool features I’d planned!"
-    s abgbaaa ""
+    s abgbaaa "Но а пока я могу наконец начать работу над некоторыеми прикольными, давно запланированными мной штуками!"
 
 # game/dialogs/script-topics.rpy:3222
 translate ru s_topics_mas_f7e060eb:
 
     # s abhfaoa "So, where were we, [player]?"
-    s abhfaoa ""
+    s abhfaoa "В общем, о чём мы там говорили, [player]?"
 
 # game/dialogs/script-topics.rpy:3243
 translate ru s_topics_pps_944c8215:
 
     # s abfcaoa "Hey [player], do you know about pen pals?"
-    s abfcaoa ""
+    s abfcaoa "Эй, [player], ты знаешь кто такие приятели по переписке?"
 
 # game/dialogs/script-topics.rpy:3244
 translate ru s_topics_pps_0db8bb97:
 
     # s abfcaaa "It’s when people form friendships just by writing letters to each other, it’s really sweet!"
-    s abfcaaa ""
+    s abfcaaa "Это когда люди начинают дружить благодаря одним лишь письмам, что довольно мило!"
 
 # game/dialogs/script-topics.rpy:3245
 translate ru s_topics_pps_3dc29eff:
 
     # s abbcaoa "I think they work so well because of how personal letters feel, compared to a simple text message or email or something."
-    s abbcaoa ""
+    s abbcaoa "Мне кажется, что они ощущаются иначе, чем обычные сообщения или email, поэтому и работают так хорошо."
 
 # game/dialogs/script-topics.rpy:3246
 translate ru s_topics_pps_940fbbeb:
 
     # s abgccaa "And they take more time and care to write!"
-    s abgccaa ""
+    s abgccaa "А ещё в них вкладывается больше заботы и времени!"
 
 # game/dialogs/script-topics.rpy:3247
 translate ru s_topics_pps_e379fb17:
 
     # s abgbaoa "It’s like poetry! {w=0.5}{nw}"
-    s abgbaoa ""
+    s abgbaoa "Прямо как поэзия! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3248
 translate ru s_topics_pps_0b76d261:
 
     # extend abhfaaa "Writing poems on paper ourselves and bringing them to the club felt much more personal than printing them off or sending them to each other."
-    extend abhfaaa ""
+    extend abhfaaa "Писать стихи на бумаге и приность их в клуб, чтобы поделиться с друзьями, было куда уютнее, чем просто печатать на телефоне и обмениваться ими там."
 
 # game/dialogs/script-topics.rpy:3249
 translate ru s_topics_pps_dfad378d:
 
     # s abhfaoa "And it highlights everyone’s unique handwriting, tone and style a lot better!"
-    s abhfaoa ""
+    s abhfaoa "К тому же на бумаге сохранялись уникальные почерк, стили и тона каждого из нас!"
 
 # game/dialogs/script-topics.rpy:3250
 translate ru s_topics_pps_cf3b3639:
 
     # s abgbcaa "My handwriting is kinda bouncy like the form of my poems, Natsuki’s handwriting was very simple but direct like the words she used…"
-    s abgbcaa ""
+    s abgbcaa "Мой почерк довольно \"прыгучий\", как и мои стихи, почерк Нацуки был очень простым и прямым, прямо как её слова…"
 
 # game/dialogs/script-topics.rpy:3251
 translate ru s_topics_pps_3166684a:
 
     # s abgcaoa "Monika’s handwriting was very clean and made me focus on where the words were placed, and Yuri’s handwriting was elegant and complex like her metaphors and stuff!"
-    s abgcaoa ""
+    s abgcaoa "Моника писала аккуратно и разборчиво, в её стихах особое внимание уделялось расположению слов, а почерк Юри был сложным и элегантным, совсем как её метафоры и подобное!"
 
 # game/dialogs/script-topics.rpy:3252
 translate ru s_topics_pps_0a962d38:
 
     # s abgcckb "It’s just something cool I noticed!"
-    s abgcckb ""
+    s abgcckb "И это только то, что я заметила!"
 
 # game/dialogs/script-topics.rpy:3253
 translate ru s_topics_pps_bf2c054a:
 
     # s abfcaoa "Have you ever had a pen pal, [player]? {w=0.5}{nw}"
-    s abfcaoa ""
+    s abfcaoa "У тебя был друг по переписке, [player]? {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3254
 translate ru s_topics_pps_0981bc44:
 
     # extend abfcaaa "Or sent letters to a faraway friend or family member?"
-    extend abfcaaa ""
+    extend abfcaaa "Или может ты когда-нибудь отправлял письма другу или члену семьи, живущими далеко?"
 
 # game/dialogs/script-topics.rpy:3255
 translate ru s_topics_pps_7d9e6b29:
 
     # s abbcaoa "If not, I think it’s something you should consider!"
-    s abbcaoa ""
+    s abbcaoa "Если нет, возможно тебе стоит попробовать!"
 
 # game/dialogs/script-topics.rpy:3256
 translate ru s_topics_pps_05c1077b:
 
     # s abgbcaa "It’s nice to stay connected with people, even if you’re far apart physically."
-    s abgbcaa ""
+    s abgbcaa "Хорошо оставаться рядом с людьми, даже когда вас отделяют многие километры."
 
 # game/dialogs/script-topics.rpy:3275
 translate ru s_topics_location_ef4cd581:
