@@ -511,283 +511,283 @@ translate ru s_topics_pps_05c1077b:
 translate ru s_topics_location_ef4cd581:
 
     # s abgbaoa "Hey player, I was wondering…"
-    s abgbaoa ""
+    s abgbaoa "Слушай, [player], хотела спросить…"
 
 # game/dialogs/script-topics.rpy:3276
 translate ru s_topics_location_93776191:
 
     # s abgbaaa "What’s it like where you live?"
-    s abgbaaa ""
+    s abgbaaa "Какое оно, место, в котором ты живёшь?"
 
 # game/dialogs/script-topics.rpy:3277
 translate ru s_topics_location_64f896b4:
 
     # s abgcaoa "Like… do you live in a big city, or in the countryside, {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "Типа… это крупный город или деревушка, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3278
 translate ru s_topics_location_4fcbb9ae:
 
     # extend abgdaaa "or by the sea, or maybe somewhere in between?"
-    extend abgdaaa ""
+    extend abgdaaa "или приморье, или может всё сразу?"
 
 # game/dialogs/script-topics.rpy:3279
 translate ru s_topics_location_86c919df:
 
     # s abfccoa "I’ve been thinking about where I’d like to live most, if I had the choice!"
-    s abfccoa ""
+    s abfccoa "Я задумалась о том, где бы я больше всего хотела поселиться, если бы была возможность!"
 
 # game/dialogs/script-topics.rpy:3280
 translate ru s_topics_location_58dbacab:
 
     # s abegbba "Since… well I can’t really remember what it was like where I lived before, {w=0.5}{nw}"
-    s abegbba ""
+    s abegbba "Ведь я… ну, я не особо помню место в котором жила до этого, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3281
 translate ru s_topics_location_01962706:
 
     # extend abegaca "besides a few pictures and ideas…"
-    extend abegaca ""
+    extend abegaca "за исключением пары идей и картинок…"
 
 # game/dialogs/script-topics.rpy:3282
 translate ru s_topics_location_bffac00b:
 
     # s abfdaba "It was pretty suburban but I can’t recall experiencing much day-to day life there…"
-    s abfdaba ""
+    s abfdaba "Я помню, что там было что-то вроде пригорода, но не могу вспомнить ничего о его повседневной жизни…"
 
 # game/dialogs/script-topics.rpy:3283
 translate ru s_topics_location_6f7bad2c:
 
     # s abbdaoa "But I suppose that gives me more room to use my imagination! {w=0.5}{nw}"
-    s abbdaoa ""
+    s abbdaoa "Но полагаю, что это лишь даёт мне пространства для воображения! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3284
 translate ru s_topics_location_7537962d:
 
     # extend abgccaa "Ehehehe~"
-    extend abgccaa ""
+    extend abgccaa "Эхехехе~"
 
 # game/dialogs/script-topics.rpy:3285
 translate ru s_topics_location_48549257:
 
     # s abgbaoa "Living in a big city could be cool! {w=0.5}{nw}"
-    s abgbaoa ""
+    s abgbaoa "Жить в большом городе должно быть классно! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3286
 translate ru s_topics_location_d6e48bf2:
 
     # extend abgccaa "They look so lively and energetic, and have lots to experience!"
-    extend abgccaa ""
+    extend abgccaa "В нём бурлят жизнь и энергия, там можно увидеть кучу нового!"
 
 # game/dialogs/script-topics.rpy:3287
 translate ru s_topics_location_d1ed30e5:
 
     # s abegbma "...and enough restaurants to feed a hungry Sayori! {w=0.5}{nw}"
-    s abegbma ""
+    s abegbma "...а ещё в городе достаточно кафешек, чтобы накормить троглодита Сайори! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3288
 translate ru s_topics_location_b9eadb8a:
 
     # extend abegcaa "Ehehehe~"
-    extend abegcaa ""
+    extend abegcaa "Эхехехе~"
 
 # game/dialogs/script-topics.rpy:3289
 translate ru s_topics_location_b486c9dc:
 
     # s abfcaoa "But I’d also enjoy living in the countryside too! {w=0.5}{nw}"
-    s abfcaoa ""
+    s abfcaoa "Но и в сельской местности мне бы тоже понравилось! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3290
 translate ru s_topics_location_076c2ca4:
 
     # extend abgccaa "I’d love to meet all the animals and go exploring in the forests and fields!"
-    extend abgccaa ""
+    extend abgccaa "Я бы с удовольствием перезнакомилась со всеми животными, а потом пошла бы исследовать леса и поля!"
 
 # game/dialogs/script-topics.rpy:3291
 translate ru s_topics_location_e6ec17ec:
 
     # s abgcegb "Uwaaaa It’s so hard to choose!"
-    s abgcegb ""
+    s abgcegb "Вааааа, так трудно выбрать!"
 
 # game/dialogs/script-topics.rpy:3292
 translate ru s_topics_location_d1137732:
 
     # s abgbcoa "Ehehehe, anyways! "
-    s abgbcoa ""
+    s abgbcoa "Эхехехе, ладненько! "
 
 # game/dialogs/script-topics.rpy:3293
 translate ru s_topics_location_a9a83a75:
 
     # s abhfaaa "No matter where I’d live, I’d always try to make the most of it!"
-    s abhfaaa ""
+    s abhfaaa "Где бы я не жила, я б попыталась получить от этого максимум!"
 
 # game/dialogs/script-topics.rpy:3294
 translate ru s_topics_location_f324d8a5:
 
     # s abhfaoa "And I’d travel too, to experience a little bit of everything!"
-    s abhfaoa ""
+    s abhfaoa "Ещё я бы стала путешествовать, чтобы попробовать как можно больше всякого!"
 
 # game/dialogs/script-topics.rpy:3295
 translate ru s_topics_location_f09e76c1:
 
     # s abgbaaa "What do you think, [player]?"
-    s abgbaaa ""
+    s abgbaaa "Хотелось бы тебе поездить по миру, [player]?"
 
 # game/dialogs/script-topics.rpy:3296
 translate ru s_topics_location_75b13076:
 
     # s abgcaoa "You’ve got a big big world out there to explore, {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "Ты живёшь в огромном и разнообразном мире, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3297
 translate ru s_topics_location_652f1024:
 
     # extend abgccaa "I’m sure you’ll find somewhere with the perfect opportunities for you if you haven’t already!"
-    extend abgccaa ""
+    extend abgccaa "И я уверена, что где-то ты найдёшь место себе по душе, если ещё такого не отыскал!"
 
 # game/dialogs/script-topics.rpy:3317
 translate ru js_music_player_entry_e0ee2eb1:
 
     # s eabbaa "Welcome to the music player, [player]!"
-    s eabbaa ""
+    s eabbaa "Добро пожаловать в проигрыватель, [player]!"
 
 # game/dialogs/script-topics.rpy:3318
 translate ru js_music_player_entry_1a89a166:
 
     # s ebfbaa "You can use this to listen to all sorts of songs while we spend time together."
-    s ebfbaa ""
+    s ebfbaa "Его можно использовать чтобы включать фоновую музыку для наших разговоров."
 
 # game/dialogs/script-topics.rpy:3319
 translate ru js_music_player_entry_0d7abe7e:
 
     # s ebfdac "It makes everything feel extra special, you know?"
-    s ebfdac ""
+    s ebfdac "Она делает их немного особеннее, не так ли?"
 
 # game/dialogs/script-topics.rpy:3320
 translate ru js_music_player_entry_09721891:
 
     # s ebfcao "Oh! And the best part is that you can add your very own music for us to listen to!"
-    s ebfcao ""
+    s ebfcao "О! А самое прикольное то, что ты можешь загружать в плеер свою музыку!"
 
 # game/dialogs/script-topics.rpy:3321
 translate ru js_music_player_entry_12640844:
 
     # s ebbbas "It's really easy, I'll show you!"
-    s ebbbas ""
+    s ebbbas "Это легко, давай объясню!"
 
 # game/dialogs/script-topics.rpy:3322
 translate ru js_music_player_entry_fdde2ae9:
 
     # s ebbbao "First, you need to find the 'game' folder in the mod's files."
-    s ebbbao ""
+    s ebbbao "Для начала, найди папку 'game' в файлах мода."
 
 # game/dialogs/script-topics.rpy:3323
 translate ru js_music_player_entry_d1f77693:
 
     # s ebgbao "Inside there, you'll see a folder called 'custom_bgm'."
-    s ebgbao ""
+    s ebgbao "В ней ты увидишь другую папку, названную 'custom_bgm'."
 
 # game/dialogs/script-topics.rpy:3324
 translate ru js_music_player_entry_a8b26380:
 
     # s ebhhao "You can just put your songs right in there."
-    s ebhhao ""
+    s ebhhao "Туда ты можешь загружать свои треки."
 
 # game/dialogs/script-topics.rpy:3325
 translate ru js_music_player_entry_6013fa68:
 
     # s ebhejd "Just make sure they are in the .mp3 format, okay? "
-    s ebhejd ""
+    s ebhejd "Только убедись, что они .mp3 формата, ладно? "
 
 # game/dialogs/script-topics.rpy:3326
 translate ru js_music_player_entry_e27fc00c:
 
     # s ebhhao "That's the one the game likes to read."
-    s ebhhao ""
+    s ebhhao "Его игра переваривает лучше всего."
 
 # game/dialogs/script-topics.rpy:3327
 translate ru js_music_player_entry_81964393:
 
     # s ebgcao "I'm so excited to hear your favorite songs! It'll be like sharing a little piece of your world with me."
-    s ebgcao ""
+    s ebgcao "С удовольствием послушаю с тобой любимую музыку! Я как будто стану немного ближе к твоему миру."
 
 # game/dialogs/script-topics.rpy:3328
 translate ru js_music_player_entry_e3fa2a3f:
 
     # s ebgbdia "Have fun!"
-    s ebgbdia ""
+    s ebgbdia "Веселись!"
 
 # game/dialogs/script-topics.rpy:3329
 translate ru js_music_player_entry_9f52b07e:
 
     # extend abhfaa " Here we go!{fast}"
-    extend abhfaa ""
+    extend abhfaa " Включаю!{fast}"
 
 # game/dialogs/script-topics.rpy:3351
 translate ru js_music_reminder_dc9c8e21:
 
     # s abbbaoa "Of course, [player]!"
-    s abbbaoa ""
+    s abbbaoa "Конечно, [player]!"
 
 # game/dialogs/script-topics.rpy:3352
 translate ru js_music_reminder_99f5183c:
 
     # s abfdaoa "If you want to add your own songs for us to listen to, you just need to create the 'custom_music' folder."
-    s abfdaoa ""
+    s abfdaoa "Если захочешь добавить свою музыку, тебе нужно будет создать папку 'custom_music'."
 
 # game/dialogs/script-topics.rpy:3353
 translate ru js_music_reminder_552298fe:
 
     # s abbbaoa "Inside the 'game' folder!"
-    s abbbaoa ""
+    s abbbaoa "Внутри папки 'game'!"
 
 # game/dialogs/script-topics.rpy:3354
 translate ru js_music_reminder_037ec055:
 
     # s abgbaoa "Just remember to use .ogg, .opus, .wav, .mp2, .mp3 or .flac files."
-    s abgbaoa ""
+    s abgbaoa "Только не забывай использовать .ogg, .opus, .wav, .mp2, .mp3 или .flac форматы."
 
 # game/dialogs/script-topics.rpy:3355
 translate ru js_music_reminder_97d45659:
 
     # s abfddab "I'm always happy to listen to songs that you like!"
-    s abfddab ""
+    s abfddab "Я всегда рада послушать твои любимые треки!"
 
 # game/dialogs/script-topics.rpy:3373
 translate ru s_topic_backgrounds_473a332a:
 
     # s abhaaca "Would you like to go another place where we are right now?"
-    s abhaaca ""
+    s abhaaca "Хочешь пойти в какое-нибудь другое место?"
 
 # game/dialogs/script-topics.rpy:3377
 translate ru s_topic_backgrounds_80a21ea0:
 
     # s abgbcaa "All done? If you want to go another one, just ask me again!"
-    s abgbcaa ""
+    s abgbcaa "Сюда? Если захочешь сходить куда-то ещё, говори!"
 
 # game/dialogs/script-topics.rpy:3379
 translate ru s_topic_backgrounds_473a332a_1:
 
     # s abhaaca "Would you like to go another place where we are right now?"
-    s abhaaca ""
+    s abhaaca "Желаешь сменить обстановочку?"
 
 # game/dialogs/script-topics.rpy:3380
 translate ru s_topic_backgrounds_36d40ef5:
 
     # s abbbaoa "I've prepared a little list for you!"
-    s abbbaoa ""
+    s abbbaoa "Я подготовила тебе список мест!"
 
 # game/dialogs/script-topics.rpy:3381
 translate ru s_topic_backgrounds_64cab37e:
 
     # s abfcaaa "Just pick one option and we'll go to right away!"
-    s abfcaaa ""
+    s abfcaaa "Просто выбери, куда хочешь пойти, и мы сразу туда отправимся!"
 
 # game/dialogs/script-topics.rpy:3385
 translate ru s_topic_backgrounds_80a21ea0_1:
 
     # s abgbcaa "All done? If you want to go another one, just ask me again!"
-    s abgbcaa ""
+    s abgbcaa "Пришли? Если захочешь сходить куда-то ещё, говори!"
 
 # game/dialogs/script-topics.rpy:3404
 translate ru s_answer_opinion_player_ec50825b:
