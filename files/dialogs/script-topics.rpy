@@ -8310,39 +8310,39 @@ translate ru strings:
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip1"
-    new ""
+    new "love_quip1"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip2"
-    new ""
+    new "love_quip2"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip3"
-    new ""
+    new "love_quip"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip4"
-    new ""
+    new "love_quip4"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip5"
-    new ""
+    new "love_quip5"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip6"
-    new ""
+    new "love_quip6"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip7"
-    new ""
+    new "love_quip7"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip8"
-    new ""
+    new "love_quip8"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip9"
-    new ""
+    new "love_quip9"
 
     # game/dialogs/script-topics.rpy:2667
     old "Programming"
