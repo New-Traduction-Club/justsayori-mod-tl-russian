@@ -163,22 +163,22 @@ Inside my head."""
 
     ru_poem_leaf = Poem(
         author_s,
-        title = _("A Leaf"),
+        title = _("Листок"),
         text = _("""\
-I'm a leaf in the wind
-In the wind of my beliefs
-The belief that my life is not vain,
-And that my real fate
-Is to give to the world
-As much as I can give
-As a flying old leaf,
-As an useless former part of a big tree.
-I'm flying with the fast air streams,
-Feeling the strength of the belief wind
-But always falling down slowly
-Due to the hardness of my hopeless existence.
-But once the life wind
-Suddenly stops
+Я листок на ветру
+На ветру моих убеждений
+Убеждений, что живу я не зря,
+И что мне суждено
+Дать миру так много,
+Как я только смогу
+И как старый листок,
+Бесполезная часть огромного древа,
+И хоть лечу по потокам воздушным,
+На сильных, ветреных крыльях.
+Всё равно потихоньку снижаюсь
+Из-за тяжести безнадёжной жизни.
+Но если жизненный ветер
+Вдруг утихнет, даже пусть на минуту
 I now have nothing to prevent my free fall.
 So as I'm getting closer to the lifeless asphalt
 And I kiss it’s rough, dark-gray surface,
