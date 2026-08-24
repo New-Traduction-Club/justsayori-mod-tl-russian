@@ -787,517 +787,517 @@ translate ru s_topic_backgrounds_64cab37e:
 translate ru s_topic_backgrounds_80a21ea0_1:
 
     # s abgbcaa "All done? If you want to go another one, just ask me again!"
-    s abgbcaa "Пришли? Если захочешь сходить куда-то ещё, говори!"
+    s abgbcaa "Пришли. Если захочешь сходить куда-то ещё, говори!"
 
 # game/dialogs/script-topics.rpy:3404
 translate ru s_answer_opinion_player_ec50825b:
 
     # s abhfakbg "What do I think of you? [player], you're my everything."
-    s abhfakbg ""
+    s abhfakbg "Моё о тебе мнение? [player], ты для меня всё"
 
 # game/dialogs/script-topics.rpy:3405
 translate ru s_answer_opinion_player_3c25b259:
 
     # s abgccebf "You're the reason I'm happy, the reason I can smile every day. You saved me in more ways than you can imagine."
-    s abgccebf ""
+    s abgccebf "Ты - источник моего счастья, моя причина улыбаться каждый день. Ты спас во мне куда больше, чем можешь предстваить."
 
 # game/dialogs/script-topics.rpy:3406
 translate ru s_answer_opinion_player_9151c6ca:
 
     # s abhfaobf "I love you more than words can say. You're the most important person in my life."
-    s abhfaobf ""
+    s abhfaobf "Мою к тебе любовь невозможно передать словами. Для меня нет человека важнее."
 
 # game/dialogs/script-topics.rpy:3408
 translate ru s_answer_opinion_player_80871f6e:
 
     # s abhfakbg "You mean so much to me, [player]. I get butterflies in my stomach just thinking about you."
-    s abhfakbg ""
+    s abhfakbg "Ты для меня очень много значишь, [player]. От одной мысли о тебе у меня бабочки в животе."
 
 # game/dialogs/script-topics.rpy:3409
 translate ru s_answer_opinion_player_a6cfc64e:
 
     # s abfdbcbg "Spending time with you is the best part of my day. You always know how to make me feel special."
-    s abfdbcbg ""
+    s abfdbcbg "Лучшее время дня для меня то, что я провела с тобой. Ведь ты знаешь, как заставить меня чувствовать себя ценной."
 
 # game/dialogs/script-topics.rpy:3410
 translate ru s_answer_opinion_player_e1709832:
 
     # s abgdabbg "I feel like I can be my true self around you, and that's a wonderful feeling."
-    s abgdabbg ""
+    s abgdabbg "Рядом с тобой мне не страшно быть настоящей, и это прекрасно."
 
 # game/dialogs/script-topics.rpy:3411
 translate ru s_answer_opinion_player_21089769:
 
     # s abhflabg "I'm so, so happy you're here with me."
-    s abhflabg ""
+    s abhflabg "И я ужасно рада, что ты у меня есть."
 
 # game/dialogs/script-topics.rpy:3413
 translate ru s_answer_opinion_player_22f4c689:
 
     # s abhfaoa "I think you're a really wonderful person, [player]."
-    s abhfaoa ""
+    s abhfaoa "Я думаю что ты замечательный человек, [player]."
 
 # game/dialogs/script-topics.rpy:3414
 translate ru s_answer_opinion_player_943be081:
 
     # s abaaaoa "You're kind, and you're always here for me. It makes me feel really safe and happy."
-    s abaaaoa ""
+    s abaaaoa "Ты добрый и всегда поддержишь. От этого мне тепло и безопасно."
 
 # game/dialogs/script-topics.rpy:3415
 translate ru s_answer_opinion_player_4700d0bf:
 
     # s abgccaa "I really cherish the time we spend together. It's always so much fun!"
-    s abgccaa ""
+    s abgccaa "Время, проведённое с тобой, для меня настоящая радость. Оно всегда такое весёлое!"
 
 # game/dialogs/script-topics.rpy:3417
 translate ru s_answer_opinion_player_32e0a6ea:
 
     # s abhfaoa "I think you're a great person, [player]!"
-    s abhfaoa ""
+    s abhfaoa "По мне так ты классный, [player]!"
 
 # game/dialogs/script-topics.rpy:3418
 translate ru s_answer_opinion_player_04e0920b:
 
     # s abaaaoa "You're really easy to talk to, and you always listen."
-    s abaaaoa ""
+    s abaaaoa "С тобой легко общаться, и ты всегда готов выслушать."
 
 # game/dialogs/script-topics.rpy:3419
 translate ru s_answer_opinion_player_371b59b3:
 
     # s abgccaa "I'm really glad we get to spend so much time together. It makes me happy!"
-    s abgccaa ""
+    s abgccaa "Я очень рада, что мы проводим вместе так много времени. Оно делает меня счастливой!"
 
 # game/dialogs/script-topics.rpy:3421
 translate ru s_answer_opinion_player_b569eae9:
 
     # s abhaaca "You're a really nice person, [player]."
-    s abhaaca ""
+    s abhaaca "Ты милый, [player]."
 
 # game/dialogs/script-topics.rpy:3422
 translate ru s_answer_opinion_player_7a583372:
 
     # s abaaaoa "It's been nice having you around. It's... less lonely."
-    s abaaaoa ""
+    s abaaaoa "Мне хорошо и тепло, когда ты рядом. Менее... одиноко."
 
 # game/dialogs/script-topics.rpy:3423
 translate ru s_answer_opinion_player_9f5745ea:
 
     # s abhfcaa "I hope we can keep it."
-    s abhfcaa ""
+    s abhfcaa "Надеюсь так оно и останется."
 
 # game/dialogs/script-topics.rpy:3440
 translate ru fae_change_outfits_34d2e2e5:
 
     # s "Of course! Let's see what I have."
-    s ""
+    s "Конечно! Давай поглядим, что у меня есть."
 
 # game/dialogs/script-topics.rpy:3442
 translate ru fae_change_outfits_9093a921:
 
     # s "How do I look?"
-    s ""
+    s "Ну как я?"
 
 translate ru strings:
 
     # game/dialogs/script-topics.rpy:84
     old "Look for gifts"
-    new ""
+    new "Найти подарки"
 
     # game/dialogs/script-topics.rpy:84
     old "Gifts"
-    new ""
+    new "Подарки"
 
     # game/dialogs/script-topics.rpy:111
     old "Depression"
-    new ""
+    new "Депрессия"
 
     # game/dialogs/script-topics.rpy:111
     old "Personal"
-    new ""
+    new "Личное"
 
     # game/dialogs/script-topics.rpy:185
     old "Childhood memories"
-    new ""
+    new "Воспоминания о детстве"
 
     # game/dialogs/script-topics.rpy:185
     old "Childhood"
-    new ""
+    new "Детство"
 
     # game/dialogs/script-topics.rpy:216
     old "Guitar"
-    new ""
+    new "Гитара"
 
     # game/dialogs/script-topics.rpy:216
     old "Hobby"
-    new ""
+    new "Увлечения"
 
     # game/dialogs/script-topics.rpy:251
     old "Thoughts on flowers"
-    new ""
+    new "Мнение о цветах"
 
     # game/dialogs/script-topics.rpy:295
     old "Quitting the game."
-    new ""
+    new "Выход из игры."
 
     # game/dialogs/script-topics.rpy:295
     old "Game"
-    new ""
+    new "Игра"
 
     # game/dialogs/script-topics.rpy:337
     old "Personal Intelligence"
-    new ""
+    new "Личностный Интеллект"
 
     # game/dialogs/script-topics.rpy:337
     old "Life"
-    new ""
+    new "О жизни"
 
     # game/dialogs/script-topics.rpy:337
     old "Society"
-    new ""
+    new "Общество"
 
     # game/dialogs/script-topics.rpy:367
     old "Videogames"
-    new ""
+    new "Видеоигры"
 
     # game/dialogs/script-topics.rpy:367
     old "Art"
-    new ""
+    new "Искусство"
 
     # game/dialogs/script-topics.rpy:401
     old "Speaking other languages"
-    new ""
+    new "Иностранные языки"
 
     # game/dialogs/script-topics.rpy:401
     old "Languages"
-    new ""
+    new "Язык"
 
     # game/dialogs/script-topics.rpy:430
     old "What is your favorite colour?"
-    new ""
+    new "Какой твой любимый цвет?"
 
     # game/dialogs/script-topics.rpy:430
     old "Preferences"
-    new ""
+    new "Предпочтения"
 
     # game/dialogs/script-topics.rpy:488
     old "He/Him"
-    new ""
+    new "Он/Его"
 
     # game/dialogs/script-topics.rpy:491
     old "She/Her"
-    new ""
+    new "Она/Её"
 
     # game/dialogs/script-topics.rpy:494
     old "They/Them"
-    new ""
+    new "Они/Их"
 
     # game/dialogs/script-topics.rpy:505
     old "Pronouns"
-    new ""
+    new "Местоимения"
 
     # game/dialogs/script-topics.rpy:539
     old "The ideal date"
-    new ""
+    new "Идеальное свидание"
 
     # game/dialogs/script-topics.rpy:539
     old "Romance"
-    new ""
+    new "Романтика"
 
     # game/dialogs/script-topics.rpy:581
     old "Cinnamon Buns"
-    new ""
+    new "Коричные булочки"
 
     # game/dialogs/script-topics.rpy:581
     old "Food"
-    new ""
+    new "Еда"
 
     # game/dialogs/script-topics.rpy:606
     old "Literature"
-    new ""
+    new "Литература"
 
     # game/dialogs/script-topics.rpy:606
     old "DDLC"
-    new ""
+    new "DDLC"
 
     # game/dialogs/script-topics.rpy:636
     old "Drawing"
-    new ""
+    new "Рисование"
 
     # game/dialogs/script-topics.rpy:667
     old "Bulli-posts"
-    new ""
+    new "Посты-злюки"
 
     # game/dialogs/script-topics.rpy:705
     old "Isolation"
-    new ""
+    new "Изоляция"
 
     # game/dialogs/script-topics.rpy:742
     old "PSAs"
-    new ""
+    new "PSA"
 
     # game/dialogs/script-topics.rpy:779
     old "Pets"
-    new ""
+    new "Питомцы"
 
     # game/dialogs/script-topics.rpy:811
     old "Are you good at cooking?"
-    new ""
+    new "Умеешь готовить?"
 
     # game/dialogs/script-topics.rpy:811
     old "Cooking"
-    new ""
+    new "Готовка"
 
     # game/dialogs/script-topics.rpy:848
     old "What pet would you like to have?"
-    new ""
+    new "Какого питомца ты бы себе хотела?"
 
     # game/dialogs/script-topics.rpy:848
     old "Animals"
-    new ""
+    new "Животные"
 
     # game/dialogs/script-topics.rpy:875
     old "What do you think about cats?"
-    new ""
+    new "Что ты думаешь о котах?"
 
     # game/dialogs/script-topics.rpy:899
     old "Archetypes"
-    new ""
+    new "Архитипы"
 
     # game/dialogs/script-topics.rpy:899
     old "Personality"
-    new ""
+    new "Личность"
 
     # game/dialogs/script-topics.rpy:922
     old "You're definitely a genki, if they're as clumsy as you say."
-    new ""
+    new "Если гэнки такие неряшливые, как ты рассказываешь, то ты определённо одна из них."
 
     # game/dialogs/script-topics.rpy:936
     old "Voice"
-    new ""
+    new "Голос"
 
     # game/dialogs/script-topics.rpy:1001
     old "Charity"
-    new ""
+    new "Благотворительность"
 
     # game/dialogs/script-topics.rpy:1034
     old "Do you like programming?"
-    new ""
+    new "Тебе нравится программирование?"
 
     # game/dialogs/script-topics.rpy:1034
     old "Hobbies"
-    new ""
+    new "Увлечения"
 
     # game/dialogs/script-topics.rpy:1072
     old "Travel"
-    new ""
+    new "Путешествие"
 
     # game/dialogs/script-topics.rpy:1072
     old "You"
-    new ""
+    new "О тебе"
 
     # game/dialogs/script-topics.rpy:1072
     old "Lifestyle"
-    new ""
+    new "Жизненный стиль"
 
     # game/dialogs/script-topics.rpy:1072
     old "Travelling"
-    new ""
+    new "Путешествия по миру"
 
     # game/dialogs/script-topics.rpy:1108
     old "Messiness"
-    new ""
+    new "Беспорядок"
 
     # game/dialogs/script-topics.rpy:1138
     old "Clones"
-    new ""
+    new "Клоны"
 
     # game/dialogs/script-topics.rpy:1195
     old "Stars"
-    new ""
+    new "Звёзды"
 
     # game/dialogs/script-topics.rpy:1220
     old "Stop Visiting"
-    new ""
+    new "Конец наших встреч"
 
     # game/dialogs/script-topics.rpy:1256
     old "No Sayori, that won't happen."
-    new ""
+    new "Нет, Сайори, этого не случится."
 
     # game/dialogs/script-topics.rpy:1262
     old "I promise I'll never leave you"
-    new ""
+    new "Обещаю, что никогда тебя не оставлю"
 
     # game/dialogs/script-topics.rpy:1273
     old "Yes, it will be."
-    new ""
+    new "Да, так оно и будет."
 
     # game/dialogs/script-topics.rpy:1307
     old "Marriage"
-    new ""
+    new "Свадьба"
 
     # game/dialogs/script-topics.rpy:1348
     old "Presents"
-    new ""
+    new "Подарки"
 
     # game/dialogs/script-topics.rpy:1374
     old "Thank you"
-    new ""
+    new "Спасибо"
 
     # game/dialogs/script-topics.rpy:1404
     old "Names"
-    new ""
+    new "Имена"
 
     # game/dialogs/script-topics.rpy:1437
     old "Fanart"
-    new ""
+    new "Фанарты"
 
     # game/dialogs/script-topics.rpy:1461
     old "Touches"
-    new ""
+    new "Прикосновения"
 
     # game/dialogs/script-topics.rpy:1484
     old "Merch"
-    new ""
+    new "Мерч"
 
     # game/dialogs/script-topics.rpy:1508
     old "Oversleeping"
-    new ""
+    new "Излишний сон"
 
     # game/dialogs/script-topics.rpy:1543
     old "Game time"
-    new ""
+    new "Игры"
 
     # game/dialogs/script-topics.rpy:1543
     old "Games"
-    new ""
+    new "Игры"
 
     # game/dialogs/script-topics.rpy:1578
     old "Game worlds"
-    new ""
+    new "Игровые миры"
 
     # game/dialogs/script-topics.rpy:1610
     old "Questions"
-    new ""
+    new "Вопросы"
 
     # game/dialogs/script-topics.rpy:1639
     old "Breakfast"
-    new ""
+    new "Завтрак"
 
     # game/dialogs/script-topics.rpy:1671
     old "Vegetarians"
-    new ""
+    new "Веганы"
 
     # game/dialogs/script-topics.rpy:1698
     old "Pizza"
-    new ""
+    new "Пицца"
 
     # game/dialogs/script-topics.rpy:1729
     old "Ice-cream"
-    new ""
+    new "Мороженное"
 
     # game/dialogs/script-topics.rpy:1756
     old "Technology"
-    new ""
+    new "Технологии"
 
     # game/dialogs/script-topics.rpy:1783
     old "Cupcakes"
-    new ""
+    new "Кексы"
 
     # game/dialogs/script-topics.rpy:1813
     old "When's your birthday?"
-    new ""
+    new "Когда у тебя день рождения?"
 
     # game/dialogs/script-topics.rpy:1840
     old "What kind of music do you like?"
-    new ""
+    new "Какую музыку ты слушаешь?"
 
     # game/dialogs/script-topics.rpy:1866
     old "What do you think about ships?"
-    new ""
+    new "Что ты думаешь о шипах?"
 
     # game/dialogs/script-topics.rpy:1892
     old "What's your favourite holiday?"
-    new ""
+    new "Какой твой любимый праздник?"
 
     # game/dialogs/script-topics.rpy:1916
     old "What are your favourite books?"
-    new ""
+    new "Какие у тебя любимые книги?"
 
     # game/dialogs/script-topics.rpy:1939
     old "What did MC's poems look like to you?"
-    new ""
+    new "Как для тебя выглядели стихи MC?"
 
     # game/dialogs/script-topics.rpy:1962
     old "Do you love me?"
-    new ""
+    new "Ты меня любишь?"
 
     # game/dialogs/script-topics.rpy:1987
     old "Do you believe in god?"
-    new ""
+    new "Ты веришь в бога?"
 
     # game/dialogs/script-topics.rpy:2011
     old "What do you think about politics?"
-    new ""
+    new "Что ты думаешь о политике?"
 
     # game/dialogs/script-topics.rpy:2038
     old "Do you like cookies?"
-    new ""
+    new "Тебе нравятся печеньки?"
 
     # game/dialogs/script-topics.rpy:2084
     old "What do you think about Chibis?"
-    new ""
+    new "Что ты думаешь о чиби?"
 
     # game/dialogs/script-topics.rpy:2127
     old "How do you manipulate the game?"
-    new ""
+    new "Как ты управляешь игрой?"
 
     # game/dialogs/script-topics.rpy:2155
     old "What do you think about the real world?"
-    new ""
+    new "Что ты думаешь о реальном мире?"
 
     # game/dialogs/script-topics.rpy:2184
     old "Can I read a poem?"
-    new ""
+    new "Можно почитать стихи?"
 
     # game/dialogs/script-topics.rpy:2205
     old "What would be your ideal job?"
-    new ""
+    new "Твоя идеальная профессия?"
 
     # game/dialogs/script-topics.rpy:2234
     old "Let's talk about the club members..."
-    new ""
+    new "Давай о членах клуба..."
 
     # game/dialogs/script-topics.rpy:2252
     old "Natsuki"
-    new ""
+    new "Нацуки"
 
     # game/dialogs/script-topics.rpy:2254
     old "Monika"
-    new ""
+    new "Моника"
 
     # game/dialogs/script-topics.rpy:2256
     old "Yuri"
-    new ""
+    new "Юри"
 
     # game/dialogs/script-topics.rpy:2258
     old "The Protagonist"
-    new ""
+    new "Протагонист"
 
     # game/dialogs/script-topics.rpy:2336
     old "Do you miss the club members?"
-    new ""
+    new "Скучаешь по членам клуба?"
 
     # game/dialogs/script-topics.rpy:2393
     old "Bulls and Cows"
-    new ""
+    new "Быки и Коровы"
 
     # game/dialogs/script-topics.rpy:2468
     old "Are you good at programming?"
-    new ""
+    new "Ты хорошо кодишь?"
 
     # game/dialogs/script-topics.rpy:2493
     old "Have you ever played visual novels?"
-    new ""
+    new "Играла в визуальные новеллы?"
 
     # game/dialogs/script-topics.rpy:2583
     old "love_quip1"
@@ -1337,108 +1337,108 @@ translate ru strings:
 
     # game/dialogs/script-topics.rpy:2667
     old "Programming"
-    new ""
+    new "Программирование"
 
     # game/dialogs/script-topics.rpy:2695
     old "Do you still think about MC?"
-    new ""
+    new "Ты всё ещё вспоминаешь MC?"
 
     # game/dialogs/script-topics.rpy:2739
     old "Intrusive thoughts"
-    new ""
+    new "Навязчивые мысли"
 
     # game/dialogs/script-topics.rpy:2760
     old "I have them"
-    new ""
+    new "Они у меня бывают"
 
     # game/dialogs/script-topics.rpy:2788
     old "Zombie Apocalypse"
-    new ""
+    new "Зомби-апокалипсис"
 
     # game/dialogs/script-topics.rpy:2818
     old "Maybe I would"
-    new ""
+    new "Может быть"
 
     # game/dialogs/script-topics.rpy:2822
     old "What? I would never!"
-    new ""
+    new "Чего? Ни за что!"
 
     # game/dialogs/script-topics.rpy:2826
     old "I would probably be used as bait too"
-    new ""
+    new "Меня бы наверное тоже использовали как приманку"
 
     # game/dialogs/script-topics.rpy:2843
     old "Alcohol"
-    new ""
+    new "Алкоголь"
 
     # game/dialogs/script-topics.rpy:2909
     old "Old Sprites"
-    new ""
+    new "Старые Спрайты"
 
     # game/dialogs/script-topics.rpy:2940
     old "Sayori's Memories"
-    new ""
+    new "Воспоминания Сайори"
 
     # game/dialogs/script-topics.rpy:2991
     old "Hemispheres."
-    new ""
+    new "Полушария"
 
     # game/dialogs/script-topics.rpy:3014
     old "Which hemisphere do you live in, [player]?{fast}"
-    new ""
+    new "В каком полушарии ты живёшь, [player]?{fast}"
 
     # game/dialogs/script-topics.rpy:3016
     old "North"
-    new ""
+    new "В Северном"
 
     # game/dialogs/script-topics.rpy:3020
     old "South"
-    new ""
+    new "В Южном"
 
     # game/dialogs/script-topics.rpy:3033
     old "Gifting."
-    new ""
+    new "Подарки"
 
     # game/dialogs/script-topics.rpy:3061
     old "Boba"
-    new ""
+    new "Бабл-ти"
 
     # game/dialogs/script-topics.rpy:3096
     old "Liking flowers"
-    new ""
+    new "О цветах"
 
     # game/dialogs/script-topics.rpy:3166
     old "Monika After Story"
-    new ""
+    new "Monika After Story"
 
     # game/dialogs/script-topics.rpy:3230
     old "Pen Pals"
-    new ""
+    new "Друзья по Переписке"
 
     # game/dialogs/script-topics.rpy:3262
     old "Place of living"
-    new ""
+    new "Место проживания"
 
     # game/dialogs/script-topics.rpy:3337
     old "Can you remind me how to add custom music?"
-    new ""
+    new "Напомнишь, как добавлять свою музыку?"
 
     # game/dialogs/script-topics.rpy:3359
     old "Go to another place"
-    new ""
+    new "Пойти в другое место"
 
     # game/dialogs/script-topics.rpy:3359
     old "Location"
-    new ""
+    new "Локация"
 
     # game/dialogs/script-topics.rpy:3390
     old "What do you think of me?"
-    new ""
+    new "Что ты думаешь обо мне?"
 
     # game/dialogs/script-topics.rpy:3427
     old "Suggest a new outfit"
-    new ""
+    new "Предложить другой наряд"
 
     # game/dialogs/script-topics.rpy:3427
     old "Outfit"
-    new ""
+    new "Одежда"
