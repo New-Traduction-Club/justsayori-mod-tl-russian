@@ -179,12 +179,12 @@ Inside my head."""
 Из-за тяжести безнадёжной жизни.
 Но если жизненный ветер
 Вдруг утихнет, даже пусть на минуту
-I now have nothing to prevent my free fall.
-So as I'm getting closer to the lifeless asphalt
-And I kiss it’s rough, dark-gray surface,
-That is all. It is my end. 
-I will soon rot, not ever making a single flower bloom
-To support its useless existence in this cruel game.
+Жизни вихрь больше мой ничего не удержит.
+И приближусь я к серому, злому асфальту
+Поцелуй его грубый, холодный встречу.
+Вот и всё. Мой конец.
+В сей жестокой игре, совсем скоро сгнию, вдали от цветов
+Жизнь их не подпитав перегноем.
 But what is that? Is it a brand new wind
 That will make my life a moving poem again?
 Yes, it is! It is my salvation!
