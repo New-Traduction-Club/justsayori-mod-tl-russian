@@ -148,7 +148,7 @@ translate ru s_topics_depression_1eb6d423:
 translate ru s_topics_depression_bf273d7a:
 
     # s "What seemed like little rainclouds before turned into a thunderstorm, drowning my head with things I can't even begin to describe."
-    s "Маленькие тучки превратилась в грозовое облако, заливая мой разум вещами, которые мне страшно описывать."
+    s "Маленькие тучки собрались в грозовое облако, заливая мой разум вещами, которые мне страшно описывать."
 
 # game/dialogs/script-topics.rpy:146
 translate ru s_topics_depression_52b97029:
