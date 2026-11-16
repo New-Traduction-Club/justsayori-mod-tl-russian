@@ -1,4 +1,4 @@
-#not completed yet!
+Ш#not completed yet!
 init 1 python:
     ru_long_wait = Poem(
         author_s,
@@ -185,15 +185,17 @@ Inside my head."""
 Вот и всё. Мой конец.
 В сей жестокой игре, совсем скоро сгнию, вдали от цветов
 Жизнь их не подпитав перегноем.
-But what is that? Is it a brand new wind
-That will make my life a moving poem again?
-Yes, it is! It is my salvation!
-I feel it lift me up with ease, 
-helping me win against gravity.
-I'm up again! I'm flying again!
-High and proud as a bird
-Flying somewhere atop tall mountains,
-Like I can be more than just a half-dead leaf."""
+Но что это? Неужели порыв
+Нового, свежего ветра?
+И неужто он жизнь мою вновь сделает живыми стихами?
+Да, я права - это так, это он! Дорогое моё спасение!
+Ветер снова легко ввысь меня поднимает, 
+Гравитацию победить помогая.
+И опять в небеса! И я снова лечу!
+Высоко и гордо, как птица,
+Над высокими и крутыми горами,
+Будто я и взаправду больше
+Чем пожухлый, полумёртвый листик."""
         )
     )
 
