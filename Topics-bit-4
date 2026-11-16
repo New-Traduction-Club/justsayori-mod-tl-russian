@@ -566,7 +566,7 @@ translate ru s_topic_name_3cf23fbb:
 translate ru s_topic_art_495d31a3:
 
     # s abhfaoa "I love seeing the fanart people have made for the game!"
-    s abhfaoa "Мне нравятся фанарты, которые люди риисуют по этой игре!"
+    s abhfaoa "Мне нравятся фанарты, которые люди рисуют по этой игре!"
 
 # game/dialogs/script-topics.rpy:1451
 translate ru s_topic_art_56e85ef9:
@@ -590,7 +590,7 @@ translate ru s_topic_art_5ad1383f:
 translate ru s_topic_art_030d4920:
 
     # s abbbaoa "It's never too late to try something new so long as you have fun."
-    s abbbaoa "Никога не поздно чему-то научиться, если это доставляет тебе удовольствие."
+    s abbbaoa "Никогда не поздно чему-то научиться, если это доставляет тебе удовольствие."
 
 # game/dialogs/script-topics.rpy:1455
 translate ru s_topic_art_45872edd:

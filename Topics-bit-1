@@ -532,7 +532,7 @@ translate ru s_topics_flowers_1b83a973:
 translate ru s_topics_flowers_736224af:
 
     # s abfcboa "It's like they can always see the good side of things, no matter how hard it may be!"
-    s abfcboa "Как-будто подсолнухи всегда ищут в жизни позитив, неважно насколько всё плохо!"
+    s abfcboa "Как будто подсолнухи всегда ищут в жизни позитив, неважно насколько всё плохо!"
 
 # game/dialogs/script-topics.rpy:271
 translate ru s_topics_flowers_1671823d:
@@ -772,7 +772,7 @@ translate ru s_topics_intelligence_ee76d4c9:
 translate ru s_topics_intelligence_9dfbf938:
 
     # s abhaaca "But I can't understand why they think so."
-    s abhaaca "Но честно, я не понимаю почеиу."
+    s abhaaca "Но честно, я не понимаю почему."
 
 # game/dialogs/script-topics.rpy:353
 translate ru s_topics_intelligence_0c2e4e45:
@@ -796,7 +796,7 @@ translate ru s_topics_intelligence_eafec3f2:
 translate ru s_topics_intelligence_002c8479:
 
     # s abhaaca "I think people just have different standards when considering how intelligent somebody is."
-    s abhaaca "Думаю что люди просто по-разному опредяляют для себя, насколько умён кто-то другой."
+    s abhaaca "Думаю что люди просто по-разному определяют для себя, насколько умён кто-то другой."
 
 # game/dialogs/script-topics.rpy:357
 translate ru s_topics_intelligence_4079ed46:
