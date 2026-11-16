@@ -7,7 +7,7 @@ translate ru s_topics_like_flowers_692a1849:
 translate ru s_topics_like_flowers_ac25571f:
 
     # s abgbcaa "I think they’re one of the many beautiful things nature can create!"
-    s abgbcaa "Для меня они - одна из многих прекрасных вещей, созданных природой!"
+    s abgbcaa "Для меня они - одни из многих прекрасных вещей, созданных природой!"
 
 # game/dialogs/script-topics.rpy:3111
 translate ru s_topics_like_flowers_c0875fd2:
@@ -307,7 +307,7 @@ translate ru s_topics_mas_235e93dd:
 translate ru s_topics_mas_44c96ac0:
 
     # s abgcaoa "And inside was a little note, addressed to me!"
-    s abgcaoa "И нашла внутри адрессованное мне послание!"
+    s abgcaoa "И нашла внутри адресованное мне послание!"
 
 # game/dialogs/script-topics.rpy:3204
 translate ru s_topics_mas_6dbe8b6a:
@@ -415,7 +415,7 @@ translate ru s_topics_mas_bafd1cdc:
 translate ru s_topics_mas_ab45a009:
 
     # s abgbaaa "But now I can finally get to work on some of the cool features I’d planned!"
-    s abgbaaa "Но а пока я могу наконец начать работу над некоторыеми прикольными, давно запланированными мной штуками!"
+    s abgbaaa "Но а пока я могу наконец начать работу над некоторыми прикольными, давно запланированными мной штуками!"
 
 # game/dialogs/script-topics.rpy:3222
 translate ru s_topics_mas_f7e060eb:
@@ -457,7 +457,7 @@ translate ru s_topics_pps_e379fb17:
 translate ru s_topics_pps_0b76d261:
 
     # extend abhfaaa "Writing poems on paper ourselves and bringing them to the club felt much more personal than printing them off or sending them to each other."
-    extend abhfaaa "Писать стихи на бумаге и приность их в клуб, чтобы поделиться с друзьями, было куда уютнее, чем просто печатать на телефоне и обмениваться ими там."
+    extend abhfaaa "Писать стихи на бумаге и приносить их в клуб, чтобы поделиться с друзьями, было куда уютнее, чем просто печатать на телефоне и обмениваться ими там."
 
 # game/dialogs/script-topics.rpy:3249
 translate ru s_topics_pps_dfad378d:
@@ -493,7 +493,7 @@ translate ru s_topics_pps_bf2c054a:
 translate ru s_topics_pps_0981bc44:
 
     # extend abfcaaa "Or sent letters to a faraway friend or family member?"
-    extend abfcaaa "Или может ты когда-нибудь отправлял письма другу или члену семьи, живущими далеко?"
+    extend abfcaaa "Или может ты когда-нибудь отправлял письма другу или члену семьи, живущему далеко?" #Вроде так правильно
 
 # game/dialogs/script-topics.rpy:3255
 translate ru s_topics_pps_7d9e6b29:
