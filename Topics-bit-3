@@ -69,7 +69,7 @@ translate ru s_player_cats_3e9e722c:
 translate ru s_player_cats_1570d052:
 
     # s abaaaoa "Still, it's so hard to resist their fluffy little paws and pointy ears... So that must be why people always forgive them for their crimes!"
-    s abaaaoa "Но всё равно будет непросто удержаться перед их пушистыми лапками и остренькими ушами... Из за них, вероятно, люди им так многое прощают!"
+    s abaaaoa "Но всё равно будет непросто удержаться перед их пушистыми лапками и остренькими ушами... Из-за них, вероятно, люди им так многое прощают!"
 
 # game/dialogs/script-topics.rpy:893
 translate ru s_player_cats_12ae52c3:
@@ -333,7 +333,7 @@ translate ru s_topic_lit_8a93a118:
 translate ru s_topic_lit_a9fde919:
 
     # s abhadkb "That said, I liked writing about my feelings when we all shared poems together."
-    s abhadkb "Ну и конечно мне нравилось, как мы делились друг с другом своими чувствами, накладыыая их на стихи."
+    s abhadkb "Ну и конечно мне нравилось, как мы делились друг с другом своими чувствами, накладывая их на стихи."
 
 # game/dialogs/script-topics.rpy:995
 translate ru s_topic_lit_977648ff:
@@ -381,7 +381,7 @@ translate ru s_topic_charity_f811ec7d:
 translate ru s_topic_charity_59daccf8:
 
     # s abbbaaa "But even if you don't have the money to help charity foundations, there's a lot of other organizations out there which help people too!"
-    s abbbaaa "И даже не имея лишних денег, всё равно можно помогать другим, встпупив в ряды волонтёров!"
+    s abbbaaa "И даже не имея лишних денег, всё равно можно помогать другим, вступив в ряды волонтёров!"
 
 # game/dialogs/script-topics.rpy:1021
 translate ru s_topic_charity_5675c8ec:
@@ -861,7 +861,7 @@ translate ru s_topic_clones_4e63faf0:
 translate ru s_topic_clones_7359bfdd:
 
     # s bbhfaaaj "But I guess it's not all bad."
-    s bbhfaaaj "Но не думаю, что всё очень уж плохр."
+    s bbhfaaaj "Но не думаю, что всё очень уж плохо."
 
 # game/dialogs/script-topics.rpy:1177
 translate ru s_topic_clones_ca09108e:

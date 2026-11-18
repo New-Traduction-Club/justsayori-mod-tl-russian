@@ -566,7 +566,7 @@ translate ru s_topic_name_3cf23fbb:
 translate ru s_topic_art_495d31a3:
 
     # s abhfaoa "I love seeing the fanart people have made for the game!"
-    s abhfaoa "Мне нравятся фанарты, которые люди риисуют по этой игре!"
+    s abhfaoa "Мне нравятся фанарты, которые люди рисуют по этой игре!"
 
 # game/dialogs/script-topics.rpy:1451
 translate ru s_topic_art_56e85ef9:
@@ -590,7 +590,7 @@ translate ru s_topic_art_5ad1383f:
 translate ru s_topic_art_030d4920:
 
     # s abbbaoa "It's never too late to try something new so long as you have fun."
-    s abbbaoa "Никога не поздно чему-то научиться, если это доставляет тебе удовольствие."
+    s abbbaoa "Никогда не поздно чему-то научиться, если это доставляет тебе удовольствие."
 
 # game/dialogs/script-topics.rpy:1455
 translate ru s_topic_art_45872edd:
@@ -614,7 +614,7 @@ translate ru s_topic_touches_c4b15248:
 translate ru s_topic_touches_0fe81a19:
 
     # s nbaglra "If only I had the chance to feel your embrace..."
-    s nbaglra "Если бы я только могла оказаться в твоих обьятьях..."
+    s nbaglra "Если бы я только могла оказаться в твоих объятьях..."
 
 # game/dialogs/script-topics.rpy:1477
 translate ru s_topic_touches_4140c743:
@@ -740,7 +740,7 @@ translate ru s_topic_oversleeping_3e64e898:
 translate ru s_topic_oversleeping_22d7b126:
 
     # s nbagaca "Until everyone thinks like that, I guess you can only teach yourself to get up on time..."
-    s nbagaca "Но пока люди не дойдут до этой мысли, нам остаётся лишь учиться вствать пораньше."
+    s nbagaca "Но пока люди не дойдут до этой мысли, нам остаётся лишь учиться вставать пораньше."
 
 # game/dialogs/script-topics.rpy:1535
 translate ru s_topic_oversleeping_34314f1f:
@@ -776,7 +776,7 @@ translate ru s_topic_time_a5115b53:
 translate ru s_topic_time_dac283b5:
 
     # s abhaaca "The last thing I remember is that it was November of 2017."
-    s abhaaca "Последнее, что я помню - ноябрь 2017-ого"
+    s abhaaca "Последнее, что я помню - ноябрь 2017-ого."
 
 # game/dialogs/script-topics.rpy:1562
 translate ru s_topic_time_766afa14:
@@ -884,7 +884,7 @@ translate ru s_topic_worlds_2428a129:
 translate ru s_topic_worlds_304b4659:
 
     # s "And I'd pray for a revive ability..."
-    s "И надеялсь бы на возрождение за рекламу..."
+    s "И надеялась бы на возрождение за рекламу..."
 
 # game/dialogs/script-topics.rpy:1601
 translate ru s_topic_worlds_18f07046:
@@ -902,7 +902,7 @@ translate ru s_topic_worlds_eb4e96b8:
 translate ru s_topic_worlds_060bd4cd:
 
     # s abaaaoa "Even if I wasn't an important character, maybe just a helper or even a simple settler."
-    s abaaaoa "Даже если не самым важным персонажем, может каким-нибудь помошником или просто жителем."
+    s abaaaoa "Даже если не самым важным персонажем, может каким-нибудь помощником или просто жителем."
 
 # game/dialogs/script-topics.rpy:1604
 translate ru s_topic_worlds_fb43f7ad:
@@ -920,7 +920,7 @@ translate ru s_topic_questions_42ccd09c:
 translate ru s_topic_questions_a170e397:
 
     # s "So I added a new section to {i} the 'Talk' menu{/i} with more questions to ask!"
-    s "Поэтому я добавила новый раздел в {i} мнею 'Общения' {/i} с новыми возможными вопросами!"
+    s "Поэтому я добавила новый раздел в {i} меню 'Общения' {/i} с новыми возможными вопросами!"
 
 # game/dialogs/script-topics.rpy:1625
 translate ru s_topic_questions_3a7963df:
@@ -950,7 +950,7 @@ translate ru s_topic_questions_023c49f0:
 translate ru s_topic_questions_30cf0631:
 
     # s abaaaoa "One modder made a few AMAs about each of us and then compiled them into a separate mod, called {i}Doki Doki Interview Club{/i}."
-    s abaaaoa "Один моддер создал несколько СМОВ постов про каждого участника клуба, а потом собрал результаты в отельную игру, {i}Doki Doki Interview Club{/i}"
+    s abaaaoa "Один моддер создал несколько СМОВ постов про каждого участника клуба, а потом собрал результаты в отдельную игру, {i}Doki Doki Interview Club{/i}"
 
 # game/dialogs/script-topics.rpy:1630
 translate ru s_topic_questions_c99f2065:

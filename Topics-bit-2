@@ -14,7 +14,7 @@ translate ru s_player_colours_c7dcb01c:
 translate ru s_player_colours_c42ac04d:
 
     # s abhaloa "The warm yellow of the sun that greeted me every morning."
-    s abhaloa "Жёлтый, которым солнце тепло приветствовует меня по утрам."
+    s abhaloa "Жёлтый, которым солнце тепло приветствует меня по утрам."
 
 # game/dialogs/script-topics.rpy:446
 translate ru s_player_colours_9f9ab90f:
@@ -80,7 +80,7 @@ translate ru s_player_colours_3d38baf0:
 translate ru s_player_colours_a54b3b44:
 
     # extend abgcnoa " and that pretty greenish blue from tropical beaches, too! They're all soooo pretty!"
-    extend abgcnoa " и ещё расслабляюший лазурный, прямо с тропических берегов. Все они ооооочень красивы!"
+    extend abgcnoa " и ещё расслабляющий лазурный, прямо с тропических берегов. Все они ооооочень красивы!"
 
 # game/dialogs/script-topics.rpy:457
 translate ru s_player_colours_cba60818:
@@ -98,7 +98,7 @@ translate ru s_player_colours_e09a4496:
 translate ru s_player_colours_6ffcbf99:
 
     # s gbbbbca "...except for that weird greenish gray mixture. {w=1.0}{nw}"
-    s gbbbbca "...ну кроме того стрёмного серо-зелёнлго месива. {w=1.0}{nw}"
+    s gbbbbca "...ну кроме того стрёмного серо-зелёного месива. {w=1.0}{nw}"
 
 # game/dialogs/script-topics.rpy:461
 translate ru s_player_colours_3a6d27a4:
@@ -386,7 +386,7 @@ translate ru s_topics_poems_9446d0d9:
 translate ru s_topics_poems_42ebd82d:
 
     # extend abfcaaa "Even Natsuki, as much as she tried to deny it."
-    extend abfcaaa "Даже Нацуки, как бы она этого не отрицала."
+    extend abfcaaa "Даже Нацуки, как бы она этого ни отрицала."
 
 # game/dialogs/script-topics.rpy:621
 translate ru s_topics_poems_e6551ba8:
@@ -614,7 +614,7 @@ translate ru s_topics_bulli_659050ba:
 translate ru s_topics_bulli_169c5f06:
 
     # s abbbaca "Some of the most successful comedians in your world will go far beyond that, just to see where the 'line' is..."
-    s abbbaca "Некоторые известные комики из твоего мира заходят куда жальше, пытаясь нащупать этическую 'грань'..."
+    s abbbaca "Некоторые известные комики из твоего мира заходят куда дальше, пытаясь нащупать этическую 'грань'..."
 
 # game/dialogs/script-topics.rpy:695
 translate ru s_topics_bulli_ca8e01a7:
@@ -632,7 +632,7 @@ translate ru s_topics_bulli_8852c369:
 translate ru s_topics_bulli_6308b299:
 
     # s abbbaaa "Anyway, I think the right decision is to forgive them, or tolerate them at the very least."
-    s abbbaaa "Мне кажется лучше всего просто принять тот факт, что они есть, не высказыыая осуждений."
+    s abbbaaa "Мне кажется лучше всего просто принять тот факт, что они есть, не высказывая осуждений."
 
 # game/dialogs/script-topics.rpy:698
 translate ru s_topics_bulli_5f4988c1:
@@ -733,7 +733,7 @@ translate ru s_topics_isolation_5204c7db:
 translate ru s_topics_isolation_5ec9f096:
 
     # s cbfcbca "But the game code is so long and difficult to read, {w=0.5}{nw}"
-    s cbfcbca "Тлько вот код игры настолько длинный и сложный, {w=0.5}{nw}"
+    s cbfcbca "Только вот код игры настолько длинный и сложный, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:732
 translate ru s_topics_isolation_9281219e:
@@ -1027,7 +1027,7 @@ translate ru s_player_cooking_766888e7:
 translate ru s_player_cooking_55b1d5a0:
 
     # s bbgcegaj "That's a lot of steps!!!!"
-    s bbgcegaj "Очень запутано!!!!"
+    s bbgcegaj "Очень запутанно!!!!"
 
 # game/dialogs/script-topics.rpy:838
 translate ru s_player_cooking_30f60f5d:

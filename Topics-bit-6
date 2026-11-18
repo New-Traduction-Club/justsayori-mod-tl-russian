@@ -80,7 +80,7 @@ translate ru s_answer_game_opinion_n_07d97447:
 translate ru s_answer_game_opinion_y_cf5eeb1f:
 
     # s abaaaa "Yuri was the most {i}enigmatic{/i} club member."
-    s abaaaa "Из нас всех, Юри была самой {i}загадочной{/i}"
+    s abaaaa "Из нас всех, Юри была самой {i}загадочной{/i}."
 
 # game/dialogs/script-topics.rpy:2279
 translate ru s_answer_game_opinion_y_2cf8c69f:
@@ -296,7 +296,7 @@ translate ru s_answer_game_opinion_mc_4f7d46f0:
 translate ru s_answer_game_opinion_mc_a403f2bd:
 
     # s bbaaafa "It makes me sad knowing he's just a placeholder that's used to make our communication possible."
-    s bbaaafa "Мне грусто думать о том, что он был всего-лишь пустышкой, нужной чтобы сделать возможным общение с тобой."
+    s bbaaafa "Мне грустно думать о том, что он был всего-лишь пустышкой, нужной чтобы сделать возможным общение с тобой."
 
 # game/dialogs/script-topics.rpy:2328
 translate ru s_answer_game_opinion_mc_a0ac6b31:
@@ -824,7 +824,7 @@ translate ru s_topics_programming_e0b76366:
 translate ru s_topics_programming_0e53409b:
 
     # s abhfaca "But becoming a total expert in programming is so difficult, since it's pretty much a combination of Math and Computer Science."
-    s abhfaca "Но стать идеальным программистом-экспертом очень непросто, так как оно по сути является смесью Математики и Комьютерных Наук."
+    s abhfaca "Но стать идеальным программистом-экспертом очень непросто, так как оно по сути является смесью Математики и Компьютерных Наук."
 
 # game/dialogs/script-topics.rpy:2685
 translate ru s_topics_programming_b065b896:
@@ -956,7 +956,7 @@ translate ru s_answer_think_about_mc_e1554201:
 translate ru s_answer_think_about_mc_e88c2ccf:
 
     # s bbaalca "No. I won't let this bring me down."
-    s bbaalca "Нет. Я не позволю этому меня сломать"
+    s bbaalca "Нет. Я не позволю этому меня сломать."
 
 # game/dialogs/script-topics.rpy:2728
 translate ru s_answer_think_about_mc_c9170687:

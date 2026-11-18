@@ -128,7 +128,7 @@ translate ru s_topic_pizza_0c093a99:
 translate ru s_topic_iceCream_49c4a6a8:
 
     # s abhfaoa "Do you like ice cream, [player]?"
-    s abhfaoa "Любишь мороженное, [player]?"
+    s abhfaoa "Любишь мороженое, [player]?"
 
 # game/dialogs/script-topics.rpy:1743
 translate ru s_topic_iceCream_a80fc0ff:
@@ -260,7 +260,7 @@ translate ru s_topic_cupcakes_aabd9331:
 translate ru s_topic_cupcakes_cec5ef0b:
 
     # s fbbbaoa "I combined all the cookie dough together into..."
-    s fbbbaoa "Я соеденила всё тесто в..."
+    s fbbbaoa "Я соединила всё тесто в..."
 
 # game/dialogs/script-topics.rpy:1802
 translate ru s_topic_cupcakes_dd1af139:
@@ -476,7 +476,7 @@ translate ru s_answer_holidays_192c5a23:
 translate ru s_answer_books_a90e096f:
 
     # s bbegmoaj "I’ve never really been much of a reader, to be honest."
-    s bbegmoaj "Если честно, я никогда не была увлечённым чтецом.."
+    s bbegmoaj "Если честно, я никогда не была увлечённым чтецом."
 
 # game/dialogs/script-topics.rpy:1930
 translate ru s_answer_books_719974fe:
@@ -578,7 +578,7 @@ translate ru s_answer_god_099eab0a:
 translate ru s_answer_god_e96c5e12:
 
     # s abhabaca "But it's kind of hard to stay that way when you realize that you and your entire world have a 'creator'."
-    s abhabaca "Но в то же время, достаточно сложно им оставаться, ведь теперь я знаю, что у моего мира есть 'создатель'"
+    s abhabaca "Но в то же время, достаточно сложно им оставаться, ведь теперь я знаю, что у моего мира есть 'создатель'."
 
 # game/dialogs/script-topics.rpy:2003
 translate ru s_answer_god_52cf6982:
@@ -638,7 +638,7 @@ translate ru s_answer_politics_db591b8b:
 translate ru s_answer_politics_5d0d0a4c:
 
     # s abbbaca "If you've never seen them, you should read some of {i}Martin Niemöller’s{/i} speeches on this idea; it's pretty fascinating stuff. "
-    s abbbaca "Если ты этого не замечал, тебе стоит почитать некоторые высказывания {i}Мартина Нимёллера{/i} на этот счёт; достатоно интересное чтиво."
+    s abbbaca "Если ты этого не замечал, тебе стоит почитать некоторые высказывания {i}Мартина Нимёллера{/i} на этот счёт; достаточно интересное чтиво."
 
 # game/dialogs/script-topics.rpy:2031
 translate ru s_answer_politics_4ebbfabb:
@@ -656,7 +656,7 @@ translate ru s_answer_politics_c062b419:
 translate ru s_answer_cookies_e8ef4025:
 
     # s abhfaoa "I haven't had any cookies since that one time with Natsuki."
-    s abhfaoa "Я не ела печенек наверное аж с той ситуации с Нацуки.."
+    s abhfaoa "Я не ела печенек наверное аж с той ситуации с Нацуки."
 
 # game/dialogs/script-topics.rpy:2052
 translate ru s_answer_cookies_1dbf3dc5:
@@ -668,7 +668,7 @@ translate ru s_answer_cookies_1dbf3dc5:
 translate ru s_answer_cookies_9ce921c7:
 
     # s abhfaoa "Especially the one with chocolate chips!"
-    s abhfaoa "Особенно покрытая шоколодной стружкой!"
+    s abhfaoa "Особенно покрытая шоколадной стружкой!"
 
 # game/dialogs/script-topics.rpy:2054
 translate ru s_answer_cookies_691cf4f7:
@@ -686,7 +686,7 @@ translate ru s_answer_cookies_8de505a8:
 translate ru s_answer_cookies_24d43a39:
 
     # extend abbbaca "but there aren't any left here, I think."
-    extend abbbaca "но к сожалению их здесь нет, по-поему."
+    extend abbbaca "но к сожалению их здесь нет, по-моему."
 
 # game/dialogs/script-topics.rpy:2057
 translate ru s_answer_cookies_978c8ff6:
@@ -938,7 +938,7 @@ translate ru s_answer_profession_c3ecfe09:
 translate ru s_answer_profession_ee549b1e:
 
     # s abbccoa "I could stop arguments on a global scale, and do my part to fix any disagreements!"
-    s abbccoa "Я могла бы прекращать конфликты на глобальном уровне и вносить свой вклад в урегулирование любых несоглашений!"
+    s abbccoa "Я могла бы прекращать конфликты на глобальном уровне и вносить свой вклад в урегулирование любых разногласий!"
 
 # game/dialogs/script-topics.rpy:2225
 translate ru s_answer_profession_c90ad1de:

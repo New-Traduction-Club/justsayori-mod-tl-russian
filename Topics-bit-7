@@ -79,7 +79,7 @@ translate ru s_topics_intrusive_thoughts_87891e71:
 translate ru s_topics_intrusive_thoughts_3cfb7e7f:
 
     # s bbbblca "I used to get really awful ones, and it made me think that I was a bad person, and that they were somehow my 'secret desires' or something..."
-    s bbbblca "Иногда возникали настолько отвратительные мысли, что мне начиналось казаться будто я плохой человек, и что эти идеи - мои 'скрытые желания' или вроде того..."
+    s bbbblca "Иногда возникали настолько отвратительные мысли, что мне начинало казаться будто я плохой человек, и что эти идеи - мои 'скрытые желания' или вроде того..."
 
 # game/dialogs/script-topics.rpy:2773
 translate ru s_topics_intrusive_thoughts_555f47b8:
@@ -265,7 +265,7 @@ translate ru s_topics_zombie_apocalypse_502ae9e6:
 translate ru s_topics_zombie_apocalypse_eaef8f27:
 
     # s abbcaoa "Besides, if we're together, we would show the zombies who they're really up against!"
-    s abbcaoa "Тем более, если мы будем держатьсяс тобой вместе, то сможем показать зомби, кто тут главный!"
+    s abbcaoa "Тем более, если мы будем держаться тобой вместе, то сможем показать зомби, кто тут главный!"
 
 # game/dialogs/script-topics.rpy:2832
 translate ru s_topics_zombie_apocalypse_22dd1087:
@@ -391,7 +391,7 @@ translate ru s_topics_alcohol_75c1c462:
 translate ru s_topics_alcohol_34163f49:
 
     # s bbhfara "I think I kind of know how that feels... doing something wrong and not even realizing it."
-    s bbhfara "Я знаю какого это... делать что-то очень нехорошее и не осозновать этого."
+    s bbhfara "Я знаю какого это... делать что-то очень нехорошее и не осознавать этого."
 
 # game/dialogs/script-topics.rpy:2871
 translate ru s_topics_alcohol_cb026a9f:
@@ -415,7 +415,7 @@ translate ru s_topics_alcohol_709cc0f7:
 translate ru s_topics_alcohol_c535dc2d:
 
     # s bbgcaoa "Maybe that was just her way of trying to open up more to us, about herself and her interests, wanting to share it with us even."
-    s bbgcaoa "Может принеся спритное в школу она просто пыталась открыться, рассказать нам о себе, о её интересах, и даже разделить их с нами."
+    s bbgcaoa "Может принеся спиртное в школу она просто пыталась открыться, рассказать нам о себе, о её интересах, и даже разделить их с нами." # Русский перевод диалога про алкоголь, но без водки!!!!!
 
 # game/dialogs/script-topics.rpy:2875
 translate ru s_topics_alcohol_0ab50104:
@@ -589,7 +589,7 @@ translate ru s_topics_alcohol_8a4afd19:
 translate ru s_topics_alcohol_7c44d1e7:
 
     # s abfcaaa "And it’s okay to reach out for for help!"
-    s abfcaaa "И нет ничего плохого в том, чтобы попросить помощь!"
+    s abfcaaa "И нет ничего плохого в том, чтобы попросить помощь!" # Вроде пофиг, а вроде помощИ(ревизор нашёлся бл)
 
 # game/dialogs/script-topics.rpy:2904
 translate ru s_topics_alcohol_877931a7:
@@ -787,7 +787,7 @@ translate ru silence_is_golden_eddc0e45:
 translate ru s_topics_hemispheres_4536a565:
 
     # s abhfaoa "Hey [player], I’ve been doing a little bit of research about your world."
-    s abhfaoa "Слушй, [player], я тут немного погуглила о твоём мире."
+    s abhfaoa "Слушай, [player], я тут немного погуглила о твоём мире."
 
 # game/dialogs/script-topics.rpy:3005
 translate ru s_topics_hemispheres_0bd77bfb:
@@ -805,7 +805,7 @@ translate ru s_topics_hemispheres_5f7b4075:
 translate ru s_topics_hemispheres_66e2cd3d:
 
     # s dbbbaaa "If the Earth was flat, how come the penguins are upside down, huh?"
-    s dbbbaaa "Если бы Земля была плоской, то с чего бы пингвины переварачивались, а?"
+    s dbbbaaa "Если бы Земля была плоской, то с чего бы пингвины переворачивались, а?"
 
 # game/dialogs/script-topics.rpy:3008
 translate ru s_topics_hemispheres_c12bcbe2:
